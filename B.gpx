@@ -5,8 +5,8 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2019-08-19T17:23:43Z</time>
-    <bounds maxlat="51.356302192434669" maxlon="5.242195129394531" minlat="50.615794658660889" minlon="2.57380485534668"/>
+    <time>2020-01-07T21:53:17Z</time>
+    <bounds maxlat="51.356302192434669" maxlon="20.092336116358638" minlat="43.602549992501736" minlon="0.69261996075511"/>
   </metadata>
 
   <wpt lat="51.005487442016602" lon="2.619938850402832">
@@ -235,10 +235,11 @@ M: +32 (0)473 813661
     </extensions>
   </wpt>
 
-  <wpt lat="51.111068576574326" lon="5.021124696359038">
-    <time>2018-01-08T14:18:22Z</time>
+  <wpt lat="51.083760000765324" lon="0.69261996075511">
+    <ele>0</ele>
+    <time>2018-03-23T18:10:44Z</time>
     <name>FUEL1</name>
-    <sym>Gas Station</sym>
+    <sym>Convenience Store</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -248,7 +249,7 @@ M: +32 (0)473 813661
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2018-01-08T14:18:22Z</ctx:CreationTime>
+        <ctx:CreationTime>2018-03-23T18:10:44Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -439,38 +440,34 @@ Lapseheide 40
     </extensions>
   </wpt>
 
-  <wpt lat="50.82046028226614" lon="4.887761911377311">
-    <time>2018-01-08T14:23:30Z</time>
-    <name>FUEL3</name>
-    <cmt>Kumtichstraat 8
-3300, Kumtich, Vlaams Brabant, BEL</cmt>
-    <desc>Kumtichstraat 8
-3300, Kumtich, Vlaams Brabant, BEL</desc>
+  <wpt lat="43.602549992501736" lon="20.092336116358638">
+    <time>2017-07-23T11:31:56Z</time>
+    <name>Fuel3</name>
+    <cmt>Fuel
+Bajina Basta Municipality, Zlatibor District, SRB</cmt>
+    <desc>Fuel
+Bajina Basta Municipality, Zlatibor District, SRB</desc>
     <sym>Gas Station</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
-          <gpxx:StreetAddress>Kumtichstraat 8</gpxx:StreetAddress>
-          <gpxx:City>Kumtich</gpxx:City>
-          <gpxx:State>Vlaams Brabant</gpxx:State>
-          <gpxx:Country>BEL</gpxx:Country>
-          <gpxx:PostalCode>3300</gpxx:PostalCode>
+          <gpxx:City>Bajina Basta Municipality</gpxx:City>
+          <gpxx:State>Zlatibor District</gpxx:State>
+          <gpxx:Country>SRB</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
-          <wptx1:StreetAddress>Kumtichstraat 8</wptx1:StreetAddress>
-          <wptx1:City>Kumtich</wptx1:City>
-          <wptx1:State>Vlaams Brabant</wptx1:State>
-          <wptx1:Country>BEL</wptx1:Country>
-          <wptx1:PostalCode>3300</wptx1:PostalCode>
+          <wptx1:City>Bajina Basta Municipality</wptx1:City>
+          <wptx1:State>Zlatibor District</wptx1:State>
+          <wptx1:Country>SRB</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2018-01-08T14:23:30Z</ctx:CreationTime>
+        <ctx:CreationTime>2017-07-23T11:31:56Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -835,28 +832,10 @@ Chaussée de Ninove 58
     </extensions>
   </wpt>
 
-  <wpt lat="50.959618985652924" lon="2.824111366644502">
-    <time>2018-04-30T08:36:47Z</time>
-    <name>NOT FOR BIG BIKES!!</name>
-    <sym>Pin, Red</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2018-04-30T08:36:47Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-
-  <wpt lat="50.941121717914939" lon="2.860118597745895">
+  <wpt lat="50.941170752048492" lon="2.86039536818862">
     <time>2018-04-30T08:35:55Z</time>
-    <name>NOT FOR BIG BIKES!!!</name>
-    <sym>Pin, Red</sym>
+    <name>NOT FOR BIG BIKES!!!1</name>
+    <sym>Circle with X</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -867,6 +846,24 @@ Chaussée de Ninove 58
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2018-04-30T08:35:55Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.959596689790487" lon="2.823566794395447">
+    <time>2018-04-30T08:36:47Z</time>
+    <name>NOT FOR BIG BIKES!!1</name>
+    <sym>Circle with X</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-04-30T08:36:47Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -1073,7 +1070,7 @@ Truibroek 3
     <name>WATERLOO MEMORIAL</name>
     <cmt>Lion de Waterloo (Memorial)</cmt>
     <desc>Lion de Waterloo (Memorial)</desc>
-    <sym>Pin, Red</sym>
+    <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -1089,7 +1086,7 @@ Truibroek 3
   </wpt>
 
   <trk>
-    <name>TET-BELGIUM-20190819</name>
+    <name>TET-BELGIUM-20200107</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -1448,43 +1445,18 @@ Truibroek 3
       <trkpt lat="51.234440803527832" lon="5.023112297058105"/>
       <trkpt lat="51.234869956970215" lon="5.008993148803711"/>
       <trkpt lat="51.234943382441998" lon="5.008626021444798"/>
-      <trkpt lat="51.234269142150879" lon="5.009636878967285"/>
-      <trkpt lat="51.233539581298828" lon="5.010602474212646"/>
-      <trkpt lat="51.233359454199672" lon="5.010822582989931"/>
-      <trkpt lat="51.23323917388916" lon="5.011289119720459"/>
-      <trkpt lat="51.232595443725586" lon="5.015022754669189"/>
-      <trkpt lat="51.232423782348633" lon="5.015559196472168"/>
-      <trkpt lat="51.232059001922607" lon="5.016181468963623"/>
-      <trkpt lat="51.23100757598877" lon="5.017426013946533"/>
-      <trkpt lat="51.230578422546387" lon="5.017662048339844"/>
-      <trkpt lat="51.230428218841553" lon="5.01774787902832"/>
-      <trkpt lat="51.230299472808838" lon="5.017790794372559"/>
-      <trkpt lat="51.230127811431885" lon="5.01774787902832"/>
-      <trkpt lat="51.229398250579834" lon="5.019443035125732"/>
-      <trkpt lat="51.229312419891357" lon="5.019679069519043"/>
-      <trkpt lat="51.229333877563477" lon="5.019850730895996"/>
-      <trkpt lat="51.229355335235596" lon="5.02000093460083"/>
-      <trkpt lat="51.227467060089111" lon="5.022575855255127"/>
-      <trkpt lat="51.227188110351562" lon="5.022897720336914"/>
-      <trkpt lat="51.227145195007324" lon="5.022983551025391"/>
-      <trkpt lat="51.225900650024414" lon="5.020408630371094"/>
-      <trkpt lat="51.22474193572998" lon="5.018069744110107"/>
-      <trkpt lat="51.223540306091309" lon="5.015645027160645"/>
-      <trkpt lat="51.221716403961182" lon="5.017983913421631"/>
-      <trkpt lat="51.220450401306152" lon="5.015645027160645"/>
-      <trkpt lat="51.219227313995361" lon="5.013391971588135"/>
-      <trkpt lat="51.216974258422852" lon="5.009400844573975"/>
-      <trkpt lat="51.218283176422119" lon="5.005087852478027"/>
-      <trkpt lat="51.219098567962646" lon="5.002427101135254"/>
-      <trkpt lat="51.219227313995361" lon="5.002148151397705"/>
-      <trkpt lat="51.220321655273438" lon="4.998543262481689"/>
-      <trkpt lat="51.220428943634033" lon="4.998178482055664"/>
-      <trkpt lat="51.221673488616943" lon="4.994144439697266"/>
-      <trkpt lat="51.222896575927734" lon="4.990196228027344"/>
-      <trkpt lat="51.223797798156738" lon="4.98704195022583"/>
-      <trkpt lat="51.224162578582764" lon="4.985668659210205"/>
-      <trkpt lat="51.22499942779541" lon="4.98154878616333"/>
-      <trkpt lat="51.225321292877197" lon="4.980239868164062"/>
+      <trkpt lat="51.235241191461682" lon="5.00705324113369"/>
+      <trkpt lat="51.235870001837611" lon="5.006147073581815"/>
+      <trkpt lat="51.234801057726145" lon="5.003126654773951"/>
+      <trkpt lat="51.23467524535954" lon="5.00091165304184"/>
+      <trkpt lat="51.231719786301255" lon="4.993964564055204"/>
+      <trkpt lat="51.23266308568418" lon="4.992526229470968"/>
+      <trkpt lat="51.232034275308251" lon="4.990584477782249"/>
+      <trkpt lat="51.231809640303254" lon="4.988067392259836"/>
+      <trkpt lat="51.229923209175467" lon="4.985118890181184"/>
+      <trkpt lat="51.227138405665755" lon="4.981451136991382"/>
+      <trkpt lat="51.226509595289826" lon="4.980300553143024"/>
+      <trkpt lat="51.226428793743253" lon="4.979660343378782"/>
       <trkpt lat="51.225407123565674" lon="4.98004674911499"/>
       <trkpt lat="51.225235210731626" lon="4.980113888159394"/>
       <trkpt lat="51.225407123565674" lon="4.98004674911499"/>
