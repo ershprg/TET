@@ -5,8 +5,8 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2020-01-07T21:53:17Z</time>
-    <bounds maxlat="51.356302192434669" maxlon="20.092336116358638" minlat="43.602549992501736" minlon="0.69261996075511"/>
+    <time>2020-01-11T07:43:14Z</time>
+    <bounds maxlat="51.356302192434669" maxlon="5.242195129394531" minlat="50.615794658660889" minlon="2.57380485534668"/>
   </metadata>
 
   <wpt lat="51.005487442016602" lon="2.619938850402832">
@@ -235,25 +235,6 @@ M: +32 (0)473 813661
     </extensions>
   </wpt>
 
-  <wpt lat="51.083760000765324" lon="0.69261996075511">
-    <ele>0</ele>
-    <time>2018-03-23T18:10:44Z</time>
-    <name>FUEL1</name>
-    <sym>Convenience Store</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2018-03-23T18:10:44Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-
   <wpt lat="50.747338905930519" lon="3.483858341351151">
     <time>2018-01-09T10:06:26Z</time>
     <name>FUEL10</name>
@@ -436,38 +417,6 @@ Lapseheide 40
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2018-01-10T16:06:27Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-
-  <wpt lat="43.602549992501736" lon="20.092336116358638">
-    <time>2017-07-23T11:31:56Z</time>
-    <name>Fuel3</name>
-    <cmt>Fuel
-Bajina Basta Municipality, Zlatibor District, SRB</cmt>
-    <desc>Fuel
-Bajina Basta Municipality, Zlatibor District, SRB</desc>
-    <sym>Gas Station</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-        <gpxx:Address>
-          <gpxx:City>Bajina Basta Municipality</gpxx:City>
-          <gpxx:State>Zlatibor District</gpxx:State>
-          <gpxx:Country>SRB</gpxx:Country>
-        </gpxx:Address>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-        <wptx1:Address>
-          <wptx1:City>Bajina Basta Municipality</wptx1:City>
-          <wptx1:State>Zlatibor District</wptx1:State>
-          <wptx1:Country>SRB</wptx1:Country>
-        </wptx1:Address>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2017-07-23T11:31:56Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
