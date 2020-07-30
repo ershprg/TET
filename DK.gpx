@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1" creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="BaseCamp 4.6.3" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 
   <metadata>
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2020-07-10T20:28:51Z</time>
+    <time>2020-07-23T19:45:26Z</time>
     <bounds maxlat="56.426098002120852" maxlon="12.894630152732134" minlat="54.654313204810023" minlon="8.480577534064651"/>
   </metadata>
 
@@ -15,13 +15,13 @@
     <sym>Beach</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T15:01:18Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -33,13 +33,13 @@
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:22:16Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -55,7 +55,7 @@ Tønder Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Museum</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Tønder Municipality</gpxx:City>
@@ -63,7 +63,7 @@ Tønder Municipality, Region of Southern Denmark, DNK</desc>
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Tønder Municipality</wptx1:City>
@@ -71,7 +71,7 @@ Tønder Municipality, Region of Southern Denmark, DNK</desc>
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T17:58:51Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -90,13 +90,13 @@ Look for the Vandstand chart (water level).</desc>
     <sym>Shipwreck</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:22:16Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -111,7 +111,7 @@ Look for the Vandstand chart (water level).</desc>
     <sym>Amusement Park</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Gentofte</gpxx:City>
@@ -120,7 +120,7 @@ Look for the Vandstand chart (water level).</desc>
           <gpxx:PostalCode>2930</gpxx:PostalCode>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Gentofte</wptx1:City>
@@ -129,7 +129,7 @@ Look for the Vandstand chart (water level).</desc>
           <wptx1:PostalCode>2930</wptx1:PostalCode>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2017-03-25T11:34:11Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -141,13 +141,13 @@ Look for the Vandstand chart (water level).</desc>
     <sym>Flag, Green</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T17:41:59Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -159,13 +159,13 @@ Look for the Vandstand chart (water level).</desc>
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-04-18T21:05:30Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -182,13 +182,13 @@ Probably the most characteristic sight of the town.</desc>
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:22:16Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -204,7 +204,7 @@ Probably the most characteristic sight of the town.</desc>
     <sym>Ferry</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Stubbekøbing</gpxx:City>
@@ -213,7 +213,7 @@ Probably the most characteristic sight of the town.</desc>
           <gpxx:PostalCode>4850</gpxx:PostalCode>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Stubbekøbing</wptx1:City>
@@ -222,7 +222,7 @@ Probably the most characteristic sight of the town.</desc>
           <wptx1:PostalCode>4850</wptx1:PostalCode>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-08T17:36:13Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -241,7 +241,7 @@ https://www.stenaline.dk/vores-ruter/grenaa-halmstad</desc>
     <sym>Ferry</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Norddjurs Municipality</gpxx:City>
@@ -249,7 +249,7 @@ https://www.stenaline.dk/vores-ruter/grenaa-halmstad</desc>
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Norddjurs Municipality</wptx1:City>
@@ -257,7 +257,7 @@ https://www.stenaline.dk/vores-ruter/grenaa-halmstad</desc>
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T17:40:07Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -272,13 +272,13 @@ https://www.stenaline.dk/vores-ruter/grenaa-halmstad</desc>
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:22:16Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -323,13 +323,13 @@ Frederikshåb Plantation contains a peculiar natural phenomenon, called the Seve
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:22:16Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -343,13 +343,13 @@ Frederikshåb Plantation contains a peculiar natural phenomenon, called the Seve
     <sym>Picnic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T15:25:22Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -361,13 +361,13 @@ Frederikshåb Plantation contains a peculiar natural phenomenon, called the Seve
     <sym>Information</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T15:25:45Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -385,7 +385,7 @@ Vejle Municipality, Region of Southern Denmark, DNK
     <sym>Shopping Center</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Vejle Municipality</gpxx:City>
@@ -394,7 +394,7 @@ Vejle Municipality, Region of Southern Denmark, DNK
         </gpxx:Address>
         <gpxx:PhoneNumber>+45 75871344</gpxx:PhoneNumber>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Vejle Municipality</wptx1:City>
@@ -403,7 +403,7 @@ Vejle Municipality, Region of Southern Denmark, DNK
         </wptx1:Address>
         <wptx1:PhoneNumber>+45 75871344</wptx1:PhoneNumber>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T15:25:20Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -421,7 +421,7 @@ Stengårdsvej 8
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:StreetAddress>Stengårdsvej 8</gpxx:StreetAddress>
@@ -432,7 +432,7 @@ Stengårdsvej 8
         </gpxx:Address>
         <gpxx:PhoneNumber>55 86 36 00</gpxx:PhoneNumber>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:StreetAddress>Stengårdsvej 8</wptx1:StreetAddress>
@@ -443,7 +443,7 @@ Stengårdsvej 8
         </wptx1:Address>
         <wptx1:PhoneNumber>55 86 36 00</wptx1:PhoneNumber>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2017-04-29T18:28:02Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -455,13 +455,13 @@ Stengårdsvej 8
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-05-25T20:43:45Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -484,7 +484,7 @@ In 2019, GIVSKUD ZOO celebrates its 50th anniversary by expanding with Europe’
     <sym>Zoo</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Vejle Municipality</gpxx:City>
@@ -492,7 +492,7 @@ In 2019, GIVSKUD ZOO celebrates its 50th anniversary by expanding with Europe’
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Vejle Municipality</wptx1:City>
@@ -500,7 +500,7 @@ In 2019, GIVSKUD ZOO celebrates its 50th anniversary by expanding with Europe’
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T15:37:18Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -512,13 +512,13 @@ In 2019, GIVSKUD ZOO celebrates its 50th anniversary by expanding with Europe’
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-04-14T19:36:56Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -534,7 +534,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Vejle Municipality</gpxx:City>
@@ -542,7 +542,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Vejle Municipality</wptx1:City>
@@ -550,7 +550,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T18:14:08Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -564,13 +564,13 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Picnic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:45:55Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -584,13 +584,13 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Information</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T15:51:00Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -604,13 +604,13 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Information</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T15:09:11Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -627,7 +627,7 @@ Syddjurs Municipality, Central Denmark Region, DNK</desc>
     <sym>Truck</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Syddjurs Municipality</gpxx:City>
@@ -635,7 +635,7 @@ Syddjurs Municipality, Central Denmark Region, DNK</desc>
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Syddjurs Municipality</wptx1:City>
@@ -643,7 +643,7 @@ Syddjurs Municipality, Central Denmark Region, DNK</desc>
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T16:15:12Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -658,13 +658,13 @@ Syddjurs Municipality, Central Denmark Region, DNK</desc>
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:22:16Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -676,13 +676,13 @@ Syddjurs Municipality, Central Denmark Region, DNK</desc>
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:22:16Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -705,7 +705,7 @@ The Kattegatcenter is a so-called legal, corporate foundation ("selvejende fond"
     <sym>Zoo</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Norddjurs Municipality</gpxx:City>
@@ -713,7 +713,7 @@ The Kattegatcenter is a so-called legal, corporate foundation ("selvejende fond"
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Norddjurs Municipality</wptx1:City>
@@ -721,7 +721,7 @@ The Kattegatcenter is a so-called legal, corporate foundation ("selvejende fond"
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T18:35:39Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -737,7 +737,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Vejle Municipality</gpxx:City>
@@ -745,7 +745,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Vejle Municipality</wptx1:City>
@@ -753,7 +753,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T16:40:35Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -766,13 +766,13 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:22:16Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -786,13 +786,13 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Waypoint</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T17:56:24Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -808,7 +808,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Vejle Municipality</gpxx:City>
@@ -816,7 +816,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Vejle Municipality</wptx1:City>
@@ -824,7 +824,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T16:40:58Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -861,13 +861,13 @@ annually there are approx. 2 million guests on the beach.</desc>
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T15:11:57Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -883,7 +883,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Trail Head</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Vejle Municipality</gpxx:City>
@@ -891,7 +891,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Vejle Municipality</wptx1:City>
@@ -899,7 +899,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T18:11:08Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -911,13 +911,13 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-04-19T07:01:54Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -948,7 +948,7 @@ Hereafter an extensive restoration was launched. The restoration of the mill, wa
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Esbjerg Municipality</gpxx:City>
@@ -956,7 +956,7 @@ Hereafter an extensive restoration was launched. The restoration of the mill, wa
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Esbjerg Municipality</wptx1:City>
@@ -964,7 +964,7 @@ Hereafter an extensive restoration was launched. The restoration of the mill, wa
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T15:09:39Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -980,7 +980,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Park</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Vejle Municipality</gpxx:City>
@@ -988,7 +988,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Vejle Municipality</wptx1:City>
@@ -996,7 +996,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:59:51Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1008,13 +1008,13 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Airport</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:22:16Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1045,13 +1045,13 @@ The landscape is varied, with sea and hills, kettle holes and formidable views.<
     <sym>Trail Head</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:29:34Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1074,13 +1074,13 @@ MC Touring Camp has excellent toilet and bathing facilities, swimming pool, cook
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:22:16Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1096,7 +1096,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Vejle Municipality</gpxx:City>
@@ -1104,7 +1104,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Vejle Municipality</wptx1:City>
@@ -1112,7 +1112,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:46:02Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1126,7 +1126,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Anchor</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:StreetAddress>Havnepladsen 2</gpxx:StreetAddress>
@@ -1137,7 +1137,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
         </gpxx:Address>
         <gpxx:PhoneNumber>27 81 37 12</gpxx:PhoneNumber>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:StreetAddress>Havnepladsen 2</wptx1:StreetAddress>
@@ -1148,7 +1148,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
         </wptx1:Address>
         <wptx1:PhoneNumber>27 81 37 12</wptx1:PhoneNumber>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2018-04-28T13:40:55Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1160,13 +1160,13 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Trail Head</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:22:16Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1180,7 +1180,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Church</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:StreetAddress>Domkirkepladsen</gpxx:StreetAddress>
@@ -1191,7 +1191,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
         </gpxx:Address>
         <gpxx:PhoneNumber>46 31 65 65</gpxx:PhoneNumber>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:StreetAddress>Domkirkepladsen</wptx1:StreetAddress>
@@ -1202,7 +1202,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
         </wptx1:Address>
         <wptx1:PhoneNumber>46 31 65 65</wptx1:PhoneNumber>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-05-01T19:40:28Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1240,13 +1240,13 @@ Scandinavian Wildlife Park has existed since 1994. The park is owned by animal e
     <sym>Zoo</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:22:16Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1262,7 +1262,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Park</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Vejle Municipality</gpxx:City>
@@ -1270,7 +1270,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Vejle Municipality</wptx1:City>
@@ -1278,7 +1278,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:51:33Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1301,13 +1301,13 @@ The 13.000m2 industrial buildings also house meeting and workshop facilities, ex
     <sym>Building</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T17:30:24Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1322,13 +1322,13 @@ The 13.000m2 industrial buildings also house meeting and workshop facilities, ex
     <sym>Summit</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T18:09:22Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1344,7 +1344,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Park</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Vejle Municipality</gpxx:City>
@@ -1352,7 +1352,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Vejle Municipality</wptx1:City>
@@ -1360,7 +1360,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:59:28Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1376,7 +1376,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Vejle Municipality</gpxx:City>
@@ -1384,7 +1384,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Vejle Municipality</wptx1:City>
@@ -1392,7 +1392,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:47:53Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1404,13 +1404,13 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-04-14T19:36:56Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1433,7 +1433,7 @@ There were also sports parties with, among other things, ring riding and handbal
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Vejle Municipality</gpxx:City>
@@ -1441,7 +1441,7 @@ There were also sports parties with, among other things, ring riding and handbal
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Vejle Municipality</wptx1:City>
@@ -1449,7 +1449,7 @@ There were also sports parties with, among other things, ring riding and handbal
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T15:53:56Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1461,13 +1461,13 @@ There were also sports parties with, among other things, ring riding and handbal
     <sym>Beach</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T15:02:01Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1483,7 +1483,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Restroom</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Vejle Municipality</gpxx:City>
@@ -1491,7 +1491,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Vejle Municipality</wptx1:City>
@@ -1499,7 +1499,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:45:48Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1515,7 +1515,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Restroom</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Vejle Municipality</gpxx:City>
@@ -1523,7 +1523,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Vejle Municipality</wptx1:City>
@@ -1531,7 +1531,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:59:10Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1547,7 +1547,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Restroom</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Vejle Municipality</gpxx:City>
@@ -1555,7 +1555,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Vejle Municipality</wptx1:City>
@@ -1563,7 +1563,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:54:31Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1579,7 +1579,7 @@ Skanderborg Municipality, Central Denmark Region, DNK</desc>
     <sym>Restroom</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Skanderborg Municipality</gpxx:City>
@@ -1587,7 +1587,7 @@ Skanderborg Municipality, Central Denmark Region, DNK</desc>
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Skanderborg Municipality</wptx1:City>
@@ -1595,7 +1595,7 @@ Skanderborg Municipality, Central Denmark Region, DNK</desc>
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T15:50:25Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1611,7 +1611,7 @@ Syddjurs Municipality, Central Denmark Region, DNK</desc>
     <sym>Restroom</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Syddjurs Municipality</gpxx:City>
@@ -1619,7 +1619,7 @@ Syddjurs Municipality, Central Denmark Region, DNK</desc>
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Syddjurs Municipality</wptx1:City>
@@ -1627,7 +1627,7 @@ Syddjurs Municipality, Central Denmark Region, DNK</desc>
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T16:14:58Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1643,7 +1643,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Restroom</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Vejle Municipality</gpxx:City>
@@ -1651,7 +1651,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Vejle Municipality</wptx1:City>
@@ -1659,7 +1659,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T16:40:37Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1675,7 +1675,7 @@ Tønder Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Restroom</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Tønder Municipality</gpxx:City>
@@ -1683,7 +1683,7 @@ Tønder Municipality, Region of Southern Denmark, DNK</desc>
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Tønder Municipality</wptx1:City>
@@ -1691,7 +1691,7 @@ Tønder Municipality, Region of Southern Denmark, DNK</desc>
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T16:51:56Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1707,7 +1707,7 @@ Silkeborg Municipality, Central Denmark Region, DNK</desc>
     <sym>Restroom</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Silkeborg Municipality</gpxx:City>
@@ -1715,7 +1715,7 @@ Silkeborg Municipality, Central Denmark Region, DNK</desc>
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Silkeborg Municipality</wptx1:City>
@@ -1723,7 +1723,7 @@ Silkeborg Municipality, Central Denmark Region, DNK</desc>
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T17:27:41Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1735,13 +1735,13 @@ Silkeborg Municipality, Central Denmark Region, DNK</desc>
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T18:17:19Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1755,13 +1755,13 @@ Silkeborg Municipality, Central Denmark Region, DNK</desc>
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T15:49:52Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1773,13 +1773,13 @@ Silkeborg Municipality, Central Denmark Region, DNK</desc>
     <sym>Trail Head</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T18:21:59Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1795,7 +1795,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Parking Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Vejle Municipality</gpxx:City>
@@ -1803,7 +1803,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Vejle Municipality</wptx1:City>
@@ -1811,7 +1811,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:58:23Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1842,7 +1842,7 @@ Both the gravel pit and the view of the nearby Vejle Ådal provide new experienc
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Vejle Municipality</gpxx:City>
@@ -1850,7 +1850,7 @@ Both the gravel pit and the view of the nearby Vejle Ådal provide new experienc
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Vejle Municipality</wptx1:City>
@@ -1858,7 +1858,7 @@ Both the gravel pit and the view of the nearby Vejle Ådal provide new experienc
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T17:51:12Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1877,7 +1877,7 @@ The exhibition "THE MIGRATORY BIRDS' WADDEN SEA" is likewise adapted to the sing
     <sym>Museum</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Esbjerg Municipality</gpxx:City>
@@ -1885,7 +1885,7 @@ The exhibition "THE MIGRATORY BIRDS' WADDEN SEA" is likewise adapted to the sing
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Esbjerg Municipality</wptx1:City>
@@ -1893,7 +1893,7 @@ The exhibition "THE MIGRATORY BIRDS' WADDEN SEA" is likewise adapted to the sing
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T18:02:53Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1907,13 +1907,13 @@ The exhibition "THE MIGRATORY BIRDS' WADDEN SEA" is likewise adapted to the sing
     <sym>Picnic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T17:54:58Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1927,13 +1927,13 @@ The exhibition "THE MIGRATORY BIRDS' WADDEN SEA" is likewise adapted to the sing
     <sym>Picnic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T18:05:22Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1947,13 +1947,13 @@ The exhibition "THE MIGRATORY BIRDS' WADDEN SEA" is likewise adapted to the sing
     <sym>Picnic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T18:07:54Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1967,13 +1967,13 @@ The exhibition "THE MIGRATORY BIRDS' WADDEN SEA" is likewise adapted to the sing
     <sym>Picnic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T18:09:07Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -1987,13 +1987,13 @@ The exhibition "THE MIGRATORY BIRDS' WADDEN SEA" is likewise adapted to the sing
     <sym>Picnic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T18:17:07Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -2007,13 +2007,13 @@ The exhibition "THE MIGRATORY BIRDS' WADDEN SEA" is likewise adapted to the sing
     <sym>Picnic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T18:18:56Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -2027,13 +2027,13 @@ The exhibition "THE MIGRATORY BIRDS' WADDEN SEA" is likewise adapted to the sing
     <sym>Picnic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T18:21:06Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -2056,13 +2056,13 @@ No feeding the deers - although you might see some people do that. It messes up 
     <sym>Big Game</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:22:16Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -2076,13 +2076,13 @@ No feeding the deers - although you might see some people do that. It messes up 
     <sym>Anchor</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:47:01Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -2098,7 +2098,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Museum</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Vejle Municipality</gpxx:City>
@@ -2106,7 +2106,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Vejle Municipality</wptx1:City>
@@ -2114,7 +2114,7 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:59:58Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -2126,13 +2126,13 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:54:20Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -2144,13 +2144,13 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:22:16Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -2169,13 +2169,13 @@ The course runs on an approx. 5 km long stretch of the closed Horsens-Bryrup-Sil
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T16:43:03Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -2187,13 +2187,13 @@ The course runs on an approx. 5 km long stretch of the closed Horsens-Bryrup-Sil
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T15:28:09Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -2205,13 +2205,13 @@ The course runs on an approx. 5 km long stretch of the closed Horsens-Bryrup-Sil
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T15:22:55Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -2226,13 +2226,13 @@ The course runs on an approx. 5 km long stretch of the closed Horsens-Bryrup-Sil
     <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2017-03-25T09:07:35Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -2246,13 +2246,13 @@ The course runs on an approx. 5 km long stretch of the closed Horsens-Bryrup-Sil
     <sym>Information</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:58:03Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -2266,13 +2266,13 @@ The course runs on an approx. 5 km long stretch of the closed Horsens-Bryrup-Sil
     <sym>Drinking Water</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:47:29Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -2286,13 +2286,13 @@ The course runs on an approx. 5 km long stretch of the closed Horsens-Bryrup-Sil
     <sym>Drinking Water</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T15:50:06Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -2323,7 +2323,7 @@ The Zeppelin- and Garrison Museum in Tønder opened for the first time on May 8,
     <sym>Museum</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Address>
           <gpxx:City>Tønder Municipality</gpxx:City>
@@ -2331,7 +2331,7 @@ The Zeppelin- and Garrison Museum in Tønder opened for the first time on May 8,
           <gpxx:Country>DNK</gpxx:Country>
         </gpxx:Address>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Address>
           <wptx1:City>Tønder Municipality</wptx1:City>
@@ -2339,7 +2339,7 @@ The Zeppelin- and Garrison Museum in Tønder opened for the first time on May 8,
           <wptx1:Country>DNK</wptx1:Country>
         </wptx1:Address>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T15:18:13Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
@@ -2351,22 +2351,22 @@ The Zeppelin- and Garrison Museum in Tønder opened for the first time on May 8,
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
-      <gpxx:WaypointExtension>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
       </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
+      <wptx1:WaypointExtension xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
         <ctx:CreationTime>2020-06-04T14:22:16Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
 
   <trk>
-    <name>TET-Denmark-Track1-20200710</name>
+    <name>TET-Denmark-East-20200722</name>
     <extensions>
-      <gpxx:TrackExtension>
+      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
       </gpxx:TrackExtension>
     </extensions>
@@ -6472,9 +6472,9 @@ The Zeppelin- and Garrison Museum in Tønder opened for the first time on May 8,
   </trk>
 
   <trk>
-    <name>TET-Denmark-Track2-20200710</name>
+    <name>TET-Denmark-West-20200722</name>
     <extensions>
-      <gpxx:TrackExtension>
+      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
       </gpxx:TrackExtension>
     </extensions>
@@ -18399,99 +18399,13 @@ The Zeppelin- and Garrison Museum in Tønder opened for the first time on May 8,
       <trkpt lat="55.377085972577333" lon="8.850949024781585">
         <ele>51.792000000000002</ele>
       </trkpt>
-      <trkpt lat="55.377150010317564" lon="8.85160599835217">
+      <trkpt lat="55.377140874043107" lon="8.85172083042562">
         <ele>52.485999999999997</ele>
       </trkpt>
-      <trkpt lat="55.377327036112547" lon="8.851761985570192">
+      <trkpt lat="55.377325024455786" lon="8.851670036092401">
         <ele>52.481999999999999</ele>
       </trkpt>
-      <trkpt lat="55.377555023878813" lon="8.85171202942729">
-        <ele>51.097999999999999</ele>
-      </trkpt>
-      <trkpt lat="55.37765703164041" lon="8.851871034130454">
-        <ele>50.762999999999998</ele>
-      </trkpt>
-      <trkpt lat="55.377836991101503" lon="8.852223996073008">
-        <ele>50.893000000000001</ele>
-      </trkpt>
-      <trkpt lat="55.377977974712849" lon="8.852516021579504">
-        <ele>51.814</ele>
-      </trkpt>
-      <trkpt lat="55.37815198302269" lon="8.852945007383823">
-        <ele>50.765999999999998</ele>
-      </trkpt>
-      <trkpt lat="55.378353986889124" lon="8.853263016790152">
-        <ele>52.835000000000001</ele>
-      </trkpt>
-      <trkpt lat="55.378542998805642" lon="8.8532380387187">
-        <ele>52.494</ele>
-      </trkpt>
-      <trkpt lat="55.378768974915147" lon="8.853142987936735">
-        <ele>50.909999999999997</ele>
-      </trkpt>
-      <trkpt lat="55.379099976271391" lon="8.853008039295673">
-        <ele>49.770000000000003</ele>
-      </trkpt>
-      <trkpt lat="55.379369035363197" lon="8.852941989898682">
-        <ele>50.924999999999997</ele>
-      </trkpt>
-      <trkpt lat="55.379623007029295" lon="8.852836964651942">
-        <ele>50.252000000000002</ele>
-      </trkpt>
-      <trkpt lat="55.379916038364172" lon="8.85274400934577">
-        <ele>51.409999999999997</ele>
-      </trkpt>
-      <trkpt lat="55.380294984206557" lon="8.852585004642606">
-        <ele>52.761000000000003</ele>
-      </trkpt>
-      <trkpt lat="55.380705026909709" lon="8.852406973019242">
-        <ele>51.054000000000002</ele>
-      </trkpt>
-      <trkpt lat="55.381028987467289" lon="8.852289039641619">
-        <ele>52.250999999999998</ele>
-      </trkpt>
-      <trkpt lat="55.381450010463595" lon="8.852139003574848">
-        <ele>52.585000000000001</ele>
-      </trkpt>
-      <trkpt lat="55.381861981004477" lon="8.851963989436626">
-        <ele>52.195</ele>
-      </trkpt>
-      <trkpt lat="55.382288033142686" lon="8.851804984733462">
-        <ele>52.695</ele>
-      </trkpt>
-      <trkpt lat="55.382678965106606" lon="8.851656960323453">
-        <ele>52.872</ele>
-      </trkpt>
-      <trkpt lat="55.38298599421978" lon="8.851537015289068">
-        <ele>54.319000000000003</ele>
-      </trkpt>
-      <trkpt lat="55.383348008617759" lon="8.85139100253582">
-        <ele>53.517000000000003</ele>
-      </trkpt>
-      <trkpt lat="55.383557975292206" lon="8.851308021694422">
-        <ele>51.656999999999996</ele>
-      </trkpt>
-      <trkpt lat="55.3836739808321" lon="8.851242978125811">
-        <ele>49.898000000000003</ele>
-      </trkpt>
-      <trkpt lat="55.383747993037105" lon="8.851227974519134">
-        <ele>48.240000000000002</ele>
-      </trkpt>
-      <trkpt lat="55.383923007175326" lon="8.851180030032992">
-        <ele>46.853000000000002</ele>
-      </trkpt>
-      <trkpt lat="55.384172033518553" lon="8.851066958159208">
-        <ele>46.280999999999999</ele>
-      </trkpt>
-      <trkpt lat="55.38427596911788" lon="8.850957993417978">
-        <ele>46.630000000000003</ele>
-      </trkpt>
-      <trkpt lat="55.384201034903526" lon="8.850493971258402">
-        <ele>45.337000000000003</ele>
-      </trkpt>
-      <trkpt lat="55.384011017158628" lon="8.84978000074625">
-        <ele>43.871000000000002</ele>
-      </trkpt>
+      <trkpt lat="55.383872296661139" lon="8.849191842600703"/>
       <trkpt lat="55.383786968886852" lon="8.848924040794373">
         <ele>43.494999999999997</ele>
       </trkpt>
