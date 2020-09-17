@@ -4,7 +4,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2020-08-30T20:42:49Z</time>
+    <time>2020-09-08T06:02:53Z</time>
     <bounds maxlat="68.663910990580916" maxlon="30.063482997938991" minlat="60.158613799139857" minlon="21.850851690396667"/>
   </metadata>
   <wpt lat="60.996566656976938" lon="24.462400004267693">
@@ -560,7 +560,7 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
     </extensions>
   </wpt>
   <trk>
-    <name>TET-FINLAND-Niekkatunturi-20200829</name>
+    <name>TET-FINLAND-Niekkatunturi-20200907</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -663,7 +663,7 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
     </trkseg>
   </trk>
   <trk>
-    <name>TET-FINLAND-Section 1-20200829</name>
+    <name>TET-FINLAND-Section 1-20200907</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -14044,105 +14044,28 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
       <trkpt lat="63.604521984234452" lon="29.117051968351007">
         <ele>125</ele>
       </trkpt>
-      <trkpt lat="63.605019031092525" lon="29.119223970919847">
+      <trkpt lat="63.612544555217028" lon="29.096361491829157">
         <ele>123.137</ele>
       </trkpt>
-      <trkpt lat="63.605090025812387" lon="29.120674040168524">
+      <trkpt lat="63.617212856188416" lon="29.088251413777471">
         <ele>121.897999999999996</ele>
       </trkpt>
-      <trkpt lat="63.605381967499852" lon="29.121231017634273">
+      <trkpt lat="63.619308834895492" lon="29.083157982677221">
         <ele>121.156999999999996</ele>
       </trkpt>
-      <trkpt lat="63.60612703487277" lon="29.121819008141756">
+      <trkpt lat="63.622636366635561" lon="29.081001067534089"/>
+      <trkpt lat="63.625482525676489" lon="29.076383477076888"/>
+      <trkpt lat="63.627215484157205" lon="29.076188262552023">
         <ele>120.451999999999998</ele>
       </trkpt>
-      <trkpt lat="63.607194973155856" lon="29.122015982866287">
-        <ele>119.510000000000005</ele>
-      </trkpt>
-      <trkpt lat="63.608739003539085" lon="29.123800992965698">
-        <ele>118.146000000000001</ele>
-      </trkpt>
-      <trkpt lat="63.610471040010452" lon="29.123994028195739">
-        <ele>109.926000000000002</ele>
-      </trkpt>
-      <trkpt lat="63.611679961904883" lon="29.123836029320955">
-        <ele>114.960999999999999</ele>
-      </trkpt>
-      <trkpt lat="63.612567018717527" lon="29.124280018731952">
-        <ele>113.350999999999999</ele>
-      </trkpt>
-      <trkpt lat="63.614176008850336" lon="29.126772964373231">
-        <ele>110.200999999999993</ele>
-      </trkpt>
-      <trkpt lat="63.615222992375493" lon="29.127042023465037">
-        <ele>111.817999999999998</ele>
-      </trkpt>
-      <trkpt lat="63.617216963320971" lon="29.129768991842866">
-        <ele>109.629000000000005</ele>
-      </trkpt>
-      <trkpt lat="63.617378985509276" lon="29.131048992276192">
-        <ele>105</ele>
-      </trkpt>
-      <trkpt lat="63.617301033809781" lon="29.133277991786599">
-        <ele>106.715999999999994</ele>
-      </trkpt>
-      <trkpt lat="63.617645027115941" lon="29.136193972080946">
-        <ele>108.224000000000004</ele>
-      </trkpt>
-      <trkpt lat="63.618875993415713" lon="29.13895002566278">
-        <ele>105</ele>
-      </trkpt>
-      <trkpt lat="63.619004990905523" lon="29.139598030596972">
-        <ele>104</ele>
-      </trkpt>
-      <trkpt lat="63.618937013670802" lon="29.140917006880045">
-        <ele>106.370000000000005</ele>
-      </trkpt>
-      <trkpt lat="63.617758015170693" lon="29.145064037293196">
-        <ele>108.016999999999996</ele>
-      </trkpt>
-      <trkpt lat="63.617409998551011" lon="29.147402001544833">
-        <ele>101.352999999999994</ele>
-      </trkpt>
-      <trkpt lat="63.617636980488896" lon="29.150030985474586">
-        <ele>106.097999999999999</ele>
-      </trkpt>
-      <trkpt lat="63.618641970679164" lon="29.154684031382203">
-        <ele>113.031000000000006</ele>
-      </trkpt>
-      <trkpt lat="63.619079003110528" lon="29.152446985244751">
-        <ele>113.554000000000002</ele>
-      </trkpt>
-      <trkpt lat="63.61985701136291" lon="29.150000978261232">
-        <ele>108</ele>
-      </trkpt>
-      <trkpt lat="63.620462017133832" lon="29.148848969489336">
-        <ele>106.337000000000003</ele>
-      </trkpt>
-      <trkpt lat="63.622309975326061" lon="29.147189017385244">
-        <ele>106.804000000000002</ele>
-      </trkpt>
-      <trkpt lat="63.622968038544059" lon="29.146416960284114">
-        <ele>104.912999999999997</ele>
-      </trkpt>
-      <trkpt lat="63.624646011739969" lon="29.141302993521094">
-        <ele>101.498999999999995</ele>
-      </trkpt>
-      <trkpt lat="63.625088995322585" lon="29.140549963340163">
-        <ele>102.006</ele>
-      </trkpt>
-      <trkpt lat="63.625362999737263" lon="29.140376960858703">
-        <ele>102.751999999999995</ele>
-      </trkpt>
-      <trkpt lat="63.62580900080502" lon="29.140380984172225">
-        <ele>102.661000000000001</ele>
-      </trkpt>
-      <trkpt lat="63.629250023514032" lon="29.141414975747466">
-        <ele>101</ele>
-      </trkpt>
-      <trkpt lat="63.636200968176126" lon="29.139341963455081">
-        <ele>105.322999999999993</ele>
-      </trkpt>
+      <trkpt lat="63.627966167405248" lon="29.083051783964038"/>
+      <trkpt lat="63.631146177649498" lon="29.090086296200752"/>
+      <trkpt lat="63.633890831843019" lon="29.097930667921901"/>
+      <trkpt lat="63.635183405131102" lon="29.103993298485875"/>
+      <trkpt lat="63.635727977380157" lon="29.108085259795189"/>
+      <trkpt lat="63.637370998039842" lon="29.111077850684524"/>
+      <trkpt lat="63.637736197561026" lon="29.113840525969863"/>
+      <trkpt lat="63.636154951527715" lon="29.127042526379228"/>
       <trkpt lat="63.636476984247565" lon="29.139787964522839">
         <ele>105.316999999999993</ele>
       </trkpt>
@@ -27490,7 +27413,7 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
     </trkseg>
   </trk>
   <trk>
-    <name>TET-FINLAND-Section 2-20200829</name>
+    <name>TET-FINLAND-Section 2-20200907</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -28010,7 +27933,7 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
     </trkseg>
   </trk>
   <trk>
-    <name>TET-Finland-Turku Extension-2020829</name>
+    <name>TET-Finland-Turku Extension-2020907</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
