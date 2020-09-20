@@ -4,7 +4,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2020-09-08T06:02:53Z</time>
+    <time>2020-09-17T20:57:37Z</time>
     <bounds maxlat="68.663910990580916" maxlon="30.063482997938991" minlat="60.158613799139857" minlon="21.850851690396667"/>
   </metadata>
   <wpt lat="60.996566656976938" lon="24.462400004267693">
@@ -560,7 +560,7 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
     </extensions>
   </wpt>
   <trk>
-    <name>TET-FINLAND-Niekkatunturi-20200907</name>
+    <name>TET-FINLAND-Niekkatunturi-20200917</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -663,7 +663,7 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
     </trkseg>
   </trk>
   <trk>
-    <name>TET-FINLAND-Section 1-20200907</name>
+    <name>TET-FINLAND-Section 1-20200917</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -27413,7 +27413,7 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
     </trkseg>
   </trk>
   <trk>
-    <name>TET-FINLAND-Section 2-20200907</name>
+    <name>TET-FINLAND-Section 2-20200917</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -27933,7 +27933,7 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
     </trkseg>
   </trk>
   <trk>
-    <name>TET-Finland-Turku Extension-2020907</name>
+    <name>TET-Finland-Turku Extension-2020917</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
