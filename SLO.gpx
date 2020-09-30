@@ -1,23 +1,25 @@
 <?xml version="1.0"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1" creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd">
-
   <metadata>
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2020-07-10T16:56:14Z</time>
+    <time>2020-09-29T06:46:04Z</time>
     <bounds maxlat="46.309763481840491" maxlon="15.063339471817017" minlat="45.464303707703948" minlon="13.417117176577449"/>
   </metadata>
-
   <wpt lat="45.502570867538452" lon="15.060399770736694">
     <ele>364.0625</ele>
     <time>2020-07-07T20:55:12Z</time>
     <name>Bs Maxen Predgrad</name>
     <cmt>Bs Maxen Predgrad
+
 PAKA PRI PREDGRADU
+
 Paka Pri Predgradu, Slo, 8342, Slovenija</cmt>
     <desc>Bs Maxen Predgrad
+
 PAKA PRI PREDGRADU
+
 Paka Pri Predgradu, Slo, 8342, Slovenija</desc>
     <sym>Waypoint</sym>
     <type>user</type>
@@ -47,7 +49,6 @@ Paka Pri Predgradu, Slo, 8342, Slovenija</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="46.10918328166008" lon="13.917130222544074">
     <time>2020-06-24T10:17:27Z</time>
     <name>Cave - Neandertal flute</name>
@@ -65,7 +66,6 @@ Paka Pri Predgradu, Slo, 8342, Slovenija</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.578789608553052" lon="14.720976110547781">
     <time>2020-06-24T10:03:03Z</time>
     <name>Cave, rest spot, views</name>
@@ -83,7 +83,6 @@ Paka Pri Predgradu, Slo, 8342, Slovenija</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.505757331848145" lon="15.034811496734619">
     <ele>662.8203125</ele>
     <time>2020-07-07T20:55:30Z</time>
@@ -102,7 +101,6 @@ Paka Pri Predgradu, Slo, 8342, Slovenija</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.689344983547926" lon="13.979042982682586">
     <time>2020-07-01T04:11:51Z</time>
     <name>Enjoy the ride!</name>
@@ -122,7 +120,6 @@ Paka Pri Predgradu, Slo, 8342, Slovenija</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.772890010848641" lon="14.505986999720335">
     <ele>718.950000000000045</ele>
     <time>2020-07-01T04:11:51Z</time>
@@ -143,7 +140,6 @@ Paka Pri Predgradu, Slo, 8342, Slovenija</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.848737014457583" lon="13.954053008928895">
     <time>2020-07-01T04:11:51Z</time>
     <name>Gas station 3</name>
@@ -177,7 +173,6 @@ Paka Pri Predgradu, Slo, 8342, Slovenija</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.886710975319147" lon="13.909960007295012">
     <time>2020-07-01T04:11:51Z</time>
     <name>Gas station 4</name>
@@ -197,7 +192,6 @@ Paka Pri Predgradu, Slo, 8342, Slovenija</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="46.152534987777472" lon="13.741664970293641">
     <time>2020-07-01T04:11:51Z</time>
     <name>Gas Station 5</name>
@@ -233,7 +227,6 @@ Paka Pri Predgradu, Slo, 8342, Slovenija</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.465409029275179" lon="14.855146994814277">
     <ele>226.030000000000001</ele>
     <time>2020-07-01T04:11:51Z</time>
@@ -254,18 +247,23 @@ Paka Pri Predgradu, Slo, 8342, Slovenija</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.490597486495972" lon="15.063339471817017">
     <ele>212.578125</ele>
     <time>2020-07-07T20:54:42Z</time>
     <name>Glamping Kaps</name>
     <cmt>Glamping Hiske Kaps
+
 PRELESJE 12
+
 Prelesje, Slo, 8342, Slovenija
+
 386 1 8943731</cmt>
     <desc>Glamping Hiske Kaps
+
 PRELESJE 12
+
 Prelesje, Slo, 8342, Slovenija
+
 386 1 8943731</desc>
     <sym>Flag, Red</sym>
     <type>user</type>
@@ -297,10 +295,9 @@ Prelesje, Slo, 8342, Slovenija
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.779318008571863" lon="14.036597991362214">
     <time>2020-07-01T04:11:51Z</time>
-    <name>Great view</name>
+    <name>Great view1</name>
     <sym>Flag, Blue</sym>
     <type>user</type>
     <extensions>
@@ -315,18 +312,23 @@ Prelesje, Slo, 8342, Slovenija
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.495275259017944" lon="15.051720142364502">
     <ele>189.33203125</ele>
     <time>2020-07-07T20:33:53Z</time>
     <name>Kamp Konda</name>
     <cmt>Kamp Konda
+
 DOL 6
+
 Dol, Slo, 8342, Slovenija
+
 386 1 8943671</cmt>
     <desc>Kamp Konda
+
 DOL 6
+
 Dol, Slo, 8342, Slovenija
+
 386 1 8943671</desc>
     <sym>Waypoint</sym>
     <type>user</type>
@@ -358,16 +360,19 @@ Dol, Slo, 8342, Slovenija
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.489749908447266" lon="15.059884786605835">
     <ele>190.64453125</ele>
     <time>2020-07-07T20:34:46Z</time>
     <name>Kamp Madronic Prelesje</name>
     <cmt>Kamp Madronic Prelesje
+
 PRELESJE 10
+
 Prelesje, Slo, 8342, Slovenija</cmt>
     <desc>Kamp Madronic Prelesje
+
 PRELESJE 10
+
 Prelesje, Slo, 8342, Slovenija</desc>
     <sym>Waypoint</sym>
     <type>user</type>
@@ -397,18 +402,23 @@ Prelesje, Slo, 8342, Slovenija</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.494610071182251" lon="15.055528879165649">
     <ele>191.6015625</ele>
     <time>2020-07-07T20:34:35Z</time>
     <name>Kamp Muhvic</name>
     <cmt>Kamp Muhvic
+
 DOL 9
+
 Dol, Slo, 8342, Slovenija
+
 386 31 365172</cmt>
     <desc>Kamp Muhvic
+
 DOL 9
+
 Dol, Slo, 8342, Slovenija
+
 386 31 365172</desc>
     <sym>Waypoint</sym>
     <type>user</type>
@@ -440,25 +450,6 @@ Dol, Slo, 8342, Slovenija
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
-  <wpt lat="45.786613784730434" lon="14.515781588852406">
-    <time>2017-07-31T06:30:14Z</time>
-    <name>Lake - great for a swim, resting spot, ask for kamping</name>
-    <sym>Custom 4</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2017-07-31T06:30:14Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-
   <wpt lat="45.786568773910403" lon="14.515756443142891">
     <ele>742</ele>
     <time>2017-08-11T08:07:45Z</time>
@@ -477,28 +468,6 @@ Dol, Slo, 8342, Slovenija
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
-  <wpt lat="45.609194040298462" lon="13.929398059844971">
-    <ele>499</ele>
-    <time>2018-06-28T18:59:27Z</time>
-    <name>Loop to the seaside offers nice trails and views</name>
-    <cmt> 7 in Ulica</cmt>
-    <desc> 7 in Ulica</desc>
-    <sym>Flag, Green</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2018-06-28T18:59:27Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-
   <wpt lat="45.654866695404053" lon="13.952915668487549">
     <ele>470</ele>
     <time>2019-07-10T10:14:05Z</time>
@@ -519,25 +488,6 @@ Dol, Slo, 8342, Slovenija
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
-  <wpt lat="45.874459482729435" lon="13.760766321793199">
-    <time>2017-08-11T22:28:11Z</time>
-    <name>Might be hard to find the right way uphill for 2km,  but route does exist</name>
-    <sym>Flag, Green</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2017-08-11T22:28:11Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-
   <wpt lat="46.204543774947524" lon="13.610505200922489">
     <time>2017-07-31T08:29:48Z</time>
     <name>Nebesa (Heaven) www.nebesa.si/en/</name>
@@ -555,26 +505,6 @@ Dol, Slo, 8342, Slovenija
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
-  <wpt lat="45.786568773910403" lon="14.515756443142891">
-    <ele>742</ele>
-    <time>2017-08-11T08:07:45Z</time>
-    <name>Nice place (food, drink, swim, ask for camping or rooms)</name>
-    <sym>Flag, Green</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2017-08-11T08:07:45Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-
   <wpt lat="45.819527506828308" lon="14.018914103507996">
     <ele>900</ele>
     <time>2017-08-11T08:06:22Z</time>
@@ -595,7 +525,6 @@ Dol, Slo, 8342, Slovenija
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.580648966133595" lon="13.87802897952497">
     <time>2020-07-01T04:11:51Z</time>
     <name>Nice view to the sea</name>
@@ -615,7 +544,6 @@ Dol, Slo, 8342, Slovenija
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.60848300345242" lon="13.869597958400846">
     <time>2020-07-01T04:11:51Z</time>
     <name>Nice view, rest spot</name>
@@ -633,7 +561,6 @@ Dol, Slo, 8342, Slovenija
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.833029998466372" lon="13.970189010724425">
     <time>2020-07-01T04:11:51Z</time>
     <name>Official Camp</name>
@@ -669,7 +596,6 @@ Dol, Slo, 8342, Slovenija
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.589620787650347" lon="13.8609279692173">
     <time>2017-08-11T08:01:36Z</time>
     <name>Old castle, nice view to Trieste, rest spot</name>
@@ -687,7 +613,6 @@ Dol, Slo, 8342, Slovenija
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.669883964583278" lon="14.68546299263835">
     <time>2020-07-01T04:11:51Z</time>
     <name>Rest spot</name>
@@ -707,7 +632,6 @@ Dol, Slo, 8342, Slovenija
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.943131996318698" lon="13.876595003530383">
     <ele>860.019999999999982</ele>
     <time>2020-07-01T04:11:51Z</time>
@@ -726,7 +650,6 @@ Dol, Slo, 8342, Slovenija
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.489864489063621" lon="15.059201326221228">
     <ele>189.7109375</ele>
     <time>2020-07-07T20:34:49Z</time>
@@ -745,25 +668,6 @@ Dol, Slo, 8342, Slovenija
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
-  <wpt lat="45.819316450506449" lon="14.018927095457911">
-    <time>2017-07-31T06:34:14Z</time>
-    <name>Resting spot, food &amp; drink</name>
-    <sym>Custom 4</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2017-07-31T06:34:14Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-
   <wpt lat="45.828750031068921" lon="14.264270011335611">
     <ele>453.26171875</ele>
     <time>2020-07-07T21:09:04Z</time>
@@ -784,33 +688,15 @@ Dol, Slo, 8342, Slovenija
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
-  <wpt lat="45.981803750619292" lon="13.825520630925894">
-    <ele>1105</ele>
-    <time>2018-04-06T20:54:22Z</time>
-    <name>Rooms to sleep (phone - 00386 40 661 240)</name>
-    <sym>Flag, Green</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2018-04-06T20:54:22Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-
   <wpt lat="45.49601923674345" lon="15.052209729328752">
     <ele>189.515625</ele>
     <time>2020-07-07T20:36:09Z</time>
     <name>Spend local, buy cheese</name>
     <cmt>Dol 12
+
 Dol, Slo, Slovenija</cmt>
     <desc>Dol 12
+
 Dol, Slo, Slovenija</desc>
     <sym>Flag, Blue</sym>
     <type>user</type>
@@ -838,7 +724,6 @@ Dol, Slo, Slovenija</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.66605175845325" lon="13.882405841723084">
     <time>2017-08-11T22:30:41Z</time>
     <name>Stop here, if you love horses (www.lipica.org)</name>
@@ -858,7 +743,6 @@ Dol, Slo, Slovenija</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.963374376296997" lon="13.980810642242432">
     <ele>411.59375</ele>
     <time>2020-06-24T10:15:09Z</time>
@@ -877,7 +761,6 @@ Dol, Slo, Slovenija</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.874459482729435" lon="13.760766321793199">
     <time>2017-08-11T22:28:11Z</time>
     <name>Technical bits.</name>
@@ -895,7 +778,6 @@ Dol, Slo, Slovenija</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.498448396101594" lon="15.036800187081099">
     <ele>717.73828125</ele>
     <time>2020-07-07T20:49:57Z</time>
@@ -914,7 +796,6 @@ Dol, Slo, Slovenija</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="45.781967779621482" lon="14.203701624646783">
     <time>2017-08-11T08:32:41Z</time>
     <name>Visit Postojna caves! (google it)</name>
@@ -934,25 +815,6 @@ Dol, Slo, Slovenija</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
-  <wpt lat="45.667432593181729" lon="14.682223470881581">
-    <time>2017-08-11T08:30:20Z</time>
-    <name>Wanna do uphill to here?</name>
-    <sym>Flag, Green</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2017-08-11T08:30:20Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-
   <wpt lat="46.247794982045889" lon="13.57944899238646">
     <time>2020-07-01T04:11:51Z</time>
     <name>World War Museum</name>
@@ -972,7 +834,6 @@ Dol, Slo, Slovenija</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="46.109214965254068" lon="13.917219992727041">
     <time>2020-06-24T10:17:09Z</time>
     <name>Šebrelje Plateau</name>
@@ -990,9 +851,8 @@ Dol, Slo, Slovenija</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <trk>
-    <name>TET- SLOVENIA-20200710</name>
+    <name>TET- SLOVENIA-20200913</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -18077,314 +17937,234 @@ Dol, Slo, Slovenija</desc>
         <ele>587.5</ele>
         <time>2016-09-27T08:35:13Z</time>
       </trkpt>
-      <trkpt lat="45.798119120299816" lon="14.119491409510374">
-        <ele>588.460000000000036</ele>
-        <time>2016-09-27T08:35:08Z</time>
-      </trkpt>
-      <trkpt lat="45.798192713409662" lon="14.118164218962193">
-        <ele>602.879999999999995</ele>
-        <time>2017-07-05T11:48:26Z</time>
-      </trkpt>
-      <trkpt lat="45.798081737011671" lon="14.118495220318437">
-        <ele>598.559999999999945</ele>
-        <time>2017-07-05T11:48:29Z</time>
-      </trkpt>
-      <trkpt lat="45.79812272451818" lon="14.118727231398225">
-        <ele>595.669999999999959</ele>
-        <time>2017-07-05T11:48:31Z</time>
-      </trkpt>
-      <trkpt lat="45.79816572368145" lon="14.118966199457645">
-        <ele>593.269999999999982</ele>
-        <time>2017-07-05T11:48:33Z</time>
-      </trkpt>
-      <trkpt lat="45.798155665397644" lon="14.11920927464962">
-        <ele>591.350000000000023</ele>
-        <time>2017-07-05T11:48:35Z</time>
-      </trkpt>
-      <trkpt lat="45.798095734789968" lon="14.11942720413208">
-        <ele>588.950000000000045</ele>
-        <time>2017-07-05T11:48:37Z</time>
-      </trkpt>
-      <trkpt lat="45.798045694828033" lon="14.11959626711905">
+      <trkpt lat="45.79804846085608" lon="14.119597189128399">
         <ele>582.220000000000027</ele>
         <time>2017-07-05T11:48:45Z</time>
       </trkpt>
-      <trkpt lat="45.798299666494131" lon="14.119456205517054">
-        <ele>582.220000000000027</ele>
-        <time>2017-07-05T11:48:46Z</time>
-      </trkpt>
-      <trkpt lat="45.798480715602636" lon="14.119709255173802">
-        <ele>582.700000000000045</ele>
-        <time>2017-07-05T11:48:53Z</time>
-      </trkpt>
-      <trkpt lat="45.798573670908809" lon="14.119802210479975">
-        <ele>583.17999999999995</ele>
-        <time>2017-07-05T11:48:55Z</time>
-      </trkpt>
-      <trkpt lat="45.798734687268734" lon="14.119933219626546">
-        <ele>583.17999999999995</ele>
-        <time>2017-07-05T11:48:58Z</time>
-      </trkpt>
-      <trkpt lat="45.798906683921814" lon="14.119990216568112">
-        <ele>584.139999999999986</ele>
-        <time>2017-07-05T11:49:01Z</time>
-      </trkpt>
-      <trkpt lat="45.799011709168553" lon="14.120025252923369">
-        <ele>583.659999999999968</ele>
-        <time>2017-07-05T11:49:03Z</time>
-      </trkpt>
-      <trkpt lat="45.799281690269709" lon="14.12002919241786">
-        <ele>586.059999999999945</ele>
-        <time>2017-07-05T11:49:07Z</time>
-      </trkpt>
-      <trkpt lat="45.799638675525784" lon="14.120035227388144">
-        <ele>589.909999999999968</ele>
-        <time>2017-07-05T11:49:11Z</time>
-      </trkpt>
-      <trkpt lat="45.799821736291051" lon="14.120038244873285">
-        <ele>592.309999999999945</ele>
-        <time>2017-07-05T11:49:13Z</time>
-      </trkpt>
-      <trkpt lat="45.799998678267002" lon="14.120040256530046">
-        <ele>594.230000000000018</ele>
-        <time>2017-07-05T11:49:15Z</time>
-      </trkpt>
-      <trkpt lat="45.800424730405211" lon="14.120075209066272">
-        <ele>595.669999999999959</ele>
-        <time>2017-07-05T11:49:20Z</time>
-      </trkpt>
-      <trkpt lat="45.800584740936756" lon="14.120189202949405">
-        <ele>596.149999999999977</ele>
-        <time>2017-07-05T11:49:22Z</time>
-      </trkpt>
-      <trkpt lat="45.801021689549088" lon="14.12049924954772">
-        <ele>597.600000000000023</ele>
-        <time>2017-07-05T11:49:27Z</time>
-      </trkpt>
-      <trkpt lat="45.801309691742063" lon="14.120626235380769">
-        <ele>600</ele>
-        <time>2017-07-05T11:49:31Z</time>
-      </trkpt>
-      <trkpt lat="45.801900699734688" lon="14.120872244238853">
-        <ele>600.960000000000036</ele>
-        <time>2017-07-05T11:49:39Z</time>
-      </trkpt>
-      <trkpt lat="45.802187696099281" lon="14.120991267263889">
-        <ele>601.919999999999959</ele>
-        <time>2017-07-05T11:49:44Z</time>
-      </trkpt>
-      <trkpt lat="45.802970733493567" lon="14.120723214000463">
-        <ele>600.480000000000018</ele>
-        <time>2017-07-05T11:49:52Z</time>
-      </trkpt>
-      <trkpt lat="45.803355714306235" lon="14.120830250903964">
-        <ele>595.669999999999959</ele>
-        <time>2017-07-05T11:49:58Z</time>
-      </trkpt>
-      <trkpt lat="45.803504660725594" lon="14.121090257540345">
-        <ele>591.830000000000041</ele>
-        <time>2017-07-05T11:50:06Z</time>
-      </trkpt>
-      <trkpt lat="45.804104721173644" lon="14.121107272803783">
-        <ele>594.230000000000018</ele>
-        <time>2017-07-05T11:50:17Z</time>
-      </trkpt>
-      <trkpt lat="45.80456874333322" lon="14.120942233130336">
-        <ele>595.190000000000055</ele>
-        <time>2017-07-05T11:50:25Z</time>
-      </trkpt>
-      <trkpt lat="45.804893709719181" lon="14.121363256126642">
-        <ele>596.149999999999977</ele>
-        <time>2017-07-05T11:50:29Z</time>
-      </trkpt>
-      <trkpt lat="45.805245665833354" lon="14.12164019420743">
-        <ele>596.149999999999977</ele>
-        <time>2017-07-05T11:50:34Z</time>
-      </trkpt>
-      <trkpt lat="45.805658726021647" lon="14.121867259964347">
-        <ele>592.789999999999964</ele>
-        <time>2017-07-05T11:50:40Z</time>
-      </trkpt>
-      <trkpt lat="45.805961731821299" lon="14.122293228283525">
-        <ele>588.460000000000036</ele>
-        <time>2017-07-05T11:50:46Z</time>
-      </trkpt>
-      <trkpt lat="45.805992661044002" lon="14.122680220752954">
-        <ele>585.100000000000023</ele>
-        <time>2017-07-05T11:50:51Z</time>
-      </trkpt>
-      <trkpt lat="45.806059716269374" lon="14.123317245393991">
-        <ele>583.659999999999968</ele>
-        <time>2017-07-05T11:50:58Z</time>
-      </trkpt>
-      <trkpt lat="45.80637370236218" lon="14.123740196228027">
-        <ele>587.980000000000018</ele>
-        <time>2017-07-05T11:51:04Z</time>
-      </trkpt>
-      <trkpt lat="45.806602695956826" lon="14.124738229438663">
-        <ele>589.42999999999995</ele>
-        <time>2017-07-05T11:51:13Z</time>
-      </trkpt>
-      <trkpt lat="45.806728675961494" lon="14.125053221359849">
-        <ele>587.019999999999982</ele>
-        <time>2017-07-05T11:51:18Z</time>
-      </trkpt>
-      <trkpt lat="45.806936714798212" lon="14.125321274623275">
-        <ele>583.659999999999968</ele>
-        <time>2017-07-05T11:51:28Z</time>
-      </trkpt>
-      <trkpt lat="45.807046685367823" lon="14.12554725073278">
-        <ele>582.700000000000045</ele>
-        <time>2017-07-05T11:51:31Z</time>
-      </trkpt>
-      <trkpt lat="45.807236703112721" lon="14.125911192968488">
-        <ele>581.730000000000018</ele>
-        <time>2017-07-05T11:52:01Z</time>
-      </trkpt>
-      <trkpt lat="45.807154728099704" lon="14.125692257657647">
-        <ele>579.809999999999945</ele>
-        <time>2017-07-05T11:52:07Z</time>
-      </trkpt>
-      <trkpt lat="45.807076692581177" lon="14.12550425156951">
-        <ele>578.850000000000023</ele>
-        <time>2017-07-05T11:52:10Z</time>
-      </trkpt>
-      <trkpt lat="45.80695666372776" lon="14.125239215791225">
-        <ele>577.889999999999986</ele>
-        <time>2017-07-05T11:52:14Z</time>
-      </trkpt>
-      <trkpt lat="45.806775698438287" lon="14.124964205548167">
-        <ele>575.490000000000009</ele>
-        <time>2017-07-05T11:52:21Z</time>
-      </trkpt>
-      <trkpt lat="45.806641671806574" lon="14.12462524138391">
-        <ele>576.92999999999995</ele>
-        <time>2017-07-05T11:52:50Z</time>
-      </trkpt>
-      <trkpt lat="45.806743679568172" lon="14.124963199719787">
-        <ele>582.220000000000027</ele>
-        <time>2017-07-05T11:54:15Z</time>
-      </trkpt>
-      <trkpt lat="45.806852728128433" lon="14.12509823217988">
-        <ele>583.17999999999995</ele>
-        <time>2017-07-05T11:54:19Z</time>
-      </trkpt>
-      <trkpt lat="45.807050708681345" lon="14.12541925907135">
-        <ele>581.730000000000018</ele>
-        <time>2017-07-05T11:54:25Z</time>
-      </trkpt>
-      <trkpt lat="45.807182723656297" lon="14.125688234344125">
-        <ele>579.809999999999945</ele>
-        <time>2017-07-05T11:54:29Z</time>
-      </trkpt>
-      <trkpt lat="45.807251706719398" lon="14.125862242653966">
-        <ele>577.409999999999968</ele>
-        <time>2017-07-05T11:55:28Z</time>
-      </trkpt>
-      <trkpt lat="45.807332675904036" lon="14.126163236796856">
-        <ele>579.330000000000041</ele>
-        <time>2017-07-05T11:56:13Z</time>
-      </trkpt>
-      <trkpt lat="45.807435689494014" lon="14.126306232064962">
-        <ele>580.769999999999982</ele>
-        <time>2017-07-05T11:56:22Z</time>
-      </trkpt>
-      <trkpt lat="45.807483717799187" lon="14.126628264784813">
-        <ele>576.450000000000045</ele>
-        <time>2017-07-05T12:01:44Z</time>
-      </trkpt>
-      <trkpt lat="45.80749268643558" lon="14.126872261986136">
-        <ele>574.529999999999973</ele>
-        <time>2017-07-05T12:01:50Z</time>
-      </trkpt>
-      <trkpt lat="45.807613721117377" lon="14.127086251974106">
-        <ele>575.970000000000027</ele>
-        <time>2017-07-05T12:01:55Z</time>
-      </trkpt>
-      <trkpt lat="45.807810695841908" lon="14.127221200615168">
-        <ele>577.889999999999986</ele>
-        <time>2017-07-05T12:02:00Z</time>
-      </trkpt>
-      <trkpt lat="45.808339677751064" lon="14.127963250502944">
-        <ele>571.159999999999968</ele>
-        <time>2017-07-05T12:02:11Z</time>
-      </trkpt>
-      <trkpt lat="45.808409666642547" lon="14.128141198307276">
-        <ele>569.240000000000009</ele>
-        <time>2017-07-05T12:02:13Z</time>
-      </trkpt>
-      <trkpt lat="45.808511674404144" lon="14.128501201048493">
-        <ele>564.42999999999995</ele>
-        <time>2017-07-05T12:02:18Z</time>
-      </trkpt>
-      <trkpt lat="45.808698674663901" lon="14.128746204078197">
-        <ele>560.110000000000014</ele>
-        <time>2017-07-05T12:02:24Z</time>
-      </trkpt>
-      <trkpt lat="45.809000674635172" lon="14.128849217668176">
-        <ele>556.259999999999991</ele>
-        <time>2017-07-05T12:02:30Z</time>
-      </trkpt>
-      <trkpt lat="45.809427732601762" lon="14.128838237375021">
-        <ele>550.490000000000009</ele>
-        <time>2017-07-05T12:02:38Z</time>
-      </trkpt>
-      <trkpt lat="45.809614732861519" lon="14.128828262910247">
-        <ele>547.610000000000014</ele>
-        <time>2017-07-05T12:02:42Z</time>
-      </trkpt>
-      <trkpt lat="45.809736689552665" lon="14.128820216283202">
-        <ele>545.690000000000055</ele>
-        <time>2017-07-05T12:02:44Z</time>
-      </trkpt>
-      <trkpt lat="45.810184702277184" lon="14.128938233479857">
-        <ele>537.509999999999991</ele>
-        <time>2017-07-05T12:02:54Z</time>
-      </trkpt>
-      <trkpt lat="45.810423670336604" lon="14.129049209877849">
-        <ele>529.340000000000032</ele>
-        <time>2017-07-05T12:03:01Z</time>
-      </trkpt>
-      <trkpt lat="45.810555685311556" lon="14.129093214869499">
-        <ele>525.980000000000018</ele>
-        <time>2017-07-05T12:03:04Z</time>
-      </trkpt>
-      <trkpt lat="45.810889704152942" lon="14.129173262044787">
-        <ele>516.850000000000023</ele>
-        <time>2017-07-05T12:03:11Z</time>
-      </trkpt>
-      <trkpt lat="45.811203690245748" lon="14.129235204309225">
-        <ele>507.70999999999998</ele>
-        <time>2017-07-05T12:03:19Z</time>
-      </trkpt>
-      <trkpt lat="45.811346685513854" lon="14.12928625009954">
-        <ele>502.430000000000007</ele>
-        <time>2017-07-05T12:03:28Z</time>
-      </trkpt>
-      <trkpt lat="45.811499739065766" lon="14.129318268969655">
-        <ele>495.220000000000027</ele>
-        <time>2017-07-05T12:03:37Z</time>
-      </trkpt>
-      <trkpt lat="45.811780700460076" lon="14.129143254831433">
-        <ele>489.930000000000007</ele>
-        <time>2017-07-05T12:04:00Z</time>
-      </trkpt>
-      <trkpt lat="45.811980692669749" lon="14.129113247618079">
-        <ele>482.720000000000027</ele>
-        <time>2017-07-05T12:04:09Z</time>
-      </trkpt>
-      <trkpt lat="45.812163669615984" lon="14.129100255668163">
-        <ele>474.550000000000011</ele>
-        <time>2017-07-05T12:04:58Z</time>
-      </trkpt>
-      <trkpt lat="45.812023691833019" lon="14.129734262824059">
-        <ele>491.370000000000005</ele>
-        <time>2017-07-05T12:06:44Z</time>
-      </trkpt>
-      <trkpt lat="45.81209166906774" lon="14.130028216168284">
+      <trkpt lat="45.798053741455078" lon="14.119577407836914"/>
+      <trkpt lat="45.797796249389648" lon="14.120006561279297"/>
+      <trkpt lat="45.797324180603027" lon="14.12017822265625"/>
+      <trkpt lat="45.7965087890625" lon="14.120349884033203"/>
+      <trkpt lat="45.796165466308594" lon="14.120478630065918"/>
+      <trkpt lat="45.795950889587402" lon="14.120478630065918"/>
+      <trkpt lat="45.795650482177734" lon="14.120264053344727"/>
+      <trkpt lat="45.794963836669922" lon="14.120092391967773"/>
+      <trkpt lat="45.794835090637207" lon="14.120135307312012"/>
+      <trkpt lat="45.794835090637207" lon="14.12043571472168"/>
+      <trkpt lat="45.79500675201416" lon="14.120779037475586"/>
+      <trkpt lat="45.795779228210449" lon="14.121508598327637"/>
+      <trkpt lat="45.796165466308594" lon="14.122452735900879"/>
+      <trkpt lat="45.79625129699707" lon="14.122753143310547"/>
+      <trkpt lat="45.796195222064853" lon="14.123136447742581"/>
+      <trkpt lat="45.796148031949997" lon="14.123113481327891"/>
+      <trkpt lat="45.796127915382385" lon="14.123198390007019"/>
+      <trkpt lat="45.796122550964355" lon="14.123509526252747"/>
+      <trkpt lat="45.796085000038147" lon="14.123852849006653"/>
+      <trkpt lat="45.796042084693909" lon="14.12416398525238"/>
+      <trkpt lat="45.795988440513611" lon="14.124501943588257"/>
+      <trkpt lat="45.795897245407104" lon="14.124786257743835"/>
+      <trkpt lat="45.795789957046509" lon="14.125113487243652"/>
+      <trkpt lat="45.795634388923645" lon="14.125387072563171"/>
+      <trkpt lat="45.795494914054871" lon="14.12567675113678"/>
+      <trkpt lat="45.795409083366394" lon="14.126025438308716"/>
+      <trkpt lat="45.795307159423828" lon="14.126358032226562"/>
+      <trkpt lat="45.795151591300964" lon="14.126685261726379"/>
+      <trkpt lat="45.795038938522339" lon="14.126937389373779"/>
+      <trkpt lat="45.794990658760071" lon="14.127071499824524"/>
+      <trkpt lat="45.794652700424194" lon="14.127565026283264"/>
+      <trkpt lat="45.794427394866943" lon="14.12792444229126"/>
+      <trkpt lat="45.794239640235901" lon="14.128439426422119"/>
+      <trkpt lat="45.794159173965454" lon="14.128873944282532"/>
+      <trkpt lat="45.794057250022888" lon="14.129287004470825"/>
+      <trkpt lat="45.79401969909668" lon="14.129630327224731"/>
+      <trkpt lat="45.793928503990173" lon="14.130306243896484"/>
+      <trkpt lat="45.793992877006531" lon="14.130724668502808"/>
+      <trkpt lat="45.794084072113037" lon="14.131105542182922"/>
+      <trkpt lat="45.794062614440918" lon="14.131438136100769"/>
+      <trkpt lat="45.793966054916382" lon="14.131641983985901"/>
+      <trkpt lat="45.793805122375488" lon="14.131894111633301"/>
+      <trkpt lat="45.793638825416565" lon="14.132012128829956"/>
+      <trkpt lat="45.793477892875671" lon="14.132189154624939"/>
+      <trkpt lat="45.793118476867676" lon="14.13242518901825"/>
+      <trkpt lat="45.792979001998901" lon="14.132586121559143"/>
+      <trkpt lat="45.792846400290728" lon="14.132722998037934"/>
+      <trkpt lat="45.792818069458008" lon="14.132752418518066"/>
+      <trkpt lat="45.793038010597229" lon="14.132859706878662"/>
+      <trkpt lat="45.793992877006531" lon="14.133219122886658"/>
+      <trkpt lat="45.794202089309692" lon="14.133321046829224"/>
+      <trkpt lat="45.79451322555542" lon="14.133481979370117"/>
+      <trkpt lat="45.79475462436676" lon="14.133599996566772"/>
+      <trkpt lat="45.795065760612488" lon="14.133760929107666"/>
+      <trkpt lat="45.795199871063232" lon="14.133809208869934"/>
+      <trkpt lat="45.79526424407959" lon="14.133648276329041"/>
+      <trkpt lat="45.795371532440186" lon="14.133460521697998"/>
+      <trkpt lat="45.795838236808777" lon="14.133047461509705"/>
+      <trkpt lat="45.796133279800415" lon="14.132800698280334"/>
+      <trkpt lat="45.79626739025116" lon="14.13266658782959"/>
+      <trkpt lat="45.796449780464172" lon="14.132500290870667"/>
+      <trkpt lat="45.796546339988708" lon="14.132022857666016"/>
+      <trkpt lat="45.796723365783691" lon="14.131979942321777"/>
+      <trkpt lat="45.796878933906555" lon="14.132076501846313"/>
+      <trkpt lat="45.797157883644104" lon="14.132258892059326"/>
+      <trkpt lat="45.797388553619385" lon="14.132500290870667"/>
+      <trkpt lat="45.797672867774963" lon="14.132725596427917"/>
+      <trkpt lat="45.798037648200989" lon="14.133004546165466"/>
+      <trkpt lat="45.798429250717163" lon="14.1331547498703"/>
+      <trkpt lat="45.79875648021698" lon="14.133337140083313"/>
+      <trkpt lat="45.799126625061035" lon="14.133605360984802"/>
+      <trkpt lat="45.799384117126465" lon="14.133675098419189"/>
+      <trkpt lat="45.799604058265686" lon="14.13365364074707"/>
+      <trkpt lat="45.799813270568848" lon="14.133578538894653"/>
+      <trkpt lat="45.800044611096382" lon="14.133563619107008"/>
+      <trkpt lat="45.800231695175171" lon="14.133551716804504"/>
+      <trkpt lat="45.800687670707703" lon="14.133685827255249"/>
+      <trkpt lat="45.80100417137146" lon="14.133562445640564"/>
+      <trkpt lat="45.801191926002502" lon="14.133546352386475"/>
+      <trkpt lat="45.801572799682617" lon="14.133707284927368"/>
+      <trkpt lat="45.801900029182434" lon="14.133809208869934"/>
+      <trkpt lat="45.802152156829834" lon="14.134061336517334"/>
+      <trkpt lat="45.802356004714966" lon="14.134200811386108"/>
+      <trkpt lat="45.80249547958374" lon="14.13439929485321"/>
+      <trkpt lat="45.802817344665527" lon="14.134506583213806"/>
+      <trkpt lat="45.80324113368988" lon="14.134560227394104"/>
+      <trkpt lat="45.803622007369995" lon="14.134522676467896"/>
+      <trkpt lat="45.803938508033752" lon="14.134216904640198"/>
+      <trkpt lat="45.804201364517212" lon="14.133959412574768"/>
+      <trkpt lat="45.804469585418701" lon="14.133728742599487"/>
+      <trkpt lat="45.804523229598999" lon="14.133583903312683"/>
+      <trkpt lat="45.804560780525208" lon="14.133256673812866"/>
+      <trkpt lat="45.804630517959595" lon="14.132956266403198"/>
+      <trkpt lat="45.804812908172607" lon="14.132827520370483"/>
+      <trkpt lat="45.805065035820007" lon="14.132800698280334"/>
+      <trkpt lat="45.805290341377258" lon="14.132881164550781"/>
+      <trkpt lat="45.80549418926239" lon="14.133004546165466"/>
+      <trkpt lat="45.805703401565552" lon="14.133079648017883"/>
+      <trkpt lat="45.805837512016296" lon="14.133036732673645"/>
+      <trkpt lat="45.805891156196594" lon="14.132827520370483"/>
+      <trkpt lat="45.805789232254028" lon="14.132521748542786"/>
+      <trkpt lat="45.805655121803284" lon="14.132124781608582"/>
+      <trkpt lat="45.805730223655701" lon="14.131878018379211"/>
+      <trkpt lat="45.805832147598267" lon="14.131802916526794"/>
+      <trkpt lat="45.806127190589905" lon="14.131792187690735"/>
+      <trkpt lat="45.806288123130798" lon="14.131872653961182"/>
+      <trkpt lat="45.806470513343811" lon="14.132017493247986"/>
+      <trkpt lat="45.806609988212585" lon="14.132242798805237"/>
+      <trkpt lat="45.806679725646973" lon="14.13241982460022"/>
+      <trkpt lat="45.806733369827271" lon="14.132553935050964"/>
+      <trkpt lat="45.806770920753479" lon="14.132881164550781"/>
+      <trkpt lat="45.806980133056641" lon="14.133396148681641"/>
+      <trkpt lat="45.807017683982849" lon="14.133648276329041"/>
+      <trkpt lat="45.807119607925415" lon="14.133728742599487"/>
+      <trkpt lat="45.807806253433228" lon="14.133685827255249"/>
+      <trkpt lat="45.808047652244568" lon="14.13366973400116"/>
+      <trkpt lat="45.8082515001297" lon="14.133557081222534"/>
+      <trkpt lat="45.808594822883606" lon="14.133396148681641"/>
+      <trkpt lat="45.808804035186768" lon="14.133192300796509"/>
+      <trkpt lat="45.809045433998108" lon="14.133047461509705"/>
+      <trkpt lat="45.809319019317627" lon="14.133036732673645"/>
+      <trkpt lat="45.809560418128967" lon="14.133106470108032"/>
+      <trkpt lat="45.809699892997742" lon="14.133068919181824"/>
+      <trkpt lat="45.810011029243469" lon="14.132645130157471"/>
+      <trkpt lat="45.810279250144958" lon="14.132301807403564"/>
+      <trkpt lat="45.810585021972656" lon="14.132124781608582"/>
+      <trkpt lat="45.810762047767639" lon="14.132028222084045"/>
+      <trkpt lat="45.811067819595337" lon="14.131765365600586"/>
+      <trkpt lat="45.811416506767273" lon="14.131582975387573"/>
+      <trkpt lat="45.81149697303772" lon="14.13141131401062"/>
+      <trkpt lat="45.811631083488464" lon="14.130987524986267"/>
+      <trkpt lat="45.811770558357239" lon="14.130831956863403"/>
+      <trkpt lat="45.811947584152222" lon="14.130579829216003"/>
+      <trkpt lat="45.811974406242371" lon="14.130526185035706"/>
+      <trkpt lat="45.812129974365234" lon="14.130139946937561"/>
+      <trkpt lat="45.812140451744199" lon="14.130133157595992">
         <ele>490.889999999999986</ele>
-        <time>2017-07-05T12:06:48Z</time>
+        <time>2017-07-05T12:06:49Z</time>
       </trkpt>
+      <trkpt lat="45.812210440635681" lon="14.130133157595992">
+        <ele>490.889999999999986</ele>
+        <time>2017-07-05T12:06:50Z</time>
+      </trkpt>
+      <trkpt lat="45.812285458669066" lon="14.130133157595992">
+        <ele>490.889999999999986</ele>
+        <time>2017-07-05T12:06:51Z</time>
+      </trkpt>
+      <trkpt lat="45.812362488359213" lon="14.13010717369616">
+        <ele>490.889999999999986</ele>
+        <time>2017-07-05T12:06:52Z</time>
+      </trkpt>
+      <trkpt lat="45.812428453937173" lon="14.130033161491156">
+        <ele>491.370000000000005</ele>
+        <time>2017-07-05T12:06:53Z</time>
+      </trkpt>
+      <trkpt lat="45.812499448657036" lon="14.129953114315867">
+        <ele>491.370000000000005</ele>
+        <time>2017-07-05T12:06:54Z</time>
+      </trkpt>
+      <trkpt lat="45.812553428113461" lon="14.129851190373302">
+        <ele>492.329999999999984</ele>
+        <time>2017-07-05T12:06:55Z</time>
+      </trkpt>
+      <trkpt lat="45.812606485560536" lon="14.129739124327898">
+        <ele>492.810000000000002</ele>
+        <time>2017-07-05T12:06:56Z</time>
+      </trkpt>
+      <trkpt lat="45.812659459188581" lon="14.129627142101526">
+        <ele>493.769999999999982</ele>
+        <time>2017-07-05T12:06:57Z</time>
+      </trkpt>
+      <trkpt lat="45.812716456130147" lon="14.129512142390013">
+        <ele>494.740000000000009</ele>
+        <time>2017-07-05T12:06:58Z</time>
+      </trkpt>
+      <trkpt lat="45.812783427536488" lon="14.129404183477163">
+        <ele>495.699999999999989</ele>
+        <time>2017-07-05T12:06:59Z</time>
+      </trkpt>
+      <trkpt lat="45.81285048276186" lon="14.129295134916902">
+        <ele>496.660000000000025</ele>
+        <time>2017-07-05T12:07:00Z</time>
+      </trkpt>
+      <trkpt lat="45.813056426122785" lon="14.128970168530941">
+        <ele>499.54000000000002</ele>
+        <time>2017-07-05T12:07:03Z</time>
+      </trkpt>
+      <trkpt lat="45.813136473298073" lon="14.128930186852813">
+        <ele>500.5</ele>
+        <time>2017-07-05T12:07:04Z</time>
+      </trkpt>
+      <trkpt lat="45.813211491331458" lon="14.128892133012414">
+        <ele>501.45999999999998</ele>
+        <time>2017-07-05T12:07:05Z</time>
+      </trkpt>
+      <trkpt lat="45.813295478001237" lon="14.128889115527272">
+        <ele>502.910000000000025</ele>
+        <time>2017-07-05T12:07:06Z</time>
+      </trkpt>
+      <trkpt lat="45.813371501863003" lon="14.128939155489206">
+        <ele>503.870000000000005</ele>
+        <time>2017-07-05T12:07:07Z</time>
+      </trkpt>
+      <trkpt lat="45.81345347687602" lon="14.128994140774012">
+        <ele>504.829999999999984</ele>
+        <time>2017-07-05T12:07:08Z</time>
+      </trkpt>
+      <trkpt lat="45.813616504892707" lon="14.129081144928932">
+        <ele>506.75</ele>
+        <time>2017-07-05T12:07:10Z</time>
+      </trkpt>
+      <trkpt lat="45.813692444935441" lon="14.129081144928932">
+        <ele>507.70999999999998</ele>
+        <time>2017-07-05T12:07:11Z</time>
+      </trkpt>
+      <trkpt lat="45.813770480453968" lon="14.129051137715578">
+        <ele>508.189999999999998</ele>
+        <time>2017-07-05T12:07:12Z</time>
+      </trkpt>
+      <trkpt lat="45.813771821558475" lon="14.129063962027431"/>
+      <trkpt lat="45.813868045806885" lon="14.128975868225098"/>
+      <trkpt lat="45.813921689987183" lon="14.128879308700562"/>
+      <trkpt lat="45.813964605331421" lon="14.128696918487549"/>
+      <trkpt lat="45.814061164855957" lon="14.128600358963013"/>
       <trkpt lat="45.812207674607635" lon="14.130132235586643">
         <ele>490.889999999999986</ele>
         <time>2017-07-05T12:06:50Z</time>
@@ -33620,9 +33400,8 @@ Dol, Slo, Slovenija</desc>
       </trkpt>
     </trkseg>
   </trk>
-
   <trk>
-    <name>TET-SLOVENIA-Šebrelje-IdrijskaBela loop-20200710</name>
+    <name>TET-SLOVENIA-Idrijska Bela loop-20200913</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -52197,5 +51976,4 @@ Dol, Slo, Slovenija</desc>
       </trkpt>
     </trkseg>
   </trk>
-
 </gpx>
