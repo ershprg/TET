@@ -4,12 +4,12 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2020-09-22T16:50:37Z</time>
-    <bounds maxlat="68.071437506005168" maxlon="23.665033411234617" minlat="55.408678958192468" minlon="12.325737476348877"/>
+    <time>2020-10-30T07:59:56Z</time>
+    <bounds maxlat="68.071437506005168" maxlon="23.665033411234617" minlat="42.393316961824894" minlon="1.548216976225376"/>
   </metadata>
   <wpt lat="55.681707970798016" lon="13.39016399346292">
     <time>2017-08-02T14:23:58Z</time>
-    <name>0051211</name>
+    <name>00512111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -28,7 +28,7 @@
   </wpt>
   <wpt lat="55.408678958192468" lon="12.893630024045706">
     <time>2017-08-02T14:23:58Z</time>
-    <name>01721</name>
+    <name>017211</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -45,9 +45,28 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
+  <wpt lat="42.393316961824894" lon="1.548216976225376">
+    <time>2016-09-02T21:47:06Z</time>
+    <name>02311111</name>
+    <cmt>1527.473511</cmt>
+    <desc>1527.473511</desc>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-09-02T21:47:06Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="56.659826030954719" lon="14.073720015585423">
     <time>2017-08-02T14:23:58Z</time>
-    <name>0231211</name>
+    <name>02312111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -66,7 +85,7 @@
   </wpt>
   <wpt lat="60.349336713552475" lon="12.90268549695611">
     <time>2020-05-27T07:52:21Z</time>
-    <name>1 Rattsjön Vindskydd</name>
+    <name>1 Rattsjön Vindskydd1</name>
     <cmt>Kristinefors 38
 685 94, Torsby, Värmlands län, SWE</cmt>
     <desc>Kristinefors 38
@@ -101,7 +120,7 @@
   </wpt>
   <wpt lat="59.581746999174356" lon="13.489643018692732">
     <time>2017-08-02T14:23:58Z</time>
-    <name>2201711</name>
+    <name>22017111</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -118,7 +137,7 @@
   </wpt>
   <wpt lat="59.617132041603327" lon="13.085766965523362">
     <time>2017-08-02T14:23:58Z</time>
-    <name>2961011</name>
+    <name>29610111</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -135,7 +154,7 @@
   </wpt>
   <wpt lat="62.873505027964711" lon="15.335286967456341">
     <time>2017-08-02T14:23:58Z</time>
-    <name>51411</name>
+    <name>514111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -154,7 +173,7 @@
   </wpt>
   <wpt lat="62.293382026255131" lon="15.544019993394613">
     <time>2017-08-02T14:23:58Z</time>
-    <name>51911</name>
+    <name>519111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -173,7 +192,7 @@
   </wpt>
   <wpt lat="62.397440001368523" lon="15.444116005674005">
     <time>2017-08-02T14:23:58Z</time>
-    <name>52811</name>
+    <name>528111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -192,7 +211,7 @@
   </wpt>
   <wpt lat="62.754040025174618" lon="15.436541028320789">
     <time>2017-08-02T14:23:58Z</time>
-    <name>55611</name>
+    <name>556111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -211,7 +230,7 @@
   </wpt>
   <wpt lat="64.193292008712888" lon="17.77441400103271">
     <time>2017-08-02T14:23:58Z</time>
-    <name>57111</name>
+    <name>571111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -230,7 +249,7 @@
   </wpt>
   <wpt lat="62.123886030167341" lon="15.034714015200734">
     <time>2017-08-02T14:23:58Z</time>
-    <name>59211</name>
+    <name>592111</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -247,7 +266,7 @@
   </wpt>
   <wpt lat="64.430932961404324" lon="18.974332977086306">
     <time>2017-08-02T14:23:58Z</time>
-    <name>60711</name>
+    <name>607111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -266,7 +285,7 @@
   </wpt>
   <wpt lat="62.549554025754333" lon="15.000999988988042">
     <time>2017-08-02T14:23:58Z</time>
-    <name>62311</name>
+    <name>623111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -285,7 +304,7 @@
   </wpt>
   <wpt lat="62.698590969666839" lon="15.434031989425421">
     <time>2017-08-02T14:23:58Z</time>
-    <name>63111</name>
+    <name>631111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -304,7 +323,7 @@
   </wpt>
   <wpt lat="62.129365028813481" lon="14.84868798404932">
     <time>2017-08-02T14:23:58Z</time>
-    <name>70611</name>
+    <name>706111</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -321,7 +340,7 @@
   </wpt>
   <wpt lat="65.072689019143581" lon="19.365941025316715">
     <time>2017-08-02T14:23:58Z</time>
-    <name>80511</name>
+    <name>805111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -340,7 +359,7 @@
   </wpt>
   <wpt lat="65.437424015253782" lon="19.399183988571167">
     <time>2017-08-02T14:23:58Z</time>
-    <name>81611</name>
+    <name>816111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -359,7 +378,7 @@
   </wpt>
   <wpt lat="66.544241001829505" lon="19.532286012545228">
     <time>2017-08-02T14:23:58Z</time>
-    <name>81911</name>
+    <name>819111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -376,28 +395,10 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="66.550633292645216" lon="19.793599974364042">
-    <ele>365.171875</ele>
-    <time>2019-04-14T09:35:43Z</time>
-    <name>Arctic CircleTET</name>
-    <sym>Flag</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2019-04-14T09:35:43Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
   <wpt lat="66.550240516662598" lon="19.762623310089111">
     <ele>328.7578125</ele>
     <time>2019-08-06T10:15:11Z</time>
-    <name>Arctic CircleTET Photo</name>
+    <name>Arctic CircleTET Photo1</name>
     <cmt>Polcirkeln</cmt>
     <desc>Polcirkeln</desc>
     <sym>Scenic Area</sym>
@@ -428,10 +429,28 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
+  <wpt lat="66.550633292645216" lon="19.793599974364042">
+    <ele>365.171875</ele>
+    <time>2019-04-14T09:35:43Z</time>
+    <name>Arctic CircleTET1</name>
+    <sym>Flag</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-04-14T09:35:43Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="58.627515435218811" lon="14.463962316513062">
     <ele>131.900000000000006</ele>
     <time>2017-08-02T14:23:58Z</time>
-    <name>Björklången Vindskydd11</name>
+    <name>Björklången Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -450,7 +469,7 @@
   </wpt>
   <wpt lat="61.472231028601527" lon="13.238569982349873">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Blästkojan11</name>
+    <name>Blästkojan111</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -468,7 +487,7 @@
   <wpt lat="57.774798274040222" lon="13.853711485862732">
     <ele>215.5</ele>
     <time>2017-08-02T14:23:58Z</time>
-    <name>Bottnaryd Vindskydd11</name>
+    <name>Bottnaryd Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -487,7 +506,7 @@
   </wpt>
   <wpt lat="62.679074965417385" lon="15.460254019126296">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Bräcke Skoterklubbstuga11</name>
+    <name>Bräcke Skoterklubbstuga111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -506,7 +525,7 @@
   </wpt>
   <wpt lat="55.987000018358231" lon="13.495132997632027">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Dagstorp Vindskydd11</name>
+    <name>Dagstorp Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -526,7 +545,7 @@
   <wpt lat="57.615652084350586" lon="13.520908355712891">
     <ele>198.199999999999989</ele>
     <time>2017-08-02T14:23:58Z</time>
-    <name>Dalstorpasjön Vindskydd11</name>
+    <name>Dalstorpasjön Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -545,7 +564,7 @@
   </wpt>
   <wpt lat="55.554589033126831" lon="13.310909997671843">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Eksholmssjön Vindskydd11</name>
+    <name>Eksholmssjön Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -564,7 +583,7 @@
   </wpt>
   <wpt lat="62.637288998812437" lon="15.022178962826729">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Fisktjärn vindskydd11</name>
+    <name>Fisktjärn vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -583,7 +602,7 @@
   </wpt>
   <wpt lat="61.673380611464381" lon="13.25714997947216">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Fjätälven Vindskydd11</name>
+    <name>Fjätälven Vindskydd111</name>
     <cmt>&lt;img src="https://lh5.googleusercontent.com/proxy/k7awd9DJzTyUQP9SH6op1JT9SWEhLJr63Bjj_CrNekzxAJghq1Len17XGS084X5L763RG0TSo08Uxe2p2BjX2uXT9wv-vR9Z0Tr6SjLavtBJ7eaojNq8LnWXToKX8S4UrwFh8Fa_x5m0Yxwo8cr5LbNaWgjFwr-fMT4Ky3KolTp23cOIpNVr-ImaB4_WavS3" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Går att sova två i med god vilja. Går att köra hela vägen fram.&lt;br&gt;&lt;br&gt;&lt;img src="https://lh3.googleusercontent.com/proxy/RgtDbZ9NjFsY6--MWoEqqlGAj7wQa8IH2Fag1-pSFL2WjEyAucw0zdPIm1o1875p57VbzVBvN4sXCjUc53GUgJESL3bUiqqsD9-If01T6lLT73r5owiNdB15HYSsewJWbuUr7iBVUFNeqJMGx2ESYMHtPwUstu1yfl9gmC9czLFXVROLr9AzBEACw_hXIc6P" height="200" width="auto" /&gt;</cmt>
     <desc>&lt;img src="https://lh5.googleusercontent.com/proxy/k7awd9DJzTyUQP9SH6op1JT9SWEhLJr63Bjj_CrNekzxAJghq1Len17XGS084X5L763RG0TSo08Uxe2p2BjX2uXT9wv-vR9Z0Tr6SjLavtBJ7eaojNq8LnWXToKX8S4UrwFh8Fa_x5m0Yxwo8cr5LbNaWgjFwr-fMT4Ky3KolTp23cOIpNVr-ImaB4_WavS3" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Går att sova två i med god vilja. Går att köra hela vägen fram.&lt;br&gt;&lt;br&gt;&lt;img src="https://lh3.googleusercontent.com/proxy/RgtDbZ9NjFsY6--MWoEqqlGAj7wQa8IH2Fag1-pSFL2WjEyAucw0zdPIm1o1875p57VbzVBvN4sXCjUc53GUgJESL3bUiqqsD9-If01T6lLT73r5owiNdB15HYSsewJWbuUr7iBVUFNeqJMGx2ESYMHtPwUstu1yfl9gmC9czLFXVROLr9AzBEACw_hXIc6P" height="200" width="auto" /&gt;</desc>
     <sym>Campground</sym>
@@ -602,7 +621,7 @@
   </wpt>
   <wpt lat="61.669819978997111" lon="13.253599992021918">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Fjätälven2 vindskydd11</name>
+    <name>Fjätälven2 vindskydd111</name>
     <cmt>&lt;img src="https://lh6.googleusercontent.com/proxy/YDdErGf1QOlY9tUYzPPquTvxNBOZKodPR3NaLa3KCAqjVhtAhnO5aIKWDI6sa5aPhhHWEQMv4d5gfCEFjiov4qXvjY_ROdFAtVKMO1G-knWHe6HiAcGzDkySQzNRP341NZduV1IrNwVV-W3Z7OIrVuYO1y3tUZImQYX551CIBypsY3bA5MDj8chw_pbyuDv1" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Det större av de två vindskydden. Finns bord och bänkar med utsikt mot forsen.&lt;br&gt;&lt;br&gt;&lt;img src="https://lh6.googleusercontent.com/proxy/AR5uQC4KLinlQzURUhv5jYPHg7FXvlMUTv4HMA9OAKvvIPDeayfqQG2A54Tsowullmir-iowI77Bpsl5AQK0S8g13Ykh5xF9tGx--lNGOim8yJa4QLKBrMNaYT7AN08K6aw40l-kI04JblCaUxRjgPnLEZtJCsIPR0GcGUqatDvONW6dnQW3r2uvE0HKb-q9" height="200" width="auto" /&gt;</cmt>
     <desc>&lt;img src="https://lh6.googleusercontent.com/proxy/YDdErGf1QOlY9tUYzPPquTvxNBOZKodPR3NaLa3KCAqjVhtAhnO5aIKWDI6sa5aPhhHWEQMv4d5gfCEFjiov4qXvjY_ROdFAtVKMO1G-knWHe6HiAcGzDkySQzNRP341NZduV1IrNwVV-W3Z7OIrVuYO1y3tUZImQYX551CIBypsY3bA5MDj8chw_pbyuDv1" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Det större av de två vindskydden. Finns bord och bänkar med utsikt mot forsen.&lt;br&gt;&lt;br&gt;&lt;img src="https://lh6.googleusercontent.com/proxy/AR5uQC4KLinlQzURUhv5jYPHg7FXvlMUTv4HMA9OAKvvIPDeayfqQG2A54Tsowullmir-iowI77Bpsl5AQK0S8g13Ykh5xF9tGx--lNGOim8yJa4QLKBrMNaYT7AN08K6aw40l-kI04JblCaUxRjgPnLEZtJCsIPR0GcGUqatDvONW6dnQW3r2uvE0HKb-q9" height="200" width="auto" /&gt;</desc>
     <sym>Campground</sym>
@@ -622,7 +641,7 @@
   <wpt lat="57.342233061790466" lon="13.837940096855164">
     <ele>240.300000000000011</ele>
     <time>2017-08-02T14:23:58Z</time>
-    <name>Granås Vindskydd11</name>
+    <name>Granås Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -641,7 +660,7 @@
   </wpt>
   <wpt lat="66.564750010147691" lon="19.795000003650784">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Grottan11</name>
+    <name>Grottan111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -661,7 +680,7 @@
   <wpt lat="57.426738739013672" lon="13.981304168701172">
     <ele>265.199999999999989</ele>
     <time>2017-08-02T14:23:58Z</time>
-    <name>Hagstad Raststuga11</name>
+    <name>Hagstad Raststuga111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -680,7 +699,7 @@
   </wpt>
   <wpt lat="63.422756977379322" lon="15.53026202134788">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Hammerdal Vindskydd11</name>
+    <name>Hammerdal Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -699,7 +718,7 @@
   </wpt>
   <wpt lat="58.15200001001358" lon="14.135000025853515">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Hjo Vindskydd11</name>
+    <name>Hjo Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -719,7 +738,7 @@
   <wpt lat="57.588620781898499" lon="13.510308265686035">
     <ele>188.5</ele>
     <time>2017-08-02T14:23:58Z</time>
-    <name>Holmforsen Vindskydd11</name>
+    <name>Holmforsen Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -738,7 +757,7 @@
   </wpt>
   <wpt lat="55.987219037488103" lon="13.410176960751414">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Hultarp Vindskydd11</name>
+    <name>Hultarp Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -757,7 +776,7 @@
   </wpt>
   <wpt lat="58.641910180449486" lon="14.415167570114136">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Iglasjön Vindskydd11</name>
+    <name>Iglasjön Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -776,7 +795,7 @@
   </wpt>
   <wpt lat="66.625167019665241" lon="20.233067013323307">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Jokkmokk Vindskydd11</name>
+    <name>Jokkmokk Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -795,7 +814,7 @@
   </wpt>
   <wpt lat="56.003302987664938" lon="13.32955302670598">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Jällabjär Vindskydd11</name>
+    <name>Jällabjär Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -815,7 +834,7 @@
   <wpt lat="57.575826644897461" lon="13.515329360961914">
     <ele>187.900000000000006</ele>
     <time>2017-08-02T14:23:58Z</time>
-    <name>Källeberg Vindskydd11</name>
+    <name>Källeberg Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -834,7 +853,7 @@
   </wpt>
   <wpt lat="59.163004970178008" lon="14.380919029936194">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Letälven Vindskydd11</name>
+    <name>Letälven Vindskydd111</name>
     <cmt>&lt;img src="https://lh3.googleusercontent.com/proxy/uLWjFdUoNsq7OIfbfodtH3_DTsUh0LKPCchxsBghjhMNPFnc53bF9iZ0tBkLk75rcZ_D0DmV6ROZoeatV57UUGD-4U-I5ygO3MXKVXtQ-O_ubUmChF45vIPhzOTjQlyUsY0zweO2QFroumx-i6RGbN_Q10Bda12JHxIKdK4vZKxJvIYFXz-Ypm75OAbyJGvdrg" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger ut mot vattnet. Man får promenera de sista 300 meterarna. Lättast att komma dit öster ifrån. Ingen ved inget dass&lt;br&gt;&lt;br&gt;&lt;img src="https://lh3.googleusercontent.com/proxy/w062WYrIalmYQy2J2QzGKze_bwUnW1EC46dbsEckRNZZoKO7gnRHTK4LoHW-23e7eJq9HudXdpsIlzepW-zcc_aszWJrKOMkBE3n1035UaPC_6O0a9cnpr1zzKvr7yReZqgIKRRqkzaSIeuRk8qo-zp4j9zabjlK02bFUiVpVT2PcumXamGMPni_Fih0OgcXsQ" height="200" width="auto" /&gt;</cmt>
     <desc>&lt;img src="https://lh3.googleusercontent.com/proxy/uLWjFdUoNsq7OIfbfodtH3_DTsUh0LKPCchxsBghjhMNPFnc53bF9iZ0tBkLk75rcZ_D0DmV6ROZoeatV57UUGD-4U-I5ygO3MXKVXtQ-O_ubUmChF45vIPhzOTjQlyUsY0zweO2QFroumx-i6RGbN_Q10Bda12JHxIKdK4vZKxJvIYFXz-Ypm75OAbyJGvdrg" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger ut mot vattnet. Man får promenera de sista 300 meterarna. Lättast att komma dit öster ifrån. Ingen ved inget dass&lt;br&gt;&lt;br&gt;&lt;img src="https://lh3.googleusercontent.com/proxy/w062WYrIalmYQy2J2QzGKze_bwUnW1EC46dbsEckRNZZoKO7gnRHTK4LoHW-23e7eJq9HudXdpsIlzepW-zcc_aszWJrKOMkBE3n1035UaPC_6O0a9cnpr1zzKvr7yReZqgIKRRqkzaSIeuRk8qo-zp4j9zabjlK02bFUiVpVT2PcumXamGMPni_Fih0OgcXsQ" height="200" width="auto" /&gt;</desc>
     <sym>Campground</sym>
@@ -853,7 +872,7 @@
   </wpt>
   <wpt lat="55.78362001106143" lon="13.219106029719114">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Lilla Harrie Vindskydd11</name>
+    <name>Lilla Harrie Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -872,7 +891,7 @@
   </wpt>
   <wpt lat="61.303283963352442" lon="12.939024986699224">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Lillbäckstugan Vindskydd11</name>
+    <name>Lillbäckstugan Vindskydd111</name>
     <cmt>&lt;img src="https://lh5.googleusercontent.com/proxy/QkP1bjSVSDhMYlM4pr6JtWc2lcOG7_4WrhRiW7u1I6vPXQwkWhfZ2ujraXxX1VRRx2Mnbnis8EAFYbK3DnVZ20-1_Vz1J6GuRcTmrbgUIFmEYBBYlYpGZSNohbfQ6Rz5Ot4abYEMfFdt6ZjYAqRAyONXzghsKr2p3Aq2fGw2y8E_e_TnTG-ODIUDFntKc1Sn" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger fint vid vattendraget. Inget att övernatta i. Finns plats för tält jämt.&lt;br&gt;&lt;br&gt;&lt;img src="https://lh6.googleusercontent.com/proxy/JSqUJ1hVywkZb8RXMZq72w9SfeSv12Y9Dct3pj9uDYCPsMxSJZFnKAJDIAIIRsigyCMA97ItD6kgrsJ1TzdOOfPU_5vC48YO02WmH46vrTwjOAypT8udsZmTmp8T8cR-5NG-hyVcaUJAujLYuGx67Jlm3jt75vqTai6Qc6LUi035JyD69Nu0gPxZ3kRXLnMp" height="200" width="auto" /&gt;</cmt>
     <desc>&lt;img src="https://lh5.googleusercontent.com/proxy/QkP1bjSVSDhMYlM4pr6JtWc2lcOG7_4WrhRiW7u1I6vPXQwkWhfZ2ujraXxX1VRRx2Mnbnis8EAFYbK3DnVZ20-1_Vz1J6GuRcTmrbgUIFmEYBBYlYpGZSNohbfQ6Rz5Ot4abYEMfFdt6ZjYAqRAyONXzghsKr2p3Aq2fGw2y8E_e_TnTG-ODIUDFntKc1Sn" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger fint vid vattendraget. Inget att övernatta i. Finns plats för tält jämt.&lt;br&gt;&lt;br&gt;&lt;img src="https://lh6.googleusercontent.com/proxy/JSqUJ1hVywkZb8RXMZq72w9SfeSv12Y9Dct3pj9uDYCPsMxSJZFnKAJDIAIIRsigyCMA97ItD6kgrsJ1TzdOOfPU_5vC48YO02WmH46vrTwjOAypT8udsZmTmp8T8cR-5NG-hyVcaUJAujLYuGx67Jlm3jt75vqTai6Qc6LUi035JyD69Nu0gPxZ3kRXLnMp" height="200" width="auto" /&gt;</desc>
     <sym>Campground</sym>
@@ -892,7 +911,7 @@
   <wpt lat="61.158952033147216" lon="12.792091984301805">
     <ele>0</ele>
     <time>2019-12-23T21:03:41Z</time>
-    <name>Lima Vindskydd</name>
+    <name>Lima Vindskydd1</name>
     <cmt>&lt;img src="https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/tddu6rng0pk6nvhbjgh686u7sk/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALrpYQjRqI5JFVev5Kf7AgQw2ewgcriHGS-E6cUNtfnHwI7pj2HrJWnQW5pP6IXv0RigQkeY9zRoQIfk9J6EwTWcU0_F0Ewx3mxP_Nr4ElvFvFmxuNnQXNWRsNg1DS7835EOC3KkhZ9tWfGetp2YRgeT6k05EZ-cvanwg8AKtWdQOdAjWvxr795_LBpMlnytwRXkeZRcDXacecCY2hx-QpaaJVsO44r_Jj5oMI2d7qfqPfqrQ5ESpeZJP0DVEolBE0TNI2EapyFsaW658vEnGzW3oB0t2A?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Hade varit fint om inte taket rasat in. Får hoppas att det är någon som lagar det. Finns plats att ställa upp ett tält. Går att köra hela vägen fram. Dass finns.</cmt>
     <desc>&lt;img src="https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/tddu6rng0pk6nvhbjgh686u7sk/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALrpYQjRqI5JFVev5Kf7AgQw2ewgcriHGS-E6cUNtfnHwI7pj2HrJWnQW5pP6IXv0RigQkeY9zRoQIfk9J6EwTWcU0_F0Ewx3mxP_Nr4ElvFvFmxuNnQXNWRsNg1DS7835EOC3KkhZ9tWfGetp2YRgeT6k05EZ-cvanwg8AKtWdQOdAjWvxr795_LBpMlnytwRXkeZRcDXacecCY2hx-QpaaJVsO44r_Jj5oMI2d7qfqPfqrQ5ESpeZJP0DVEolBE0TNI2EapyFsaW658vEnGzW3oB0t2A?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Hade varit fint om inte taket rasat in. Får hoppas att det är någon som lagar det. Finns plats att ställa upp ett tält. Går att köra hela vägen fram. Dass finns.</desc>
     <sym>Picnic Area</sym>
@@ -912,7 +931,7 @@
   <wpt lat="60.138521958142519" lon="12.555632963776588">
     <ele>0</ele>
     <time>2019-12-23T21:03:42Z</time>
-    <name>Lomstorp Raststuga</name>
+    <name>Lomstorp Raststuga1</name>
     <cmt>&lt;img src="https://doc-0c-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/f0i6qs38esit911gf9h6cs0do0/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALpNYJCN9nN4G4wL0c2t2OxnmT2p9P0D0SopilXDYc0TQ66lrtqbaQOhzDZTVIGJjP7k48q0BL85tdBjHkBVI_NOFxMKcFCpDRjf7pUhoc_2rhZK3RaOddy3GHMI0Y-2qEKrfhi9UvXKC9hDkHTTEJJrGWDa6LgBGTtPWbcVEdcbyvFbA-xNR4BBbbKPLUM9SXRegUvKUaxhCk8DPhm8Sf8bdVYL11TySli-kPzf2VNfsqFS4WyAwws4zpB4gv-FlEE1fLSgxcomVbeteVVZTS7cnykkyA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Plats för 6 sovande</cmt>
     <desc>&lt;img src="https://doc-0c-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/f0i6qs38esit911gf9h6cs0do0/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALpNYJCN9nN4G4wL0c2t2OxnmT2p9P0D0SopilXDYc0TQ66lrtqbaQOhzDZTVIGJjP7k48q0BL85tdBjHkBVI_NOFxMKcFCpDRjf7pUhoc_2rhZK3RaOddy3GHMI0Y-2qEKrfhi9UvXKC9hDkHTTEJJrGWDa6LgBGTtPWbcVEdcbyvFbA-xNR4BBbbKPLUM9SXRegUvKUaxhCk8DPhm8Sf8bdVYL11TySli-kPzf2VNfsqFS4WyAwws4zpB4gv-FlEE1fLSgxcomVbeteVVZTS7cnykkyA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Plats för 6 sovande</desc>
     <sym>Campground</sym>
@@ -931,7 +950,7 @@
   </wpt>
   <wpt lat="59.356309259310365" lon="14.19884498231113">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Långmarkstjärn Vindskydd11</name>
+    <name>Långmarkstjärn Vindskydd111</name>
     <cmt>Inget golv men grillplats och ved.&lt;br&gt;Promenad några hundra meter dit.</cmt>
     <desc>Inget golv men grillplats och ved.&lt;br&gt;Promenad några hundra meter dit.</desc>
     <sym>Campground</sym>
@@ -951,7 +970,7 @@
   <wpt lat="57.42428719997406" lon="13.719407916069031">
     <ele>220.699999999999989</ele>
     <time>2017-08-02T14:23:58Z</time>
-    <name>Mellansjön Vindskydd11</name>
+    <name>Mellansjön Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -971,7 +990,7 @@
   <wpt lat="67.901134500280023" lon="23.560589533299208">
     <ele>207</ele>
     <time>2020-08-11T16:30:41Z</time>
-    <name>Muonionalusta</name>
+    <name>Muonionalusta1</name>
     <cmt>B&amp;B</cmt>
     <desc>B&amp;B</desc>
     <sym>Restaurant</sym>
@@ -991,7 +1010,7 @@
   <wpt lat="56.293516159057617" lon="13.607082366943359">
     <ele>135.800000000000011</ele>
     <time>2017-08-02T14:23:58Z</time>
-    <name>Olastorp Vindskydd11</name>
+    <name>Olastorp Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1010,7 +1029,7 @@
   </wpt>
   <wpt lat="61.461698999628425" lon="13.253460014238954">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Rausen11</name>
+    <name>Rausen111</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -1028,7 +1047,7 @@
   <wpt lat="61.152892000973225" lon="12.809469010680914">
     <ele>0</ele>
     <time>2019-12-23T21:03:41Z</time>
-    <name>Rörbäcksnäs Vindskydd</name>
+    <name>Rörbäcksnäs Vindskydd1</name>
     <cmt>&lt;img src="https://doc-04-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/2o8jfnske2teb8jpsj6kkqv4kc/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqAWiRnG-qB9UjIANNdp7SUjZPPCYC5TojnUGJKPxzL6xHLB6I-dFBFbUZrWUOR5vOSg56AqKGbJ2MtfcvDe_FDpaiV35BfPEGRlNzoAVlSlD0mIK8jIa5AAz6Ss-NWyl1dE3GCpEp534qyZuOjiNn_75tGxVDJ7e5pe6v_juIXGddunL8CRRw3anmOqLpTb2v6me2LsIiLB2K-Lc8DG6YiETbAOSff_ICxvb89xiTaE5Df7xd_M0VtTJoonTr0brmpQ9F338V7pJW6v5HW-6XWdHqrZw?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger vid en parkering utmed lite större väg så riskan är stor att bli stört. Går inte att sova i men det går i nödfall att ställa upp ett tält på parkeringen. Dass finns.</cmt>
     <desc>&lt;img src="https://doc-04-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/2o8jfnske2teb8jpsj6kkqv4kc/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqAWiRnG-qB9UjIANNdp7SUjZPPCYC5TojnUGJKPxzL6xHLB6I-dFBFbUZrWUOR5vOSg56AqKGbJ2MtfcvDe_FDpaiV35BfPEGRlNzoAVlSlD0mIK8jIa5AAz6Ss-NWyl1dE3GCpEp534qyZuOjiNn_75tGxVDJ7e5pe6v_juIXGddunL8CRRw3anmOqLpTb2v6me2LsIiLB2K-Lc8DG6YiETbAOSff_ICxvb89xiTaE5Df7xd_M0VtTJoonTr0brmpQ9F338V7pJW6v5HW-6XWdHqrZw?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger vid en parkering utmed lite större väg så riskan är stor att bli stört. Går inte att sova i men det går i nödfall att ställa upp ett tält på parkeringen. Dass finns.</desc>
     <sym>Picnic Area</sym>
@@ -1048,7 +1067,7 @@
   <wpt lat="58.538294434547424" lon="14.46474015712738">
     <ele>103.700000000000003</ele>
     <time>2017-08-02T14:23:58Z</time>
-    <name>Skacka Vindskydd11</name>
+    <name>Skacka Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1067,7 +1086,7 @@
   </wpt>
   <wpt lat="55.69269597530365" lon="13.360947025939822">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Skryllegården skogsmulle Vindskydd11</name>
+    <name>Skryllegården skogsmulle Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1086,7 +1105,7 @@
   </wpt>
   <wpt lat="60.071258023381233" lon="12.48961097560823">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Skålsjön vindskydd11</name>
+    <name>Skålsjön vindskydd111</name>
     <cmt>&lt;img src="https://lh6.googleusercontent.com/VhGDixR6bfpBjbZFfJjsWa-VPjdFxxdkdBVef-N0_HLVY2kdGsoFfZufQORsvuc6szpqaKJkRrTg0XoBVOQzSvdGiyOmFFwf3rrymwnUKHx0fcC5VAVsBUkWhhYZ7rG29w" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Vindskydd med bänkar. Ligger fint vid vattnet 100 meter från grusvägen. Går att köra fram till skyddet</cmt>
     <desc>&lt;img src="https://lh6.googleusercontent.com/VhGDixR6bfpBjbZFfJjsWa-VPjdFxxdkdBVef-N0_HLVY2kdGsoFfZufQORsvuc6szpqaKJkRrTg0XoBVOQzSvdGiyOmFFwf3rrymwnUKHx0fcC5VAVsBUkWhhYZ7rG29w" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Vindskydd med bänkar. Ligger fint vid vattnet 100 meter från grusvägen. Går att köra fram till skyddet</desc>
     <sym>Campground</sym>
@@ -1105,7 +1124,7 @@
   </wpt>
   <wpt lat="57.437999993562698" lon="13.614999996498227">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Stackebo Vindskydd11</name>
+    <name>Stackebo Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1124,7 +1143,7 @@
   </wpt>
   <wpt lat="63.486999990418553" lon="15.75100002810359">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Stugun Vindskydd11</name>
+    <name>Stugun Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1143,7 +1162,7 @@
   </wpt>
   <wpt lat="68.071437506005168" lon="22.541410541161895">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Suijajärvi111</name>
+    <name>Suijajärvi1111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1162,7 +1181,7 @@
   </wpt>
   <wpt lat="57.316926000639796" lon="13.972142999991775">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Svänö Raststuga11</name>
+    <name>Svänö Raststuga111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1181,7 +1200,7 @@
   </wpt>
   <wpt lat="61.335053974762559" lon="12.926506027579308">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Sörsjön Vindskydd11</name>
+    <name>Sörsjön Vindskydd111</name>
     <cmt>&lt;img src="https://lh3.googleusercontent.com/proxy/-YG6uhtrjVd6Hx5YEVeYedcjJcdiNFyLS0AGitcs7ezvt8t4lFry4aLa5Gp-3aKrCzBduj_73XAr33hNTTREzrDrG67iXivhHBbmkEaR1R3f1gLgYxif5SzoFYWHcRrvxGnbAXWY_geb7dkYmxbRQKjyHIHzYWtlketKgMvi9PNMfMSqNmjGh8l4NEau_ARV" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger 500 meter från vändplatsen utmed vandringsleden. Har inte varit framme vid skyddet men det ser fint ut.</cmt>
     <desc>&lt;img src="https://lh3.googleusercontent.com/proxy/-YG6uhtrjVd6Hx5YEVeYedcjJcdiNFyLS0AGitcs7ezvt8t4lFry4aLa5Gp-3aKrCzBduj_73XAr33hNTTREzrDrG67iXivhHBbmkEaR1R3f1gLgYxif5SzoFYWHcRrvxGnbAXWY_geb7dkYmxbRQKjyHIHzYWtlketKgMvi9PNMfMSqNmjGh8l4NEau_ARV" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger 500 meter från vändplatsen utmed vandringsleden. Har inte varit framme vid skyddet men det ser fint ut.</desc>
     <sym>Campground</sym>
@@ -1201,7 +1220,7 @@
   <wpt lat="66.904179956763983" lon="19.240537695586681">
     <ele>361</ele>
     <time>2015-06-01T18:45:08Z</time>
-    <name>Tankställe - från dunk</name>
+    <name>Tankställe - från dunk1</name>
     <cmt>Open Land Area</cmt>
     <desc>Open Land Area</desc>
     <sym>Gas Station</sym>
@@ -1221,7 +1240,7 @@
   <wpt lat="66.428072517737746" lon="20.595052242279053">
     <ele>115</ele>
     <time>2015-06-01T18:42:19Z</time>
-    <name>Tankställe - kortautomat</name>
+    <name>Tankställe - kortautomat1</name>
     <cmt>City</cmt>
     <desc>City</desc>
     <sym>Gas Station</sym>
@@ -1240,7 +1259,7 @@
   </wpt>
   <wpt lat="63.53312099352479" lon="15.666503990069032">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Tannsjön Vindskydd11</name>
+    <name>Tannsjön Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1259,7 +1278,7 @@
   </wpt>
   <wpt lat="58.426594007760286" lon="14.256392028182745">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Tibro Vindskydd11</name>
+    <name>Tibro Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1278,7 +1297,7 @@
   </wpt>
   <wpt lat="55.568240974098444" lon="13.214347036555409">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Torup Vindskydd11</name>
+    <name>Torup Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1298,7 +1317,7 @@
   <wpt lat="60.852549970149994" lon="12.976633328944445">
     <ele>0</ele>
     <time>2019-12-23T21:03:41Z</time>
-    <name>Tossjön Vindskydd</name>
+    <name>Tossjön Vindskydd1</name>
     <cmt>&lt;img src="https://doc-04-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/j4heq8ibb43p12qlspsbuqi9ck/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALpTK3PkaGkwpH014F_2ueIwWUoUWmDiNDkaKsEaol9lNdTwkh4_ZfHp82goz3V50CYTuqfWZwXFDomuDt_QaVZOUR9fDMRfI_StT0YrE6LAV4wWUjHSgAElHg3Wn3gWZFX0Tui-J00d_9E5nvfynUx4DdBDPjSFVH0YT4Wsb627ZFO6scb7tQvJ7p0X55NGg518EvvrSFTtWwjB325Q120Uf7aZJsWJgqCb-0XbR53yw1vCMpKjSyJyOIh1UJ9QrVleP2jZPtE6Y6KnhhKuACvqCndjig?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Längs led: nej, men bara en kort avstickare från cykelleden Långlikåleden, bra iläggsplats för kanoter&lt;br&gt;Grillplats: Ja&lt;br&gt;Toalett: Ja (utedass)&lt;br&gt;Betyg: 5/10&lt;br&gt;Ved: finns ej&lt;br&gt;Antal personer (sovande i skydd): 4-5&lt;br&gt;Anslutning: rätt dålig grusväg den sista kilometern, ändå var det husvagnar där när jag kom fram&lt;br&gt;Närmaste tätort: Sysslebäck&lt;br&gt;Koordinater: N 60° 51.153, E 012°58.598&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/8evqd96phkitcj84f63b0piqvk/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqvY34Zd3G3E8nRNJEI5dXBrYL_jrw0S4NZVDLwbNt5lVw85aT3rbqN-fVNp1nlj0EA2uAWwKl255fvZvh9-6_g_Y0wTIOnrA-smS7eb0syEUHgA71-AeMbxmd2OYMlv0mAG0n3aB2_0_LySJsgAvoCRLeehgOSuxnVEbUvy9vZdmKYtajFNC2MKrnVQ_H4NuQ1mMsLyMIt7yZqWUqy0IT_qmypAYAcPGUDxjtLD586B_HcseqKiMXwK-TxnJ-EOP-Rz6iFut6StLOdvDgbXgamhFbzzw?session=0&amp;fife" height="200" width="auto" /&gt;</cmt>
     <desc>&lt;img src="https://doc-04-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/j4heq8ibb43p12qlspsbuqi9ck/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALpTK3PkaGkwpH014F_2ueIwWUoUWmDiNDkaKsEaol9lNdTwkh4_ZfHp82goz3V50CYTuqfWZwXFDomuDt_QaVZOUR9fDMRfI_StT0YrE6LAV4wWUjHSgAElHg3Wn3gWZFX0Tui-J00d_9E5nvfynUx4DdBDPjSFVH0YT4Wsb627ZFO6scb7tQvJ7p0X55NGg518EvvrSFTtWwjB325Q120Uf7aZJsWJgqCb-0XbR53yw1vCMpKjSyJyOIh1UJ9QrVleP2jZPtE6Y6KnhhKuACvqCndjig?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Längs led: nej, men bara en kort avstickare från cykelleden Långlikåleden, bra iläggsplats för kanoter&lt;br&gt;Grillplats: Ja&lt;br&gt;Toalett: Ja (utedass)&lt;br&gt;Betyg: 5/10&lt;br&gt;Ved: finns ej&lt;br&gt;Antal personer (sovande i skydd): 4-5&lt;br&gt;Anslutning: rätt dålig grusväg den sista kilometern, ändå var det husvagnar där när jag kom fram&lt;br&gt;Närmaste tätort: Sysslebäck&lt;br&gt;Koordinater: N 60° 51.153, E 012°58.598&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/8evqd96phkitcj84f63b0piqvk/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqvY34Zd3G3E8nRNJEI5dXBrYL_jrw0S4NZVDLwbNt5lVw85aT3rbqN-fVNp1nlj0EA2uAWwKl255fvZvh9-6_g_Y0wTIOnrA-smS7eb0syEUHgA71-AeMbxmd2OYMlv0mAG0n3aB2_0_LySJsgAvoCRLeehgOSuxnVEbUvy9vZdmKYtajFNC2MKrnVQ_H4NuQ1mMsLyMIt7yZqWUqy0IT_qmypAYAcPGUDxjtLD586B_HcseqKiMXwK-TxnJ-EOP-Rz6iFut6StLOdvDgbXgamhFbzzw?session=0&amp;fife" height="200" width="auto" /&gt;</desc>
     <sym>Campground</sym>
@@ -1318,7 +1337,7 @@
   <wpt lat="57.36636221408844" lon="13.764292001724243">
     <ele>215</ele>
     <time>2017-08-02T14:23:58Z</time>
-    <name>Töllstorp Vindskydd11</name>
+    <name>Töllstorp Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1337,7 +1356,7 @@
   </wpt>
   <wpt lat="55.967930015176535" lon="13.497198969125748">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Utmanarbacken11</name>
+    <name>Utmanarbacken111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1356,7 +1375,7 @@
   </wpt>
   <wpt lat="62.408544011414051" lon="15.553759010508657">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Utsikts plats med grillstuga11</name>
+    <name>Utsikts plats med grillstuga111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1375,7 +1394,7 @@
   </wpt>
   <wpt lat="59.009313974529505" lon="14.464760022237897">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Vargavidderna Vindskydd11</name>
+    <name>Vargavidderna Vindskydd111</name>
     <cmt>&lt;img src="https://lh3.googleusercontent.com/-90nV26l--OfJ9_dmwRY2Joyga1mjp6v4EPLMMaDhyCm3srf0tETvcapGe-507wf2WQpk7eFkicOwgiVNH9don6ObzGhJHiYlAAkiR1ETycGF2Aq9L7yF-gLMry1KftU" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;350x220 cm stort, trätak med tjärpapp och pressenning som dörr nattetid. Grillplats med bänkar samt utegrill. Ved finns under pressenning (september -16) Ingen toalett. Nås via 1km stig söderifrån endast till fots. Det finns ett fågeltorn bredvid. Ingen tältning.</cmt>
     <desc>&lt;img src="https://lh3.googleusercontent.com/-90nV26l--OfJ9_dmwRY2Joyga1mjp6v4EPLMMaDhyCm3srf0tETvcapGe-507wf2WQpk7eFkicOwgiVNH9don6ObzGhJHiYlAAkiR1ETycGF2Aq9L7yF-gLMry1KftU" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;350x220 cm stort, trätak med tjärpapp och pressenning som dörr nattetid. Grillplats med bänkar samt utegrill. Ved finns under pressenning (september -16) Ingen toalett. Nås via 1km stig söderifrån endast till fots. Det finns ett fågeltorn bredvid. Ingen tältning.</desc>
     <sym>Campground</sym>
@@ -1394,7 +1413,7 @@
   </wpt>
   <wpt lat="56.21500002220273" lon="13.62583301961422">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Vedema Vindskydd11</name>
+    <name>Vedema Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1414,7 +1433,7 @@
   <wpt lat="57.555742263793945" lon="13.49370002746582">
     <ele>186.699999999999989</ele>
     <time>2017-08-02T14:23:58Z</time>
-    <name>Veken Vindskydd11</name>
+    <name>Veken Vindskydd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1434,7 +1453,7 @@
   <wpt lat="57.444564700126648" lon="13.904893398284912">
     <ele>281.100000000000023</ele>
     <time>2017-08-02T14:23:58Z</time>
-    <name>Vildmarksbyn Raststuga11</name>
+    <name>Vildmarksbyn Raststuga111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1453,7 +1472,7 @@
   </wpt>
   <wpt lat="64.392394982278347" lon="18.576785009354353">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Viltvattnet Sörmyren11</name>
+    <name>Viltvattnet Sörmyren111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1472,7 +1491,7 @@
   </wpt>
   <wpt lat="56.800477970391512" lon="14.013930978253484">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Vindskydd Bräkentorp11</name>
+    <name>Vindskydd Bräkentorp111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1491,7 +1510,7 @@
   </wpt>
   <wpt lat="57.70573197863996" lon="13.693106006830931">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Vindskydd Komosse11</name>
+    <name>Vindskydd Komosse111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1510,7 +1529,7 @@
   </wpt>
   <wpt lat="58.888532007113099" lon="14.578830013051629">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Vindskydd Kråksjön11</name>
+    <name>Vindskydd Kråksjön111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1529,7 +1548,7 @@
   </wpt>
   <wpt lat="58.279007971286774" lon="14.207216994836926">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Vindskydd Lingonudden11</name>
+    <name>Vindskydd Lingonudden111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1548,7 +1567,7 @@
   </wpt>
   <wpt lat="65.117943333461881" lon="19.004674041643739">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Vindskydd Malån 111</name>
+    <name>Vindskydd Malån 1111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1567,7 +1586,7 @@
   </wpt>
   <wpt lat="65.111573003232479" lon="19.019994735717773">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Vindskydd Malån 211</name>
+    <name>Vindskydd Malån 2111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1586,7 +1605,7 @@
   </wpt>
   <wpt lat="58.295495007187128" lon="14.182008001953363">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Vindskydd Missveden11</name>
+    <name>Vindskydd Missveden111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1605,7 +1624,7 @@
   </wpt>
   <wpt lat="58.35391896776855" lon="14.252176014706492">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Vindskydd Slättås11</name>
+    <name>Vindskydd Slättås111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1624,7 +1643,7 @@
   </wpt>
   <wpt lat="65.127926766872406" lon="18.949527740478516">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Vindskydd Strömfors11</name>
+    <name>Vindskydd Strömfors111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1643,7 +1662,7 @@
   </wpt>
   <wpt lat="58.412171015515924" lon="14.257148997858167">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Vindskydd Tibro11</name>
+    <name>Vindskydd Tibro111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1662,7 +1681,7 @@
   </wpt>
   <wpt lat="57.490777904167771" lon="13.685456514358521">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Vindskydd Öreryd11</name>
+    <name>Vindskydd Öreryd111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1681,7 +1700,7 @@
   </wpt>
   <wpt lat="56.606429032981396" lon="14.020215980708599">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Vindskydd1111</name>
+    <name>Vindskydd11111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1701,7 +1720,7 @@
   <wpt lat="61.797425150871277" lon="13.685628175735474">
     <ele>532.100000000000023</ele>
     <time>2017-08-02T14:23:58Z</time>
-    <name>Vindskydd37911</name>
+    <name>Vindskydd379111</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -1719,7 +1738,7 @@
   <wpt lat="67.856706976890564" lon="22.644104361534119">
     <ele>379.600000000000023</ele>
     <time>2017-08-02T14:23:58Z</time>
-    <name>Vindskydd49611</name>
+    <name>Vindskydd496111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1739,7 +1758,7 @@
   <wpt lat="67.825212478637695" lon="22.803497314453125">
     <ele>358.300000000000011</ele>
     <time>2017-08-02T14:23:58Z</time>
-    <name>Vindskydd50011</name>
+    <name>Vindskydd500111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1759,7 +1778,7 @@
   <wpt lat="62.815361022949219" lon="15.354251861572266">
     <ele>281.399999999999977</ele>
     <time>2017-08-02T14:23:58Z</time>
-    <name>Vindskydd56011</name>
+    <name>Vindskydd560111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1779,7 +1798,7 @@
   <wpt lat="65.530786514282227" lon="18.796920776367188">
     <ele>448</ele>
     <time>2017-08-02T14:23:58Z</time>
-    <name>Vindskydd62911</name>
+    <name>Vindskydd629111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1798,7 +1817,7 @@
   </wpt>
   <wpt lat="64.077456034719944" lon="16.868223985657096">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Vindskydd6711</name>
+    <name>Vindskydd67111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1817,7 +1836,7 @@
   </wpt>
   <wpt lat="56.348298015072942" lon="13.684200989082456">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Vittsjö11</name>
+    <name>Vittsjö111</name>
     <cmt>Shelter</cmt>
     <desc>Shelter</desc>
     <sym>Campground</sym>
@@ -1836,7 +1855,7 @@
   </wpt>
   <wpt lat="61.923791980370879" lon="14.406778961420059">
     <time>2017-08-02T14:23:58Z</time>
-    <name>Östingen stuga för övernattning11</name>
+    <name>Östingen stuga för övernattning111</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -1852,7 +1871,7 @@
     </extensions>
   </wpt>
   <trk>
-    <name>TET-SWEDEN-Section 1a - 20200922</name>
+    <name>TET-SWEDEN-Section 1a - 20201028</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -14936,7 +14955,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET-SWEDEN-Section 1b - 20200922</name>
+    <name>TET-SWEDEN-Section 1b - 20201028</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -17664,290 +17683,29 @@
       <trkpt lat="57.181493639945984" lon="13.247591257095337">
         <ele>177.7734375</ele>
       </trkpt>
-      <trkpt lat="57.182400226593018" lon="13.248074054718018">
-        <ele>175.83984375</ele>
+      <trkpt lat="57.186539964750409" lon="13.265032488852739">
+        <ele>168.43359375</ele>
       </trkpt>
-      <trkpt lat="57.183017134666443" lon="13.2492595911026">
-        <ele>174.12109375</ele>
+      <trkpt lat="57.18954655341804" lon="13.272238494828343">
+        <ele>156.75390625</ele>
       </trkpt>
-      <trkpt lat="57.183612585067749" lon="13.248572945594788">
-        <ele>171.73046875</ele>
+      <trkpt lat="57.194754313677549" lon="13.275036457926035">
+        <ele>133.64453125</ele>
       </trkpt>
-      <trkpt lat="57.183623313903809" lon="13.248406648635864">
-        <ele>171.765625</ele>
+      <trkpt lat="57.195976562798023" lon="13.27664284966886">
+        <ele>133.6796875</ele>
       </trkpt>
-      <trkpt lat="57.183853983879089" lon="13.246303796768188">
-        <ele>176.36328125</ele>
+      <trkpt lat="57.198196006938815" lon="13.279325729236007">
+        <ele>141.3046875</ele>
       </trkpt>
-      <trkpt lat="57.184057831764221" lon="13.24526309967041">
-        <ele>184.21484375</ele>
+      <trkpt lat="57.199873980134726" lon="13.283669231459498">
+        <ele>140.19140625</ele>
       </trkpt>
-      <trkpt lat="57.183891534805298" lon="13.243669867515564">
-        <ele>187.76953125</ele>
+      <trkpt lat="57.203608704730868" lon="13.284283373504877">
+        <ele>145.03515625</ele>
       </trkpt>
-      <trkpt lat="57.183891534805298" lon="13.241883516311646">
-        <ele>189.48828125</ele>
-      </trkpt>
-      <trkpt lat="57.184320688247681" lon="13.240381479263306">
-        <ele>188.76953125</ele>
-      </trkpt>
-      <trkpt lat="57.185066342353821" lon="13.239158391952515">
-        <ele>188.4375</ele>
-      </trkpt>
-      <trkpt lat="57.185785174369812" lon="13.239222764968872">
-        <ele>191.66015625</ele>
-      </trkpt>
-      <trkpt lat="57.186820507049561" lon="13.2392817735672">
-        <ele>198.5390625</ele>
-      </trkpt>
-      <trkpt lat="57.187260389328003" lon="13.239233493804932">
-        <ele>201.64453125</ele>
-      </trkpt>
-      <trkpt lat="57.187619805335999" lon="13.239324688911438">
-        <ele>205.5078125</ele>
-      </trkpt>
-      <trkpt lat="57.18858003616333" lon="13.238815069198608">
-        <ele>206.921875</ele>
-      </trkpt>
-      <trkpt lat="57.189400792121887" lon="13.238096237182617">
-        <ele>203.83203125</ele>
-      </trkpt>
-      <trkpt lat="57.190361022949219" lon="13.237447142601013">
-        <ele>201.69921875</ele>
-      </trkpt>
-      <trkpt lat="57.191262245178223" lon="13.23778510093689">
-        <ele>201.8515625</ele>
-      </trkpt>
-      <trkpt lat="57.191932797431946" lon="13.239356875419617">
-        <ele>204.34375</ele>
-      </trkpt>
-      <trkpt lat="57.192469239234924" lon="13.240794539451599">
-        <ele>198.72265625</ele>
-      </trkpt>
-      <trkpt lat="57.192785739898682" lon="13.241448998451233">
-        <ele>193.5703125</ele>
-      </trkpt>
-      <trkpt lat="57.19306468963623" lon="13.241942524909973">
-        <ele>189.44921875</ele>
-      </trkpt>
-      <trkpt lat="57.193370461463928" lon="13.242334127426147">
-        <ele>184.36328125</ele>
-      </trkpt>
-      <trkpt lat="57.19383180141449" lon="13.242554068565369">
-        <ele>179.65234375</ele>
-      </trkpt>
-      <trkpt lat="57.194277048110962" lon="13.242800831794739">
-        <ele>176.04296875</ele>
-      </trkpt>
-      <trkpt lat="57.194459438323975" lon="13.242892026901245">
-        <ele>176.1953125</ele>
-      </trkpt>
-      <trkpt lat="57.193960547447205" lon="13.244099020957947">
-        <ele>173.57421875</ele>
-      </trkpt>
-      <trkpt lat="57.19333291053772" lon="13.246341347694397">
-        <ele>175.5625</ele>
-      </trkpt>
-      <trkpt lat="57.193129062652588" lon="13.247398138046265">
-        <ele>176.35546875</ele>
-      </trkpt>
-      <trkpt lat="57.193295359611511" lon="13.249189853668213">
-        <ele>174.17578125</ele>
-      </trkpt>
-      <trkpt lat="57.193220257759094" lon="13.24999988079071">
-        <ele>173.05859375</ele>
-      </trkpt>
-      <trkpt lat="57.193166613578796" lon="13.251882791519165">
-        <ele>174.34375</ele>
-      </trkpt>
-      <trkpt lat="57.19332754611969" lon="13.25350821018219">
-        <ele>171.7109375</ele>
-      </trkpt>
-      <trkpt lat="57.193654775619507" lon="13.255535960197449">
-        <ele>177.4375</ele>
-      </trkpt>
-      <trkpt lat="57.193869352340698" lon="13.256367444992065">
-        <ele>182.49609375</ele>
-      </trkpt>
-      <trkpt lat="57.194395065307617" lon="13.257837295532227">
-        <ele>186.83203125</ele>
-      </trkpt>
-      <trkpt lat="57.194668650627136" lon="13.258545398712158">
-        <ele>187.66015625</ele>
-      </trkpt>
-      <trkpt lat="57.194872498512268" lon="13.260632157325745">
-        <ele>187.23046875</ele>
-      </trkpt>
-      <trkpt lat="57.194491624832153" lon="13.262627720832825">
-        <ele>181.37890625</ele>
-      </trkpt>
-      <trkpt lat="57.194405794143677" lon="13.263282179832458">
-        <ele>178.36328125</ele>
-      </trkpt>
-      <trkpt lat="57.194234132766724" lon="13.264017105102539">
-        <ele>176.41796875</ele>
-      </trkpt>
-      <trkpt lat="57.195151448249817" lon="13.263791799545288">
-        <ele>178.53515625</ele>
-      </trkpt>
-      <trkpt lat="57.195752263069153" lon="13.26398491859436">
-        <ele>181.7265625</ele>
-      </trkpt>
-      <trkpt lat="57.196685671806335" lon="13.265454769134521">
-        <ele>178</ele>
-      </trkpt>
-      <trkpt lat="57.196760773658752" lon="13.265599608421326">
-        <ele>177.86328125</ele>
-      </trkpt>
-      <trkpt lat="57.19731867313385" lon="13.266887068748474">
-        <ele>176.8046875</ele>
-      </trkpt>
-      <trkpt lat="57.197731733322144" lon="13.268802165985107">
-        <ele>173.01171875</ele>
-      </trkpt>
-      <trkpt lat="57.197892665863037" lon="13.268716335296631">
-        <ele>173.0234375</ele>
-      </trkpt>
-      <trkpt lat="57.198686599731445" lon="13.268925547599792">
-        <ele>172.6328125</ele>
-      </trkpt>
-      <trkpt lat="57.199400067329407" lon="13.270003795623779">
-        <ele>173.97265625</ele>
-      </trkpt>
-      <trkpt lat="57.200354933738708" lon="13.26949417591095">
-        <ele>174.72265625</ele>
-      </trkpt>
-      <trkpt lat="57.20132052898407" lon="13.269456624984741">
-        <ele>173.8203125</ele>
-      </trkpt>
-      <trkpt lat="57.202613353729248" lon="13.268887996673584">
-        <ele>173.76171875</ele>
-      </trkpt>
-      <trkpt lat="57.203203439712524" lon="13.268271088600159">
-        <ele>167.17578125</ele>
-      </trkpt>
-      <trkpt lat="57.203589677810669" lon="13.267847299575806">
-        <ele>164.59375</ele>
-      </trkpt>
-      <trkpt lat="57.204426527023315" lon="13.267589807510376">
-        <ele>161.92578125</ele>
-      </trkpt>
-      <trkpt lat="57.204576730728149" lon="13.268324732780457">
-        <ele>158.13671875</ele>
-      </trkpt>
-      <trkpt lat="57.204909324645996" lon="13.269065022468567">
-        <ele>154.13671875</ele>
-      </trkpt>
-      <trkpt lat="57.205574512481689" lon="13.26924741268158">
-        <ele>150.7890625</ele>
-      </trkpt>
-      <trkpt lat="57.206025123596191" lon="13.269633650779724">
-        <ele>146.74609375</ele>
-      </trkpt>
-      <trkpt lat="57.206143140792847" lon="13.269687294960022">
-        <ele>146.01171875</ele>
-      </trkpt>
-      <trkpt lat="57.207081913948059" lon="13.269161581993103">
-        <ele>143.515625</ele>
-      </trkpt>
-      <trkpt lat="57.208101153373718" lon="13.268909454345703">
-        <ele>141.23046875</ele>
-      </trkpt>
-      <trkpt lat="57.209243774414062" lon="13.268351554870605">
-        <ele>142.4609375</ele>
-      </trkpt>
-      <trkpt lat="57.210085988044739" lon="13.267847299575806">
-        <ele>142.2890625</ele>
-      </trkpt>
-      <trkpt lat="57.211035490036011" lon="13.268179893493652">
-        <ele>142.8125</ele>
-      </trkpt>
-      <trkpt lat="57.212070822715759" lon="13.267777562141418">
-        <ele>141.5859375</ele>
-      </trkpt>
-      <trkpt lat="57.212972044944763" lon="13.267648816108704">
-        <ele>142.25</ele>
-      </trkpt>
-      <trkpt lat="57.213755249977112" lon="13.266785144805908">
-        <ele>142.1015625</ele>
-      </trkpt>
-      <trkpt lat="57.214946150779724" lon="13.267166018486023">
-        <ele>144.09375</ele>
-      </trkpt>
-      <trkpt lat="57.215031981468201" lon="13.267257213592529">
-        <ele>144.26171875</ele>
-      </trkpt>
-      <trkpt lat="57.215901017189026" lon="13.268587589263916">
-        <ele>145.515625</ele>
-      </trkpt>
-      <trkpt lat="57.215090990066528" lon="13.269274234771729">
-        <ele>144.6640625</ele>
-      </trkpt>
-      <trkpt lat="57.21479058265686" lon="13.270057439804077">
-        <ele>148.12890625</ele>
-      </trkpt>
-      <trkpt lat="57.214366793632507" lon="13.270717263221741">
-        <ele>152.33203125</ele>
-      </trkpt>
-      <trkpt lat="57.214012742042542" lon="13.271420001983643">
-        <ele>155.51171875</ele>
-      </trkpt>
-      <trkpt lat="57.213106155395508" lon="13.273034691810608">
-        <ele>159.51171875</ele>
-      </trkpt>
-      <trkpt lat="57.213036417961121" lon="13.273141980171204">
-        <ele>159.6484375</ele>
-      </trkpt>
-      <trkpt lat="57.21229612827301" lon="13.274633288383484">
-        <ele>156.96875</ele>
-      </trkpt>
-      <trkpt lat="57.211840152740479" lon="13.27522337436676">
-        <ele>153.7890625</ele>
-      </trkpt>
-      <trkpt lat="57.210987210273743" lon="13.276028037071228">
-        <ele>152.1796875</ele>
-      </trkpt>
-      <trkpt lat="57.21006453037262" lon="13.277631998062134">
-        <ele>156.03515625</ele>
-      </trkpt>
-      <trkpt lat="57.209399342536926" lon="13.278838992118835">
-        <ele>154.96484375</ele>
-      </trkpt>
-      <trkpt lat="57.209184765815735" lon="13.279396891593933">
-        <ele>150.47265625</ele>
-      </trkpt>
-      <trkpt lat="57.208476662635803" lon="13.280389308929443">
-        <ele>148.47265625</ele>
-      </trkpt>
-      <trkpt lat="57.208541035652161" lon="13.281692862510681">
-        <ele>153.18359375</ele>
-      </trkpt>
-      <trkpt lat="57.208492755889893" lon="13.283763527870178">
-        <ele>155.73828125</ele>
-      </trkpt>
-      <trkpt lat="57.208267450332642" lon="13.284557461738586">
-        <ele>156.44921875</ele>
-      </trkpt>
-      <trkpt lat="57.207607626914978" lon="13.28571081161499">
-        <ele>154.41796875</ele>
-      </trkpt>
-      <trkpt lat="57.20831573009491" lon="13.285303115844727">
-        <ele>157.4140625</ele>
-      </trkpt>
-      <trkpt lat="57.209131121635437" lon="13.286435008049011">
-        <ele>163.7578125</ele>
-      </trkpt>
-      <trkpt lat="57.21005916595459" lon="13.287765383720398">
-        <ele>164.41796875</ele>
-      </trkpt>
-      <trkpt lat="57.210702896118164" lon="13.288382291793823">
-        <ele>163.390625</ele>
-      </trkpt>
-      <trkpt lat="57.2120600938797" lon="13.289315700531006">
-        <ele>161.140625</ele>
-      </trkpt>
-      <trkpt lat="57.212762832641602" lon="13.290292024612427">
-        <ele>157.6640625</ele>
+      <trkpt lat="57.207541996613145" lon="13.288237452507019">
+        <ele>148.2421875</ele>
       </trkpt>
       <trkpt lat="57.212854027748108" lon="13.290420770645142">
         <ele>157.51171875</ele>
@@ -18066,176 +17824,53 @@
       <trkpt lat="57.251520752906799" lon="13.304309248924255">
         <ele>164.78125</ele>
       </trkpt>
-      <trkpt lat="57.252067923545837" lon="13.303059339523315">
-        <ele>161.74609375</ele>
+      <trkpt lat="57.253101244568825" lon="13.30035257153213">
+        <ele>163.97265625</ele>
       </trkpt>
-      <trkpt lat="57.252298593521118" lon="13.303327560424805">
-        <ele>161.91796875</ele>
+      <trkpt lat="57.254903856664896" lon="13.300287527963519">
+        <ele>165.609375</ele>
       </trkpt>
-      <trkpt lat="57.252802848815918" lon="13.304770588874817">
-        <ele>165.90625</ele>
+      <trkpt lat="57.257862333208323" lon="13.297856105491519">
+        <ele>170.07421875</ele>
       </trkpt>
-      <trkpt lat="57.253709435462952" lon="13.306117057800293">
-        <ele>175.66015625</ele>
+      <trkpt lat="57.259443160146475" lon="13.293014634400606">
+        <ele>168.4296875</ele>
       </trkpt>
-      <trkpt lat="57.254675030708313" lon="13.306664228439331">
-        <ele>180.65234375</ele>
+      <trkpt lat="57.262101480737329" lon="13.288570046424866">
+        <ele>169.68359375</ele>
       </trkpt>
-      <trkpt lat="57.255281209945679" lon="13.306921720504761">
-        <ele>185.98828125</ele>
+      <trkpt lat="57.26654808036983" lon="13.287644265219569">
+        <ele>168.55078125</ele>
       </trkpt>
-      <trkpt lat="57.255817651748657" lon="13.307265043258667">
-        <ele>189.359375</ele>
+      <trkpt lat="57.27130388841033" lon="13.284069132059813">
+        <ele>168.43359375</ele>
       </trkpt>
-      <trkpt lat="57.257523536682129" lon="13.306653499603271">
-        <ele>190.203125</ele>
+      <trkpt lat="57.273856429383159" lon="13.28422243706882">
+        <ele>169.48828125</ele>
       </trkpt>
-      <trkpt lat="57.258639335632324" lon="13.306063413619995">
-        <ele>192.33984375</ele>
+      <trkpt lat="57.276366222649813" lon="13.286471636965871">
+        <ele>163.71484375</ele>
       </trkpt>
-      <trkpt lat="57.260034084320068" lon="13.305639624595642">
-        <ele>189.296875</ele>
+      <trkpt lat="57.278641490265727" lon="13.285248298197985">
+        <ele>160.30859375</ele>
       </trkpt>
-      <trkpt lat="57.260919213294983" lon="13.305559158325195">
-        <ele>186.12890625</ele>
+      <trkpt lat="57.280452148988843" lon="13.288518665358424">
+        <ele>167.25390625</ele>
       </trkpt>
-      <trkpt lat="57.261455655097961" lon="13.305655717849731">
-        <ele>181.5546875</ele>
-      </trkpt>
-      <trkpt lat="57.26349413394928" lon="13.306996822357178">
-        <ele>171.48046875</ele>
-      </trkpt>
-      <trkpt lat="57.263756990432739" lon="13.307093381881714">
-        <ele>172.828125</ele>
-      </trkpt>
-      <trkpt lat="57.264894247055054" lon="13.307581543922424">
-        <ele>175.2109375</ele>
-      </trkpt>
-      <trkpt lat="57.265360951423645" lon="13.309636116027832">
-        <ele>175.015625</ele>
-      </trkpt>
-      <trkpt lat="57.265323400497437" lon="13.311331272125244">
-        <ele>172.875</ele>
-      </trkpt>
-      <trkpt lat="57.265457510948181" lon="13.312844038009644">
-        <ele>169.6796875</ele>
-      </trkpt>
-      <trkpt lat="57.265709638595581" lon="13.314555287361145">
-        <ele>167.24609375</ele>
-      </trkpt>
-      <trkpt lat="57.266675233840942" lon="13.315134644508362">
-        <ele>168.92578125</ele>
-      </trkpt>
-      <trkpt lat="57.267013192176819" lon="13.317001461982727">
-        <ele>166.78125</ele>
-      </trkpt>
-      <trkpt lat="57.26697564125061" lon="13.317301869392395">
-        <ele>166.72265625</ele>
-      </trkpt>
-      <trkpt lat="57.267463803291321" lon="13.318578600883484">
-        <ele>170.1796875</ele>
-      </trkpt>
-      <trkpt lat="57.267656922340393" lon="13.319066762924194">
-        <ele>170.828125</ele>
-      </trkpt>
-      <trkpt lat="57.268542051315308" lon="13.318739533424377">
-        <ele>173.9609375</ele>
-      </trkpt>
-      <trkpt lat="57.268660068511963" lon="13.318567872047424">
-        <ele>174.12109375</ele>
-      </trkpt>
-      <trkpt lat="57.269260883331299" lon="13.317001461982727">
-        <ele>175.3046875</ele>
-      </trkpt>
-      <trkpt lat="57.269909977912903" lon="13.316212892532349">
-        <ele>178.62109375</ele>
-      </trkpt>
-      <trkpt lat="57.27098286151886" lon="13.314228057861328">
+      <trkpt lat="57.280942406505346" lon="13.290627636015415">
         <ele>176.0078125</ele>
       </trkpt>
-      <trkpt lat="57.271835803985596" lon="13.313562870025635">
-        <ele>173.25390625</ele>
+      <trkpt lat="57.280882894992828" lon="13.294599317014217">
+        <ele>171.19140625</ele>
       </trkpt>
-      <trkpt lat="57.272409796714783" lon="13.313621878623962">
-        <ele>176.9921875</ele>
+      <trkpt lat="57.283189930021763" lon="13.304355600848794">
+        <ele>181.8828125</ele>
       </trkpt>
-      <trkpt lat="57.272881865501404" lon="13.31393837928772">
-        <ele>180.12890625</ele>
+      <trkpt lat="57.285397136583924" lon="13.306695660576224">
+        <ele>166.62109375</ele>
       </trkpt>
-      <trkpt lat="57.273418307304382" lon="13.314716219902039">
-        <ele>185.37890625</ele>
-      </trkpt>
-      <trkpt lat="57.273530960083008" lon="13.314839601516724">
-        <ele>185.47265625</ele>
-      </trkpt>
-      <trkpt lat="57.274501919746399" lon="13.315848112106323">
-        <ele>187.71484375</ele>
-      </trkpt>
-      <trkpt lat="57.275269031524658" lon="13.316792249679565">
-        <ele>191.3203125</ele>
-      </trkpt>
-      <trkpt lat="57.275944948196411" lon="13.316980004310608">
-        <ele>187.12890625</ele>
-      </trkpt>
-      <trkpt lat="57.276572585105896" lon="13.316888809204102">
-        <ele>182.3828125</ele>
-      </trkpt>
-      <trkpt lat="57.277082204818726" lon="13.317317962646484">
-        <ele>180.359375</ele>
-      </trkpt>
-      <trkpt lat="57.277817130088806" lon="13.317714929580688">
-        <ele>184.6328125</ele>
-      </trkpt>
-      <trkpt lat="57.278798818588257" lon="13.31741988658905">
-        <ele>184.17578125</ele>
-      </trkpt>
-      <trkpt lat="57.279185056686401" lon="13.317323327064514">
-        <ele>183.28515625</ele>
-      </trkpt>
-      <trkpt lat="57.28020966053009" lon="13.317339420318604">
-        <ele>184.1953125</ele>
-      </trkpt>
-      <trkpt lat="57.281373739242554" lon="13.317645192146301">
-        <ele>183.94921875</ele>
-      </trkpt>
-      <trkpt lat="57.282135486602783" lon="13.318567872047424">
-        <ele>176.9140625</ele>
-      </trkpt>
-      <trkpt lat="57.28320300579071" lon="13.318331837654114">
-        <ele>170.25</ele>
-      </trkpt>
-      <trkpt lat="57.283857464790344" lon="13.317940235137939">
-        <ele>167.14453125</ele>
-      </trkpt>
-      <trkpt lat="57.285354137420654" lon="13.317607641220093">
-        <ele>166.015625</ele>
-      </trkpt>
-      <trkpt lat="57.286228537559509" lon="13.316153883934021">
-        <ele>165.03515625</ele>
-      </trkpt>
-      <trkpt lat="57.286636233329773" lon="13.314780592918396">
-        <ele>163.1796875</ele>
-      </trkpt>
-      <trkpt lat="57.287521362304688" lon="13.314206600189209">
-        <ele>167.16015625</ele>
-      </trkpt>
-      <trkpt lat="57.288148999214172" lon="13.314034938812256">
-        <ele>171.0234375</ele>
-      </trkpt>
-      <trkpt lat="57.289441823959351" lon="13.314013481140137">
-        <ele>166.06640625</ele>
-      </trkpt>
-      <trkpt lat="57.289817333221436" lon="13.313884735107422">
-        <ele>162.55078125</ele>
-      </trkpt>
-      <trkpt lat="57.290166020393372" lon="13.313562870025635">
-        <ele>160.74609375</ele>
-      </trkpt>
-      <trkpt lat="57.290761470794678" lon="13.311846256256104">
-        <ele>163.48046875</ele>
-      </trkpt>
-      <trkpt lat="57.291142344474792" lon="13.310708999633789">
-        <ele>164.2421875</ele>
+      <trkpt lat="57.287424132227898" lon="13.305825535207987">
+        <ele>160.82421875</ele>
       </trkpt>
       <trkpt lat="57.292124032974243" lon="13.312452435493469">
         <ele>164.0859375</ele>
@@ -19212,7 +18847,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET-SWEDEN-Section 2 - 20200922</name>
+    <name>TET-SWEDEN-Section 2 - 20201028</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -19876,56 +19511,23 @@
       <trkpt lat="57.638751268386841" lon="13.594653010368347">
         <ele>272.91796875</ele>
       </trkpt>
-      <trkpt lat="57.639443278312683" lon="13.594545722007751">
-        <ele>276.296875</ele>
+      <trkpt lat="57.640174347907305" lon="13.592893900349736">
+        <ele>277.83984375</ele>
       </trkpt>
-      <trkpt lat="57.639722228050232" lon="13.596020936965942">
-        <ele>275.328125</ele>
+      <trkpt lat="57.640077285468578" lon="13.590288469567895">
+        <ele>269.22265625</ele>
       </trkpt>
-      <trkpt lat="57.640049457550049" lon="13.597190380096436">
-        <ele>275.50390625</ele>
+      <trkpt lat="57.640207121148705" lon="13.588128201663494">
+        <ele>262.5078125</ele>
       </trkpt>
-      <trkpt lat="57.640087008476257" lon="13.598542213439941">
-        <ele>274.44140625</ele>
+      <trkpt lat="57.640805756673217" lon="13.586943419650197">
+        <ele>263.33984375</ele>
       </trkpt>
-      <trkpt lat="57.639840245246887" lon="13.599749207496643">
-        <ele>276.3984375</ele>
+      <trkpt lat="57.641916610300541" lon="13.590198196470737">
+        <ele>273.12109375</ele>
       </trkpt>
-      <trkpt lat="57.639593482017517" lon="13.601117134094238">
-        <ele>278.9140625</ele>
-      </trkpt>
-      <trkpt lat="57.6402747631073" lon="13.602517247200012">
-        <ele>284.3359375</ele>
-      </trkpt>
-      <trkpt lat="57.640832662582397" lon="13.603439927101135">
-        <ele>286.71484375</ele>
-      </trkpt>
-      <trkpt lat="57.641460299491882" lon="13.604019284248352">
-        <ele>285.20703125</ele>
-      </trkpt>
-      <trkpt lat="57.642554640769958" lon="13.60331654548645">
-        <ele>284.328125</ele>
-      </trkpt>
-      <trkpt lat="57.642812132835388" lon="13.601986169815063">
-        <ele>280.203125</ele>
-      </trkpt>
-      <trkpt lat="57.642356157302856" lon="13.600918650627136">
-        <ele>276.12109375</ele>
-      </trkpt>
-      <trkpt lat="57.642104029655457" lon="13.599411249160767">
-        <ele>277.0390625</ele>
-      </trkpt>
-      <trkpt lat="57.642812132835388" lon="13.598392009735107">
-        <ele>283.6015625</ele>
-      </trkpt>
-      <trkpt lat="57.642704844474792" lon="13.597050905227661">
-        <ele>283.0859375</ele>
-      </trkpt>
-      <trkpt lat="57.643219828605652" lon="13.596219420433044">
-        <ele>283.796875</ele>
-      </trkpt>
-      <trkpt lat="57.643686532974243" lon="13.594883680343628">
-        <ele>279.71484375</ele>
+      <trkpt lat="57.643263079226017" lon="13.592495927587152">
+        <ele>274.5546875</ele>
       </trkpt>
       <trkpt lat="57.644459009170532" lon="13.594969511032104">
         <ele>280.3046875</ele>
@@ -26593,7 +26195,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET-SWEDEN-Section 3 - 20200922</name>
+    <name>TET-SWEDEN-Section 3 - 20201028</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -28910,10 +28512,10 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET-SWEDEN-Section 4 - 20200922</name>
+    <name>TET-SWEDEN-Section 4 - 20201028</name>
     <extensions>
       <gpxx:TrackExtension>
-        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+        <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
       </gpxx:TrackExtension>
     </extensions>
     <trkseg>
@@ -54452,7 +54054,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET-SWEDEN-Section 5 - 20200922</name>
+    <name>TET-SWEDEN-Section 5 - 20201028</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
