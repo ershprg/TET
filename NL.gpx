@@ -4,7 +4,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2020-11-15T20:15:18Z</time>
+    <time>2020-12-03T21:49:39Z</time>
     <bounds maxlat="53.153532100841403" maxlon="7.199326688423753" minlat="51.261603869497776" minlon="4.587341761216521"/>
   </metadata>
   <wpt lat="52.026811363175511" lon="5.872004125267267">
@@ -877,7 +877,7 @@
     </extensions>
   </wpt>
   <trk>
-    <name>TET-NL-Drenthe-20201115</name>
+    <name>TET-NL-Drenthe-20201203</name>
     <desc>Length: 190.6 km (118.5 mi)</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -1778,7 +1778,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-Liason to ferry (only Tarmac)-20201115</name>
+    <name>TET-NL-Liason to ferry (only Tarmac)-20201203</name>
     <desc>Length: 225 km (139.8 mi)</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -9625,7 +9625,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-North-20201115</name>
+    <name>TET-NL-North-20201203</name>
     <desc>Length: 399.6 km (248.3 mi)</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -16912,131 +16912,38 @@
       <trkpt lat="52.128009181469679" lon="6.523746382445097">
         <ele>18.399999999999999</ele>
       </trkpt>
-      <trkpt lat="52.128251837566495" lon="6.518521774560213">
+      <trkpt lat="52.128369770944118" lon="6.517525166273117">
         <ele>16.960000000000001</ele>
       </trkpt>
-      <trkpt lat="52.128300117328763" lon="6.517349062487483">
-        <ele>16</ele>
+      <trkpt lat="52.12528757750988" lon="6.518400320783257">
+        <ele>15.34765625</ele>
       </trkpt>
-      <trkpt lat="52.128574121743441" lon="6.512528378516436">
-        <ele>18.879999999999999</ele>
+      <trkpt lat="52.122684912756085" lon="6.520858146250248">
+        <ele>15.05078125</ele>
       </trkpt>
-      <trkpt lat="52.128678141161799" lon="6.510818470269442">
-        <ele>17.440000000000001</ele>
+      <trkpt lat="52.120243348181248" lon="6.523183956742287">
+        <ele>14.796875</ele>
       </trkpt>
-      <trkpt lat="52.128724828362465" lon="6.510583106428385">
-        <ele>18.399999999999999</ele>
+      <trkpt lat="52.116929059848189" lon="6.52331069111824">
+        <ele>16.66796875</ele>
       </trkpt>
-      <trkpt lat="52.129007130861282" lon="6.509244432672858">
-        <ele>15.52</ele>
+      <trkpt lat="52.115837903693318" lon="6.520507698878646">
+        <ele>16.84765625</ele>
       </trkpt>
-      <trkpt lat="52.129015764221549" lon="6.509135970845819">
-        <ele>15.52</ele>
+      <trkpt lat="52.115671187639236" lon="6.519426601007581">
+        <ele>16.109375</ele>
       </trkpt>
-      <trkpt lat="52.128803702071309" lon="6.508761215955019">
-        <ele>15.039999999999999</ele>
+      <trkpt lat="52.115154275670648" lon="6.518393028527498">
+        <ele>15.12890625</ele>
       </trkpt>
-      <trkpt lat="52.128547634929419" lon="6.508752834051847">
-        <ele>16</ele>
+      <trkpt lat="52.116693360731006" lon="6.513261878862977">
+        <ele>17.48828125</ele>
       </trkpt>
-      <trkpt lat="52.128250496461987" lon="6.508826091885567">
-        <ele>15.52</ele>
+      <trkpt lat="52.118134964257479" lon="6.504579149186611">
+        <ele>15.703125</ele>
       </trkpt>
-      <trkpt lat="52.127983700484037" lon="6.50880522094667">
-        <ele>14.56</ele>
-      </trkpt>
-      <trkpt lat="52.12760316208005" lon="6.509193638339639">
-        <ele>15.039999999999999</ele>
-      </trkpt>
-      <trkpt lat="52.127593858167529" lon="6.509334286674857">
-        <ele>14.56</ele>
-      </trkpt>
-      <trkpt lat="52.127562426030636" lon="6.509726727381349">
-        <ele>14.56</ele>
-      </trkpt>
-      <trkpt lat="52.127298228442669" lon="6.510521918535233">
-        <ele>14.56</ele>
-      </trkpt>
-      <trkpt lat="52.126360880210996" lon="6.511260028928518">
-        <ele>14.08</ele>
-      </trkpt>
-      <trkpt lat="52.125850841403008" lon="6.511904429644346">
-        <ele>14.56</ele>
-      </trkpt>
-      <trkpt lat="52.125370223075151" lon="6.512505495920777">
-        <ele>14.08</ele>
-      </trkpt>
-      <trkpt lat="52.125195628032088" lon="6.512401225045323">
-        <ele>13.6</ele>
-      </trkpt>
-      <trkpt lat="52.125149359926581" lon="6.512339282780886">
-        <ele>13.6</ele>
-      </trkpt>
-      <trkpt lat="52.125046430155635" lon="6.512233084067702">
-        <ele>13.6</ele>
-      </trkpt>
-      <trkpt lat="52.123840358108282" lon="6.510957274585962">
-        <ele>15.039999999999999</ele>
-      </trkpt>
-      <trkpt lat="52.123567862436175" lon="6.510665835812688">
-        <ele>15.52</ele>
-      </trkpt>
-      <trkpt lat="52.123009460046887" lon="6.510158227756619">
-        <ele>15.039999999999999</ele>
-      </trkpt>
-      <trkpt lat="52.121637258678675" lon="6.508711259812117">
-        <ele>14.56</ele>
-      </trkpt>
-      <trkpt lat="52.121776398271322" lon="6.508378582075238">
-        <ele>16</ele>
-      </trkpt>
-      <trkpt lat="52.121843537315726" lon="6.508250841870904">
-        <ele>16</ele>
-      </trkpt>
-      <trkpt lat="52.12190673686564" lon="6.508096028119326">
-        <ele>16.48</ele>
-      </trkpt>
-      <trkpt lat="52.122676614671946" lon="6.506163664162159">
-        <ele>17.440000000000001</ele>
-      </trkpt>
-      <trkpt lat="52.122850539162755" lon="6.505568465217948">
-        <ele>17.440000000000001</ele>
-      </trkpt>
-      <trkpt lat="52.122900495305657" lon="6.505143670365214">
-        <ele>16.960000000000001</ele>
-      </trkpt>
-      <trkpt lat="52.123091435059905" lon="6.503367628902197">
-        <ele>15.52</ele>
-      </trkpt>
-      <trkpt lat="52.123156310990453" lon="6.502773184329271">
-        <ele>13.6</ele>
-      </trkpt>
-      <trkpt lat="52.122990014031529" lon="6.502669500187039">
-        <ele>15.039999999999999</ele>
-      </trkpt>
-      <trkpt lat="52.122580977156758" lon="6.502532539889216">
-        <ele>15.039999999999999</ele>
-      </trkpt>
-      <trkpt lat="52.121570538729429" lon="6.501519670709968">
-        <ele>16</ele>
-      </trkpt>
-      <trkpt lat="52.120552724227309" lon="6.499008201062679">
-        <ele>15.52</ele>
-      </trkpt>
-      <trkpt lat="52.120372178032994" lon="6.498560439795256">
-        <ele>15.52</ele>
-      </trkpt>
-      <trkpt lat="52.119935313239694" lon="6.498269084841013">
-        <ele>15.52</ele>
-      </trkpt>
-      <trkpt lat="52.11983934044838" lon="6.498266318812966">
-        <ele>15.039999999999999</ele>
-      </trkpt>
-      <trkpt lat="52.119677318260074" lon="6.498249135911465">
-        <ele>14.56</ele>
-      </trkpt>
-      <trkpt lat="52.119489898905158" lon="6.497826939448714">
-        <ele>15.039999999999999</ele>
+      <trkpt lat="52.11946114897728" lon="6.500013861805201">
+        <ele>15.69921875</ele>
       </trkpt>
       <trkpt lat="52.11988041177392" lon="6.493211276829243">
         <ele>19.359999999999999</ele>
@@ -18460,7 +18367,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-South-20201115</name>
+    <name>TET-NL-South-20201203</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
