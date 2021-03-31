@@ -4,8 +4,8 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2020-10-30T07:59:56Z</time>
-    <bounds maxlat="68.071437506005168" maxlon="23.665033411234617" minlat="42.393316961824894" minlon="1.548216976225376"/>
+    <time>2021-03-30T20:51:09Z</time>
+    <bounds maxlat="68.071437506005168" maxlon="23.665033411234617" minlat="55.408678958192468" minlon="12.325737476348877"/>
   </metadata>
   <wpt lat="55.681707970798016" lon="13.39016399346292">
     <time>2017-08-02T14:23:58Z</time>
@@ -42,25 +42,6 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2017-08-02T14:23:58Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="42.393316961824894" lon="1.548216976225376">
-    <time>2016-09-02T21:47:06Z</time>
-    <name>02311111</name>
-    <cmt>1527.473511</cmt>
-    <desc>1527.473511</desc>
-    <sym>Waypoint</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2016-09-02T21:47:06Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -790,6 +771,26 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2017-08-02T14:23:58Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="56.968905692920089" lon="14.570082239806652">
+    <ele>175.8671875</ele>
+    <time>2021-03-30T17:24:45Z</time>
+    <name>IOGT-NTO Vandrarhem Kronobergshed</name>
+    <cmt>10% discount if you say you are riding "TET"</cmt>
+    <desc>10% discount if you say you are riding "TET"</desc>
+    <sym>Lodging</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-03-30T17:24:45Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -1871,7 +1872,7 @@
     </extensions>
   </wpt>
   <trk>
-    <name>TET-SWEDEN-Section 1a - 20201028</name>
+    <name>TET-SWEDEN-Section 1a - 20210330</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -14955,7 +14956,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET-SWEDEN-Section 1b - 20201028</name>
+    <name>TET-SWEDEN-Section 1b - 20210330</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -17785,20 +17786,14 @@
       <trkpt lat="57.238463759422302" lon="13.320338129997253">
         <ele>184.06640625</ele>
       </trkpt>
-      <trkpt lat="57.239209413528442" lon="13.319013118743896">
-        <ele>181.23046875</ele>
+      <trkpt lat="57.240883531048894" lon="13.322147615253925">
+        <ele>173.29296875</ele>
       </trkpt>
-      <trkpt lat="57.240164279937744" lon="13.316658139228821">
-        <ele>181.80078125</ele>
+      <trkpt lat="57.241620132699609" lon="13.323533227667212">
+        <ele>169.1328125</ele>
       </trkpt>
-      <trkpt lat="57.240539789199829" lon="13.315161466598511">
-        <ele>183.734375</ele>
-      </trkpt>
-      <trkpt lat="57.241789698600769" lon="13.315156102180481">
-        <ele>184.44921875</ele>
-      </trkpt>
-      <trkpt lat="57.242669463157654" lon="13.315016627311707">
-        <ele>181.13671875</ele>
+      <trkpt lat="57.242141151800752" lon="13.322340063750744">
+        <ele>170.30859375</ele>
       </trkpt>
       <trkpt lat="57.24325954914093" lon="13.315043449401855">
         <ele>176.5390625</ele>
@@ -18847,7 +18842,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET-SWEDEN-Section 2 - 20201028</name>
+    <name>TET-SWEDEN-Section 2 - 20210330</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -26195,7 +26190,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET-SWEDEN-Section 3 - 20201028</name>
+    <name>TET-SWEDEN-Section 3 - 20210330</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -28512,10 +28507,10 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET-SWEDEN-Section 4 - 20201028</name>
+    <name>TET-SWEDEN-Section 4 - 20210330</name>
     <extensions>
       <gpxx:TrackExtension>
-        <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
       </gpxx:TrackExtension>
     </extensions>
     <trkseg>
@@ -54054,7 +54049,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET-SWEDEN-Section 5 - 20201028</name>
+    <name>TET-SWEDEN-Section 5 - 20210330</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
