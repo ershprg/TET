@@ -4,7 +4,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2021-04-06T19:29:08Z</time>
+    <time>2021-04-29T17:31:06Z</time>
     <bounds maxlat="53.153532100841403" maxlon="7.199326688423753" minlat="51.261603869497776" minlon="4.587341761216521"/>
   </metadata>
   <wpt lat="52.026811363175511" lon="5.872004125267267">
@@ -38,6 +38,24 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2019-06-28T13:09:28Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="52.449743086472154" lon="6.620255783200264">
+    <ele>10.80859375</ele>
+    <time>2021-04-20T15:03:23Z</time>
+    <name>Bed &amp; Breakfast Holthuis</name>
+    <sym>Lodging</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-04-20T15:03:23Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -178,9 +196,10 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="52.449791030958295" lon="6.620662305504084">
+  <wpt lat="52.449821960180998" lon="6.62059566937387">
+    <ele>11.09375</ele>
     <time>2019-10-16T18:35:10Z</time>
-    <name>Cafe Holthuis TET Riders Welcome</name>
+    <name>Cafe Holthuis TET Riders Welcome1</name>
     <sym>Restaurant</sym>
     <type>user</type>
     <extensions>
@@ -192,6 +211,48 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2019-10-16T18:35:10Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="52.916201949119568" lon="6.266241073608398">
+    <ele>9.40234375</ele>
+    <time>2021-04-20T15:42:28Z</time>
+    <name>camping De Blauwe Lantaarn</name>
+    <cmt>De Blauwe Lantaarn
+Wateren 5
+8438 SB, Wateren, Drenthe, Nederland
+521-387258</cmt>
+    <desc>De Blauwe Lantaarn
+Wateren 5
+8438 SB, Wateren, Drenthe, Nederland
+521-387258</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>Wateren 5</gpxx:StreetAddress>
+          <gpxx:City>Wateren</gpxx:City>
+          <gpxx:State>Drenthe</gpxx:State>
+          <gpxx:Country>Nederland</gpxx:Country>
+          <gpxx:PostalCode>8438 SB</gpxx:PostalCode>
+        </gpxx:Address>
+        <gpxx:PhoneNumber>521-387258</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Address>
+          <wptx1:StreetAddress>Wateren 5</wptx1:StreetAddress>
+          <wptx1:City>Wateren</wptx1:City>
+          <wptx1:State>Drenthe</wptx1:State>
+          <wptx1:Country>Nederland</wptx1:Country>
+          <wptx1:PostalCode>8438 SB</wptx1:PostalCode>
+        </wptx1:Address>
+        <wptx1:PhoneNumber>521-387258</wptx1:PhoneNumber>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-04-20T15:42:28Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -381,6 +442,85 @@ Behelp 13
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
+  <wpt lat="51.49167537689209" lon="6.060118675231934">
+    <time>2021-04-29T14:08:16Z</time>
+    <name>camping Valkenberg</name>
+    <cmt>Valkenberg
+Valkenberg 3
+5811, Castenray, Limburg, NLD
+0478585838</cmt>
+    <desc>Valkenberg
+Valkenberg 3
+5811, Castenray, Limburg, NLD
+0478585838</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>Valkenberg 3</gpxx:StreetAddress>
+          <gpxx:City>Castenray</gpxx:City>
+          <gpxx:State>Limburg</gpxx:State>
+          <gpxx:Country>NLD</gpxx:Country>
+          <gpxx:PostalCode>5811</gpxx:PostalCode>
+        </gpxx:Address>
+        <gpxx:PhoneNumber>0478585838</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Address>
+          <wptx1:StreetAddress>Valkenberg 3</wptx1:StreetAddress>
+          <wptx1:City>Castenray</wptx1:City>
+          <wptx1:State>Limburg</wptx1:State>
+          <wptx1:Country>NLD</wptx1:Country>
+          <wptx1:PostalCode>5811</wptx1:PostalCode>
+        </wptx1:Address>
+        <wptx1:PhoneNumber>0478585838</wptx1:PhoneNumber>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-04-29T14:08:16Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.876271963119507" lon="5.988761186599731">
+    <ele>10.5390625</ele>
+    <time>2021-04-20T15:10:06Z</time>
+    <name>camping Waalstrand</name>
+    <cmt>Veerhuis Concordia
+Waaldijk 23
+6691 MB, Gendt, Gelderland, Nederland</cmt>
+    <desc>Veerhuis Concordia
+Waaldijk 23
+6691 MB, Gendt, Gelderland, Nederland</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>Waaldijk 23</gpxx:StreetAddress>
+          <gpxx:City>Gendt</gpxx:City>
+          <gpxx:State>Gelderland</gpxx:State>
+          <gpxx:Country>Nederland</gpxx:Country>
+          <gpxx:PostalCode>6691 MB</gpxx:PostalCode>
+        </gpxx:Address>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Address>
+          <wptx1:StreetAddress>Waaldijk 23</wptx1:StreetAddress>
+          <wptx1:City>Gendt</wptx1:City>
+          <wptx1:State>Gelderland</wptx1:State>
+          <wptx1:Country>Nederland</wptx1:Country>
+          <wptx1:PostalCode>6691 MB</wptx1:PostalCode>
+        </wptx1:Address>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-04-20T15:10:06Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="51.874630535021424" lon="6.242144107818604">
     <time>2020-06-08T22:00:20Z</time>
     <name>Castle Bergh</name>
@@ -398,9 +538,9 @@ Behelp 13
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="51.270475527271628" lon="5.398183520883322">
-    <time>2018-02-03T20:04:44Z</time>
-    <name>Cheap fuel 1</name>
+  <wpt lat="51.858837604522705" lon="6.242122733965516">
+    <time>2020-06-08T22:00:20Z</time>
+    <name>Cheap fuel 11</name>
     <sym>Gas Station</sym>
     <type>user</type>
     <extensions>
@@ -411,7 +551,7 @@ Behelp 13
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2018-02-03T20:04:44Z</ctx:CreationTime>
+        <ctx:CreationTime>2020-06-08T22:00:20Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -432,9 +572,9 @@ Behelp 13
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="51.858837604522705" lon="6.242122733965516">
-    <time>2020-06-08T22:00:20Z</time>
-    <name>Cheap fuel 3</name>
+  <wpt lat="51.270475527271628" lon="5.398183520883322">
+    <time>2018-02-03T20:04:44Z</time>
+    <name>Cheap fuel 31</name>
     <sym>Gas Station</sym>
     <type>user</type>
     <extensions>
@@ -445,7 +585,7 @@ Behelp 13
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2020-06-08T22:00:20Z</ctx:CreationTime>
+        <ctx:CreationTime>2018-02-03T20:04:44Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -534,6 +674,24 @@ Behelp 13
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
+  <wpt lat="52.356883585453033" lon="6.950107142329216">
+    <ele>29.05078125</ele>
+    <time>2021-04-17T10:37:09Z</time>
+    <name>Herberg Het Everloo</name>
+    <sym>Lodging</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-04-17T10:37:09Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="51.305461255833507" lon="5.242421105504036">
     <time>2021-04-06T13:51:20Z</time>
     <name>Herberg in het wilde zwijn</name>
@@ -566,6 +724,65 @@ Behelp 13
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2021-04-06T13:51:20Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="52.357165217399597" lon="6.95085346698761">
+    <ele>29.1875</ele>
+    <time>2021-04-20T15:18:49Z</time>
+    <name>Het Everloo</name>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-04-20T15:18:49Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="52.234668731689453" lon="4.834671020507812">
+    <time>2021-04-21T19:38:33Z</time>
+    <name>Het Oude Spoorhuis</name>
+    <cmt>Het Oude Spoorhuis
+Stationsstraat 41
+1421, Uithoorn, Noord-Holland, NLD
+0297533700</cmt>
+    <desc>Het Oude Spoorhuis
+Stationsstraat 41
+1421, Uithoorn, Noord-Holland, NLD
+0297533700</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>Stationsstraat 41</gpxx:StreetAddress>
+          <gpxx:City>Uithoorn</gpxx:City>
+          <gpxx:State>Noord-Holland</gpxx:State>
+          <gpxx:Country>NLD</gpxx:Country>
+          <gpxx:PostalCode>1421</gpxx:PostalCode>
+        </gpxx:Address>
+        <gpxx:PhoneNumber>0297533700</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Address>
+          <wptx1:StreetAddress>Stationsstraat 41</wptx1:StreetAddress>
+          <wptx1:City>Uithoorn</wptx1:City>
+          <wptx1:State>Noord-Holland</wptx1:State>
+          <wptx1:Country>NLD</wptx1:Country>
+          <wptx1:PostalCode>1421</wptx1:PostalCode>
+        </wptx1:Address>
+        <wptx1:PhoneNumber>0297533700</wptx1:PhoneNumber>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-04-21T19:38:33Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -738,6 +955,24 @@ Behelp 13
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2020-06-08T22:00:20Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="52.442770600318909" lon="6.65997326374054">
+    <ele>12.58984375</ele>
+    <time>2021-04-20T14:57:57Z</time>
+    <name>Narrow passage</name>
+    <sym>Information</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-04-20T14:57:57Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -991,6 +1226,24 @@ Turnhoutseweg 32
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
+  <wpt lat="52.446885025128722" lon="6.653681974858046">
+    <ele>1.95182</ele>
+    <time>2021-04-17T13:30:14Z</time>
+    <name>Veen Museum</name>
+    <sym>Museum</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-04-17T13:30:14Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="52.445656741037965" lon="6.842889189720154">
     <time>2020-08-26T18:04:47Z</time>
     <name>Watermolen Bels</name>
@@ -1043,7 +1296,7 @@ Turnhoutseweg 32
     </extensions>
   </wpt>
   <trk>
-    <name>TET-NL-Drenthe-20210407</name>
+    <name>TET-NL-Drenthe-20210429</name>
     <desc>Length: 190.6 km (118.5 mi)</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -1944,7 +2197,7 @@ Turnhoutseweg 32
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-Liason to ferry (only Tarmac)-20210407</name>
+    <name>TET-NL-Liason to ferry (only Tarmac)-20210429</name>
     <desc>Length: 225 km (139.8 mi)</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -9596,145 +9849,10 @@ Turnhoutseweg 32
       <trkpt lat="51.909526409581304" lon="6.106801684945822">
         <ele>11.67</ele>
       </trkpt>
-      <trkpt lat="51.908153621479869" lon="6.109565366059542">
-        <ele>13.119999999999999</ele>
-      </trkpt>
-      <trkpt lat="51.906264759600163" lon="6.113758496940136">
-        <ele>12.630000000000001</ele>
-      </trkpt>
-      <trkpt lat="51.905860668048263" lon="6.115998728200793">
-        <ele>12.630000000000001</ele>
-      </trkpt>
-      <trkpt lat="51.905359765514731" lon="6.116970861330628">
-        <ele>10.710000000000001</ele>
-      </trkpt>
-      <trkpt lat="51.905042342841625" lon="6.117302868515253">
-        <ele>13.13671875</ele>
-      </trkpt>
-      <trkpt lat="51.905016275122762" lon="6.117490958422422">
-        <ele>13.30859375</ele>
-      </trkpt>
-      <trkpt lat="51.905193133279681" lon="6.11881747841835">
-        <ele>13.87109375</ele>
-      </trkpt>
-      <trkpt lat="51.905730497092009" lon="6.121338335797191">
-        <ele>14.6484375</ele>
-      </trkpt>
-      <trkpt lat="51.905615832656622" lon="6.122747836634517">
-        <ele>14.1015625</ele>
-      </trkpt>
-      <trkpt lat="51.906028389930725" lon="6.129055637866259">
-        <ele>12.65234375</ele>
-      </trkpt>
-      <trkpt lat="51.906200470402837" lon="6.131263179704547">
-        <ele>12.0703125</ele>
-      </trkpt>
-      <trkpt lat="51.905832085758448" lon="6.137743061408401">
-        <ele>13.6875</ele>
-      </trkpt>
-      <trkpt lat="51.905527571216226" lon="6.142161665484309">
-        <ele>14.078125</ele>
-      </trkpt>
-      <trkpt lat="51.905461521819234" lon="6.148315323516726">
-        <ele>13.9921875</ele>
-      </trkpt>
-      <trkpt lat="51.905566798523068" lon="6.1496860999614">
-        <ele>14.46875</ele>
-      </trkpt>
-      <trkpt lat="51.905876342207193" lon="6.150563266128302">
-        <ele>15.125</ele>
-      </trkpt>
-      <trkpt lat="51.906105754896998" lon="6.151003651320934">
-        <ele>15.703125</ele>
-      </trkpt>
-      <trkpt lat="51.907449373975396" lon="6.15209941752255">
-        <ele>14.57421875</ele>
-      </trkpt>
-      <trkpt lat="51.909685581922531" lon="6.153685189783573">
-        <ele>17.26953125</ele>
-      </trkpt>
-      <trkpt lat="51.910508265718818" lon="6.154370661824942">
-        <ele>16.8046875</ele>
-      </trkpt>
-      <trkpt lat="51.911195078864694" lon="6.155243301764131">
-        <ele>15.99609375</ele>
-      </trkpt>
-      <trkpt lat="51.911666393280029" lon="6.156132956966758">
-        <ele>16.18359375</ele>
-      </trkpt>
-      <trkpt lat="51.913054520264268" lon="6.1621661670506">
-        <ele>14.2265625</ele>
-      </trkpt>
-      <trkpt lat="51.913428017869592" lon="6.1632592510432">
-        <ele>13.5078125</ele>
-      </trkpt>
-      <trkpt lat="51.914404761046171" lon="6.164662800729275">
-        <ele>16.33984375</ele>
-      </trkpt>
-      <trkpt lat="51.915177572518587" lon="6.165524628013372">
-        <ele>15.1328125</ele>
-      </trkpt>
-      <trkpt lat="51.913936631754041" lon="6.169092385098338">
-        <ele>14.671875</ele>
-      </trkpt>
-      <trkpt lat="51.912968438118696" lon="6.173109663650393">
-        <ele>14.91796875</ele>
-      </trkpt>
-      <trkpt lat="51.911120060831308" lon="6.1807247903198">
-        <ele>15.390625</ele>
-      </trkpt>
-      <trkpt lat="51.910258065909147" lon="6.183681422844529">
-        <ele>15.22265625</ele>
-      </trkpt>
-      <trkpt lat="51.909608468413353" lon="6.185851413756609">
-        <ele>16.44140625</ele>
-      </trkpt>
-      <trkpt lat="51.909383246675134" lon="6.187147675082088">
-        <ele>17.578125</ele>
-      </trkpt>
-      <trkpt lat="51.909293392673135" lon="6.188101954758167">
-        <ele>17.1875</ele>
-      </trkpt>
-      <trkpt lat="51.909254752099514" lon="6.188492299988866">
-        <ele>17.1640625</ele>
-      </trkpt>
-      <trkpt lat="51.90909675322473" lon="6.19081350043416">
-        <ele>19.28125</ele>
-      </trkpt>
-      <trkpt lat="51.908523179590702" lon="6.190749295055866">
-        <ele>19.12109375</ele>
-      </trkpt>
-      <trkpt lat="51.908178180456161" lon="6.190941240638494">
-        <ele>18.890625</ele>
-      </trkpt>
-      <trkpt lat="51.907773418352008" lon="6.190823307260871">
-        <ele>18.71875</ele>
-      </trkpt>
-      <trkpt lat="51.906124111264944" lon="6.190939396619797">
-        <ele>19.38671875</ele>
-      </trkpt>
-      <trkpt lat="51.906120339408517" lon="6.191098317503929">
-        <ele>19.33984375</ele>
-      </trkpt>
-      <trkpt lat="51.905201934278011" lon="6.192546291276813">
-        <ele>19.8046875</ele>
-      </trkpt>
-      <trkpt lat="51.903624041005969" lon="6.195582551881671">
-        <ele>19.6328125</ele>
-      </trkpt>
-      <trkpt lat="51.903481800109148" lon="6.195901986211538">
-        <ele>20.0234375</ele>
-      </trkpt>
-      <trkpt lat="51.903358586132526" lon="6.196437841281295">
-        <ele>20.859375</ele>
-      </trkpt>
-      <trkpt lat="51.903225816786289" lon="6.196474805474281">
-        <ele>18.399999999999999</ele>
-      </trkpt>
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-North-20210407</name>
+    <name>TET-NL-North-20210429</name>
     <desc>Length: 399.6 km (248.3 mi)</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -10364,15 +10482,18 @@ Turnhoutseweg 32
       <trkpt lat="52.763372864574194" lon="6.616564560681581"/>
       <trkpt lat="52.763516865670681" lon="6.616184860467911"/>
       <trkpt lat="52.766325892880559" lon="6.60892479121685"/>
-      <trkpt lat="52.760492926463485" lon="6.602853359654546"/>
-      <trkpt lat="52.75950470007956" lon="6.601707302033901"/>
-      <trkpt lat="52.758565340191126" lon="6.600232338532805"/>
-      <trkpt lat="52.757878610864282" lon="6.598977232351899"/>
-      <trkpt lat="52.759196162223816" lon="6.595437889918685"/>
-      <trkpt lat="52.759202113375068" lon="6.595075372606516"/>
-      <trkpt lat="52.758991559967399" lon="6.593065140768886"/>
-      <trkpt lat="52.759022070094943" lon="6.59281418658793"/>
-      <trkpt lat="52.761236904188991" lon="6.586997900158167"/>
+      <trkpt lat="52.767690299078822" lon="6.605445295572281">
+        <ele>17.19140625</ele>
+      </trkpt>
+      <trkpt lat="52.769037103280425" lon="6.599760437384248">
+        <ele>16.65625</ele>
+      </trkpt>
+      <trkpt lat="52.769076246768236" lon="6.599478302523494">
+        <ele>16.5234375</ele>
+      </trkpt>
+      <trkpt lat="52.769129555672407" lon="6.599347712472081">
+        <ele>16.47265625</ele>
+      </trkpt>
       <trkpt lat="52.77036203071475" lon="6.591151971369982"/>
       <trkpt lat="52.771533234044909" lon="6.583177093416452"/>
       <trkpt lat="52.771542705595493" lon="6.582161709666252"/>
@@ -18785,13 +18906,151 @@ Turnhoutseweg 32
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-South-20210407</name>
+    <name>TET-NL-South-20210429</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
       </gpxx:TrackExtension>
     </extensions>
     <trkseg>
+      <trkpt lat="51.903225816786289" lon="6.196474805474281">
+        <ele>18.399999999999999</ele>
+      </trkpt>
+      <trkpt lat="51.903358586132526" lon="6.196437841281295">
+        <ele>20.859375</ele>
+      </trkpt>
+      <trkpt lat="51.903481800109148" lon="6.195901986211538">
+        <ele>20.0234375</ele>
+      </trkpt>
+      <trkpt lat="51.903624041005969" lon="6.195582551881671">
+        <ele>19.6328125</ele>
+      </trkpt>
+      <trkpt lat="51.905201934278011" lon="6.192546291276813">
+        <ele>19.8046875</ele>
+      </trkpt>
+      <trkpt lat="51.906120339408517" lon="6.191098317503929">
+        <ele>19.33984375</ele>
+      </trkpt>
+      <trkpt lat="51.906124111264944" lon="6.190939396619797">
+        <ele>19.38671875</ele>
+      </trkpt>
+      <trkpt lat="51.907773418352008" lon="6.190823307260871">
+        <ele>18.71875</ele>
+      </trkpt>
+      <trkpt lat="51.908178180456161" lon="6.190941240638494">
+        <ele>18.890625</ele>
+      </trkpt>
+      <trkpt lat="51.908523179590702" lon="6.190749295055866">
+        <ele>19.12109375</ele>
+      </trkpt>
+      <trkpt lat="51.90909675322473" lon="6.19081350043416">
+        <ele>19.28125</ele>
+      </trkpt>
+      <trkpt lat="51.909254752099514" lon="6.188492299988866">
+        <ele>17.1640625</ele>
+      </trkpt>
+      <trkpt lat="51.909293392673135" lon="6.188101954758167">
+        <ele>17.1875</ele>
+      </trkpt>
+      <trkpt lat="51.909383246675134" lon="6.187147675082088">
+        <ele>17.578125</ele>
+      </trkpt>
+      <trkpt lat="51.909608468413353" lon="6.185851413756609">
+        <ele>16.44140625</ele>
+      </trkpt>
+      <trkpt lat="51.910258065909147" lon="6.183681422844529">
+        <ele>15.22265625</ele>
+      </trkpt>
+      <trkpt lat="51.911120060831308" lon="6.1807247903198">
+        <ele>15.390625</ele>
+      </trkpt>
+      <trkpt lat="51.912968438118696" lon="6.173109663650393">
+        <ele>14.91796875</ele>
+      </trkpt>
+      <trkpt lat="51.913936631754041" lon="6.169092385098338">
+        <ele>14.671875</ele>
+      </trkpt>
+      <trkpt lat="51.915177572518587" lon="6.165524628013372">
+        <ele>15.1328125</ele>
+      </trkpt>
+      <trkpt lat="51.914404761046171" lon="6.164662800729275">
+        <ele>16.33984375</ele>
+      </trkpt>
+      <trkpt lat="51.913428017869592" lon="6.1632592510432">
+        <ele>13.5078125</ele>
+      </trkpt>
+      <trkpt lat="51.913054520264268" lon="6.1621661670506">
+        <ele>14.2265625</ele>
+      </trkpt>
+      <trkpt lat="51.911666393280029" lon="6.156132956966758">
+        <ele>16.18359375</ele>
+      </trkpt>
+      <trkpt lat="51.911195078864694" lon="6.155243301764131">
+        <ele>15.99609375</ele>
+      </trkpt>
+      <trkpt lat="51.910508265718818" lon="6.154370661824942">
+        <ele>16.8046875</ele>
+      </trkpt>
+      <trkpt lat="51.909685581922531" lon="6.153685189783573">
+        <ele>17.26953125</ele>
+      </trkpt>
+      <trkpt lat="51.907449373975396" lon="6.15209941752255">
+        <ele>14.57421875</ele>
+      </trkpt>
+      <trkpt lat="51.906105754896998" lon="6.151003651320934">
+        <ele>15.703125</ele>
+      </trkpt>
+      <trkpt lat="51.905876342207193" lon="6.150563266128302">
+        <ele>15.125</ele>
+      </trkpt>
+      <trkpt lat="51.905566798523068" lon="6.1496860999614">
+        <ele>14.46875</ele>
+      </trkpt>
+      <trkpt lat="51.905461521819234" lon="6.148315323516726">
+        <ele>13.9921875</ele>
+      </trkpt>
+      <trkpt lat="51.905527571216226" lon="6.142161665484309">
+        <ele>14.078125</ele>
+      </trkpt>
+      <trkpt lat="51.905832085758448" lon="6.137743061408401">
+        <ele>13.6875</ele>
+      </trkpt>
+      <trkpt lat="51.906200470402837" lon="6.131263179704547">
+        <ele>12.0703125</ele>
+      </trkpt>
+      <trkpt lat="51.906028389930725" lon="6.129055637866259">
+        <ele>12.65234375</ele>
+      </trkpt>
+      <trkpt lat="51.905615832656622" lon="6.122747836634517">
+        <ele>14.1015625</ele>
+      </trkpt>
+      <trkpt lat="51.905730497092009" lon="6.121338335797191">
+        <ele>14.6484375</ele>
+      </trkpt>
+      <trkpt lat="51.905193133279681" lon="6.11881747841835">
+        <ele>13.87109375</ele>
+      </trkpt>
+      <trkpt lat="51.905016275122762" lon="6.117490958422422">
+        <ele>13.30859375</ele>
+      </trkpt>
+      <trkpt lat="51.905042342841625" lon="6.117302868515253">
+        <ele>13.13671875</ele>
+      </trkpt>
+      <trkpt lat="51.905359765514731" lon="6.116970861330628">
+        <ele>10.710000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.905860668048263" lon="6.115998728200793">
+        <ele>12.630000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.906264759600163" lon="6.113758496940136">
+        <ele>12.630000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.908153621479869" lon="6.109565366059542">
+        <ele>13.119999999999999</ele>
+      </trkpt>
+      <trkpt lat="51.909526409581304" lon="6.106801684945822">
+        <ele>11.67</ele>
+      </trkpt>
       <trkpt lat="51.909504532814026" lon="6.106435060501099"/>
       <trkpt lat="51.909461617469788" lon="6.106376051902771"/>
       <trkpt lat="51.909327507019043" lon="6.106225848197937"/>
@@ -24611,19 +24870,343 @@ Turnhoutseweg 32
       <trkpt lat="51.5404346678406" lon="6.097300127148628">
         <ele>8.789999999999999</ele>
       </trkpt>
-      <trkpt lat="51.539554316550493" lon="6.095604468137026">
-        <ele>14.977</ele>
+      <trkpt lat="51.539948182180524" lon="6.096460344269872">
+        <ele>16.7262268144</ele>
+        <time>2021-04-28T16:53:10Z</time>
       </trkpt>
-      <trkpt lat="51.53830080293119" lon="6.09352458268404">
-        <ele>14.93</ele>
+      <trkpt lat="51.539854723960161" lon="6.096147783100605">
+        <ele>16.6591491776</ele>
+        <time>2021-04-28T16:53:11Z</time>
       </trkpt>
-      <trkpt lat="51.537419697269797" lon="6.090723434463143">
-        <ele>15.34</ele>
+      <trkpt lat="51.539802337065339" lon="6.095820888876915">
+        <ele>16.600738533099999</ele>
+        <time>2021-04-28T16:53:12Z</time>
       </trkpt>
-      <trkpt lat="51.53659500181675" lon="6.084238439798355">
-        <ele>16.327999999999999</ele>
+      <trkpt lat="51.539751207455993" lon="6.095506064593792">
+        <ele>16.550872810400001</ele>
+        <time>2021-04-28T16:53:13Z</time>
       </trkpt>
-      <trkpt lat="51.53616257943213" lon="6.084050936624408">
+      <trkpt lat="51.539734527468681" lon="6.09518981538713">
+        <ele>16.508728035000001</ele>
+        <time>2021-04-28T16:53:14Z</time>
+      </trkpt>
+      <trkpt lat="51.539748357608914" lon="6.094861328601837">
+        <ele>16.473327644299999</ele>
+        <time>2021-04-28T16:53:15Z</time>
+      </trkpt>
+      <trkpt lat="51.539762942120433" lon="6.094531249254942">
+        <ele>16.4437866287</ele>
+        <time>2021-04-28T16:53:16Z</time>
+      </trkpt>
+      <trkpt lat="51.539802337065339" lon="6.094195386394858">
+        <ele>16.419158943100001</ele>
+        <time>2021-04-28T16:53:17Z</time>
+      </trkpt>
+      <trkpt lat="51.539846258237958" lon="6.093874359503388">
+        <ele>16.3986816482</ele>
+        <time>2021-04-28T16:53:18Z</time>
+      </trkpt>
+      <trkpt lat="51.539910966530442" lon="6.093553500249982">
+        <ele>16.467437751799999</ele>
+        <time>2021-04-28T16:53:19Z</time>
+      </trkpt>
+      <trkpt lat="51.539982128888369" lon="6.093236580491066">
+        <ele>16.496826179500001</ele>
+        <time>2021-04-28T16:53:20Z</time>
+      </trkpt>
+      <trkpt lat="51.540062259882689" lon="6.092932568863034">
+        <ele>16.4751892166</ele>
+        <time>2021-04-28T16:53:21Z</time>
+      </trkpt>
+      <trkpt lat="51.540138954296708" lon="6.092635178938508">
+        <ele>16.446166999799999</ele>
+        <time>2021-04-28T16:53:22Z</time>
+      </trkpt>
+      <trkpt lat="51.540218750014901" lon="6.092344410717487">
+        <ele>16.421051033000001</ele>
+        <time>2021-04-28T16:53:23Z</time>
+      </trkpt>
+      <trkpt lat="51.540303491055965" lon="6.092072669416666">
+        <ele>16.468719490000002</ele>
+        <time>2021-04-28T16:53:24Z</time>
+      </trkpt>
+      <trkpt lat="51.540392506867647" lon="6.091781565919518">
+        <ele>16.601898201000001</ele>
+        <time>2021-04-28T16:53:25Z</time>
+      </trkpt>
+      <trkpt lat="51.540477331727743" lon="6.091478895395994">
+        <ele>16.721466072199998</ele>
+        <time>2021-04-28T16:53:26Z</time>
+      </trkpt>
+      <trkpt lat="51.540513290092349" lon="6.091204639524221">
+        <ele>16.8213195879</ele>
+        <time>2021-04-28T16:53:27Z</time>
+      </trkpt>
+      <trkpt lat="51.540540279820561" lon="6.090937256813049">
+        <ele>17.069610603600001</ele>
+        <time>2021-04-28T16:53:28Z</time>
+      </trkpt>
+      <trkpt lat="51.540560312569141" lon="6.090650847181678">
+        <ele>17.1751098712</ele>
+        <time>2021-04-28T16:53:29Z</time>
+      </trkpt>
+      <trkpt lat="51.540561486035585" lon="6.090404083952308">
+        <ele>17.226440437699999</ele>
+        <time>2021-04-28T16:53:30Z</time>
+      </trkpt>
+      <trkpt lat="51.540564754977822" lon="6.090182801708579">
+        <ele>17.0661315997</ele>
+        <time>2021-04-28T16:53:31Z</time>
+      </trkpt>
+      <trkpt lat="51.540563413873315" lon="6.089966464787722">
+        <ele>16.794738777300001</ele>
+        <time>2021-04-28T16:53:32Z</time>
+      </trkpt>
+      <trkpt lat="51.540561486035585" lon="6.08979388140142">
+        <ele>16.610015876799999</ele>
+        <time>2021-04-28T16:53:33Z</time>
+      </trkpt>
+      <trkpt lat="51.540559809654951" lon="6.089666727930307">
+        <ele>16.493560798600001</ele>
+        <time>2021-04-28T16:53:34Z</time>
+      </trkpt>
+      <trkpt lat="51.540588224306703" lon="6.089546447619796">
+        <ele>16.420867927500002</ele>
+        <time>2021-04-28T16:53:35Z</time>
+      </trkpt>
+      <trkpt lat="51.540646646171808" lon="6.089427089318633">
+        <ele>16.375457771200001</ele>
+        <time>2021-04-28T16:53:36Z</time>
+      </trkpt>
+      <trkpt lat="51.540689561516047" lon="6.089311251416802">
+        <ele>16.3471069412</ele>
+        <time>2021-04-28T16:53:37Z</time>
+      </trkpt>
+      <trkpt lat="51.540688220411539" lon="6.089187618345022">
+        <ele>16.329437263399999</ele>
+        <time>2021-04-28T16:53:38Z</time>
+      </trkpt>
+      <trkpt lat="51.540642706677318" lon="6.089120730757713">
+        <ele>16.318359382499999</ele>
+        <time>2021-04-28T16:53:39Z</time>
+      </trkpt>
+      <trkpt lat="51.54059249907732" lon="6.08904822729528">
+        <ele>16.311462409899999</ele>
+        <time>2021-04-28T16:53:40Z</time>
+      </trkpt>
+      <trkpt lat="51.540515134111047" lon="6.089018303900957">
+        <ele>16.307159431399999</ele>
+        <time>2021-04-28T16:53:41Z</time>
+      </trkpt>
+      <trkpt lat="51.540417317301035" lon="6.08901989646256">
+        <ele>16.304473884499998</ele>
+        <time>2021-04-28T16:53:42Z</time>
+      </trkpt>
+      <trkpt lat="51.540312711149454" lon="6.089130453765392">
+        <ele>16.302795417700001</ele>
+        <time>2021-04-28T16:53:43Z</time>
+      </trkpt>
+      <trkpt lat="51.540223862975836" lon="6.089285435155034">
+        <ele>16.301727302500002</ele>
+        <time>2021-04-28T16:53:44Z</time>
+      </trkpt>
+      <trkpt lat="51.540114311501384" lon="6.089430609717965">
+        <ele>16.3010864333</ele>
+        <time>2021-04-28T16:53:45Z</time>
+      </trkpt>
+      <trkpt lat="51.539974166080356" lon="6.089544100686908">
+        <ele>16.300659187200001</ele>
+        <time>2021-04-28T16:53:46Z</time>
+      </trkpt>
+      <trkpt lat="51.539768977090716" lon="6.08960285782814">
+        <ele>16.300415046600001</ele>
+        <time>2021-04-28T16:53:47Z</time>
+      </trkpt>
+      <trkpt lat="51.539529003202915" lon="6.089639905840158">
+        <ele>16.300262458700001</ele>
+        <time>2021-04-28T16:53:48Z</time>
+      </trkpt>
+      <trkpt lat="51.539302691817284" lon="6.089700255542994">
+        <ele>16.300201423600001</ele>
+        <time>2021-04-28T16:53:49Z</time>
+      </trkpt>
+      <trkpt lat="51.539091467857361" lon="6.089765885844827">
+        <ele>16.300201423600001</ele>
+        <time>2021-04-28T16:53:50Z</time>
+      </trkpt>
+      <trkpt lat="51.538888206705451" lon="6.089832857251167">
+        <ele>16.300170906000002</ele>
+        <time>2021-04-28T16:53:51Z</time>
+      </trkpt>
+      <trkpt lat="51.538695590570569" lon="6.089921202510595">
+        <ele>16.300415046600001</ele>
+        <time>2021-04-28T16:53:52Z</time>
+      </trkpt>
+      <trkpt lat="51.538500376045704" lon="6.089976606890559">
+        <ele>16.394470222399999</ele>
+        <time>2021-04-28T16:53:53Z</time>
+      </trkpt>
+      <trkpt lat="51.538310274481773" lon="6.090030251070857">
+        <ele>16.530426033000001</ele>
+        <time>2021-04-28T16:53:54Z</time>
+      </trkpt>
+      <trkpt lat="51.538127213716507" lon="6.090085236355662">
+        <ele>16.915435798800001</ele>
+        <time>2021-04-28T16:53:55Z</time>
+      </trkpt>
+      <trkpt lat="51.537949936464429" lon="6.090130833908916">
+        <ele>17.0880127032</ele>
+        <time>2021-04-28T16:53:56Z</time>
+      </trkpt>
+      <trkpt lat="51.537781460210681" lon="6.090184981003404">
+        <ele>17.174346931799999</ele>
+        <time>2021-04-28T16:53:57Z</time>
+      </trkpt>
+      <trkpt lat="51.537627903744578" lon="6.090247426182032">
+        <ele>17.223114021600001</ele>
+        <time>2021-04-28T16:53:58Z</time>
+      </trkpt>
+      <trkpt lat="51.537491530179977" lon="6.09029084444046">
+        <ele>17.252349861500001</ele>
+        <time>2021-04-28T16:53:59Z</time>
+      </trkpt>
+      <trkpt lat="51.537379045039415" lon="6.090275924652815">
+        <ele>17.270324715000001</ele>
+        <time>2021-04-28T16:54:00Z</time>
+      </trkpt>
+      <trkpt lat="51.537290783599019" lon="6.0901989787817">
+        <ele>17.2814941486</ele>
+        <time>2021-04-28T16:54:01Z</time>
+      </trkpt>
+      <trkpt lat="51.537214005365968" lon="6.090048104524612">
+        <ele>17.288421638900001</ele>
+        <time>2021-04-28T16:54:02Z</time>
+      </trkpt>
+      <trkpt lat="51.537184165790677" lon="6.089805196970701">
+        <ele>17.292785652500001</ele>
+        <time>2021-04-28T16:54:03Z</time>
+      </trkpt>
+      <trkpt lat="51.5371725987643" lon="6.089475452899933">
+        <ele>17.295471199400001</ele>
+        <time>2021-04-28T16:54:04Z</time>
+      </trkpt>
+      <trkpt lat="51.537147704511881" lon="6.089153839275241">
+        <ele>17.297180183799998</ele>
+        <time>2021-04-28T16:54:05Z</time>
+      </trkpt>
+      <trkpt lat="51.537096993997693" lon="6.088792411610484">
+        <ele>17.3177490315</ele>
+        <time>2021-04-28T16:54:06Z</time>
+      </trkpt>
+      <trkpt lat="51.537045780569315" lon="6.08841790817678">
+        <ele>17.3178100666</ele>
+        <time>2021-04-28T16:54:07Z</time>
+      </trkpt>
+      <trkpt lat="51.536994902417064" lon="6.088032843545079">
+        <ele>17.395690926</ele>
+        <time>2021-04-28T16:54:08Z</time>
+      </trkpt>
+      <trkpt lat="51.536962548270822" lon="6.087650712579489">
+        <ele>17.5065612874</ele>
+        <time>2021-04-28T16:54:09Z</time>
+      </trkpt>
+      <trkpt lat="51.536930361762643" lon="6.087287692353129">
+        <ele>17.488037117499999</ele>
+        <time>2021-04-28T16:54:10Z</time>
+      </trkpt>
+      <trkpt lat="51.536893816664815" lon="6.086916206404567">
+        <ele>17.454437263900001</ele>
+        <time>2021-04-28T16:54:11Z</time>
+      </trkpt>
+      <trkpt lat="51.536858361214399" lon="6.086555784568191">
+        <ele>17.429107674099999</ele>
+        <time>2021-04-28T16:54:12Z</time>
+      </trkpt>
+      <trkpt lat="51.536825755611062" lon="6.086192512884736">
+        <ele>17.348388679900001</ele>
+        <time>2021-04-28T16:54:13Z</time>
+      </trkpt>
+      <trkpt lat="51.536809494718909" lon="6.085873665288091">
+        <ele>17.1835022052</ele>
+        <time>2021-04-28T16:54:14Z</time>
+      </trkpt>
+      <trkpt lat="51.53679683804512" lon="6.085580550134182">
+        <ele>16.730834968700002</ele>
+        <time>2021-04-28T16:54:15Z</time>
+      </trkpt>
+      <trkpt lat="51.536773201078176" lon="6.085306126624346">
+        <ele>16.534851081900001</ele>
+        <time>2021-04-28T16:54:16Z</time>
+      </trkpt>
+      <trkpt lat="51.536741685122252" lon="6.085071433335543">
+        <ele>16.239593513399999</ele>
+        <time>2021-04-28T16:54:17Z</time>
+      </trkpt>
+      <trkpt lat="51.536712264642119" lon="6.084841014817357">
+        <ele>15.9201049878</ele>
+        <time>2021-04-28T16:54:18Z</time>
+      </trkpt>
+      <trkpt lat="51.53665660880506" lon="6.084644375368953">
+        <ele>15.6887207104</ele>
+        <time>2021-04-28T16:54:19Z</time>
+      </trkpt>
+      <trkpt lat="51.53662190772593" lon="6.084457123652101">
+        <ele>15.542449958400001</ele>
+        <time>2021-04-28T16:54:20Z</time>
+      </trkpt>
+      <trkpt lat="51.536618052050471" lon="6.084268111735582">
+        <ele>15.4512634349</ele>
+        <time>2021-04-28T16:54:21Z</time>
+      </trkpt>
+      <trkpt lat="51.536642527207732" lon="6.084128469228745">
+        <ele>15.3944397044</ele>
+        <time>2021-04-28T16:54:22Z</time>
+      </trkpt>
+      <trkpt lat="51.53664730489254" lon="6.084041967988014">
+        <ele>15.3589782786</ele>
+        <time>2021-04-28T16:54:23Z</time>
+      </trkpt>
+      <trkpt lat="51.536611681804061" lon="6.084026712924242">
+        <ele>15.3368225169</ele>
+        <time>2021-04-28T16:54:24Z</time>
+      </trkpt>
+      <trkpt lat="51.536540435627103" lon="6.084015732631087">
+        <ele>15.322998053999999</ele>
+        <time>2021-04-28T16:54:25Z</time>
+      </trkpt>
+      <trkpt lat="51.5364645794034" lon="6.08404029160738">
+        <ele>15.3143615793</ele>
+        <time>2021-04-28T16:54:26Z</time>
+      </trkpt>
+      <trkpt lat="51.536401463672519" lon="6.084097875282168">
+        <ele>15.308959968</ele>
+        <time>2021-04-28T16:54:27Z</time>
+      </trkpt>
+      <trkpt lat="51.536383861675858" lon="6.08414146117866">
+        <ele>15.305603034400001</ele>
+        <time>2021-04-28T16:54:28Z</time>
+      </trkpt>
+      <trkpt lat="51.5363800060004" lon="6.084153950214386">
+        <ele>15.3034973215</ele>
+        <time>2021-04-28T16:54:29Z</time>
+      </trkpt>
+      <trkpt lat="51.536365421488881" lon="6.084187729284167">
+        <ele>15.3021850657</ele>
+        <time>2021-04-28T16:54:30Z</time>
+      </trkpt>
+      <trkpt lat="51.536308508366346" lon="6.084201307967305">
+        <ele>15.3013610911</ele>
+        <time>2021-04-28T16:54:31Z</time>
+      </trkpt>
+      <trkpt lat="51.536238770931959" lon="6.084194770082831">
+        <ele>15.3008422922</ele>
+        <time>2021-04-28T16:54:32Z</time>
+      </trkpt>
+      <trkpt lat="51.536187892779708" lon="6.08424112200737">
+        <ele>15.3005065989</ele>
+        <time>2021-04-28T16:54:33Z</time>
+      </trkpt>
+      <trkpt lat="51.536146653816104" lon="6.0843276232481">
         <ele>15.512</ele>
       </trkpt>
       <trkpt lat="51.535218525677919" lon="6.087988335639238">
@@ -29687,42 +30270,16 @@ Turnhoutseweg 32
       </trkpt>
       <trkpt lat="51.319412933662534" lon="5.402111867442727"/>
       <trkpt lat="51.312444303184748" lon="5.400906968861818"/>
-      <trkpt lat="51.305677425116301" lon="5.399791589006782"/>
-      <trkpt lat="51.305516241118312" lon="5.398129625245929"/>
-      <trkpt lat="51.297060074284673" lon="5.400576386600733"/>
-      <trkpt lat="51.296339733526111" lon="5.400744108483195"/>
+      <trkpt lat="51.305583380162716" lon="5.399777675047517"/>
+      <trkpt lat="51.305710449814796" lon="5.401621777564287"/>
+      <trkpt lat="51.297359140589833" lon="5.402929941192269"/>
+      <trkpt lat="51.297133164480329" lon="5.40049466304481"/>
+      <trkpt lat="51.29633822478354" lon="5.400715274736285">
+        <ele>32.63671875</ele>
+      </trkpt>
       <trkpt lat="51.29588820040226" lon="5.396539410576224"/>
       <trkpt lat="51.288525871932507" lon="5.39884066209197"/>
-      <trkpt lat="51.28355473279953" lon="5.390452221035957"/>
-      <trkpt lat="51.285113347694278" lon="5.388216767460108"/>
-      <trkpt lat="51.28297814168036" lon="5.384964253753424">
-        <ele>34.06640625</ele>
-      </trkpt>
-      <trkpt lat="51.282196948304772" lon="5.385038685053587">
-        <ele>34.53515625</ele>
-      </trkpt>
-      <trkpt lat="51.276907799765468" lon="5.381658263504505"/>
-      <trkpt lat="51.276923138648272" lon="5.38887214846909">
-        <ele>37.00390625</ele>
-      </trkpt>
-      <trkpt lat="51.277251457795501" lon="5.389907984063029">
-        <ele>36.10546875</ele>
-      </trkpt>
-      <trkpt lat="51.277739536017179" lon="5.390551965683699">
-        <ele>36</ele>
-      </trkpt>
-      <trkpt lat="51.278385277837515" lon="5.390327498316765">
-        <ele>36.51171875</ele>
-      </trkpt>
-      <trkpt lat="51.279216427356005" lon="5.389407584443688">
-        <ele>36.87890625</ele>
-      </trkpt>
-      <trkpt lat="51.280180932953954" lon="5.388182820752263">
-        <ele>37.76171875</ele>
-      </trkpt>
-      <trkpt lat="51.282165180891752" lon="5.391798187047243">
-        <ele>33.671875</ele>
-      </trkpt>
+      <trkpt lat="51.283417353406549" lon="5.39017578586936"/>
       <trkpt lat="51.280960198491812" lon="5.393459228798747">
         <ele>34.11328125</ele>
       </trkpt>
