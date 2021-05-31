@@ -1,14 +1,12 @@
 <?xml version="1.0"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1" creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd">
-
   <metadata>
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2021-01-25T17:23:06Z</time>
-    <bounds maxlat="68.663910990580916" maxlon="30.063482997938991" minlat="60.158613799139857" minlon="21.850851690396667"/>
+    <time>2021-05-30T21:28:32Z</time>
+    <bounds maxlat="68.663910990580916" maxlon="30.063482997938991" minlat="60.090379994362593" minlon="21.850851690396667"/>
   </metadata>
-
   <wpt lat="62.015097141265869" lon="24.505541324615479">
     <time>2020-11-13T07:26:05Z</time>
     <name>1918 Taisteluiden muistomerkki</name>
@@ -42,7 +40,6 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="61.798782348632812" lon="24.368555545806885">
     <time>2020-11-13T07:06:21Z</time>
     <name>Abc</name>
@@ -84,7 +81,6 @@ Osuustie 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.55040168762207" lon="24.087910652160645">
     <time>2020-11-13T07:42:08Z</time>
     <name>Abc1</name>
@@ -126,7 +122,6 @@ Oikotie 8
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.097671508789062" lon="26.330130100250244">
     <time>2020-11-13T07:54:35Z</time>
     <name>Abc2</name>
@@ -168,7 +163,6 @@ Keskustie 15
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.406147003173828" lon="27.838518619537354">
     <time>2020-11-13T07:59:18Z</time>
     <name>Abc3</name>
@@ -210,7 +204,6 @@ Puolangantie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.5708909034729" lon="28.245656490325928">
     <time>2020-11-13T08:21:02Z</time>
     <name>Abc4</name>
@@ -248,7 +241,6 @@ Ouluntie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.342828430235386" lon="26.906000878661871">
     <time>2019-12-09T19:12:14Z</time>
     <name>Alassalmi ferry</name>
@@ -266,7 +258,6 @@ Ouluntie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.580332279205322" lon="28.235464096069336">
     <time>2020-11-13T08:22:35Z</time>
     <name>Asuntohotelli Ruska</name>
@@ -308,7 +299,6 @@ Kauppatie 37
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.549693584442139" lon="24.089841842651367">
     <time>2020-11-13T07:42:00Z</time>
     <name>Best Hamburger</name>
@@ -350,7 +340,6 @@ Sorvikuja 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.996566656976938" lon="24.462400004267693">
     <ele>90</ele>
     <time>2018-07-16T19:52:36Z</time>
@@ -371,7 +360,6 @@ Sorvikuja 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.300824904814363" lon="25.272747064009309">
     <ele>158.300000000000011</ele>
     <time>2018-07-25T17:33:09Z</time>
@@ -390,7 +378,6 @@ Sorvikuja 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.725921973586082" lon="28.085300037637353">
     <time>2012-10-23T15:57:21Z</time>
     <name>Eksymä KO</name>
@@ -408,7 +395,6 @@ Sorvikuja 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.541153430938721" lon="24.190306663513184">
     <time>2020-11-13T07:40:06Z</time>
     <name>Eläinpuisto-Zoo</name>
@@ -446,7 +432,6 @@ Karhunkierros
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.353760024532676" lon="26.759170973673463">
     <time>2012-10-23T15:57:22Z</time>
     <name>Enonkylä KO</name>
@@ -464,7 +449,6 @@ Karhunkierros
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.352951038628817" lon="26.308461958542466">
     <ele>88</ele>
     <time>2019-12-09T19:12:14Z</time>
@@ -483,7 +467,6 @@ Karhunkierros
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.830166697502136" lon="29.513599975034595">
     <ele>216</ele>
     <time>2018-07-16T20:52:28Z</time>
@@ -502,7 +485,6 @@ Karhunkierros
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.387282978743315" lon="25.681715961545706">
     <ele>130.800000000000011</ele>
     <time>2018-06-28T09:34:06Z</time>
@@ -521,7 +503,6 @@ Karhunkierros
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.204529015347362" lon="24.968169992789626">
     <time>2012-10-23T15:57:21Z</time>
     <name>Haarajoki KO</name>
@@ -539,7 +520,6 @@ Karhunkierros
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.581099977716804" lon="28.49018300883472">
     <time>2012-10-23T15:57:22Z</time>
     <name>Harjajärvi KO</name>
@@ -557,7 +537,6 @@ Karhunkierros
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.563831329345703" lon="28.216109275817871">
     <time>2020-11-13T08:22:38Z</time>
     <name>Herkko</name>
@@ -595,7 +574,6 @@ Karhunkierros
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.898968016728759" lon="25.823626024648547">
     <time>2013-12-12T12:05:50Z</time>
     <name>Hiihtomaja KO1</name>
@@ -613,7 +591,6 @@ Karhunkierros
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.369526863098145" lon="25.578832626342773">
     <time>2020-11-13T07:50:44Z</time>
     <name>Hotelli Pihtipudas</name>
@@ -655,7 +632,6 @@ Keskustie 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.103100299835205" lon="26.325345039367676">
     <time>2020-11-13T07:54:47Z</time>
     <name>Hotelli-Ravintola Järvihelmi</name>
@@ -697,7 +673,6 @@ Ouluntie 9
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.485390018671751" lon="27.72139904089272">
     <time>2014-08-07T06:43:55Z</time>
     <name>Hukkala</name>
@@ -715,7 +690,6 @@ Ouluntie 9
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.483123971149325" lon="27.695570038631558">
     <time>2014-08-07T06:44:54Z</time>
     <name>Hukkalan kota</name>
@@ -733,7 +707,6 @@ Ouluntie 9
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.535759005695581" lon="24.235910000279546">
     <time>2014-08-01T15:07:02Z</time>
     <name>Hyvösaho KO</name>
@@ -751,7 +724,6 @@ Ouluntie 9
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="61.845520008355379" lon="24.284363016486168">
     <time>2015-11-15T17:45:37Z</time>
     <name>Hyytiälä</name>
@@ -769,7 +741,6 @@ Ouluntie 9
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.706200025975704" lon="27.998528983443975">
     <time>2014-02-05T12:30:08Z</time>
     <name>Ilveskota Puolanka: Lean-to (open hut)</name>
@@ -787,7 +758,6 @@ Ouluntie 9
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.594048006460071" lon="28.349919989705086">
     <time>2014-08-01T04:57:53Z</time>
     <name>Iso Lampolampi</name>
@@ -805,7 +775,6 @@ Ouluntie 9
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.603539003059268" lon="28.420110968872905">
     <time>2014-08-01T04:58:52Z</time>
     <name>Iso Matovaara</name>
@@ -823,7 +792,6 @@ Ouluntie 9
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.378365017473698" lon="27.060124967247248">
     <time>2012-12-20T12:31:10Z</time>
     <name>Iso-Peura TP</name>
@@ -841,7 +809,6 @@ Ouluntie 9
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.32553899474442" lon="26.737128999084234">
     <time>2012-10-23T15:57:22Z</time>
     <name>Iso-Salmi laavu</name>
@@ -859,7 +826,6 @@ Ouluntie 9
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.576598644256592" lon="28.24134349822998">
     <time>2020-11-13T08:21:36Z</time>
     <name>Jalavan Kauppa ja Pirttikahvila</name>
@@ -901,7 +867,6 @@ Mikonkuja 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.845043018460274" lon="24.477553982287645">
     <time>2014-08-14T07:18:51Z</time>
     <name>Joutenjärvi: Lean-to (open hut)</name>
@@ -919,7 +884,6 @@ Mikonkuja 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="61.795613067224622" lon="24.370632665231824">
     <time>2020-11-13T07:15:46Z</time>
     <name>Juupajoki Gorge</name>
@@ -937,7 +901,6 @@ Mikonkuja 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.175307989120483" lon="28.20284097455442">
     <time>2012-10-23T15:57:22Z</time>
     <name>Juurikka-aho KO</name>
@@ -957,7 +920,6 @@ Mikonkuja 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.51341200247407" lon="28.323950003832579">
     <time>2016-02-26T06:23:16Z</time>
     <name>Juurikkalampi</name>
@@ -975,7 +937,6 @@ Mikonkuja 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.098336696624756" lon="26.329808235168457">
     <time>2020-11-13T07:54:39Z</time>
     <name>K-Market</name>
@@ -1017,7 +978,6 @@ Keskustie 10
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.578272342681885" lon="28.243060111999512">
     <time>2020-11-13T08:21:55Z</time>
     <name>K-Market1</name>
@@ -1059,7 +1019,6 @@ Talonpojantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="61.790928840637207" lon="24.45481538772583">
     <time>2020-11-13T07:08:02Z</time>
     <name>K-Meronen Kopsamo</name>
@@ -1097,7 +1056,6 @@ Kopsamontie 130
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.548084259033203" lon="24.074993133544922">
     <time>2020-11-13T07:42:40Z</time>
     <name>K-Supermarket</name>
@@ -1139,7 +1097,6 @@ Ostolantie 4
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.369226455688477" lon="25.582866668701172">
     <time>2020-11-13T07:50:13Z</time>
     <name>K-Supermarket1</name>
@@ -1181,7 +1138,6 @@ Asematie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.369977474212646" lon="25.575356483459473">
     <time>2020-11-13T07:50:28Z</time>
     <name>Kahvila-Ravintola Manta</name>
@@ -1223,7 +1179,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="67.712459033355117" lon="28.324908977374434">
     <ele>221</ele>
     <time>2019-06-23T13:05:18Z</time>
@@ -1242,7 +1197,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.516456980258226" lon="28.327310979366302">
     <time>2014-08-01T05:30:02Z</time>
     <name>Kallioinen: Lean-to (open hut)</name>
@@ -1260,7 +1214,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.424148984253407" lon="27.754533961415291">
     <time>2014-02-05T12:13:19Z</time>
     <name>Kalliojärvi Paltamo laavu: Lean-to (open hut)</name>
@@ -1278,7 +1231,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.146629007533193" lon="24.893551021814346">
     <time>2012-10-23T15:57:21Z</time>
     <name>Kalliokosken laavu</name>
@@ -1296,7 +1248,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.08744796924293" lon="24.1859230119735">
     <time>2014-02-13T06:23:40Z</time>
     <name>Kankaanlammi kota</name>
@@ -1316,7 +1267,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="61.427409974858165" lon="24.680479019880295">
     <time>2012-10-23T15:57:21Z</time>
     <name>Kankaanpäänniitty LA</name>
@@ -1334,7 +1284,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.384768994525075" lon="24.145940998569131">
     <time>2014-08-03T22:23:05Z</time>
     <name>Kankimylly KO</name>
@@ -1352,7 +1301,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.982750011608005" lon="24.497333345934749">
     <ele>85.299999999999997</ele>
     <time>2018-07-16T18:49:34Z</time>
@@ -1373,7 +1321,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.103057995438576" lon="28.063940014690161">
     <time>2012-10-23T15:57:21Z</time>
     <name>Kattilakoski P LA</name>
@@ -1391,7 +1338,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="68.434466701000929" lon="27.439883351325989">
     <ele>434.5</ele>
     <time>2018-07-16T19:25:21Z</time>
@@ -1410,7 +1356,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.976692028343678" lon="29.616489009931684">
     <time>2012-10-23T15:57:21Z</time>
     <name>Kenttäniemi LA</name>
@@ -1428,7 +1373,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.604629991576076" lon="28.473591031506658">
     <time>2014-08-01T07:09:27Z</time>
     <name>Kenttärata</name>
@@ -1446,7 +1390,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.63301170244813" lon="28.507365239784122">
     <time>2020-11-13T08:35:33Z</time>
     <name>Kenttärata Haarajoen leiri. Historical landmark</name>
@@ -1464,7 +1407,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.353045323863626" lon="28.362481193616986">
     <time>2020-11-13T08:17:59Z</time>
     <name>Kenttärata Korvuan leiri. Historical landmark</name>
@@ -1482,7 +1424,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.355972787365317" lon="28.371259393170476">
     <time>2020-11-13T08:29:18Z</time>
     <name>Kenttärata. https://www.visittaivalkoski.fi/en/services/kenttarata-2nd-ww-railway/</name>
@@ -1500,7 +1441,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.909121315926313" lon="29.199417997151613">
     <time>2020-11-13T08:31:28Z</time>
     <name>Kenttärata1; Trench railway</name>
@@ -1518,7 +1458,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.523323016241193" lon="28.270571026951075">
     <time>2014-08-01T05:28:18Z</time>
     <name>Kirstinkari: Lean-to (open hut)</name>
@@ -1536,7 +1475,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.460952999070287" lon="27.541859010234475">
     <time>2014-02-05T12:15:29Z</time>
     <name>Kivesvaara kota</name>
@@ -1554,7 +1492,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.984348010271788" lon="26.162152988836169">
     <time>2014-06-01T05:53:13Z</time>
     <name>Kivikota: Lean-to (open hut)</name>
@@ -1574,7 +1511,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.444664027541876" lon="27.810336984694004">
     <time>2013-06-26T20:42:51Z</time>
     <name>Koikerojärvi KO</name>
@@ -1594,7 +1530,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.926754025742412" lon="26.193616976961493">
     <time>2012-10-23T15:57:21Z</time>
     <name>Kokkopuro LA</name>
@@ -1612,7 +1547,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.743752041831613" lon="28.19429000839591">
     <time>2012-10-23T15:57:21Z</time>
     <name>Komulanköngäs LA</name>
@@ -1630,7 +1564,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.125030962750316" lon="26.59205099567771">
     <time>2012-10-23T15:57:21Z</time>
     <name>Kontiolampi LA</name>
@@ -1650,7 +1583,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.695846974849701" lon="28.780774958431721">
     <time>2014-03-05T14:54:45Z</time>
     <name>Korpuanjärvi laavu</name>
@@ -1668,7 +1600,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.404773712158203" lon="27.839269638061523">
     <time>2020-11-13T07:59:24Z</time>
     <name>Kotipizza</name>
@@ -1710,7 +1641,6 @@ Sairaalatie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.941650008782744" lon="25.776648977771401">
     <time>2012-10-23T15:57:21Z</time>
     <name>Kumpulaavu LA</name>
@@ -1728,7 +1658,6 @@ Sairaalatie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.383128991350532" lon="24.178378963842988">
     <time>2014-08-03T22:20:19Z</time>
     <name>Kurskangas KO</name>
@@ -1746,7 +1675,6 @@ Sairaalatie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.569931007921696" lon="28.194410037249327">
     <time>2014-08-01T05:34:16Z</time>
     <name>Kuulampi</name>
@@ -1764,7 +1692,6 @@ Sairaalatie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.632210033014417" lon="27.973430966958404">
     <time>2014-02-05T12:34:06Z</time>
     <name>Latvajoki kota</name>
@@ -1784,7 +1711,6 @@ Sairaalatie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.665076732635498" lon="28.052215576171875">
     <time>2020-11-13T08:05:27Z</time>
     <name>Latvajärven Loma-Asunnot</name>
@@ -1826,7 +1752,6 @@ Latvantie 11
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.983704028651118" lon="26.08510997146368">
     <time>2012-10-23T15:57:21Z</time>
     <name>LauttalampiK LA</name>
@@ -1846,7 +1771,6 @@ Latvantie 11
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.692566022276878" lon="27.905128011479974">
     <time>2014-02-05T12:25:59Z</time>
     <name>Lehtojoki laavu: Lean-to (open hut)</name>
@@ -1864,7 +1788,6 @@ Latvantie 11
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.341130256652832" lon="27.091426849365234">
     <time>2020-11-13T07:56:53Z</time>
     <name>Leirintäalue Kultahiekat</name>
@@ -1906,7 +1829,6 @@ Manamansalontie 3881
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.560260985046625" lon="24.229548973962665">
     <time>2014-08-01T15:00:54Z</time>
     <name>Leveäaho LA</name>
@@ -1924,7 +1846,6 @@ Manamansalontie 3881
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.688098000362515" lon="27.546868035569787">
     <ele>157.099999999999994</ele>
     <time>2018-06-28T15:13:06Z</time>
@@ -1943,7 +1864,6 @@ Manamansalontie 3881
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.021641731262207" lon="24.505434036254883">
     <time>2020-11-13T07:26:26Z</time>
     <name>Lounaskahvio Makoisa</name>
@@ -1985,7 +1905,6 @@ Virtaintie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.299000021070242" lon="25.284409979358315">
     <time>2012-10-23T15:57:21Z</time>
     <name>Luotonen LA</name>
@@ -2003,7 +1922,6 @@ Virtaintie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.907081974670291" lon="28.176931003108621">
     <time>2014-02-06T10:51:27Z</time>
     <name>Lylykylä kota</name>
@@ -2023,7 +1941,6 @@ Virtaintie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.771991966292262" lon="24.351061005145311">
     <time>2012-10-23T15:57:22Z</time>
     <name>Löytömäennenä LA</name>
@@ -2041,7 +1958,6 @@ Virtaintie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.018058300018311" lon="24.455480575561523">
     <time>2020-11-13T07:25:13Z</time>
     <name>Maatilamatkailu Peltolan Luomutila</name>
@@ -2083,7 +1999,6 @@ Poukantie 162
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.408530984073877" lon="27.079203017055988">
     <time>2016-07-25T10:03:10Z</time>
     <name>Makkaraniemi: Lean-to (open hut)</name>
@@ -2103,7 +2018,6 @@ Poukantie 162
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.389474391937256" lon="27.025809288024902">
     <time>2020-11-13T07:55:53Z</time>
     <name>Manamansalon Leirintäalue</name>
@@ -2145,7 +2059,6 @@ Teeriniementie 156
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.415159225463867" lon="27.140028476715088">
     <time>2020-11-13T07:56:34Z</time>
     <name>Manamansalon Muistomerkkikirkko</name>
@@ -2179,7 +2092,6 @@ Teeriniementie 156
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.717100007459521" lon="24.212283343076706">
     <ele>114.700000000000003</ele>
     <time>2018-07-16T18:56:55Z</time>
@@ -2200,7 +2112,6 @@ Teeriniementie 156
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.405267238616943" lon="27.83435583114624">
     <time>2020-11-13T07:59:09Z</time>
     <name>Matkakoti Keidas</name>
@@ -2242,7 +2153,6 @@ Harjutie 6
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.258289033547044" lon="25.062500014901161">
     <time>2014-08-12T12:29:48Z</time>
     <name>Mekkopuro</name>
@@ -2260,7 +2170,6 @@ Harjutie 6
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.400016982108355" lon="27.656669961288571">
     <time>2012-10-23T15:57:21Z</time>
     <name>Melalahti KO</name>
@@ -2278,7 +2187,6 @@ Harjutie 6
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.520046038553119" lon="24.209223026409745">
     <time>2014-08-14T06:10:33Z</time>
     <name>Moksunniemi: Lean-to (open hut)</name>
@@ -2296,7 +2204,6 @@ Harjutie 6
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.882500031962991" lon="29.023216646164656">
     <ele>231.599999999999994</ele>
     <time>2018-07-16T20:50:31Z</time>
@@ -2315,7 +2222,6 @@ Harjutie 6
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.936576994135976" lon="29.480749033391476">
     <time>2014-07-31T08:00:16Z</time>
     <name>Muovaara: Lean-to (open hut)</name>
@@ -2333,7 +2239,6 @@ Harjutie 6
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.014217376708984" lon="24.508523941040039">
     <time>2020-11-13T07:26:12Z</time>
     <name>Mänttä-Vilppulan Kaupunki Koivuniemen Retkeilymaja</name>
@@ -2375,7 +2280,6 @@ Koivuniementie 5
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.657480716705322" lon="27.981126308441162">
     <time>2020-11-13T08:05:24Z</time>
     <name>Nature Point Paljakka</name>
@@ -2417,7 +2321,6 @@ Soikantie 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="61.786036491394043" lon="24.390056133270264">
     <time>2020-11-13T07:07:45Z</time>
     <name>Neste Oil</name>
@@ -2459,7 +2362,6 @@ Koskitie 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.369569778442383" lon="25.582630634307861">
     <time>2020-11-13T07:50:21Z</time>
     <name>Neste Oil1</name>
@@ -2501,7 +2403,6 @@ Savelantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.404773712158203" lon="27.839269638061523">
     <time>2020-11-13T07:59:27Z</time>
     <name>Neste Oil2</name>
@@ -2543,7 +2444,6 @@ Sairaalatie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.500876409932971" lon="24.081078981980681">
     <ele>105</ele>
     <time>2018-06-27T09:33:18Z</time>
@@ -2562,7 +2462,6 @@ Sairaalatie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.529168099164963" lon="24.040296748280525">
     <ele>100</ele>
     <time>2018-07-15T18:58:27Z</time>
@@ -2581,7 +2480,6 @@ Sairaalatie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="67.799595035612583" lon="28.665209971368313">
     <ele>440.600000000000023</ele>
     <time>2019-06-23T13:05:18Z</time>
@@ -2600,7 +2498,6 @@ Sairaalatie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.820049991831183" lon="29.617349999025464">
     <ele>220</ele>
     <time>2018-07-16T20:55:15Z</time>
@@ -2625,7 +2522,6 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="61.573071023449302" lon="24.453883990645409">
     <time>2012-10-23T15:57:21Z</time>
     <name>Nunna LA</name>
@@ -2643,7 +2539,6 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.55369896069169" lon="24.216240020468831">
     <time>2012-10-23T15:57:22Z</time>
     <name>Ohrakoski KO</name>
@@ -2661,7 +2556,6 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.554999999701977" lon="24.219061033800244">
     <time>2012-10-23T15:57:22Z</time>
     <name>Ohrakoski LA</name>
@@ -2679,7 +2573,6 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.845581041648984" lon="29.020570982247591">
     <time>2012-10-23T15:57:21Z</time>
     <name>Oijusluoma KO</name>
@@ -2697,7 +2590,6 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.407218964770436" lon="27.691878983750939">
     <time>2014-08-07T07:12:33Z</time>
     <name>Oikarinen: Lean-to (open hut)</name>
@@ -2715,7 +2607,6 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.249983297660947" lon="25.183816663920879">
     <ele>116.599999999999994</ele>
     <time>2018-07-16T19:15:32Z</time>
@@ -2736,7 +2627,40 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
+  <wpt lat="60.10247097350657" lon="24.335731929168105">
+    <time>2021-05-30T11:43:38Z</time>
+    <name>Old Railroad Track (built by Russians)</name>
+    <sym>Civil</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-05-30T11:43:38Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="60.29994391836226" lon="24.12645298987627">
+    <time>2021-05-30T11:46:47Z</time>
+    <name>Old Sanatorium (burnt down in 2019)</name>
+    <sym>Civil</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-05-30T11:46:47Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="64.673187732696533" lon="27.939927577972412">
     <time>2020-11-13T08:04:54Z</time>
     <name>Paljakan Loma-Asunnot</name>
@@ -2778,7 +2702,6 @@ Lehtotie 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.679861068725586" lon="27.941644191741943">
     <time>2020-11-13T08:04:40Z</time>
     <name>Paljakka Caravan</name>
@@ -2820,7 +2743,6 @@ Rinnetie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.577713018283248" lon="28.309089979156852">
     <time>2014-08-01T04:52:48Z</time>
     <name>Petäjävaara</name>
@@ -2838,7 +2760,6 @@ Rinnetie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.19699102640152" lon="26.714252019301057">
     <time>2014-09-07T15:47:47Z</time>
     <name>Piipari</name>
@@ -2856,7 +2777,6 @@ Rinnetie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.082024028524756" lon="27.978260032832623">
     <time>2012-10-23T15:57:21Z</time>
     <name>Pikku-Ruokonen KO</name>
@@ -2874,7 +2794,6 @@ Rinnetie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.065559012815356" lon="26.453689998015761">
     <time>2012-10-23T15:57:21Z</time>
     <name>Pitkäkangas LA</name>
@@ -2892,7 +2811,6 @@ Rinnetie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.153659999370575" lon="24.898187974467874">
     <time>2015-06-17T09:03:47Z</time>
     <name>Pitkäkosken laavu: Lean-to (open hut)</name>
@@ -2910,7 +2828,6 @@ Rinnetie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.579353021457791" lon="28.304198971018195">
     <time>2014-08-01T04:51:20Z</time>
     <name>Pitkälampi kota</name>
@@ -2928,7 +2845,6 @@ Rinnetie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.583008034154773" lon="28.31712001003325">
     <time>2014-08-01T04:52:06Z</time>
     <name>Pitkälampi laavu: Lean-to (open hut)</name>
@@ -2946,7 +2862,6 @@ Rinnetie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.577242374420166" lon="28.245248794555664">
     <time>2020-11-13T08:21:43Z</time>
     <name>Pizzeria Dalal</name>
@@ -2988,7 +2903,6 @@ Talonpojantie 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="61.649436950683594" lon="24.519960880279541">
     <time>2020-11-13T06:56:12Z</time>
     <name>Purnun Taidekeskus</name>
@@ -3030,7 +2944,6 @@ Mustasaari 63
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.950790019705892" lon="29.300980009138584">
     <time>2013-01-08T07:30:11Z</time>
     <name>Puutteenkylä KO</name>
@@ -3048,7 +2961,6 @@ Mustasaari 63
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.685683976858854" lon="27.938824016600847">
     <time>2013-01-08T10:56:46Z</time>
     <name>Rakennusjärvi KO</name>
@@ -3066,7 +2978,6 @@ Mustasaari 63
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.015955448150635" lon="24.496185779571533">
     <time>2020-11-13T07:25:40Z</time>
     <name>Rantaravintola Isabella</name>
@@ -3108,7 +3019,6 @@ Kirkkotie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.349117012694478" lon="25.568977016955614">
     <time>2012-10-23T15:57:21Z</time>
     <name>Rapeikko LA</name>
@@ -3126,7 +3036,6 @@ Kirkkotie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.677157402038574" lon="27.94273853302002">
     <time>2020-11-13T08:05:06Z</time>
     <name>Ravintola Paljakka</name>
@@ -3168,7 +3077,6 @@ Jyrkänparras
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.302089985460043" lon="24.125469038262963">
     <time>2012-10-23T15:57:21Z</time>
     <name>Reinikankoski LA</name>
@@ -3186,7 +3094,6 @@ Jyrkänparras
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.575298035517335" lon="24.111178983002901">
     <time>2012-10-23T15:57:22Z</time>
     <name>Riihimäki KO</name>
@@ -3204,7 +3111,6 @@ Jyrkänparras
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.55664587020874" lon="24.111320972442627">
     <time>2020-11-13T07:41:36Z</time>
     <name>Rolls Express</name>
@@ -3246,7 +3152,6 @@ Myllymäentie 37
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.577201973646879" lon="28.349871039390564">
     <time>2014-08-01T04:54:32Z</time>
     <name>Romevaaran kota</name>
@@ -3264,7 +3169,6 @@ Myllymäentie 37
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.571716018021107" lon="28.347900034859776">
     <time>2014-08-01T04:53:55Z</time>
     <name>Romevaaran laavu</name>
@@ -3282,7 +3186,6 @@ Myllymäentie 37
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.545685023069382" lon="24.162789965048432">
     <time>2014-08-14T06:05:23Z</time>
     <name>Roomunniemi: Lean-to (open hut)</name>
@@ -3300,7 +3203,6 @@ Myllymäentie 37
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="66.159499995410442" lon="29.153883308172226">
     <ele>464.199999999999989</ele>
     <time>2018-07-16T19:19:58Z</time>
@@ -3319,7 +3221,6 @@ Myllymäentie 37
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.845383372157812" lon="29.346050005406141">
     <ele>210.599999999999994</ele>
     <time>2018-07-16T20:42:21Z</time>
@@ -3340,7 +3241,6 @@ Myllymäentie 37
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.550187110900879" lon="24.084842205047607">
     <time>2020-11-13T07:42:22Z</time>
     <name>S-Market</name>
@@ -3382,7 +3282,6 @@ Alatie 22
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.370921611785889" lon="25.572888851165771">
     <time>2020-11-13T07:51:05Z</time>
     <name>S-Market1</name>
@@ -3424,7 +3323,6 @@ Asematie 18
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.575590133666992" lon="28.242673873901367">
     <time>2020-11-13T08:21:19Z</time>
     <name>S-Market2</name>
@@ -3466,7 +3364,6 @@ Kauppatie 11
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="61.798782348632812" lon="24.368319511413574">
     <time>2020-11-13T07:06:33Z</time>
     <name>Sale</name>
@@ -3508,7 +3405,6 @@ Osuustie 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.404773712158203" lon="27.839269638061523">
     <time>2020-11-13T07:59:30Z</time>
     <name>Scanburger</name>
@@ -3550,7 +3446,6 @@ Sairaalatie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.913918003439903" lon="28.187820017337799">
     <time>2012-10-23T15:57:21Z</time>
     <name>Seipivaara KO</name>
@@ -3570,7 +3465,6 @@ Sairaalatie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.361995220184326" lon="25.592737197875977">
     <time>2020-11-13T07:51:20Z</time>
     <name>Seo</name>
@@ -3612,7 +3506,6 @@ Viitasaarentie 93
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.095461368560791" lon="26.333348751068115">
     <time>2020-11-13T07:54:24Z</time>
     <name>Seo1</name>
@@ -3654,10 +3547,9 @@ Huoltotie 9
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.366308212280273" lon="25.589518547058105">
     <time>2020-11-13T07:51:11Z</time>
-    <name>Shell1</name>
+    <name>Shell11</name>
     <cmt>Shell
 Putaanportintie 11
 44800, Pihtipudas, West and Inner Finland, Finland
@@ -3696,7 +3588,23 @@ Putaanportintie 11
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
+  <wpt lat="60.318116638809443" lon="23.823366640135646">
+    <time>2021-05-30T11:49:18Z</time>
+    <name>Shop and Petrol</name>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-05-30T11:49:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="64.407498836517334" lon="27.837145328521729">
     <time>2020-11-13T07:58:56Z</time>
     <name>Siwa-Lepikontie</name>
@@ -3734,7 +3642,6 @@ Lepikontie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.02157735824585" lon="24.50376033782959">
     <time>2020-11-13T07:26:21Z</time>
     <name>st1</name>
@@ -3776,7 +3683,25 @@ Virtaintie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
+  <wpt lat="60.141519829630852" lon="24.264140501618385">
+    <time>2021-05-30T11:44:48Z</time>
+    <name>Sundby Castle; Nice Rapids</name>
+    <cmt>Unbefestigte Straße</cmt>
+    <desc>Unbefestigte Straße</desc>
+    <sym>Civil</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-05-30T11:44:48Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="65.140137020498514" lon="28.063600966706872">
     <time>2012-10-23T15:57:21Z</time>
     <name>Suolijärvi KO</name>
@@ -3796,7 +3721,6 @@ Virtaintie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.58831000700593" lon="28.367120996117592">
     <time>2014-08-01T04:56:10Z</time>
     <name>Susijärvi: Lean-to (open hut)</name>
@@ -3814,7 +3738,6 @@ Virtaintie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.940544111654162" lon="24.130058297887444">
     <ele>130.699999999999989</ele>
     <time>2018-07-24T13:37:15Z</time>
@@ -3833,7 +3756,6 @@ Virtaintie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.077380297705531" lon="25.162001922726631">
     <ele>103.299999999999997</ele>
     <time>2018-07-25T14:37:09Z</time>
@@ -3852,7 +3774,6 @@ Virtaintie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.387176996096969" lon="27.050090990960598">
     <time>2012-10-23T15:57:22Z</time>
     <name>Särkinen KO</name>
@@ -3872,7 +3793,6 @@ Virtaintie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.388306038454175" lon="27.041885023936629">
     <time>2014-02-05T11:09:22Z</time>
     <name>Särkinen laavu</name>
@@ -3892,7 +3812,6 @@ Virtaintie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.939193991944194" lon="29.111866001039743">
     <time>2013-01-08T07:24:29Z</time>
     <name>Säynäjävaara KO</name>
@@ -3910,7 +3829,6 @@ Virtaintie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.296963470056653" lon="28.013574164360762">
     <ele>255.699999999999989</ele>
     <time>2018-07-16T18:41:31Z</time>
@@ -3929,7 +3847,6 @@ Virtaintie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.564560890197754" lon="28.22263240814209">
     <time>2020-11-13T08:22:29Z</time>
     <name>Taivalmajat</name>
@@ -3971,7 +3888,6 @@ Hetemäentie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.393186569213867" lon="27.982778549194336">
     <time>2020-11-13T07:59:49Z</time>
     <name>Talvisotaan Lähteneiden Muistokivi</name>
@@ -4009,7 +3925,6 @@ Tahvintie 4
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.154207229614258" lon="24.131577014923096">
     <time>2020-11-13T07:28:19Z</time>
     <name>Tarmo Lähikauppias</name>
@@ -4051,7 +3966,6 @@ Linnaksentie 20
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="61.409926414489746" lon="24.718444347381592">
     <time>2020-11-13T06:50:00Z</time>
     <name>Tarmo Rautajärven Kyläkauppa</name>
@@ -4089,7 +4003,6 @@ Rautajärventie 5
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.007672786712646" lon="24.480865001678467">
     <time>2020-11-13T07:24:58Z</time>
     <name>Teboil</name>
@@ -4127,7 +4040,6 @@ Höylääjäntie 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.345730304718018" lon="25.602478981018066">
     <time>2020-11-13T07:51:28Z</time>
     <name>Teboil1</name>
@@ -4169,7 +4081,6 @@ Rupontie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.40509557723999" lon="27.855920791625977">
     <time>2020-11-13T07:59:39Z</time>
     <name>Teboil2</name>
@@ -4207,7 +4118,6 @@ Uurantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.925819024443626" lon="25.750500038266182">
     <time>2012-10-23T15:57:21Z</time>
     <name>Teerilaavu LA</name>
@@ -4225,7 +4135,6 @@ Uurantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.160880973562598" lon="28.089919975027442">
     <time>2012-10-23T15:57:21Z</time>
     <name>Tenämäjärvi LA</name>
@@ -4243,7 +4152,6 @@ Uurantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.164779983460903" lon="28.052489999681711">
     <time>2012-10-23T15:57:21Z</time>
     <name>Tenämänkoski LA</name>
@@ -4263,7 +4171,6 @@ Uurantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.432510040700436" lon="28.367780987173319">
     <time>2014-08-01T06:27:04Z</time>
     <name>Tervajärven laavu: Lean-to (open hut)</name>
@@ -4281,7 +4188,6 @@ Uurantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.294880148023367" lon="27.92735212482512">
     <ele>121.5</ele>
     <time>2018-07-15T19:25:45Z</time>
@@ -4302,7 +4208,6 @@ Uurantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.119841007515788" lon="25.160504998639226">
     <ele>106.200000000000003</ele>
     <time>2018-06-28T06:36:50Z</time>
@@ -4323,7 +4228,6 @@ Uurantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.20222245901823" lon="25.187841570004821">
     <ele>113.200000000000003</ele>
     <time>2018-07-15T19:17:05Z</time>
@@ -4344,7 +4248,6 @@ Uurantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.20238515175879" lon="25.188130745664239">
     <ele>113.599999999999994</ele>
     <time>2018-07-15T19:17:42Z</time>
@@ -4365,7 +4268,6 @@ Uurantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.294968409463763" lon="27.928259046748281">
     <ele>124</ele>
     <time>2018-07-15T19:23:23Z</time>
@@ -4386,7 +4288,6 @@ Uurantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.574946403503418" lon="28.222675323486328">
     <time>2020-11-13T08:22:32Z</time>
     <name>Tykkytaival</name>
@@ -4428,7 +4329,6 @@ Mutkatie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.852566663175821" lon="29.223800031468272">
     <ele>224.199999999999989</ele>
     <time>2018-07-16T20:47:10Z</time>
@@ -4449,7 +4349,6 @@ Mutkatie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.452437991276383" lon="27.70064502954483">
     <time>2014-02-05T12:10:38Z</time>
     <name>Vaarankylä kota</name>
@@ -4467,7 +4366,6 @@ Mutkatie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.398375973105431" lon="27.65561300329864">
     <time>2014-02-05T11:50:51Z</time>
     <name>Varissaari laavu: Lean-to (open hut)</name>
@@ -4485,7 +4383,6 @@ Mutkatie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.150260969996452" lon="24.846505997702479">
     <time>2015-06-15T16:09:07Z</time>
     <name>Veitjoki, laavu: Lean-to (open hut)</name>
@@ -4505,7 +4402,23 @@ Mutkatie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
+  <wpt lat="60.507916705682874" lon="23.71493331156671">
+    <time>2021-05-30T11:50:21Z</time>
+    <name>Very nice place for grilling</name>
+    <sym>Civil</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-05-30T11:50:21Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="62.235741019248962" lon="24.106831038370728">
     <time>2012-10-23T15:57:22Z</time>
     <name>Vesikorvenneva KO</name>
@@ -4523,7 +4436,6 @@ Mutkatie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.015461921691895" lon="24.495820999145508">
     <time>2020-11-13T07:25:29Z</time>
     <name>Vierasvenesataman Caravanalue</name>
@@ -4557,7 +4469,6 @@ Mutkatie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.571269968524575" lon="25.471059959381819">
     <time>2012-10-23T15:57:21Z</time>
     <name>Viikatehauta KO</name>
@@ -4577,7 +4488,6 @@ Mutkatie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.886761032044888" lon="25.845693983137608">
     <time>2013-12-12T12:13:45Z</time>
     <name>Viitainkangas LA</name>
@@ -4595,7 +4505,6 @@ Mutkatie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.276618998497725" lon="25.337979979813099">
     <time>2014-08-12T12:32:30Z</time>
     <name>Viitasaaren Kangasjärvi: Lean-to (open hut)</name>
@@ -4613,7 +4522,6 @@ Mutkatie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.014049990102649" lon="24.506488982588053">
     <time>2015-11-15T17:46:53Z</time>
     <name>Vilppula</name>
@@ -4631,7 +4539,6 @@ Mutkatie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.012500762939453" lon="24.500241279602051">
     <time>2020-11-13T07:25:49Z</time>
     <name>Vuoden 1918 Punaisten muistomerkki</name>
@@ -4665,7 +4572,6 @@ Mutkatie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="61.89019002020359" lon="24.43665498867631">
     <time>2013-07-20T08:26:13Z</time>
     <name>Vähä-Karvian laavu: Lean-to (open hut)</name>
@@ -4685,7 +4591,6 @@ Mutkatie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.763954021036625" lon="27.981671970337629">
     <time>2013-01-08T10:58:34Z</time>
     <name>Väärälampi LA</name>
@@ -4703,7 +4608,6 @@ Mutkatie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.848116626963019" lon="29.327283343300223">
     <ele>205</ele>
     <time>2018-07-16T20:37:03Z</time>
@@ -4724,7 +4628,6 @@ Mutkatie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.117266638204455" lon="29.589066691696644">
     <ele>164.199999999999989</ele>
     <time>2018-07-16T20:28:13Z</time>
@@ -4743,7 +4646,6 @@ Mutkatie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.575684010982513" lon="28.399240029975772">
     <time>2014-08-01T05:26:50Z</time>
     <name>Ylä-Juurikkavaara</name>
@@ -4761,7 +4663,6 @@ Mutkatie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.754753038287163" lon="28.087060991674662">
     <time>2012-10-23T15:57:21Z</time>
     <name>Ypykkälampi LA</name>
@@ -4779,7 +4680,6 @@ Mutkatie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.540788650512695" lon="24.172561168670654">
     <time>2020-11-13T07:39:56Z</time>
     <name>Ähtärin Eläinpuiston Leirintäalue</name>
@@ -4821,7 +4721,6 @@ Karhunkierros 229
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.593867974355817" lon="24.135468984022737">
     <time>2012-10-23T15:57:22Z</time>
     <name>Ähtärinsalmi LA</name>
@@ -4839,9 +4738,8 @@ Karhunkierros 229
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <trk>
-    <name>TET-FINLAND-Niekkatunturi-20210120</name>
+    <name>TET-FINLAND-Niekkatunturi-20210530</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -4943,461 +4841,563 @@ Karhunkierros 229
       </trkpt>
     </trkseg>
   </trk>
-
   <trk>
-    <name>TET-FINLAND-Section1-20210120</name>
+    <name>TET-FINLAND-Section1-20210530</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
       </gpxx:TrackExtension>
     </extensions>
     <trkseg>
-      <trkpt lat="60.158613799139857" lon="24.921813877299428"/>
-      <trkpt lat="60.163104822859168" lon="24.921634420752525"/>
-      <trkpt lat="60.164815150201321" lon="24.92103410884738"/>
-      <trkpt lat="60.164357330650091" lon="24.913001898676157">
-        <ele>32.524000000000001</ele>
-      </trkpt>
-      <trkpt lat="60.16625365242362" lon="24.909591553732753"/>
-      <trkpt lat="60.166909452527761" lon="24.905288787558675"/>
-      <trkpt lat="60.166476862505078" lon="24.895065547898412"/>
-      <trkpt lat="60.163064925000072" lon="24.871091544628143"/>
-      <trkpt lat="60.162315834313631" lon="24.867137549445033"/>
-      <trkpt lat="60.162864178419113" lon="24.860507296398282"/>
-      <trkpt lat="60.16831761226058" lon="24.831396443769336"/>
-      <trkpt lat="60.172088127583265" lon="24.826238807290792"/>
-      <trkpt lat="60.176418637856841" lon="24.828566377982497"/>
-      <trkpt lat="60.180528117343783" lon="24.819974927231669"/>
-      <trkpt lat="60.187855660915375" lon="24.807765763252974"/>
-      <trkpt lat="60.197008028626442" lon="24.80663537979126"/>
-      <trkpt lat="60.204254686832428" lon="24.815325904637575"/>
-      <trkpt lat="60.218830984085798" lon="24.816503478214145">
-        <ele>25.265999999999998</ele>
-      </trkpt>
-      <trkpt lat="60.222762012854218" lon="24.818970523774624"/>
-      <trkpt lat="60.228008916601539" lon="24.82870384119451">
-        <ele>37.622</ele>
-      </trkpt>
-      <trkpt lat="60.231070322915912" lon="24.850106695666909"/>
-      <trkpt lat="60.232979888096452" lon="24.856591355055571">
-        <ele>18.140999999999998</ele>
-      </trkpt>
-      <trkpt lat="60.236155623570085" lon="24.857737496495247">
-        <ele>16</ele>
-      </trkpt>
-      <trkpt lat="60.238373978063464" lon="24.854488000273705">
-        <ele>17.831</ele>
-      </trkpt>
-      <trkpt lat="60.243335980921984" lon="24.846342969685793">
-        <ele>19</ele>
-      </trkpt>
-      <trkpt lat="60.249679991975427" lon="24.834979036822915">
-        <ele>31</ele>
-      </trkpt>
-      <trkpt lat="60.254301019012928" lon="24.824870964512229">
-        <ele>37.759999999999998</ele>
-      </trkpt>
-      <trkpt lat="60.255773970857263" lon="24.820312969386578">
-        <ele>39.399999999999999</ele>
-      </trkpt>
-      <trkpt lat="60.263704005628824" lon="24.810825996100903">
-        <ele>35.630000000000003</ele>
-      </trkpt>
-      <trkpt lat="60.270171985030174" lon="24.805747987702489">
-        <ele>30.571000000000002</ele>
-      </trkpt>
-      <trkpt lat="60.276445001363754" lon="24.803786035627127">
-        <ele>25.370000000000001</ele>
-      </trkpt>
-      <trkpt lat="60.283443974331021" lon="24.791211001574993">
-        <ele>19.745000000000001</ele>
-      </trkpt>
-      <trkpt lat="60.292322002351284" lon="24.780946020036936">
-        <ele>37.594000000000001</ele>
-      </trkpt>
-      <trkpt lat="60.299864038825035" lon="24.768520016223192">
-        <ele>40.656999999999996</ele>
-      </trkpt>
-      <trkpt lat="60.303954994305968" lon="24.75109001621604">
-        <ele>39</ele>
-      </trkpt>
-      <trkpt lat="60.308392038568854" lon="24.734084978699684">
-        <ele>56.273000000000003</ele>
-      </trkpt>
-      <trkpt lat="60.314677963033319" lon="24.718285007402301">
-        <ele>51.549999999999997</ele>
-      </trkpt>
-      <trkpt lat="60.317031014710665" lon="24.714919002726674">
-        <ele>45</ele>
-      </trkpt>
-      <trkpt lat="60.319605013355613" lon="24.717310024425387">
-        <ele>46.948</ele>
-      </trkpt>
-      <trkpt lat="60.327833024784923" lon="24.710697960108519">
-        <ele>55.704000000000001</ele>
-      </trkpt>
-      <trkpt lat="60.337474979460239" lon="24.709345959126949">
-        <ele>65.513999999999996</ele>
-      </trkpt>
-      <trkpt lat="60.344600016251206" lon="24.703476028516889">
-        <ele>50.731999999999999</ele>
-      </trkpt>
-      <trkpt lat="60.353215020149946" lon="24.693288998678327">
-        <ele>41.067999999999998</ele>
-      </trkpt>
-      <trkpt lat="60.358589999377728" lon="24.677207982167602">
-        <ele>35.279000000000003</ele>
-      </trkpt>
-      <trkpt lat="60.359101966023445" lon="24.66379601508379">
-        <ele>69.941000000000003</ele>
-      </trkpt>
-      <trkpt lat="60.357344029471278" lon="24.651962025091052">
-        <ele>57.439</ele>
-      </trkpt>
-      <trkpt lat="60.359822977334261" lon="24.639652026817203">
-        <ele>50.747</ele>
-      </trkpt>
-      <trkpt lat="60.370500013232231" lon="24.641146017238498">
-        <ele>52.573999999999998</ele>
-      </trkpt>
-      <trkpt lat="60.36920802667737" lon="24.629414035007358">
-        <ele>63.945999999999998</ele>
-      </trkpt>
-      <trkpt lat="60.373155986890197" lon="24.614286962896585">
-        <ele>46.795000000000002</ele>
-      </trkpt>
-      <trkpt lat="60.377021972090006" lon="24.602151978760958">
-        <ele>47.823999999999998</ele>
-      </trkpt>
-      <trkpt lat="60.383275961503386" lon="24.605193017050624">
-        <ele>53</ele>
-      </trkpt>
-      <trkpt lat="60.387939987704158" lon="24.608490960672498">
-        <ele>63.82</ele>
-      </trkpt>
-      <trkpt lat="60.385562041774392" lon="24.596347007900476">
-        <ele>48.979999999999997</ele>
-      </trkpt>
-      <trkpt lat="60.385428015142679" lon="24.582087965682149">
-        <ele>48.261000000000003</ele>
-      </trkpt>
-      <trkpt lat="60.395018002018332" lon="24.590658964589238">
-        <ele>59.652000000000001</ele>
-      </trkpt>
-      <trkpt lat="60.395565005019307" lon="24.605427961796522">
-        <ele>58</ele>
-      </trkpt>
-      <trkpt lat="60.395563999190927" lon="24.623174965381622">
-        <ele>51.552999999999997</ele>
-      </trkpt>
-      <trkpt lat="60.400458024814725" lon="24.635414974763989">
-        <ele>36.68</ele>
-      </trkpt>
-      <trkpt lat="60.40657002478838" lon="24.627494998276234">
-        <ele>44.018000000000001</ele>
-      </trkpt>
-      <trkpt lat="60.413927994668484" lon="24.629421997815371">
-        <ele>38.448</ele>
-      </trkpt>
-      <trkpt lat="60.420847004279494" lon="24.632977014407516">
-        <ele>40.048999999999999</ele>
-      </trkpt>
-      <trkpt lat="60.427598962560296" lon="24.628678020089865">
-        <ele>53.286999999999999</ele>
-      </trkpt>
-      <trkpt lat="60.427651014178991" lon="24.616027968004346">
-        <ele>39</ele>
-      </trkpt>
-      <trkpt lat="60.434726011008024" lon="24.612028962001204">
-        <ele>38</ele>
-      </trkpt>
-      <trkpt lat="60.443692971020937" lon="24.604216022416949">
-        <ele>47.579999999999998</ele>
-      </trkpt>
-      <trkpt lat="60.451352018862963" lon="24.596007037907839">
-        <ele>65.652000000000001</ele>
-      </trkpt>
-      <trkpt lat="60.45027301646769" lon="24.579929960891604">
-        <ele>88.251999999999995</ele>
-      </trkpt>
-      <trkpt lat="60.446158675476909" lon="24.568716818466783">
-        <ele>103</ele>
-      </trkpt>
-      <trkpt lat="60.438289577141404" lon="24.549689646810293">
-        <ele>93.379999999999995</ele>
-      </trkpt>
-      <trkpt lat="60.429794937372208" lon="24.526863964274526"/>
-      <trkpt lat="60.433127833530307" lon="24.52078708447516">
-        <ele>88.560000000000002</ele>
-      </trkpt>
-      <trkpt lat="60.4381931014359" lon="24.522593133151531">
-        <ele>71.772000000000006</ele>
-      </trkpt>
-      <trkpt lat="60.445163073018193" lon="24.516671653836966">
-        <ele>66</ele>
-      </trkpt>
-      <trkpt lat="60.447302721440792" lon="24.51201818883419">
-        <ele>70.113</ele>
-      </trkpt>
-      <trkpt lat="60.45511725358665" lon="24.513156451284885"/>
-      <trkpt lat="60.457081971690059" lon="24.509739987552166">
-        <ele>74.537000000000006</ele>
-      </trkpt>
-      <trkpt lat="60.454672006890178" lon="24.492889009416103">
-        <ele>63.457999999999998</ele>
-      </trkpt>
-      <trkpt lat="60.455955024808645" lon="24.479472013190389">
-        <ele>73.832999999999998</ele>
-      </trkpt>
-      <trkpt lat="60.450331019237638" lon="24.467526040971279">
-        <ele>55.679000000000002</ele>
-      </trkpt>
-      <trkpt lat="60.448139989748597" lon="24.451696984469891">
-        <ele>66.555999999999997</ele>
-      </trkpt>
-      <trkpt lat="60.442784037441015" lon="24.436034979298711">
-        <ele>66.680999999999997</ele>
-      </trkpt>
-      <trkpt lat="60.440101996064186" lon="24.420418990775943">
-        <ele>51.243000000000002</ele>
-      </trkpt>
-      <trkpt lat="60.43944301083684" lon="24.405654016882181">
-        <ele>62.677</ele>
-      </trkpt>
-      <trkpt lat="60.440981006249785" lon="24.391200011596084">
-        <ele>51.744999999999997</ele>
-      </trkpt>
-      <trkpt lat="60.439672004431486" lon="24.386415034532547">
-        <ele>40.819000000000003</ele>
-      </trkpt>
-      <trkpt lat="60.442092027515173" lon="24.367541000247002">
-        <ele>44.265000000000001</ele>
-      </trkpt>
-      <trkpt lat="60.447696000337601" lon="24.347903039306402">
-        <ele>47.293999999999997</ele>
-      </trkpt>
-      <trkpt lat="60.443250993266702" lon="24.335926976054907">
-        <ele>66.614000000000004</ele>
-      </trkpt>
-      <trkpt lat="60.436148000881076" lon="24.32482497766614">
-        <ele>38.167000000000002</ele>
-      </trkpt>
-      <trkpt lat="60.430739996954799" lon="24.314257996156812">
-        <ele>65.227999999999994</ele>
-      </trkpt>
-      <trkpt lat="60.428857002407312" lon="24.307781970128417">
-        <ele>68</ele>
-      </trkpt>
-      <trkpt lat="60.438141971826553" lon="24.304110025987029">
-        <ele>78</ele>
-      </trkpt>
-      <trkpt lat="60.444883033633232" lon="24.292581975460052">
-        <ele>63.442999999999998</ele>
-      </trkpt>
-      <trkpt lat="60.44694003649056" lon="24.274525009095669">
-        <ele>60.305999999999997</ele>
-      </trkpt>
-      <trkpt lat="60.450178971514106" lon="24.259243039414287">
-        <ele>59.356000000000002</ele>
-      </trkpt>
-      <trkpt lat="60.451441034674644" lon="24.246366005390882">
-        <ele>52.436999999999998</ele>
-      </trkpt>
-      <trkpt lat="60.458054021000862" lon="24.239920992404222">
-        <ele>45.997999999999998</ele>
-      </trkpt>
-      <trkpt lat="60.460372036322951" lon="24.242830015718937">
-        <ele>48.124000000000002</ele>
-      </trkpt>
-      <trkpt lat="60.467721959576011" lon="24.250614959746599">
-        <ele>60.615000000000002</ele>
-      </trkpt>
-      <trkpt lat="60.474721016362309" lon="24.241831982508302">
-        <ele>55.405000000000001</ele>
-      </trkpt>
-      <trkpt lat="60.485088005661964" lon="24.242374040186405">
-        <ele>61.826999999999998</ele>
-      </trkpt>
-      <trkpt lat="60.495179984718561" lon="24.238482993096113">
-        <ele>42.298999999999999</ele>
-      </trkpt>
-      <trkpt lat="60.504151973873377" lon="24.226483963429928">
-        <ele>54.289000000000001</ele>
-      </trkpt>
-      <trkpt lat="60.510134976357222" lon="24.213655963540077">
-        <ele>43.406999999999996</ele>
-      </trkpt>
-      <trkpt lat="60.50203001126647" lon="24.211809011176229">
-        <ele>38.32</ele>
-      </trkpt>
-      <trkpt lat="60.501776961609721" lon="24.201146978884935">
-        <ele>73.768000000000001</ele>
-      </trkpt>
-      <trkpt lat="60.510078985244036" lon="24.197604032233357">
-        <ele>45.194000000000003</ele>
-      </trkpt>
-      <trkpt lat="60.516100041568279" lon="24.191111996769905">
-        <ele>75.040000000000006</ele>
-      </trkpt>
-      <trkpt lat="60.515152970328927" lon="24.175863973796368">
-        <ele>75.501000000000005</ele>
-      </trkpt>
-      <trkpt lat="60.511180032044649" lon="24.155699964612722">
-        <ele>89.840000000000003</ele>
-      </trkpt>
-      <trkpt lat="60.504494039341807" lon="24.141174964606762">
-        <ele>78.367999999999995</ele>
-      </trkpt>
-      <trkpt lat="60.500789992511272" lon="24.132337002083659">
-        <ele>84.558999999999997</ele>
-      </trkpt>
-      <trkpt lat="60.50789600238204" lon="24.126844005659223">
-        <ele>93.054000000000002</ele>
-      </trkpt>
-      <trkpt lat="60.508956983685493" lon="24.112178022041917">
-        <ele>93.638000000000005</ele>
-      </trkpt>
-      <trkpt lat="60.508609972894192" lon="24.096752973273396">
-        <ele>94.683999999999997</ele>
-      </trkpt>
-      <trkpt lat="60.502994013950229" lon="24.091674964874983">
-        <ele>104.221999999999994</ele>
-      </trkpt>
-      <trkpt lat="60.500975986942649" lon="24.080770025029778">
-        <ele>104.369</ele>
-      </trkpt>
-      <trkpt lat="60.507697016000748" lon="24.084156984463334">
-        <ele>87.709000000000003</ele>
-      </trkpt>
-      <trkpt lat="60.513435015454888" lon="24.088769964873791">
-        <ele>115.930999999999997</ele>
-      </trkpt>
-      <trkpt lat="60.519169997423887" lon="24.09508204087615">
-        <ele>129.988</ele>
-      </trkpt>
-      <trkpt lat="60.524952001869678" lon="24.091013967990875">
-        <ele>110.730000000000004</ele>
-      </trkpt>
-      <trkpt lat="60.521900989115238" lon="24.08103397116065">
-        <ele>104.799000000000007</ele>
-      </trkpt>
-      <trkpt lat="60.517768962308764" lon="24.074387960135937">
-        <ele>112.840999999999994</ele>
-      </trkpt>
-      <trkpt lat="60.516866985708475" lon="24.068866968154907">
-        <ele>98.441999999999993</ele>
-      </trkpt>
-      <trkpt lat="60.516953989863396" lon="24.063256038352847">
-        <ele>104.244</ele>
-      </trkpt>
-      <trkpt lat="60.519428998231888" lon="24.055874012410641">
-        <ele>118.844999999999999</ele>
-      </trkpt>
-      <trkpt lat="60.522563997656107" lon="24.049733011052012">
-        <ele>106.509</ele>
-      </trkpt>
-      <trkpt lat="60.525168003514409" lon="24.04300301335752">
-        <ele>91.131</ele>
-      </trkpt>
-      <trkpt lat="60.529139013960958" lon="24.040132965892553">
-        <ele>99.180000000000007</ele>
-      </trkpt>
-      <trkpt lat="60.531591977924109" lon="24.04250998981297">
-        <ele>97.046000000000006</ele>
-      </trkpt>
-      <trkpt lat="60.53634200245142" lon="24.050500961020589">
-        <ele>116.614000000000004</ele>
-      </trkpt>
-      <trkpt lat="60.539034018293023" lon="24.051386006176472">
-        <ele>124.995000000000005</ele>
-      </trkpt>
-      <trkpt lat="60.545705007389188" lon="24.046738995239139">
-        <ele>128.85499999999999</ele>
-      </trkpt>
-      <trkpt lat="60.553954979404807" lon="24.049360016360879">
-        <ele>130</ele>
-      </trkpt>
-      <trkpt lat="60.562440985813737" lon="24.05176998116076">
-        <ele>120.079999999999998</ele>
-      </trkpt>
-      <trkpt lat="60.568682989105582" lon="24.055954981595278">
-        <ele>118</ele>
-      </trkpt>
-      <trkpt lat="60.573577014729381" lon="24.043332003057003">
-        <ele>119.754999999999995</ele>
-      </trkpt>
-      <trkpt lat="60.573814976960421" lon="24.038239326328039">
-        <ele>119.936000000000007</ele>
-      </trkpt>
-      <trkpt lat="60.571725955232978" lon="24.030598970130086">
-        <ele>120.394000000000005</ele>
-      </trkpt>
-      <trkpt lat="60.571352122351527" lon="24.024655781686306">
-        <ele>119.394999999999996</ele>
-      </trkpt>
-      <trkpt lat="60.569377932697535" lon="24.022718472406268">
-        <ele>131.787000000000006</ele>
-      </trkpt>
-      <trkpt lat="60.570404715836048" lon="24.017390012741089">
-        <ele>121.585999999999999</ele>
-      </trkpt>
-      <trkpt lat="60.566660352051258" lon="24.00577244348824">
-        <ele>119.146000000000001</ele>
-      </trkpt>
-      <trkpt lat="60.564395729452372" lon="24.003275809809566">
-        <ele>118.649000000000001</ele>
-      </trkpt>
-      <trkpt lat="60.561807397753" lon="24.002832658588886">
-        <ele>120.606999999999999</ele>
-      </trkpt>
-      <trkpt lat="60.558445919305086" lon="24.003692306578159">
-        <ele>118.989999999999995</ele>
-      </trkpt>
-      <trkpt lat="60.554813034832478" lon="23.999827997758985">
-        <ele>116.186000000000007</ele>
-      </trkpt>
-      <trkpt lat="60.553617523983121" lon="23.992801951244473">
-        <ele>111.891999999999996</ele>
-      </trkpt>
-      <trkpt lat="60.555819869041443" lon="23.984615094959736">
-        <ele>120.341999999999999</ele>
-      </trkpt>
-      <trkpt lat="60.555307064205408" lon="23.976266467943788">
-        <ele>120.123999999999995</ele>
-      </trkpt>
-      <trkpt lat="60.557129373773932" lon="23.974440973252058">
-        <ele>113.691999999999993</ele>
-      </trkpt>
-      <trkpt lat="60.558795779943466" lon="23.969122907146811">
-        <ele>114.320999999999998</ele>
-      </trkpt>
-      <trkpt lat="60.561891971156001" lon="23.964722827076912">
-        <ele>111.186999999999998</ele>
-      </trkpt>
-      <trkpt lat="60.567019265145063" lon="23.963560005649924">
-        <ele>120.474999999999994</ele>
-      </trkpt>
-      <trkpt lat="60.571133438497782" lon="23.959761159494519">
-        <ele>119.778999999999996</ele>
-      </trkpt>
-      <trkpt lat="60.572314113378525" lon="23.956532282754779">
-        <ele>128.814999999999998</ele>
-      </trkpt>
-      <trkpt lat="60.576441027224064" lon="23.952968968078494">
-        <ele>135.747000000000014</ele>
-      </trkpt>
-      <trkpt lat="60.586674995720387" lon="23.946171998977661">
-        <ele>144.751000000000005</ele>
-      </trkpt>
+      <trkpt lat="60.158600807189941" lon="24.922044798731804"/>
+      <trkpt lat="60.164446011185646" lon="24.921081550419331"/>
+      <trkpt lat="60.164539134129882" lon="24.913187054917216"/>
+      <trkpt lat="60.166540900245309" lon="24.908849755302072"/>
+      <trkpt lat="60.166873075067997" lon="24.901898475363851"/>
+      <trkpt lat="60.165244471281767" lon="24.884411813691258"/>
+      <trkpt lat="60.16272428445518" lon="24.868836728855968"/>
+      <trkpt lat="60.162651697173715" lon="24.86181671731174"/>
+      <trkpt lat="60.168170006945729" lon="24.833369962871075"/>
+      <trkpt lat="60.169069971889257" lon="24.826350035145879"/>
+      <trkpt lat="60.169749995693564" lon="24.808130040764809"/>
+      <trkpt lat="60.168549958616495" lon="24.779650010168552"/>
+      <trkpt lat="60.165180014446378" lon="24.744330011308193"/>
+      <trkpt lat="60.160550018772483" lon="24.705839976668358"/>
+      <trkpt lat="60.154450004920363" lon="24.674159986898303"/>
+      <trkpt lat="60.153579963371158" lon="24.658139990642667"/>
+      <trkpt lat="60.158910015597939" lon="24.623969988897443"/>
+      <trkpt lat="60.157560026273131" lon="24.611580027267337"/>
+      <trkpt lat="60.149230007082224" lon="24.587590014562011"/>
+      <trkpt lat="60.145989982411265" lon="24.569110013544559"/>
+      <trkpt lat="60.141450008377433" lon="24.553650012239814"/>
+      <trkpt lat="60.138379968702793" lon="24.53583000227809"/>
+      <trkpt lat="60.1386300008744" lon="24.535089964047074"/>
+      <trkpt lat="60.13908002525568" lon="24.534879997372627"/>
+      <trkpt lat="60.141629967838526" lon="24.535390036180615"/>
+      <trkpt lat="60.140790017321706" lon="24.531969968229532"/>
+      <trkpt lat="60.138290030881763" lon="24.529929980635643"/>
+      <trkpt lat="60.137110026553273" lon="24.527460001409054"/>
+      <trkpt lat="60.13630997389555" lon="24.522010004147887"/>
+      <trkpt lat="60.13635003939271" lon="24.507230026647449"/>
+      <trkpt lat="60.130469966679811" lon="24.483879972249269"/>
+      <trkpt lat="60.126930037513375" lon="24.473130013793707"/>
+      <trkpt lat="60.125999981537461" lon="24.467949997633696"/>
+      <trkpt lat="60.126800034195185" lon="24.464430017396808"/>
+      <trkpt lat="60.126350009813905" lon="24.460230013355613"/>
+      <trkpt lat="60.124640017747879" lon="24.456950007006526"/>
+      <trkpt lat="60.1239999756217" lon="24.450180027633905"/>
+      <trkpt lat="60.123810041695833" lon="24.441559994593263"/>
+      <trkpt lat="60.126380017027259" lon="24.441369976848364"/>
+      <trkpt lat="60.126759968698025" lon="24.438779968768358"/>
+      <trkpt lat="60.125409979373217" lon="24.431990040466189"/>
+      <trkpt lat="60.125320041552186" lon="24.42816998809576"/>
+      <trkpt lat="60.123709961771965" lon="24.424210041761398"/>
+      <trkpt lat="60.122630037367344" lon="24.412289969623089"/>
+      <trkpt lat="60.124220000579953" lon="24.407280022278428"/>
+      <trkpt lat="60.12389000505209" lon="24.404859999194741"/>
+      <trkpt lat="60.121920006349683" lon="24.404200008139014"/>
+      <trkpt lat="60.119889993220568" lon="24.4024099688977"/>
+      <trkpt lat="60.119279958307743" lon="24.402460008859634"/>
+      <trkpt lat="60.119160013273358" lon="24.392900029197335"/>
+      <trkpt lat="60.118261640891433" lon="24.389509130269289"/>
+      <trkpt lat="60.115986037999392" lon="24.387894775718451"/>
+      <trkpt lat="60.112392967566848" lon="24.387459084391594"/>
+      <trkpt lat="60.110639054328203" lon="24.38362117856741"/>
+      <trkpt lat="60.109574887901545" lon="24.383118599653244"/>
+      <trkpt lat="60.108799058943987" lon="24.378676693886518"/>
+      <trkpt lat="60.106771476566792" lon="24.378506960347295"/>
+      <trkpt lat="60.105529865249991" lon="24.377093771472573"/>
+      <trkpt lat="60.103188967332244" lon="24.376798896118999"/>
+      <trkpt lat="60.096589978784323" lon="24.381949994713068"/>
+      <trkpt lat="60.092589966952801" lon="24.381380025297403"/>
+      <trkpt lat="60.093149961903691" lon="24.379629967734218"/>
+      <trkpt lat="60.092949969694018" lon="24.377610012888908"/>
+      <trkpt lat="60.091850012540817" lon="24.375819973647594"/>
+      <trkpt lat="60.09058996103704" lon="24.375340025871992"/>
+      <trkpt lat="60.090379994362593" lon="24.374680034816265"/>
+      <trkpt lat="60.0914900097996" lon="24.368350021541119"/>
+      <trkpt lat="60.093200001865625" lon="24.36740999110043"/>
+      <trkpt lat="60.09424002841115" lon="24.365349970757961"/>
+      <trkpt lat="60.099700000137091" lon="24.364559976384044"/>
+      <trkpt lat="60.102030001580715" lon="24.365920023992658"/>
+      <trkpt lat="60.103600015863776" lon="24.365230025723577"/>
+      <trkpt lat="60.101619958877563" lon="24.355339966714382"/>
+      <trkpt lat="60.101379984989762" lon="24.343330040574074"/>
+      <trkpt lat="60.09986998513341" lon="24.342559995129704"/>
+      <trkpt lat="60.095439981669188" lon="24.342840034514666"/>
+      <trkpt lat="60.094180013984442" lon="24.338250020518899"/>
+      <trkpt lat="60.095479963347316" lon="24.33589001186192"/>
+      <trkpt lat="60.097219962626696" lon="24.335490027442575"/>
+      <trkpt lat="60.102250026538968" lon="24.335820022970438"/>
+      <trkpt lat="60.109449997544289" lon="24.329869961366057"/>
+      <trkpt lat="60.110499998554587" lon="24.327729977667332"/>
+      <trkpt lat="60.111010037362576" lon="24.327480029314756"/>
+      <trkpt lat="60.114330025389791" lon="24.322690023109317"/>
+      <trkpt lat="60.115259997546673" lon="24.306020010262728"/>
+      <trkpt lat="60.115129994228482" lon="24.303729990497231"/>
+      <trkpt lat="60.114189963787794" lon="24.301160015165806"/>
+      <trkpt lat="60.117450021207333" lon="24.300489965826273"/>
+      <trkpt lat="60.119569972157478" lon="24.290100010111928"/>
+      <trkpt lat="60.123320035636425" lon="24.287990033626556"/>
+      <trkpt lat="60.126199973747134" lon="24.280640026554465"/>
+      <trkpt lat="60.129879964515567" lon="24.280529972165823"/>
+      <trkpt lat="60.131200030446053" lon="24.278229977935553"/>
+      <trkpt lat="60.131609989330173" lon="24.275929983705282"/>
+      <trkpt lat="60.134690003469586" lon="24.275780031457543"/>
+      <trkpt lat="60.139800030738115" lon="24.269489999860525"/>
+      <trkpt lat="60.141029991209507" lon="24.263759963214397"/>
+      <trkpt lat="60.142839979380369" lon="24.261340023949742"/>
+      <trkpt lat="60.143280029296875" lon="24.260929981246591"/>
+      <trkpt lat="60.14438996091485" lon="24.261519983410835"/>
+      <trkpt lat="60.146049996837974" lon="24.266330022364855"/>
+      <trkpt lat="60.146110011264682" lon="24.268830008804798"/>
+      <trkpt lat="60.148949967697263" lon="24.274860033765435"/>
+      <trkpt lat="60.152319995686412" lon="24.276689970865846"/>
+      <trkpt lat="60.154619989916682" lon="24.280099980533123"/>
+      <trkpt lat="60.1554099842906" lon="24.283670000731945"/>
+      <trkpt lat="60.1609100215137" lon="24.290859997272491"/>
+      <trkpt lat="60.161860026419163" lon="24.292409978806973"/>
+      <trkpt lat="60.163189982995391" lon="24.291429966688156"/>
+      <trkpt lat="60.164680033922195" lon="24.288950012996793"/>
+      <trkpt lat="60.168219963088632" lon="24.28741998039186"/>
+      <trkpt lat="60.168809965252876" lon="24.286780022084713"/>
+      <trkpt lat="60.17001997679472" lon="24.28439000621438"/>
+      <trkpt lat="60.172170018777251" lon="24.283500015735626"/>
+      <trkpt lat="60.173020027577877" lon="24.283839985728264"/>
+      <trkpt lat="60.173290008679032" lon="24.282510029152036"/>
+      <trkpt lat="60.173850003629923" lon="24.281430020928383"/>
+      <trkpt lat="60.179639970883727" lon="24.277209984138608"/>
+      <trkpt lat="60.180949978530407" lon="24.275109982118011"/>
+      <trkpt lat="60.182729959487915" lon="24.274589968845248"/>
+      <trkpt lat="60.186620000749826" lon="24.274389976635575"/>
+      <trkpt lat="60.18753002397716" lon="24.271450024098158"/>
+      <trkpt lat="60.190299991518259" lon="24.27018997259438"/>
+      <trkpt lat="60.190320024266839" lon="24.266089964658022"/>
+      <trkpt lat="60.191860031336546" lon="24.262360017746687"/>
+      <trkpt lat="60.194829991087317" lon="24.259240021929145"/>
+      <trkpt lat="60.194680038839579" lon="24.252810012549162"/>
+      <trkpt lat="60.196999981999397" lon="24.251349968835711"/>
+      <trkpt lat="60.198140004649758" lon="24.254250023514032"/>
+      <trkpt lat="60.199239961802959" lon="24.254469964653254"/>
+      <trkpt lat="60.201659984886646" lon="24.257029965519905"/>
+      <trkpt lat="60.20345002412796" lon="24.260499989613891"/>
+      <trkpt lat="60.206359969452024" lon="24.262320036068559"/>
+      <trkpt lat="60.208299960941076" lon="24.265689980238676"/>
+      <trkpt lat="60.210670027881861" lon="24.268760019913316"/>
+      <trkpt lat="60.211990009993315" lon="24.269069982692599"/>
+      <trkpt lat="60.212329979985952" lon="24.271169984713197"/>
+      <trkpt lat="60.213209995999932" lon="24.273840039968491"/>
+      <trkpt lat="60.212510023266077" lon="24.28206997923553"/>
+      <trkpt lat="60.211019972339272" lon="24.284520009532571"/>
+      <trkpt lat="60.211600000038743" lon="24.287660038098693"/>
+      <trkpt lat="60.214199982583523" lon="24.289510007947683"/>
+      <trkpt lat="60.217560036107898" lon="24.290300002321601"/>
+      <trkpt lat="60.219050003215671" lon="24.294469999149442"/>
+      <trkpt lat="60.219210013747215" lon="24.30073999799788"/>
+      <trkpt lat="60.221410011872649" lon="24.305260023102164"/>
+      <trkpt lat="60.224019968882203" lon="24.302229965105653"/>
+      <trkpt lat="60.226189959794283" lon="24.301699977368116"/>
+      <trkpt lat="60.227210037410259" lon="24.303260017186403"/>
+      <trkpt lat="60.228595649823546" lon="24.304110864177346"/>
+      <trkpt lat="60.229137120768428" lon="24.305031867697835"/>
+      <trkpt lat="60.230089975520968" lon="24.304519984871149"/>
+      <trkpt lat="60.238840011879802" lon="24.304870013147593"/>
+      <trkpt lat="60.24251002818346" lon="24.302939996123314"/>
+      <trkpt lat="60.243860017508268" lon="24.30333998054266"/>
+      <trkpt lat="60.245589958503842" lon="24.302819967269897"/>
+      <trkpt lat="60.24655002169311" lon="24.300660034641623"/>
+      <trkpt lat="60.248320028185844" lon="24.298270018771291"/>
+      <trkpt lat="60.249589970335364" lon="24.29062002338469"/>
+      <trkpt lat="60.249960031360388" lon="24.287410005927086"/>
+      <trkpt lat="60.249649984762073" lon="24.286710033193231"/>
+      <trkpt lat="60.247800014913082" lon="24.285200033336878"/>
+      <trkpt lat="60.246559996157885" lon="24.28310003131628"/>
+      <trkpt lat="60.245649972930551" lon="24.280440034344792"/>
+      <trkpt lat="60.244640037417412" lon="24.279980035498738"/>
+      <trkpt lat="60.242589991539717" lon="24.276570025831461"/>
+      <trkpt lat="60.240910006687045" lon="24.275660002604127"/>
+      <trkpt lat="60.239420039579272" lon="24.273790000006557"/>
+      <trkpt lat="60.236380007117987" lon="24.263299964368343"/>
+      <trkpt lat="60.234909988939762" lon="24.259019996970892"/>
+      <trkpt lat="60.234119994565845" lon="24.253739984706044"/>
+      <trkpt lat="60.236610006541014" lon="24.252350013703108"/>
+      <trkpt lat="60.239620031788945" lon="24.253000030294061"/>
+      <trkpt lat="60.2420399710536" lon="24.254859974607825"/>
+      <trkpt lat="60.243730014190078" lon="24.254940021783113"/>
+      <trkpt lat="60.243990020826459" lon="24.251370001584291"/>
+      <trkpt lat="60.24554000236094" lon="24.248919971287251"/>
+      <trkpt lat="60.246469974517822" lon="24.248099969699979"/>
+      <trkpt lat="60.247479993849993" lon="24.249179977923632"/>
+      <trkpt lat="60.254939971491694" lon="24.250359982252121"/>
+      <trkpt lat="60.256390040740371" lon="24.248930029571056"/>
+      <trkpt lat="60.257870033383369" lon="24.249750031158328"/>
+      <trkpt lat="60.262619974091649" lon="24.249190036207438"/>
+      <trkpt lat="60.263320030644536" lon="24.251530012115836"/>
+      <trkpt lat="60.264900019392371" lon="24.251709971576929"/>
+      <trkpt lat="60.266099972650409" lon="24.253200022503734"/>
+      <trkpt lat="60.26865997351706" lon="24.254350019618869"/>
+      <trkpt lat="60.270009962841868" lon="24.253620039671659"/>
+      <trkpt lat="60.271530020982027" lon="24.253609981387854"/>
+      <trkpt lat="60.27256996370852" lon="24.252120014280081"/>
+      <trkpt lat="60.273649971932173" lon="24.249040000140667"/>
+      <trkpt lat="60.275159971788526" lon="24.246979979798198"/>
+      <trkpt lat="60.27649998664856" lon="24.24661997705698"/>
+      <trkpt lat="60.27735996991396" lon="24.244909984990954"/>
+      <trkpt lat="60.27983003295958" lon="24.24345999956131"/>
+      <trkpt lat="60.279289986938238" lon="24.241620004177094"/>
+      <trkpt lat="60.280030025169253" lon="24.235549997538328"/>
+      <trkpt lat="60.278049968183041" lon="24.228899963200092"/>
+      <trkpt lat="60.277900015935302" lon="24.22539004124701"/>
+      <trkpt lat="60.277199959382415" lon="24.222150016576052"/>
+      <trkpt lat="60.278989998623729" lon="24.210869986563921"/>
+      <trkpt lat="60.279719978570938" lon="24.209550004452467"/>
+      <trkpt lat="60.278690010309219" lon="24.20351997949183"/>
+      <trkpt lat="60.277830027043819" lon="24.200629983097315"/>
+      <trkpt lat="60.28021995909512" lon="24.192960038781166"/>
+      <trkpt lat="60.281540025025606" lon="24.184070024639368"/>
+      <trkpt lat="60.282460022717714" lon="24.176030019298196"/>
+      <trkpt lat="60.283099981024861" lon="24.17432002723217"/>
+      <trkpt lat="60.28457997366786" lon="24.172050040215254"/>
+      <trkpt lat="60.285229990258813" lon="24.172769961878657"/>
+      <trkpt lat="60.285789985209703" lon="24.172339970245957"/>
+      <trkpt lat="60.283489990979433" lon="24.163910038769245"/>
+      <trkpt lat="60.275430036708713" lon="24.133439976722002"/>
+      <trkpt lat="60.272919991984963" lon="24.125310033559799"/>
+      <trkpt lat="60.275240018963814" lon="24.122060034424067"/>
+      <trkpt lat="60.276490012183785" lon="24.122760007157922"/>
+      <trkpt lat="60.280569987371564" lon="24.130890034139156"/>
+      <trkpt lat="60.281410021707416" lon="24.136150013655424"/>
+      <trkpt lat="60.28361001983285" lon="24.138810010626912"/>
+      <trkpt lat="60.285729970782995" lon="24.139920026063919"/>
+      <trkpt lat="60.288790035992861" lon="24.137829998508096"/>
+      <trkpt lat="60.294040041044354" lon="24.142420012503862"/>
+      <trkpt lat="60.294970013201237" lon="24.140789983794093"/>
+      <trkpt lat="60.295809963718057" lon="24.140819991007447"/>
+      <trkpt lat="60.297079989686608" lon="24.1346799954772"/>
+      <trkpt lat="60.298359990119934" lon="24.133880026638508"/>
+      <trkpt lat="60.298989973962307" lon="24.131559999659657"/>
+      <trkpt lat="60.299570001661777" lon="24.13130996748805"/>
+      <trkpt lat="60.301049994304776" lon="24.126059962436557"/>
+      <trkpt lat="60.302139976993203" lon="24.126260038465261"/>
+      <trkpt lat="60.301739992573857" lon="24.124520039185882"/>
+      <trkpt lat="60.300910016521811" lon="24.12370003759861"/>
+      <trkpt lat="60.299010006710887" lon="24.117080010473728"/>
+      <trkpt lat="60.2965899836272" lon="24.115330036729574"/>
+      <trkpt lat="60.294819977134466" lon="24.110429976135492"/>
+      <trkpt lat="60.292170038446784" lon="24.106529960408807"/>
+      <trkpt lat="60.28995000757277" lon="24.103950010612607"/>
+      <trkpt lat="60.287940027192235" lon="24.103060020133853"/>
+      <trkpt lat="60.288730021566153" lon="24.100749967619777"/>
+      <trkpt lat="60.292649986222386" lon="24.093240033835173"/>
+      <trkpt lat="60.294940005987883" lon="24.093949981033802"/>
+      <trkpt lat="60.298009961843491" lon="24.093140037730336"/>
+      <trkpt lat="60.300529981032014" lon="24.092170000076294"/>
+      <trkpt lat="60.30239000916481" lon="24.095780001953244"/>
+      <trkpt lat="60.304490011185408" lon="24.094860004261136"/>
+      <trkpt lat="60.30627996660769" lon="24.092709962278605"/>
+      <trkpt lat="60.311429975554347" lon="24.083279985934496"/>
+      <trkpt lat="60.312490034848452" lon="24.081830000504851"/>
+      <trkpt lat="60.314070023596287" lon="24.08068997785449"/>
+      <trkpt lat="60.316670006141067" lon="24.077279968187213"/>
+      <trkpt lat="60.318410005420446" lon="24.076919965445995"/>
+      <trkpt lat="60.319569977000356" lon="24.076020000502467"/>
+      <trkpt lat="60.323590021580458" lon="24.07664998434484"/>
+      <trkpt lat="60.32802002504468" lon="24.071919992566109"/>
+      <trkpt lat="60.330529985949397" lon="24.069589991122484"/>
+      <trkpt lat="60.33203998580575" lon="24.067359985783696"/>
+      <trkpt lat="60.33332996070385" lon="24.06685003079474"/>
+      <trkpt lat="60.33508999273181" lon="24.067459981888533"/>
+      <trkpt lat="60.336139993742108" lon="24.065779997035861"/>
+      <trkpt lat="60.337140038609505" lon="24.064920013770461"/>
+      <trkpt lat="60.338160032406449" lon="24.065299965441227"/>
+      <trkpt lat="60.340409986674786" lon="24.067900031805038"/>
+      <trkpt lat="60.341640030965209" lon="24.065429968759418"/>
+      <trkpt lat="60.341640030965209" lon="24.056299980729818"/>
+      <trkpt lat="60.340319965034723" lon="24.048489974811673"/>
+      <trkpt lat="60.341670038178563" lon="24.046129966154695"/>
+      <trkpt lat="60.34407002851367" lon="24.038699995726347"/>
+      <trkpt lat="60.345139978453517" lon="24.037570031359792"/>
+      <trkpt lat="60.344140017405152" lon="24.033760037273169"/>
+      <trkpt lat="60.342530021443963" lon="24.027939978986979"/>
+      <trkpt lat="60.342270014807582" lon="24.025879958644509"/>
+      <trkpt lat="60.341099984943867" lon="24.024090003222227"/>
+      <trkpt lat="60.337610011920333" lon="24.02239996008575"/>
+      <trkpt lat="60.33594997599721" lon="24.023620029911399"/>
+      <trkpt lat="60.332999965175986" lon="24.021579958498478"/>
+      <trkpt lat="60.331860026344657" lon="24.019439974799752"/>
+      <trkpt lat="60.32986999489367" lon="24.017920000478625"/>
+      <trkpt lat="60.32797995954752" lon="24.011949989944696"/>
+      <trkpt lat="60.324129983782768" lon="24.010260030627251"/>
+      <trkpt lat="60.322470031678677" lon="24.004179965704679"/>
+      <trkpt lat="60.321330009028316" lon="24.003050001338124"/>
+      <trkpt lat="60.316749969497323" lon="23.98755001835525"/>
+      <trkpt lat="60.314950039610267" lon="23.981689978390932"/>
+      <trkpt lat="60.31394999474287" lon="23.981410022825003"/>
+      <trkpt lat="60.312750041484833" lon="23.979519987478852"/>
+      <trkpt lat="60.310420040041208" lon="23.979870015755296"/>
+      <trkpt lat="60.309830037876964" lon="23.985789986327291"/>
+      <trkpt lat="60.308809960260987" lon="23.986249985173345"/>
+      <trkpt lat="60.307069960981607" lon="23.979819975793362"/>
+      <trkpt lat="60.303149996325374" lon="23.969100024551153"/>
+      <trkpt lat="60.302079962566495" lon="23.962380001321435"/>
+      <trkpt lat="60.299839982762933" lon="23.958010012283921"/>
+      <trkpt lat="60.2978799585253" lon="23.950119959190488"/>
+      <trkpt lat="60.299200024455786" lon="23.944569965824485"/>
+      <trkpt lat="60.298099983483553" lon="23.939339993521571"/>
+      <trkpt lat="60.296700038015842" lon="23.940700041130185"/>
+      <trkpt lat="60.296489987522364" lon="23.940470041707158"/>
+      <trkpt lat="60.300550013780594" lon="23.928660023957491"/>
+      <trkpt lat="60.297079989686608" lon="23.92058003693819"/>
+      <trkpt lat="60.297010000795126" lon="23.917760029435158"/>
+      <trkpt lat="60.297649959102273" lon="23.915830012410879"/>
+      <trkpt lat="60.297360029071569" lon="23.914039973169565"/>
+      <trkpt lat="60.298429979011416" lon="23.911179983988404"/>
+      <trkpt lat="60.298259994015098" lon="23.902270020917058"/>
+      <trkpt lat="60.296250013634562" lon="23.896439988166094"/>
+      <trkpt lat="60.295420037582517" lon="23.889189977198839"/>
+      <trkpt lat="60.294319996610284" lon="23.887590039521456"/>
+      <trkpt lat="60.293690012767911" lon="23.885720036923885"/>
+      <trkpt lat="60.294220000505447" lon="23.879520026966929"/>
+      <trkpt lat="60.293149966746569" lon="23.871759977191687"/>
+      <trkpt lat="60.293460013344884" lon="23.870509983971715"/>
+      <trkpt lat="60.294340029358864" lon="23.869629967957735"/>
+      <trkpt lat="60.296220006421208" lon="23.870030036196113"/>
+      <trkpt lat="60.297330021858215" lon="23.869050024077296"/>
+      <trkpt lat="60.297980038449168" lon="23.862889995798469"/>
+      <trkpt lat="60.300789987668395" lon="23.860050039365888"/>
+      <trkpt lat="60.301470011472702" lon="23.853509975597262"/>
+      <trkpt lat="60.304000005125999" lon="23.846920039504766"/>
+      <trkpt lat="60.307219997048378" lon="23.843489997088909"/>
+      <trkpt lat="60.309529965743423" lon="23.839050019159913"/>
+      <trkpt lat="60.312070017680526" lon="23.83867995813489"/>
+      <trkpt lat="60.314110005274415" lon="23.836639970541"/>
+      <trkpt lat="60.316869998350739" lon="23.83251003921032"/>
+      <trkpt lat="60.316800009459257" lon="23.83045001886785"/>
+      <trkpt lat="60.317629985511303" lon="23.828499969094992"/>
+      <trkpt lat="60.318519975990057" lon="23.823149967938662"/>
+      <trkpt lat="60.321629997342825" lon="23.818790037184954"/>
+      <trkpt lat="60.325079988688231" lon="23.816070025786757"/>
+      <trkpt lat="60.326780006289482" lon="23.813510024920106"/>
+      <trkpt lat="60.32973999157548" lon="23.813320007175207"/>
+      <trkpt lat="60.331340013071895" lon="23.818059973418713"/>
+      <trkpt lat="60.332829980179667" lon="23.825539983808994"/>
+      <trkpt lat="60.33420997671783" lon="23.826959962025285"/>
+      <trkpt lat="60.338549958541989" lon="23.827990014106035"/>
+      <trkpt lat="60.340149980038404" lon="23.830190012231469"/>
+      <trkpt lat="60.3417700342834" lon="23.829500013962388"/>
+      <trkpt lat="60.34303997643292" lon="23.830280033871531"/>
+      <trkpt lat="60.344219980761409" lon="23.827300015836954"/>
+      <trkpt lat="60.347179966047406" lon="23.830069983378053"/>
+      <trkpt lat="60.3502800129354" lon="23.829079996794462"/>
+      <trkpt lat="60.35298996604979" lon="23.835559962317348"/>
+      <trkpt lat="60.354810012504458" lon="23.83476996794343"/>
+      <trkpt lat="60.355790024623275" lon="23.83567001670599"/>
+      <trkpt lat="60.357930008322001" lon="23.835700023919344"/>
+      <trkpt lat="60.362469982355833" lon="23.83880996145308"/>
+      <trkpt lat="60.364349959418178" lon="23.843440040946007"/>
+      <trkpt lat="60.365189993754029" lon="23.841700041666627"/>
+      <trkpt lat="60.366079984232783" lon="23.840620033442974"/>
+      <trkpt lat="60.368560021743178" lon="23.840219965204597"/>
+      <trkpt lat="60.369220012798905" lon="23.838929990306497"/>
+      <trkpt lat="60.369889978319407" lon="23.838579962030053"/>
+      <trkpt lat="60.371689992025495" lon="23.83915001526475"/>
+      <trkpt lat="60.37473002448678" lon="23.836629996076226"/>
+      <trkpt lat="60.375550026074052" lon="23.838030025362968"/>
+      <trkpt lat="60.375980017706752" lon="23.841970022767782"/>
+      <trkpt lat="60.377669977024198" lon="23.842360032722354"/>
+      <trkpt lat="60.378830032423139" lon="23.844590038061142"/>
+      <trkpt lat="60.379720022901893" lon="23.84463001973927"/>
+      <trkpt lat="60.380389988422394" lon="23.84321004152298"/>
+      <trkpt lat="60.382080031558871" lon="23.848059978336096"/>
+      <trkpt lat="60.384210040792823" lon="23.846700014546514"/>
+      <trkpt lat="60.386640038341284" lon="23.83797001093626"/>
+      <trkpt lat="60.387340011075139" lon="23.829690031707287"/>
+      <trkpt lat="60.388420019298792" lon="23.825669987127185"/>
+      <trkpt lat="60.391129972413182" lon="23.822319991886616"/>
+      <trkpt lat="60.395659971982241" lon="23.817729977890849"/>
+      <trkpt lat="60.396119970828295" lon="23.812249973416328"/>
+      <trkpt lat="60.396500006318092" lon="23.79746999591589"/>
+      <trkpt lat="60.395189998671412" lon="23.788149990141392"/>
+      <trkpt lat="60.396830001845956" lon="23.782449960708618"/>
+      <trkpt lat="60.396109996363521" lon="23.779219994321465"/>
+      <trkpt lat="60.397199979051948" lon="23.776810029521585"/>
+      <trkpt lat="60.395159991458058" lon="23.769709970802069"/>
+      <trkpt lat="60.395519994199276" lon="23.765450036153197"/>
+      <trkpt lat="60.396909965202212" lon="23.761750012636185"/>
+      <trkpt lat="60.397989973425865" lon="23.756030034273863"/>
+      <trkpt lat="60.398100027814507" lon="23.752420032396913"/>
+      <trkpt lat="60.396730005741119" lon="23.750230008736253"/>
+      <trkpt lat="60.393489981070161" lon="23.747440008446574"/>
+      <trkpt lat="60.392769975587726" lon="23.744870033115149"/>
+      <trkpt lat="60.390829984098673" lon="23.742250017821789"/>
+      <trkpt lat="60.389210013672709" lon="23.732560034841299"/>
+      <trkpt lat="60.390520021319389" lon="23.72734003700316"/>
+      <trkpt lat="60.394639978185296" lon="23.726239996030927"/>
+      <trkpt lat="60.398609982803464" lon="23.72876001521945"/>
+      <trkpt lat="60.400130040943623" lon="23.72656999155879"/>
+      <trkpt lat="60.400949958711863" lon="23.723649987950921"/>
+      <trkpt lat="60.404180008918047" lon="23.719770004972816"/>
+      <trkpt lat="60.407590018585324" lon="23.713760012760758"/>
+      <trkpt lat="60.409420039504766" lon="23.713630009442568"/>
+      <trkpt lat="60.410879999399185" lon="23.711500000208616"/>
+      <trkpt lat="60.41149003431201" lon="23.711090041324496"/>
+      <trkpt lat="60.411270009353757" lon="23.71327000670135"/>
+      <trkpt lat="60.410229982808232" lon="23.714310033246875"/>
+      <trkpt lat="60.410380018875003" lon="23.716350020840764"/>
+      <trkpt lat="60.409690020605922" lon="23.720260011032224"/>
+      <trkpt lat="60.410910006612539" lon="23.722569979727268"/>
+      <trkpt lat="60.416099997237325" lon="23.721040030941367"/>
+      <trkpt lat="60.415140017867088" lon="23.716190010309219"/>
+      <trkpt lat="60.416179960593581" lon="23.716640034690499"/>
+      <trkpt lat="60.421630041673779" lon="23.713579969480634"/>
+      <trkpt lat="60.423289993777871" lon="23.713950030505657"/>
+      <trkpt lat="60.425369963049889" lon="23.717440003529191"/>
+      <trkpt lat="60.427900040522218" lon="23.714139964431524"/>
+      <trkpt lat="60.43327166698873" lon="23.710549743846059"/>
+      <trkpt lat="60.435518268495798" lon="23.705607103183866"/>
+      <trkpt lat="60.440605245530605" lon="23.701283298432827"/>
+      <trkpt lat="60.441379984840751" lon="23.704279996454716"/>
+      <trkpt lat="60.439730007201433" lon="23.709980025887489"/>
+      <trkpt lat="60.438120011240244" lon="23.711650036275387"/>
+      <trkpt lat="60.438419999554753" lon="23.715130034834146"/>
+      <trkpt lat="60.441930005326867" lon="23.72108998708427"/>
+      <trkpt lat="60.443690037354827" lon="23.72659002430737"/>
+      <trkpt lat="60.445809988304973" lon="23.725299965590239"/>
+      <trkpt lat="60.446380041539669" lon="23.723319992423058"/>
+      <trkpt lat="60.447199959307909" lon="23.722249958664179"/>
+      <trkpt lat="60.447649983689189" lon="23.716559987515211"/>
+      <trkpt lat="60.445749973878264" lon="23.715170016512275"/>
+      <trkpt lat="60.445410003885627" lon="23.708480000495911"/>
+      <trkpt lat="60.446969959884882" lon="23.70401001535356"/>
+      <trkpt lat="60.447219992056489" lon="23.699550004675984"/>
+      <trkpt lat="60.446439972147346" lon="23.694100007414818"/>
+      <trkpt lat="60.448669977486134" lon="23.693440016359091"/>
+      <trkpt lat="60.450829993933439" lon="23.68435001000762"/>
+      <trkpt lat="60.452880039811134" lon="23.67900000885129"/>
+      <trkpt lat="60.452790018171072" lon="23.67057996802032"/>
+      <trkpt lat="60.455559985712171" lon="23.668790012598038"/>
+      <trkpt lat="60.456010010093451" lon="23.667879989370704"/>
+      <trkpt lat="60.458849966526031" lon="23.669169964268804"/>
+      <trkpt lat="60.461190026253462" lon="23.671900033950806"/>
+      <trkpt lat="60.464029982686043" lon="23.669879995286465"/>
+      <trkpt lat="60.464749988168478" lon="23.669879995286465"/>
+      <trkpt lat="60.46513999812305" lon="23.671099981293082"/>
+      <trkpt lat="60.463699987158179" lon="23.679439974948764"/>
+      <trkpt lat="60.462210020050406" lon="23.680909993126988"/>
+      <trkpt lat="60.463839964941144" lon="23.688160004094243"/>
+      <trkpt lat="60.467449966818094" lon="23.685990013182163"/>
+      <trkpt lat="60.468050027266145" lon="23.683929992839694"/>
+      <trkpt lat="60.475679989904165" lon="23.696179976686835"/>
+      <trkpt lat="60.477350000292063" lon="23.690620008856058"/>
+      <trkpt lat="60.479180021211505" lon="23.683439986780286"/>
+      <trkpt lat="60.47886997461319" lon="23.673320012167096"/>
+      <trkpt lat="60.481410026550293" lon="23.673789985477924"/>
+      <trkpt lat="60.487380037084222" lon="23.68405002169311"/>
+      <trkpt lat="60.490491483360529" lon="23.709081569686532"/>
+      <trkpt lat="60.495830001309514" lon="23.728530015796423"/>
+      <trkpt lat="60.495909964665771" lon="23.726149974390864"/>
+      <trkpt lat="60.49766999669373" lon="23.720820005983114"/>
+      <trkpt lat="60.497979959473014" lon="23.718529986217618"/>
+      <trkpt lat="60.499949958175421" lon="23.718099994584918"/>
+      <trkpt lat="60.501719964668155" lon="23.719300031661987"/>
+      <trkpt lat="60.503270030021667" lon="23.719110013917089"/>
+      <trkpt lat="60.505800023674965" lon="23.72063996270299"/>
+      <trkpt lat="60.508390031754971" lon="23.724729996174574"/>
+      <trkpt lat="60.510339997708797" lon="23.725399961695075"/>
+      <trkpt lat="60.512049989774823" lon="23.721150001510978"/>
+      <trkpt lat="60.512270014733076" lon="23.71760998852551"/>
+      <trkpt lat="60.513220019638538" lon="23.714480018243194"/>
+      <trkpt lat="60.514359958469868" lon="23.715059962123632"/>
+      <trkpt lat="60.515859983861446" lon="23.71690004132688"/>
+      <trkpt lat="60.516979973763227" lon="23.715979959815741"/>
+      <trkpt lat="60.520240031182766" lon="23.715700004249811"/>
+      <trkpt lat="60.521690016612411" lon="23.711300007998943"/>
+      <trkpt lat="60.523449964821339" lon="23.708979981020093"/>
+      <trkpt lat="60.527720041573048" lon="23.710359977558255"/>
+      <trkpt lat="60.528520010411739" lon="23.712029987946153"/>
+      <trkpt lat="60.528009971603751" lon="23.715130034834146"/>
+      <trkpt lat="60.528529984876513" lon="23.718220023438334"/>
+      <trkpt lat="60.531919961795211" lon="23.728790022432804"/>
+      <trkpt lat="60.534039996564388" lon="23.729719994589686"/>
+      <trkpt lat="60.534620024263859" lon="23.733880016952753"/>
+      <trkpt lat="60.538649959489703" lon="23.74251002445817"/>
+      <trkpt lat="60.540019981563091" lon="23.747870000079274"/>
+      <trkpt lat="60.542860021814704" lon="23.749549984931946"/>
+      <trkpt lat="60.543139977380633" lon="23.751700026914477"/>
+      <trkpt lat="60.544879976660013" lon="23.751259976997972"/>
+      <trkpt lat="60.549820018932223" lon="23.756070015951991"/>
+      <trkpt lat="60.557700013741851" lon="23.756470000371337"/>
+      <trkpt lat="60.556529983878136" lon="23.75969996675849"/>
+      <trkpt lat="60.556629979982972" lon="23.76734996214509"/>
+      <trkpt lat="60.555649967864156" lon="23.774309959262609"/>
+      <trkpt lat="60.557409999892116" lon="23.773930007591844"/>
+      <trkpt lat="60.559749975800514" lon="23.776940032839775"/>
+      <trkpt lat="60.561270033940673" lon="23.777019996196032"/>
+      <trkpt lat="60.562130017206073" lon="23.778169993311167"/>
+      <trkpt lat="60.569199984893203" lon="23.774750009179115"/>
+      <trkpt lat="60.573499985039234" lon="23.773670000955462"/>
+      <trkpt lat="60.57911996729672" lon="23.778009982779622"/>
+      <trkpt lat="60.580879999324679" lon="23.778750021010637"/>
+      <trkpt lat="60.581509983167052" lon="23.780820015817881"/>
+      <trkpt lat="60.582290003076196" lon="23.786779968068004"/>
+      <trkpt lat="60.582210039719939" lon="23.791650021448731"/>
+      <trkpt lat="60.581790022552013" lon="23.793490016832948"/>
+      <trkpt lat="60.582120018079877" lon="23.793959990143776"/>
+      <trkpt lat="60.580729963257909" lon="23.798280023038387"/>
+      <trkpt lat="60.581279983744025" lon="23.803340010344982"/>
+      <trkpt lat="60.578649993985891" lon="23.821069998666644"/>
+      <trkpt lat="60.577690014615655" lon="23.822010029107332"/>
+      <trkpt lat="60.576600031927228" lon="23.830510033294559"/>
+      <trkpt lat="60.576849980279803" lon="23.833119990304112"/>
+      <trkpt lat="60.575729990378022" lon="23.835570020601153"/>
+      <trkpt lat="60.57520997710526" lon="23.837889963760972"/>
+      <trkpt lat="60.573880020529032" lon="23.842569999396801"/>
+      <trkpt lat="60.57260999456048" lon="23.846210008487105"/>
+      <trkpt lat="60.570119982585311" lon="23.850080017000437"/>
+      <trkpt lat="60.567929958924651" lon="23.85573998093605"/>
+      <trkpt lat="60.566179985180497" lon="23.868699995800853"/>
+      <trkpt lat="60.566539987921715" lon="23.877109978348017"/>
+      <trkpt lat="60.569910015910864" lon="23.883379977196455"/>
+      <trkpt lat="60.570149989798665" lon="23.886080039665103"/>
+      <trkpt lat="60.571130001917481" lon="23.887779973447323"/>
+      <trkpt lat="60.571229998022318" lon="23.889830019325018"/>
+      <trkpt lat="60.574870007112622" lon="23.88848003000021"/>
+      <trkpt lat="60.577200008556247" lon="23.886099988594651"/>
+      <trkpt lat="60.579109992831945" lon="23.882299968972802"/>
+      <trkpt lat="60.580389993265271" lon="23.881530007347465"/>
+      <trkpt lat="60.58489996008575" lon="23.886039974167943"/>
+      <trkpt lat="60.585310002788901" lon="23.887240011245012"/>
+      <trkpt lat="60.587040027603507" lon="23.88934001326561"/>
+      <trkpt lat="60.58807997033" lon="23.893419988453388"/>
+      <trkpt lat="60.588950011879206" lon="23.892729990184307"/>
+      <trkpt lat="60.590169997885823" lon="23.888099994510412"/>
+      <trkpt lat="60.592829994857311" lon="23.884789980947971"/>
+      <trkpt lat="60.594179984182119" lon="23.880540020763874"/>
+      <trkpt lat="60.597859974950552" lon="23.880600035190582"/>
+      <trkpt lat="60.599490003660321" lon="23.884629970416427"/>
+      <trkpt lat="60.599069986492395" lon="23.886640034615993"/>
+      <trkpt lat="60.599457649514079" lon="23.89834837988019"/>
+      <trkpt lat="60.60035333968699" lon="23.901000916957855"/>
+      <trkpt lat="60.600664559751749" lon="23.912968598306179"/>
+      <trkpt lat="60.598686933517456" lon="23.918502163141966"/>
+      <trkpt lat="60.597646152600646" lon="23.919196520000696"/>
+      <trkpt lat="60.597096886485815" lon="23.920710207894444"/>
+      <trkpt lat="60.596693549305201" lon="23.923999685794115"/>
+      <trkpt lat="60.595888048410416" lon="23.926178980618715"/>
+      <trkpt lat="60.595365688204765" lon="23.930702358484268"/>
+      <trkpt lat="60.595906069502234" lon="23.932309169322252"/>
       <trkpt lat="60.59596398845315" lon="23.932338003069162">
         <ele>129.784999999999997</ele>
       </trkpt>
+      <trkpt lat="60.601253639906645" lon="23.93807340413332"/>
       <trkpt lat="60.60687898658216" lon="23.940578000620008">
         <ele>122.906999999999996</ele>
       </trkpt>
+      <trkpt lat="60.612604413181543" lon="23.942712284624577"/>
       <trkpt lat="60.61674096621573" lon="23.938031997531652">
         <ele>156.937999999999988</ele>
       </trkpt>
+      <trkpt lat="60.622122650966048" lon="23.929332420229912"/>
       <trkpt lat="60.626208996400237" lon="23.93007698468864">
         <ele>153.393000000000001</ele>
       </trkpt>
@@ -31694,9 +31694,8 @@ Karhunkierros 229
       </trkpt>
     </trkseg>
   </trk>
-
   <trk>
-    <name>TET-FINLAND-Section2-20210120</name>
+    <name>TET-FINLAND-Section2-20210530</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -32215,9 +32214,8 @@ Karhunkierros 229
       </trkpt>
     </trkseg>
   </trk>
-
   <trk>
-    <name>TET-FINLAND-Section3-20210120</name>
+    <name>TET-FINLAND-Section3-20210530</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -45441,9 +45439,8 @@ Karhunkierros 229
       </trkpt>
     </trkseg>
   </trk>
-
   <trk>
-    <name>TET-Finland-Turku Extension-20210120</name>
+    <name>TET-FINLAND-Turku Extension-20210530</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -46081,5 +46078,4 @@ Karhunkierros 229
       <trkpt lat="60.773617252707481" lon="24.118523122742772"/>
     </trkseg>
   </trk>
-
 </gpx>
