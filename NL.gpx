@@ -4,7 +4,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2021-06-18T19:09:39Z</time>
+    <time>2021-07-03T09:03:53Z</time>
     <bounds maxlat="53.153532100841403" maxlon="7.199326688423753" minlat="51.261603869497776" minlon="4.126701951026917"/>
   </metadata>
   <wpt lat="52.026811363175511" lon="5.872004125267267">
@@ -1782,7 +1782,7 @@ Assen, Drenthe, NLD
     </extensions>
   </wpt>
   <trk>
-    <name>TET-NL-Brabant-20210619</name>
+    <name>TET-NL-Brabant-20210702</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -10967,173 +10967,41 @@ Assen, Drenthe, NLD
         <ele>3.02</ele>
         <time>2021-05-20T13:10:46Z</time>
       </trkpt>
-      <trkpt lat="51.489038849249482" lon="4.721355987712741">
-        <ele>7.83</ele>
-        <time>2021-05-20T13:10:55Z</time>
+      <trkpt lat="51.489089392125607" lon="4.721269989386201">
+        <ele>7.875</ele>
       </trkpt>
-      <trkpt lat="51.488978248089552" lon="4.721483644098043">
-        <ele>8.31</ele>
-        <time>2021-05-20T13:10:56Z</time>
+      <trkpt lat="51.489617871120572" lon="4.722473882138729">
+        <ele>8.08203125</ele>
       </trkpt>
-      <trkpt lat="51.488927453756332" lon="4.72162714228034">
-        <ele>8.31</ele>
-        <time>2021-05-20T13:10:57Z</time>
+      <trkpt lat="51.489813001826406" lon="4.723083833232522">
+        <ele>8.546875</ele>
       </trkpt>
-      <trkpt lat="51.488645486533642" lon="4.722813852131367">
-        <ele>7.83</ele>
-        <time>2021-05-20T13:11:04Z</time>
+      <trkpt lat="51.489863963797688" lon="4.723195815458894">
+        <ele>8.68359375</ele>
       </trkpt>
-      <trkpt lat="51.488624615594745" lon="4.723003031685948">
-        <ele>9.27</ele>
-        <time>2021-05-20T13:11:05Z</time>
+      <trkpt lat="51.490277526900172" lon="4.723650114610791">
+        <ele>8.515625</ele>
       </trkpt>
-      <trkpt lat="51.488612545654178" lon="4.723196402192116">
-        <ele>7.35</ele>
-        <time>2021-05-20T13:11:06Z</time>
+      <trkpt lat="51.490836599841714" lon="4.724094271659851">
+        <ele>7.48046875</ele>
       </trkpt>
-      <trkpt lat="51.488676583394408" lon="4.724824083968997">
-        <ele>3.5</ele>
-        <time>2021-05-20T13:11:14Z</time>
+      <trkpt lat="51.491637490689754" lon="4.724702043458819">
+        <ele>6.01171875</ele>
       </trkpt>
-      <trkpt lat="51.488675912842155" lon="4.72543453797698">
-        <ele>4.94</ele>
-        <time>2021-05-20T13:11:17Z</time>
+      <trkpt lat="51.4917335473001" lon="4.725432442501187">
+        <ele>5.8671875</ele>
       </trkpt>
-      <trkpt lat="51.488623861223459" lon="4.725964525714517">
-        <ele>8.31</ele>
-        <time>2021-05-20T13:11:20Z</time>
+      <trkpt lat="51.491734301671386" lon="4.725594213232398">
+        <ele>5.97265625</ele>
       </trkpt>
-      <trkpt lat="51.488619837909937" lon="4.72613375633955">
-        <ele>7.83</ele>
-        <time>2021-05-20T13:11:21Z</time>
+      <trkpt lat="51.491598095744848" lon="4.726997762918472">
+        <ele>6.82421875</ele>
       </trkpt>
-      <trkpt lat="51.488624447956681" lon="4.72629108466208">
-        <ele>8.789999999999999</ele>
-        <time>2021-05-20T13:11:22Z</time>
+      <trkpt lat="51.491516036912799" lon="4.727344438433647">
+        <ele>6.828125</ele>
       </trkpt>
-      <trkpt lat="51.48864540271461" lon="4.726445311680436">
-        <ele>10.23</ele>
-        <time>2021-05-20T13:11:23Z</time>
-      </trkpt>
-      <trkpt lat="51.488690581172705" lon="4.726597191765904">
-        <ele>10.710000000000001</ele>
-        <time>2021-05-20T13:11:24Z</time>
-      </trkpt>
-      <trkpt lat="51.488748667761683" lon="4.726741025224328">
-        <ele>11.19</ele>
-        <time>2021-05-20T13:11:25Z</time>
-      </trkpt>
-      <trkpt lat="51.488793259486556" lon="4.726890893653035">
-        <ele>9.75</ele>
-        <time>2021-05-20T13:11:26Z</time>
-      </trkpt>
-      <trkpt lat="51.488809855654836" lon="4.727049227803946">
-        <ele>8.789999999999999</ele>
-        <time>2021-05-20T13:11:27Z</time>
-      </trkpt>
-      <trkpt lat="51.488800719380379" lon="4.727210747078061">
-        <ele>8.31</ele>
-        <time>2021-05-20T13:11:28Z</time>
-      </trkpt>
-      <trkpt lat="51.488784458488226" lon="4.72737779840827">
-        <ele>8.31</ele>
-        <time>2021-05-20T13:11:29Z</time>
-      </trkpt>
-      <trkpt lat="51.488758139312267" lon="4.727958664298058">
-        <ele>4.94</ele>
-        <time>2021-05-20T13:11:32Z</time>
-      </trkpt>
-      <trkpt lat="51.488694688305259" lon="4.729648372158408">
-        <ele>7.35</ele>
-        <time>2021-05-20T13:11:41Z</time>
-      </trkpt>
-      <trkpt lat="51.488685719668865" lon="4.7298663854599">
-        <ele>11.19</ele>
-        <time>2021-05-20T13:11:43Z</time>
-      </trkpt>
-      <trkpt lat="51.488692257553339" lon="4.729938386008143">
-        <ele>12.630000000000001</ele>
-        <time>2021-05-20T13:11:44Z</time>
-      </trkpt>
-      <trkpt lat="51.488709272816777" lon="4.730005860328674">
-        <ele>12.15</ele>
-        <time>2021-05-20T13:11:45Z</time>
-      </trkpt>
-      <trkpt lat="51.488734586164355" lon="4.73007551394403">
-        <ele>12.15</ele>
-        <time>2021-05-20T13:11:46Z</time>
-      </trkpt>
-      <trkpt lat="51.488765180110931" lon="4.730150112882257">
-        <ele>12.630000000000001</ele>
-        <time>2021-05-20T13:11:47Z</time>
-      </trkpt>
-      <trkpt lat="51.488795774057508" lon="4.730217168107629">
-        <ele>12.15</ele>
-        <time>2021-05-20T13:11:48Z</time>
-      </trkpt>
-      <trkpt lat="51.488825278356671" lon="4.730289420112967">
-        <ele>12.15</ele>
-        <time>2021-05-20T13:11:49Z</time>
-      </trkpt>
-      <trkpt lat="51.488886969164014" lon="4.730475498363376">
-        <ele>10.710000000000001</ele>
-        <time>2021-05-20T13:11:51Z</time>
-      </trkpt>
-      <trkpt lat="51.488909851759672" lon="4.730599047616124">
-        <ele>10.23</ele>
-        <time>2021-05-20T13:11:52Z</time>
-      </trkpt>
-      <trkpt lat="51.488927537575364" lon="4.730736678466201">
-        <ele>10.23</ele>
-        <time>2021-05-20T13:11:53Z</time>
-      </trkpt>
-      <trkpt lat="51.488972129300237" lon="4.731136998161674">
-        <ele>10.710000000000001</ele>
-        <time>2021-05-20T13:11:56Z</time>
-      </trkpt>
-      <trkpt lat="51.4889947604388" lon="4.731235820800066">
-        <ele>11.67</ele>
-        <time>2021-05-20T13:11:57Z</time>
-      </trkpt>
-      <trkpt lat="51.489031137898564" lon="4.731315281242132">
-        <ele>13.119999999999999</ele>
-        <time>2021-05-20T13:11:58Z</time>
-      </trkpt>
-      <trkpt lat="51.489092409610748" lon="4.731373116374016">
-        <ele>12.630000000000001</ele>
-        <time>2021-05-20T13:11:59Z</time>
-      </trkpt>
-      <trkpt lat="51.489171702414751" lon="4.731405638158321">
-        <ele>11.19</ele>
-        <time>2021-05-20T13:12:00Z</time>
-      </trkpt>
-      <trkpt lat="51.48926449008286" lon="4.731420055031776">
-        <ele>8.789999999999999</ele>
-        <time>2021-05-20T13:12:01Z</time>
-      </trkpt>
-      <trkpt lat="51.489601526409388" lon="4.731475794687867">
-        <ele>6.39</ele>
-        <time>2021-05-20T13:12:04Z</time>
-      </trkpt>
-      <trkpt lat="51.489983573555946" lon="4.731508735567331">
-        <ele>10.710000000000001</ele>
-        <time>2021-05-20T13:12:08Z</time>
-      </trkpt>
-      <trkpt lat="51.490096813067794" lon="4.731514602899551">
-        <ele>13.6</ele>
-        <time>2021-05-20T13:12:10Z</time>
-      </trkpt>
-      <trkpt lat="51.490134196355939" lon="4.731546873226762">
-        <ele>14.08</ele>
-        <time>2021-05-20T13:12:11Z</time>
-      </trkpt>
-      <trkpt lat="51.49015280418098" lon="4.731599511578679">
-        <ele>15.039999999999999</ele>
-        <time>2021-05-20T13:12:12Z</time>
-      </trkpt>
-      <trkpt lat="51.49015087634325" lon="4.731678133830428">
-        <ele>13.6</ele>
-        <time>2021-05-20T13:12:13Z</time>
+      <trkpt lat="51.491357954218984" lon="4.727730508893728">
+        <ele>6.70703125</ele>
       </trkpt>
       <trkpt lat="51.490125060081482" lon="4.73177838139236">
         <ele>12.15</ele>
@@ -17254,7 +17122,7 @@ Assen, Drenthe, NLD
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-Drenthe-20210619</name>
+    <name>TET-NL-Drenthe-20210702</name>
     <desc>Length: 190.6 km (118.5 mi)</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -18164,7 +18032,7 @@ Assen, Drenthe, NLD
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-Liason ferry Hoek van Holland-Harwich (only tarmac)-20210619</name>
+    <name>TET-NL-Liason ferry Hoek van Holland-Harwich (only tarmac)-20210702</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -19866,7 +19734,7 @@ Assen, Drenthe, NLD
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-Liason ferry IJmuiden-Newcastle (only tarmac)-20210619</name>
+    <name>TET-NL-Liason ferry IJmuiden-Newcastle (only tarmac)-20210702</name>
     <desc>Length: 225 km (139.8 mi)</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -27556,7 +27424,7 @@ Assen, Drenthe, NLD
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-Liason ferry Rotterdam-Hull (only tarmac)-20210619</name>
+    <name>TET-NL-Liason ferry Rotterdam-Hull (only tarmac)-20210702</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -30029,7 +29897,7 @@ Assen, Drenthe, NLD
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-North-20210619</name>
+    <name>TET-NL-North-20210702</name>
     <desc>Length: 399.6 km (248.3 mi)</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -31361,74 +31229,11 @@ Assen, Drenthe, NLD
       <trkpt lat="52.651860527694225" lon="6.42288425937295">
         <ele>8.789999999999999</ele>
       </trkpt>
-      <trkpt lat="52.654388677328825" lon="6.423221630975604">
-        <ele>7.83</ele>
+      <trkpt lat="52.653057379648089" lon="6.422953242436051">
+        <ele>6.09765625</ele>
       </trkpt>
-      <trkpt lat="52.655253689736128" lon="6.423374935984612">
-        <ele>5.42</ele>
-      </trkpt>
-      <trkpt lat="52.65626328997314" lon="6.423500832170248">
-        <ele>3.5</ele>
-      </trkpt>
-      <trkpt lat="52.656720355153084" lon="6.419955957680941">
-        <ele>9.27734375</ele>
-      </trkpt>
-      <trkpt lat="52.65936316922307" lon="6.420328365638852">
-        <ele>8.5859375</ele>
-      </trkpt>
-      <trkpt lat="52.661292850971222" lon="6.421864768490195">
-        <ele>7.87109375</ele>
-      </trkpt>
-      <trkpt lat="52.662281999364495" lon="6.422083871439099">
-        <ele>8.26953125</ele>
-      </trkpt>
-      <trkpt lat="52.662196420133114" lon="6.415581610053778">
-        <ele>11.51171875</ele>
-      </trkpt>
-      <trkpt lat="52.666433807462454" lon="6.418823143467307">
-        <ele>8.42578125</ele>
-      </trkpt>
-      <trkpt lat="52.667013835161924" lon="6.419913712888956">
-        <ele>8.89453125</ele>
-      </trkpt>
-      <trkpt lat="52.666979217901826" lon="6.416361378505826">
-        <ele>7.9921875</ele>
-      </trkpt>
-      <trkpt lat="52.666201796382666" lon="6.415330907329917">
-        <ele>8.83984375</ele>
-      </trkpt>
-      <trkpt lat="52.664183601737022" lon="6.414055600762367">
-        <ele>5.92578125</ele>
-      </trkpt>
-      <trkpt lat="52.662015203386545" lon="6.411424437537789">
-        <ele>6.859375</ele>
-      </trkpt>
-      <trkpt lat="52.658809879794717" lon="6.409874623641372">
-        <ele>8.89453125</ele>
-      </trkpt>
-      <trkpt lat="52.658457169309258" lon="6.411294182762504">
-        <ele>8.73046875</ele>
-      </trkpt>
-      <trkpt lat="52.657492328435183" lon="6.4114826079458">
-        <ele>4.94</ele>
-      </trkpt>
-      <trkpt lat="52.657460058107972" lon="6.411299295723438">
-        <ele>10.523</ele>
-      </trkpt>
-      <trkpt lat="52.657256294041872" lon="6.411353861913085">
-        <ele>5.91</ele>
-      </trkpt>
-      <trkpt lat="52.656169077381492" lon="6.411363333463669">
-        <ele>4.94</ele>
-      </trkpt>
-      <trkpt lat="52.655018325895071" lon="6.41134288161993">
-        <ele>6.39</ele>
-      </trkpt>
-      <trkpt lat="52.654801905155182" lon="6.411360735073686">
-        <ele>4.94</ele>
-      </trkpt>
-      <trkpt lat="52.654353138059378" lon="6.411532061174512">
-        <ele>4.94</ele>
+      <trkpt lat="52.653818288818002" lon="6.414694804698229">
+        <ele>9.75390625</ele>
       </trkpt>
       <trkpt lat="52.653894228860736" lon="6.41180464066565">
         <ele>4.46</ele>
@@ -39079,7 +38884,7 @@ Assen, Drenthe, NLD
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-shortcut through Germany (only tarmac)-20210619</name>
+    <name>TET-NL-shortcut through Germany (only tarmac)-20210702</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -39947,7 +39752,7 @@ Assen, Drenthe, NLD
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-South-20210619</name>
+    <name>TET-NL-South-20210702</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -42703,14 +42508,12 @@ Assen, Drenthe, NLD
       <trkpt lat="51.825374364852905" lon="5.913745164871216"/>
       <trkpt lat="51.824880838394165" lon="5.914158225059509"/>
       <trkpt lat="51.824596524238586" lon="5.914367437362671"/>
-      <trkpt lat="51.824328303337097" lon="5.914453268051147"/>
-      <trkpt lat="51.824226379394531" lon="5.914474725723267"/>
-      <trkpt lat="51.824129819869995" lon="5.914474725723267"/>
-      <trkpt lat="51.824033260345459" lon="5.914453268051147"/>
-      <trkpt lat="51.823925971984863" lon="5.914410352706909"/>
-      <trkpt lat="51.823872327804565" lon="5.914372801780701"/>
-      <trkpt lat="51.823850870132446" lon="5.914345979690552"/>
-      <trkpt lat="51.823813319206238" lon="5.914303064346313"/>
+      <trkpt lat="51.824551681056619" lon="5.914041800424457">
+        <ele>92.9375</ele>
+      </trkpt>
+      <trkpt lat="51.824528630822897" lon="5.91332858428359">
+        <ele>92.08203125</ele>
+      </trkpt>
       <trkpt lat="51.823786497116089" lon="5.914276242256165"/>
       <trkpt lat="51.823491454124451" lon="5.914673209190369"/>
       <trkpt lat="51.82299792766571" lon="5.915359854698181"/>
@@ -48564,12 +48367,6 @@ Assen, Drenthe, NLD
       <trkpt lat="51.410437803715467" lon="5.805911310017109">
         <ele>24.649999999999999</ele>
       </trkpt>
-      <trkpt lat="51.410388769581914" lon="5.805958164855838">
-        <ele>24.170000000000002</ele>
-      </trkpt>
-      <trkpt lat="51.410336131229997" lon="5.805978700518608">
-        <ele>24.649999999999999</ele>
-      </trkpt>
       <trkpt lat="51.410263460129499" lon="5.805962439626455">
         <ele>24.649999999999999</ele>
       </trkpt>
@@ -48588,38 +48385,20 @@ Assen, Drenthe, NLD
       <trkpt lat="51.407538503408432" lon="5.804387228563428">
         <ele>27.530000000000001</ele>
       </trkpt>
-      <trkpt lat="51.406076028943062" lon="5.808689827099442">
-        <ele>26.57</ele>
+      <trkpt lat="51.401468245312572" lon="5.801074784249067">
+        <ele>30.91796875</ele>
       </trkpt>
-      <trkpt lat="51.406371826305985" lon="5.811566999182105">
-        <ele>26.375</ele>
+      <trkpt lat="51.401294991374016" lon="5.801481306552887">
+        <ele>31.51953125</ele>
       </trkpt>
-      <trkpt lat="51.407057717442513" lon="5.814158264547586">
-        <ele>26.265625</ele>
+      <trkpt lat="51.402044920250773" lon="5.808882610872388">
+        <ele>34.796875</ele>
       </trkpt>
-      <trkpt lat="51.40829530544579" lon="5.817718813195825">
-        <ele>28.98</ele>
+      <trkpt lat="51.40215665102005" lon="5.810507442802191">
+        <ele>34.5234375</ele>
       </trkpt>
-      <trkpt lat="51.407513692975044" lon="5.819258065894246">
-        <ele>29.6640625</ele>
-      </trkpt>
-      <trkpt lat="51.407549986615777" lon="5.819321181625128">
-        <ele>29.51953125</ele>
-      </trkpt>
-      <trkpt lat="51.407641181722283" lon="5.819623349234462">
-        <ele>28.8046875</ele>
-      </trkpt>
-      <trkpt lat="51.407436160370708" lon="5.819811522960663">
-        <ele>28.40234375</ele>
-      </trkpt>
-      <trkpt lat="51.405113618820906" lon="5.82351079210639">
-        <ele>29.940000000000001</ele>
-      </trkpt>
-      <trkpt lat="51.404355727136135" lon="5.822423910722136">
-        <ele>26.26953125</ele>
-      </trkpt>
-      <trkpt lat="51.400287486612797" lon="5.820409068837762">
-        <ele>33.299999999999997</ele>
+      <trkpt lat="51.401914246380329" lon="5.8134132809937">
+        <ele>32.7109375</ele>
       </trkpt>
       <trkpt lat="51.400927193462849" lon="5.817504739388824">
         <ele>25.609999999999999</ele>
