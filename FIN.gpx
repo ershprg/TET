@@ -4,9 +4,26 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2021-07-21T19:35:15Z</time>
+    <time>2021-08-15T13:07:48Z</time>
     <bounds maxlat="68.663910990580916" maxlon="30.063482997938991" minlat="60.090379994362593" minlon="21.850851690396667"/>
   </metadata>
+  <wpt lat="60.647139279171824" lon="23.947838908061385">
+    <time>2021-07-25T18:02:05Z</time>
+    <name>100 km/h speed limit</name>
+    <sym>Navaid, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-07-25T18:02:05Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="62.015097141265869" lon="24.505541324615479">
     <time>2020-11-13T07:26:05Z</time>
     <name>1918 Taisteluiden muistomerkki</name>
@@ -282,6 +299,23 @@ Kauppatie 37
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
+  <wpt lat="61.022505965083838" lon="24.469835003837943">
+    <time>2021-07-25T18:13:28Z</time>
+    <name>Aulanko National View</name>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-07-25T18:13:28Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="62.549693584442139" lon="24.089841842651367">
     <time>2020-11-13T07:42:00Z</time>
     <name>Best Hamburger</name>
@@ -329,7 +363,7 @@ Sorvikuja 2
     <name>Birthplace Jean Sibelius</name>
     <cmt>Finland’s most famous composer</cmt>
     <desc>Finland’s most famous composer</desc>
-    <sym>Civil</sym>
+    <sym>Museum</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -369,6 +403,23 @@ Ankkapurha, FIN</desc>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2021-07-03T06:49:53Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="60.744841676205397" lon="24.117035754024982">
+    <time>2021-07-25T18:06:45Z</time>
+    <name>Cafeteria, Restaurant, Airfield</name>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-07-25T18:06:45Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -483,7 +534,7 @@ Karhunkierros
     <ele>216</ele>
     <time>2018-07-16T20:52:28Z</time>
     <name>Field Fortification WW2: Purasjoki line</name>
-    <sym>Civil</sym>
+    <sym>Museum</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -501,7 +552,7 @@ Karhunkierros
     <ele>130.800000000000011</ele>
     <time>2018-06-28T09:34:06Z</time>
     <name>Finnish Airforce Museum</name>
-    <sym>Civil</sym>
+    <sym>Museum</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -928,7 +979,7 @@ Mikonkuja 2
   <wpt lat="61.795613067224622" lon="24.370632665231824">
     <time>2020-11-13T07:15:46Z</time>
     <name>Juupajoki Gorge</name>
-    <sym>Civil</sym>
+    <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -1348,7 +1399,7 @@ Asematie 7
     <name>Kantola Mural</name>
     <cmt>Biggest mural in the nordic countries</cmt>
     <desc>Biggest mural in the nordic countries</desc>
-    <sym>Civil</sym>
+    <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -1383,7 +1434,7 @@ Asematie 7
     <ele>434.5</ele>
     <time>2018-07-16T19:25:21Z</time>
     <name>Kaunispää hilltop</name>
-    <sym>Civil</sym>
+    <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -1434,7 +1485,7 @@ Asematie 7
   <wpt lat="65.63301170244813" lon="28.507365239784122">
     <time>2020-11-13T08:35:33Z</time>
     <name>Kenttärata Haarajoen leiri. Historical landmark</name>
-    <sym>Civil</sym>
+    <sym>Museum</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -1451,7 +1502,7 @@ Asematie 7
   <wpt lat="65.353045323863626" lon="28.362481193616986">
     <time>2020-11-13T08:17:59Z</time>
     <name>Kenttärata Korvuan leiri. Historical landmark</name>
-    <sym>Civil</sym>
+    <sym>Museum</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -1468,7 +1519,7 @@ Asematie 7
   <wpt lat="65.355972787365317" lon="28.371259393170476">
     <time>2020-11-13T08:29:18Z</time>
     <name>Kenttärata. https://www.visittaivalkoski.fi/en/services/kenttarata-2nd-ww-railway/</name>
-    <sym>Civil</sym>
+    <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -1485,7 +1536,7 @@ Asematie 7
   <wpt lat="65.909121315926313" lon="29.199417997151613">
     <time>2020-11-13T08:31:28Z</time>
     <name>Kenttärata1; Trench railway</name>
-    <sym>Civil</sym>
+    <sym>Museum</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -1891,7 +1942,7 @@ Manamansalontie 3881
     <ele>157.099999999999994</ele>
     <time>2018-06-28T15:13:06Z</time>
     <name>Lookout point: Humala</name>
-    <sym>Civil</sym>
+    <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -2139,7 +2190,7 @@ Teeriniementie 156
     <name>Marskin Maja; Mannerheim's Marshal's Cabin</name>
     <cmt>Hunting Cabin of Marshal Mannerheim</cmt>
     <desc>Hunting Cabin of Marshal Mannerheim</desc>
-    <sym>Civil</sym>
+    <sym>Museum</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -2249,7 +2300,7 @@ Harjutie 6
     <ele>231.599999999999994</ele>
     <time>2018-07-16T20:50:31Z</time>
     <name>Monument to the Battles of Suomussalmi</name>
-    <sym>Civil</sym>
+    <sym>Museum</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -2502,11 +2553,28 @@ Sairaalatie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
+  <wpt lat="60.185463298112154" lon="24.264311324805021">
+    <time>2021-07-25T18:21:19Z</time>
+    <name>Nice swimming place</name>
+    <sym>Swimming Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-07-25T18:21:19Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="67.799595035612583" lon="28.665209971368313">
     <ele>440.600000000000023</ele>
     <time>2019-06-23T13:05:18Z</time>
     <name>Niekka high point</name>
-    <sym>Civil</sym>
+    <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -2629,13 +2697,30 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
+  <wpt lat="61.063463212922215" lon="24.388576308265328">
+    <time>2021-07-25T18:12:18Z</time>
+    <name>Old bridge &amp; Restaurant</name>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-07-25T18:12:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="62.249983297660947" lon="25.183816663920879">
     <ele>116.599999999999994</ele>
     <time>2018-07-16T19:15:32Z</time>
     <name>Old Church of Petäjävesi</name>
     <cmt>See</cmt>
     <desc>See</desc>
-    <sym>Civil</sym>
+    <sym>Museum</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -2652,7 +2737,7 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
   <wpt lat="60.10247097350657" lon="24.335731929168105">
     <time>2021-05-30T11:43:38Z</time>
     <name>Old Railroad Track (built by Russians)</name>
-    <sym>Civil</sym>
+    <sym>Museum</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -2669,7 +2754,7 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
   <wpt lat="60.29994391836226" lon="24.12645298987627">
     <time>2021-05-30T11:46:47Z</time>
     <name>Old Sanatorium (burnt down in 2019)</name>
-    <sym>Civil</sym>
+    <sym>Museum</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -3229,7 +3314,7 @@ Myllymäentie 37
     <ele>464.199999999999989</ele>
     <time>2018-07-16T19:19:58Z</time>
     <name>Ruka Mountain View</name>
-    <sym>Civil</sym>
+    <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -3266,7 +3351,7 @@ Myllymäentie 37
     <name>Russian Memorial</name>
     <cmt>Venäläinen muistomerkki</cmt>
     <desc>Venäläinen muistomerkki</desc>
-    <sym>Civil</sym>
+    <sym>Museum</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -3703,7 +3788,7 @@ Lepikontie 12
     <name>Sjundby Castle &amp; Nice Rapids</name>
     <cmt>Unbefestigte Straße</cmt>
     <desc>Unbefestigte Straße</desc>
-    <sym>Civil</sym>
+    <sym>Museum</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -3714,6 +3799,40 @@ Lepikontie 12
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2021-05-30T11:44:48Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="60.7382448669523" lon="24.133064886555076">
+    <time>2021-07-25T18:09:09Z</time>
+    <name>Small local shop &amp; Cafeteria</name>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-07-25T18:09:09Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="60.095634022727609" lon="24.311708640307188">
+    <time>2021-07-25T18:17:58Z</time>
+    <name>Soviet Triumphal Arch</name>
+    <sym>Museum</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-07-25T18:17:58Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -3889,7 +4008,7 @@ Virtaintie 1
     <ele>255.699999999999989</ele>
     <time>2018-07-16T18:41:31Z</time>
     <name>Tahko Hilltop</name>
-    <sym>Civil</sym>
+    <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -4344,6 +4463,31 @@ Uurantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
+  <wpt lat="67.769922930747271" lon="29.209012174978852">
+    <time>2021-08-10T15:20:24Z</time>
+    <name>Tulppion Majat</name>
+    <cmt>Tulppion Majat
+Cabins, Restaurant, Gasoline
+http://www.tulppionmajat.fi/
++358 16 844 101</cmt>
+    <desc>Tulppion Majat
+Cabins, Restaurant, Gasoline
+http://www.tulppionmajat.fi/
++358 16 844 101</desc>
+    <sym>Lodging</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-08-10T15:20:24Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="65.574946403503418" lon="28.222675323486328">
     <time>2020-11-13T08:22:32Z</time>
     <name>Tykkytaival</name>
@@ -4391,7 +4535,7 @@ Mutkatie 12
     <name>Ukrainian Memorial</name>
     <cmt>Ukrainalainen muistomerkki</cmt>
     <desc>Ukrainalainen muistomerkki</desc>
-    <sym>Civil</sym>
+    <sym>Museum</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -4699,7 +4843,7 @@ Värrinpää, FIN</desc>
     <name>Winter War Monument and Museum</name>
     <cmt>Raatteen Portti</cmt>
     <desc>Raatteen Portti</desc>
-    <sym>Civil</sym>
+    <sym>Museum</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -4717,7 +4861,7 @@ Värrinpää, FIN</desc>
     <ele>164.199999999999989</ele>
     <time>2018-07-16T20:28:13Z</time>
     <name>Winter War Museum</name>
-    <sym>Civil</sym>
+    <sym>Museum</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -4824,7 +4968,7 @@ Karhunkierros 229
     </extensions>
   </wpt>
   <trk>
-    <name>Fin Niekkatunturi</name>
+    <name>TET-Finlamd-Niekkatunturi-20210810</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -4927,7 +5071,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET-Finland-Section1-20210720</name>
+    <name>TET-Finland-Section1-20210810</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -31107,7 +31251,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET-Finland-Section1b-20210720</name>
+    <name>TET-Finland-Section1b-20210810</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -31627,26 +31771,13 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET-Finland-Section2-20210720</name>
+    <name>TET-Finland-Section2-20210810</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
       </gpxx:TrackExtension>
     </extensions>
     <trkseg>
-      <trkpt lat="61.08241930603981" lon="24.396291598677635">
-        <ele>105.879999999999995</ele>
-        <time>2020-09-03T11:35:50Z</time>
-      </trkpt>
-      <trkpt lat="61.091142101213336" lon="24.402129845693707"/>
-      <trkpt lat="61.103954007849097" lon="24.422617731615901"/>
-      <trkpt lat="61.105285808444023" lon="24.443379286676645"/>
-      <trkpt lat="61.115182908251882" lon="24.46759837679565"/>
-      <trkpt lat="61.121830428019166" lon="24.461502889171243"/>
-      <trkpt lat="61.124345669522882" lon="24.468229031190276"/>
-      <trkpt lat="61.128028761595488" lon="24.505012426525354"/>
-      <trkpt lat="61.116620153188705" lon="24.537591878324747"/>
-      <trkpt lat="61.117249047383666" lon="24.55419709905982"/>
       <trkpt lat="61.135843880474567" lon="24.569389466196299"/>
       <trkpt lat="61.145437555387616" lon="24.571848548948765"/>
       <trkpt lat="61.14796981215477" lon="24.577524103224277"/>
@@ -44899,7 +45030,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET-Finland-Section3-20210720</name>
+    <name>TET-Finland-Section3-20210810</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -45538,7 +45669,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET-Finland-Section4-20210720</name>
+    <name>TET-Finland-Section4-20210810</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
