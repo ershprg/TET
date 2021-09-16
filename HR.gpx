@@ -1,21 +1,19 @@
 <?xml version="1.0"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1" creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd">
-
   <metadata>
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2020-07-12T19:00:08Z</time>
+    <time>2021-09-15T19:38:04Z</time>
     <bounds maxlat="45.463648997247219" maxlon="16.263927239924669" minlat="44.033935032784939" minlon="14.767613019794226"/>
   </metadata>
-
   <wpt lat="44.040145017206669" lon="16.202934980392456">
-    <ele>222.189999999999998</ele>
+    <ele>222</ele>
     <time>2019-12-22T10:32:52Z</time>
     <name>Gas Station Knin</name>
     <cmt>Ina Knin - Grad</cmt>
     <desc>Ina Knin - Grad</desc>
-    <sym>Flag, Blue</sym>
+    <sym>Gas Station</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -29,12 +27,11 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="44.033935032784939" lon="16.190207982435822">
-    <ele>249.349999999999994</ele>
+    <ele>249</ele>
     <time>2019-12-22T10:32:52Z</time>
     <name>Kamp EU Krka Knin (Srečko)</name>
-    <sym>Flag, Blue</sym>
+    <sym>Campground</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -54,12 +51,57 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
+  <wpt lat="44.445850001648068" lon="16.033990010619164">
+    <ele>881</ele>
+    <time>2021-09-15T19:30:40Z</time>
+    <name>Lika-Negro</name>
+    <cmt>TET-friendly moto camp where you can overnight,  take a shower, and even make small repairs.
 
+gschwander.alexander@gmail.com
+jelena.marissa@gmail.com
+
+Whatsapp: 00385 91 516  8332</cmt>
+    <desc>TET-friendly moto camp where you can overnight,  take a shower, and even make small repairs.
+
+gschwander.alexander@gmail.com
+jelena.marissa@gmail.com
+
+Whatsapp: 00385 91 516  8332</desc>
+    <sym>Lodging</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>Brezovac 1</gpxx:StreetAddress>
+          <gpxx:StreetAddress>Brezovac-Dobroselski</gpxx:StreetAddress>
+          <gpxx:City>Donji-Lapac</gpxx:City>
+          <gpxx:Country>Croatia</gpxx:Country>
+          <gpxx:PostalCode>53250</gpxx:PostalCode>
+        </gpxx:Address>
+        <gpxx:PhoneNumber>00385 91 516  8332</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Address>
+          <wptx1:StreetAddress>Brezovac 1</wptx1:StreetAddress>
+          <wptx1:StreetAddress>Brezovac-Dobroselski</wptx1:StreetAddress>
+          <wptx1:City>Donji-Lapac</wptx1:City>
+          <wptx1:Country>Croatia</wptx1:Country>
+          <wptx1:PostalCode>53250</wptx1:PostalCode>
+        </wptx1:Address>
+        <wptx1:PhoneNumber>00385 91 516  8332</wptx1:PhoneNumber>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-09-15T19:30:40Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="45.074170036241412" lon="14.941541031002998">
-    <ele>863.139999999999986</ele>
+    <ele>863</ele>
     <time>2020-07-10T17:57:11Z</time>
     <name>Ramp, but ok to continue.</name>
-    <sym>Flag, Blue</sym>
+    <sym>Information</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -79,12 +121,11 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="44.673826033249497" lon="15.60760997235775">
-    <ele>733.850000000000023</ele>
+    <ele>734</ele>
     <time>2020-07-10T17:57:11Z</time>
     <name>Riding restriction from 15.11 until 15.04 due to snow.</name>
-    <sym>Flag, Blue</sym>
+    <sym>Navaid, Red</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -104,7 +145,6 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <trk>
     <name>TET-CROATIA-20200710</name>
     <extensions>
@@ -38111,5 +38151,4 @@
       </trkpt>
     </trkseg>
   </trk>
-
 </gpx>
