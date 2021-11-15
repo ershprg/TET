@@ -4,7 +4,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2021-11-01T20:52:23Z</time>
+    <time>2021-11-14T14:55:12Z</time>
     <bounds maxlat="53.154727695509791" maxlon="7.192010879516602" minlat="51.26045823097229" minlon="4.126701951026917"/>
   </metadata>
   <wpt lat="52.33383578248322" lon="6.283567305654287">
@@ -2044,7 +2044,7 @@ Assen, Drenthe, NLD
     </extensions>
   </wpt>
   <trk>
-    <name>TET-NL-Brabant-20221102</name>
+    <name>TET_NL-1_20221102</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -17384,7 +17384,7 @@ Assen, Drenthe, NLD
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-Drenthe-20221102 001</name>
+    <name>TET_NL-2_20221102</name>
     <desc>Length: 190.6 km (118.5 mi)</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -18354,7 +18354,8 @@ Assen, Drenthe, NLD
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-Liason ferry Hoek van Holland-Harwich (only tarmac)-20221102</name>
+    <name>TET_NL-3_20221102</name>
+    <desc>Liason ferry Hoek van Holland-Harwich (only tarmac)</desc>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -20056,8 +20057,8 @@ Assen, Drenthe, NLD
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-Liason ferry IJmuiden-Newcastle (only tarmac)-20221102</name>
-    <desc>Length: 225 km (139.8 mi)</desc>
+    <name>TET_NL-4_20221102</name>
+    <desc>Liason ferry IJmuiden-Newcastle (only tarmac)</desc>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -27713,7 +27714,8 @@ Assen, Drenthe, NLD
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-Liason ferry Rotterdam-Hull (only tarmac)-20221102</name>
+    <name>TET_NL-5_20221102</name>
+    <desc>Liason ferry Rotterdam-Hull (only tarmac)</desc>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -30105,7 +30107,7 @@ Assen, Drenthe, NLD
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-North-20221102</name>
+    <name>TET_NL-6_20221102</name>
     <desc>Length: 399.6 km (248.3 mi)</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -38819,7 +38821,7 @@ Assen, Drenthe, NLD
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-ride only when its not busy with walkers and cyclists-20221102</name>
+    <name>TET_NL-7_20221102</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -39228,7 +39230,8 @@ Assen, Drenthe, NLD
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-shortcut through Germany (only tarmac)-20221102</name>
+    <name>TET_NL-8_20221102</name>
+    <desc>Only Tarmac</desc>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -40096,7 +40099,7 @@ Assen, Drenthe, NLD
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-South-20221102</name>
+    <name>TET_NL-9_20221102</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
