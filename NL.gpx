@@ -4,9 +4,27 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2021-09-09T17:10:14Z</time>
-    <bounds maxlat="53.153532100841403" maxlon="7.199326688423753" minlat="51.261603869497776" minlon="4.126701951026917"/>
+    <time>2021-11-14T14:55:12Z</time>
+    <bounds maxlat="53.154727695509791" maxlon="7.192010879516602" minlat="51.26045823097229" minlon="4.126701951026917"/>
   </metadata>
+  <wpt lat="52.33383578248322" lon="6.283567305654287">
+    <ele>10.05859375</ele>
+    <time>2021-10-18T19:38:34Z</time>
+    <name>Adventure Bike Experience Center</name>
+    <sym>Car Repair</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-10-18T19:38:34Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="52.026811363175511" lon="5.872004125267267">
     <time>2020-06-08T22:00:20Z</time>
     <name>Arnhem War Museum</name>
@@ -24,6 +42,24 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
+  <wpt lat="51.346861235797405" lon="5.233558919280767">
+    <ele>32.6328125</ele>
+    <time>2021-10-06T08:50:40Z</time>
+    <name>B&amp;B De Verloren Sinjoor</name>
+    <sym>Lodging</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-10-06T08:50:40Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="52.135062301531434" lon="5.749940983951092">
     <time>2019-06-28T13:09:28Z</time>
     <name>Bartang.eu</name>
@@ -38,6 +74,24 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2019-06-28T13:09:28Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.710268538445234" lon="6.023802990093827">
+    <ele>12.7109375</ele>
+    <time>2021-09-30T08:59:07Z</time>
+    <name>Bed &amp; Breakfast de Niers</name>
+    <sym>Lodging</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-09-30T08:59:07Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -162,24 +216,6 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="52.328934967517853" lon="6.780544258654118">
-    <ele>14.6796875</ele>
-    <time>2021-05-26T08:45:09Z</time>
-    <name>Broen'nberg</name>
-    <sym>Campground</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2021-05-26T08:45:09Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
   <wpt lat="52.86938700824976" lon="7.096503032371402">
     <time>2019-06-23T12:00:36Z</time>
     <name>Cable carrier</name>
@@ -247,6 +283,24 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2021-05-05T12:41:31Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="52.328934967517853" lon="6.780544258654118">
+    <ele>14.6796875</ele>
+    <time>2021-05-26T08:45:09Z</time>
+    <name>Camping Broen'nberg</name>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-05-26T08:45:09Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -410,6 +464,65 @@ Behelp 13
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
+  <wpt lat="52.12857311591506" lon="5.759812854230404">
+    <ele>25.15234375</ele>
+    <time>2021-10-24T17:46:54Z</time>
+    <name>Camping De Tepelenburg</name>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-10-24T17:46:54Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="52.752442359924316" lon="6.515064239501953">
+    <time>2021-09-11T09:17:51Z</time>
+    <name>Camping De Zandgaten</name>
+    <cmt>De Zandgaten
+Siberië 26
+7934, Stuifzand, Drenthe, NLD
+0528331447</cmt>
+    <desc>De Zandgaten
+Siberië 26
+7934, Stuifzand, Drenthe, NLD
+0528331447</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>Siberië 26</gpxx:StreetAddress>
+          <gpxx:City>Stuifzand</gpxx:City>
+          <gpxx:State>Drenthe</gpxx:State>
+          <gpxx:Country>NLD</gpxx:Country>
+          <gpxx:PostalCode>7934</gpxx:PostalCode>
+        </gpxx:Address>
+        <gpxx:PhoneNumber>0528331447</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Address>
+          <wptx1:StreetAddress>Siberië 26</wptx1:StreetAddress>
+          <wptx1:City>Stuifzand</wptx1:City>
+          <wptx1:State>Drenthe</wptx1:State>
+          <wptx1:Country>NLD</wptx1:Country>
+          <wptx1:PostalCode>7934</wptx1:PostalCode>
+        </wptx1:Address>
+        <wptx1:PhoneNumber>0528331447</wptx1:PhoneNumber>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-09-11T09:17:51Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="52.244023606181145" lon="6.682556960731745">
     <time>2020-06-08T22:00:20Z</time>
     <name>camping Erve de Koekoek</name>
@@ -462,6 +575,24 @@ Behelp 13
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
+  <wpt lat="52.15486136265099" lon="5.504794958978891">
+    <ele>5.75</ele>
+    <time>2021-10-18T20:28:10Z</time>
+    <name>Camping Nieuw Hof</name>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-10-18T20:28:10Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="53.108167564496398" lon="7.15660572052002">
     <time>2020-06-08T22:00:20Z</time>
     <name>camping Rigtersheert</name>
@@ -493,6 +624,48 @@ Behelp 13
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2020-06-08T22:00:20Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="52.974239587783813" lon="6.809211373329163">
+    <ele>8.5859375</ele>
+    <time>2021-10-24T18:09:17Z</time>
+    <name>Camping Sparrenhof</name>
+    <cmt>Sparrenhof
+Kamplaan 1
+9462 TS, Gasselte, Drenthe, Nederland
+599-565610</cmt>
+    <desc>Sparrenhof
+Kamplaan 1
+9462 TS, Gasselte, Drenthe, Nederland
+599-565610</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>Kamplaan 1</gpxx:StreetAddress>
+          <gpxx:City>Gasselte</gpxx:City>
+          <gpxx:State>Drenthe</gpxx:State>
+          <gpxx:Country>Nederland</gpxx:Country>
+          <gpxx:PostalCode>9462 TS</gpxx:PostalCode>
+        </gpxx:Address>
+        <gpxx:PhoneNumber>599-565610</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Address>
+          <wptx1:StreetAddress>Kamplaan 1</wptx1:StreetAddress>
+          <wptx1:City>Gasselte</wptx1:City>
+          <wptx1:State>Drenthe</wptx1:State>
+          <wptx1:Country>Nederland</wptx1:Country>
+          <wptx1:PostalCode>9462 TS</wptx1:PostalCode>
+        </wptx1:Address>
+        <wptx1:PhoneNumber>599-565610</wptx1:PhoneNumber>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-10-24T18:09:17Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -592,61 +765,10 @@ Waaldijk 23
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="51.858837604522705" lon="6.242122733965516">
-    <time>2020-06-08T22:00:20Z</time>
-    <name>Cheap fuel 11</name>
-    <sym>Gas Station</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2020-06-08T22:00:20Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="51.807574974372983" lon="5.96180004067719">
-    <time>2018-06-14T08:43:51Z</time>
-    <name>Cheap fuel 2</name>
-    <sym>Gas Station</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2018-06-14T08:43:51Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="51.270475527271628" lon="5.398183520883322">
-    <time>2018-02-03T20:04:44Z</time>
-    <name>Cheap fuel 31</name>
-    <sym>Gas Station</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2018-02-03T20:04:44Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
   <wpt lat="51.471027731895447" lon="5.048298239707947">
     <ele>26.25</ele>
     <time>2020-07-24T11:50:09Z</time>
-    <name>cheap fuel 4</name>
+    <name>cheap fuel B1</name>
     <cmt>Van Raak
 Grens 15
 2382, Poppel, Vlaanderen, België
@@ -682,6 +804,57 @@ Grens 15
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2020-07-24T11:50:09Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.270475527271628" lon="5.398183520883322">
+    <time>2018-02-03T20:04:44Z</time>
+    <name>Cheap fuel B2</name>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-02-03T20:04:44Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.807574974372983" lon="5.96180004067719">
+    <time>2018-06-14T08:43:51Z</time>
+    <name>cheap fuel D1</name>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-06-14T08:43:51Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.858837604522705" lon="6.242122733965516">
+    <time>2020-06-08T22:00:20Z</time>
+    <name>Cheap fuel D2</name>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-06-08T22:00:20Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -1029,6 +1202,60 @@ Stationsstraat 41
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
+  <wpt lat="53.011630838736892" lon="6.727482788264751">
+    <ele>17.33203125</ele>
+    <time>2021-09-25T09:27:23Z</time>
+    <name>Hunebed D13</name>
+    <sym>Museum</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-09-25T09:27:23Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="53.001929959282279" lon="6.729223961010575">
+    <ele>22.944092000000001</ele>
+    <time>2021-05-30T09:23:17Z</time>
+    <name>Hunebed D14</name>
+    <sym>Museum</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-05-30T09:23:17Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="52.952455021440983" lon="6.785572981461883">
+    <ele>32.432510000000001</ele>
+    <time>2021-05-30T08:58:20Z</time>
+    <name>Hunebed D20</name>
+    <sym>Museum</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-05-30T08:58:20Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="52.835244331508875" lon="6.870621219277382">
     <time>2020-06-08T22:00:20Z</time>
     <name>Hunebed D35</name>
@@ -1049,7 +1276,7 @@ Stationsstraat 41
   <wpt lat="52.858835030347109" lon="6.331043997779489">
     <ele>14.625006000000001</ele>
     <time>2021-05-29T13:13:10Z</time>
-    <name>Hunnebed 01</name>
+    <name>Hunebed D52</name>
     <sym>Museum</sym>
     <type>user</type>
     <extensions>
@@ -1064,10 +1291,10 @@ Stationsstraat 41
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="52.952455021440983" lon="6.785572981461883">
-    <ele>32.432510000000001</ele>
-    <time>2021-05-30T08:58:20Z</time>
-    <name>Hunnebed 02</name>
+  <wpt lat="53.061663005501032" lon="6.71554796397686">
+    <ele>2.18171</ele>
+    <time>2021-09-25T09:40:16Z</time>
+    <name>Hunebed D9</name>
     <sym>Museum</sym>
     <type>user</type>
     <extensions>
@@ -1078,25 +1305,7 @@ Stationsstraat 41
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2021-05-30T08:58:20Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="53.001929959282279" lon="6.729223961010575">
-    <ele>22.944092000000001</ele>
-    <time>2021-05-30T09:23:17Z</time>
-    <name>Hunnebed 03</name>
-    <sym>Museum</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2021-05-30T09:23:17Z</ctx:CreationTime>
+        <ctx:CreationTime>2021-09-25T09:40:16Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -1230,6 +1439,24 @@ Dunsedijk 3
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
+  <wpt lat="52.956988625228405" lon="6.694777607917786">
+    <ele>18.55078125</ele>
+    <time>2021-09-11T09:20:26Z</time>
+    <name>Landgoed Mariahoeve</name>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-09-11T09:20:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="51.785357315093279" lon="5.935514392331243">
     <time>2020-06-08T22:00:20Z</time>
     <name>Liberation Museum 1944-1945</name>
@@ -1244,6 +1471,24 @@ Dunsedijk 3
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2020-06-08T22:00:20Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.7107002902776" lon="6.023788070306182">
+    <ele>13.546875</ele>
+    <time>2021-09-30T08:53:42Z</time>
+    <name>minicamping de niers</name>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-09-30T08:53:42Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -1675,6 +1920,23 @@ Reusel, Noord-Brabant, Nederland</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
+  <wpt lat="53.12673406675458" lon="7.180325584486127">
+    <time>2021-11-01T10:33:31Z</time>
+    <name>TET Germany Entry/Exit</name>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-11-01T10:33:31Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="52.959251403808594" lon="6.526565551757812">
     <time>2019-07-11T18:00:32Z</time>
     <name>TT Circuit Assen (Motor)</name>
@@ -1782,7 +2044,7 @@ Assen, Drenthe, NLD
     </extensions>
   </wpt>
   <trk>
-    <name>TET-NL-Brabant-20210908</name>
+    <name>TET_NL-1_20221102</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -17122,7 +17384,7 @@ Assen, Drenthe, NLD
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-Drenthe-20210908</name>
+    <name>TET_NL-2_20221102</name>
     <desc>Length: 190.6 km (118.5 mi)</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -17757,20 +18019,14 @@ Assen, Drenthe, NLD
       <trkpt lat="53.152357125654817" lon="6.638188110664487"/>
       <trkpt lat="53.152919299900532" lon="6.638478627428412"/>
       <trkpt lat="53.153532100841403" lon="6.640062220394611"/>
-      <trkpt lat="53.152830367907882" lon="6.640452900901437"/>
-      <trkpt lat="53.151789335533977" lon="6.640811562538147"/>
-      <trkpt lat="53.150562141090631" lon="6.64014033973217"/>
-      <trkpt lat="53.149373000487685" lon="6.640499504283071"/>
-      <trkpt lat="53.147544739767909" lon="6.642279401421547"/>
-      <trkpt lat="53.146060220897198" lon="6.643363516777754"/>
-      <trkpt lat="53.145208535715938" lon="6.643542218953371"/>
-      <trkpt lat="53.144064405933022" lon="6.643197303637862"/>
-      <trkpt lat="53.14364648424089" lon="6.643712371587753"/>
-      <trkpt lat="53.142430605366826" lon="6.64470998570323"/>
-      <trkpt lat="53.142830841243267" lon="6.645455388352275"/>
-      <trkpt lat="53.143314979970455" lon="6.645384225994349"/>
-      <trkpt lat="53.143985699862242" lon="6.64666892029345"/>
-      <trkpt lat="53.144446704536676" lon="6.647868705913424"/>
+      <trkpt lat="53.1541383638978" lon="6.640214351937175"/>
+      <trkpt lat="53.154727695509791" lon="6.642688103020191">
+        <ele>4.875</ele>
+      </trkpt>
+      <trkpt lat="53.152501042932272" lon="6.644674530252814"/>
+      <trkpt lat="53.151027923449874" lon="6.64616122841835"/>
+      <trkpt lat="53.149470062926412" lon="6.647145180031657"/>
+      <trkpt lat="53.14726042561233" lon="6.64777809754014"/>
       <trkpt lat="53.144815508276224" lon="6.648988192901015"/>
       <trkpt lat="53.144358862191439" lon="6.649665869772434"/>
       <trkpt lat="53.143414976075292" lon="6.650313204154372"/>
@@ -17780,7 +18036,7 @@ Assen, Drenthe, NLD
       <trkpt lat="53.137976881116629" lon="6.653285091742873"/>
       <trkpt lat="53.136153733357787" lon="6.654345905408263"/>
       <trkpt lat="53.133169189095497" lon="6.657468164339662"/>
-      <trkpt lat="53.132486566901207" lon="6.658804239705205"/>
+      <trkpt lat="53.132251873612404" lon="6.658864421769977"/>
       <trkpt lat="53.130834074690938" lon="6.659676292911172"/>
       <trkpt lat="53.128509521484375" lon="6.660514734685421"/>
       <trkpt lat="53.128631729632616" lon="6.658414229750633"/>
@@ -17788,21 +18044,20 @@ Assen, Drenthe, NLD
       <trkpt lat="53.12522079795599" lon="6.656506173312664"/>
       <trkpt lat="53.125137900933623" lon="6.656731562688947"/>
       <trkpt lat="53.124976381659508" lon="6.656810436397791"/>
-      <trkpt lat="53.123521618545055" lon="6.652555782347918"/>
-      <trkpt lat="53.123336462303996" lon="6.650193510577083"/>
-      <trkpt lat="53.122767666354775" lon="6.649685734882951"/>
-      <trkpt lat="53.121594032272696" lon="6.649806266650558"/>
-      <trkpt lat="53.120477227494121" lon="6.649672659114003"/>
-      <trkpt lat="53.111347993835807" lon="6.653893114998937"/>
-      <trkpt lat="53.111236430704594" lon="6.654011718928814"/>
-      <trkpt lat="53.111178260296583" lon="6.654281029477715"/>
-      <trkpt lat="53.111143978312612" lon="6.654945379123092"/>
-      <trkpt lat="53.111005760729313" lon="6.655078902840614"/>
-      <trkpt lat="53.110629580914974" lon="6.655198261141777"/>
-      <trkpt lat="53.110405197367072" lon="6.655371682718396"/>
-      <trkpt lat="53.110366892069578" lon="6.655515935271978"/>
-      <trkpt lat="53.110375525429845" lon="6.656438866630197"/>
-      <trkpt lat="53.110298160463572" lon="6.6565992962569"/>
+      <trkpt lat="53.125142762437463" lon="6.658516069874167"/>
+      <trkpt lat="53.122190237045288" lon="6.661848211660981"/>
+      <trkpt lat="53.120285114273429" lon="6.665214467793703"/>
+      <trkpt lat="53.1176099460572" lon="6.667583528906107"/>
+      <trkpt lat="53.115583201870322" lon="6.671820664778352"/>
+      <trkpt lat="53.114811480045319" lon="6.672934200614691"/>
+      <trkpt lat="53.112184423953295" lon="6.675165630877018"/>
+      <trkpt lat="53.111618980765343" lon="6.6714399587363"/>
+      <trkpt lat="53.110626144334674" lon="6.668204879388213"/>
+      <trkpt lat="53.109772782772779" lon="6.666059195995331"/>
+      <trkpt lat="53.108985051512718" lon="6.664739213883877"/>
+      <trkpt lat="53.108145436272025" lon="6.663962546736002">
+        <ele>4.828125</ele>
+      </trkpt>
       <trkpt lat="53.107171375304461" lon="6.658303337171674"/>
       <trkpt lat="53.106496883556247" lon="6.655743420124054"/>
       <trkpt lat="53.101307731121778" lon="6.65729901753366"/>
@@ -18099,7 +18354,8 @@ Assen, Drenthe, NLD
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-Liason ferry Hoek van Holland-Harwich (only tarmac)-20210908</name>
+    <name>TET_NL-3_20221102</name>
+    <desc>Liason ferry Hoek van Holland-Harwich (only tarmac)</desc>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -19801,8 +20057,8 @@ Assen, Drenthe, NLD
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-Liason ferry IJmuiden-Newcastle (only tarmac)-20210908</name>
-    <desc>Length: 225 km (139.8 mi)</desc>
+    <name>TET_NL-4_20221102</name>
+    <desc>Liason ferry IJmuiden-Newcastle (only tarmac)</desc>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -27458,7 +27714,8 @@ Assen, Drenthe, NLD
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-Liason ferry Rotterdam-Hull (only tarmac)-20210908</name>
+    <name>TET_NL-5_20221102</name>
+    <desc>Liason ferry Rotterdam-Hull (only tarmac)</desc>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -29850,7 +30107,7 @@ Assen, Drenthe, NLD
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-North-20210908</name>
+    <name>TET_NL-6_20221102</name>
     <desc>Length: 399.6 km (248.3 mi)</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -29969,45 +30226,6 @@ Assen, Drenthe, NLD
       <trkpt lat="53.009524801746011" lon="7.184779476374388"/>
       <trkpt lat="53.010285291820765" lon="7.185473581776023"/>
       <trkpt lat="53.009965438395739" lon="7.186038438230753"/>
-      <trkpt lat="53.008447475731373" lon="7.188721988350153"/>
-      <trkpt lat="53.008514530956745" lon="7.188932625576854"/>
-      <trkpt lat="53.008481338620186" lon="7.189347362145782"/>
-      <trkpt lat="53.008389640599489" lon="7.189418273046613"/>
-      <trkpt lat="53.008023938164115" lon="7.189444340765476"/>
-      <trkpt lat="53.008028380572796" lon="7.190955094993114"/>
-      <trkpt lat="53.00847178325057" lon="7.1912114135921"/>
-      <trkpt lat="53.008486367762089" lon="7.191335465759039"/>
-      <trkpt lat="53.008447559550405" lon="7.191457338631153"/>
-      <trkpt lat="53.007846996188164" lon="7.192744128406048"/>
-      <trkpt lat="53.007694529369473" lon="7.192669780924916"/>
-      <trkpt lat="53.00724484026432" lon="7.192411115393043"/>
-      <trkpt lat="53.006860027089715" lon="7.192151779308915"/>
-      <trkpt lat="53.006736980751157" lon="7.192072737962008"/>
-      <trkpt lat="53.006659196689725" lon="7.192121436819434"/>
-      <trkpt lat="53.006042372435331" lon="7.192431064322591"/>
-      <trkpt lat="53.005633838474751" lon="7.192633571103215"/>
-      <trkpt lat="53.005574829876423" lon="7.192785702645779"/>
-      <trkpt lat="53.005518838763237" lon="7.193664461374283"/>
-      <trkpt lat="53.004924058914185" lon="7.193799912929535"/>
-      <trkpt lat="53.004793887957931" lon="7.195700341835618"/>
-      <trkpt lat="53.004820793867111" lon="7.195862112566829"/>
-      <trkpt lat="53.005059929564595" lon="7.195909889414907"/>
-      <trkpt lat="53.005127487704158" lon="7.196015920490026"/>
-      <trkpt lat="53.005161434412003" lon="7.196237035095692"/>
-      <trkpt lat="53.005191022530198" lon="7.196526294574142"/>
-      <trkpt lat="53.00521356984973" lon="7.198524959385395"/>
-      <trkpt lat="53.001992404460907" lon="7.199326688423753"/>
-      <trkpt lat="53.002078738063574" lon="7.197409411892295"/>
-      <trkpt lat="53.000995879992843" lon="7.194325793534517"/>
-      <trkpt lat="53.001502566039562" lon="7.193200523033738"/>
-      <trkpt lat="53.002951629459858" lon="7.191207306459546"/>
-      <trkpt lat="53.002952132374048" lon="7.191008068621159"/>
-      <trkpt lat="53.001155890524387" lon="7.187290024012327"/>
-      <trkpt lat="53.001375161111355" lon="7.187083158642054"/>
-      <trkpt lat="53.004215117543936" lon="7.185122966766357"/>
-      <trkpt lat="53.006945019587874" lon="7.184050837531686"/>
-      <trkpt lat="53.007149286568165" lon="7.184019321575761"/>
-      <trkpt lat="53.00827581435442" lon="7.184355687350035"/>
       <trkpt lat="53.008416378870606" lon="7.184513518586755"/>
       <trkpt lat="53.008317304775119" lon="7.183672310784459"/>
       <trkpt lat="53.008393412455916" lon="7.181750005111098"/>
@@ -33366,20 +33584,8 @@ Assen, Drenthe, NLD
       <trkpt lat="52.44687220081687" lon="6.653551803901792">
         <ele>8.31</ele>
       </trkpt>
-      <trkpt lat="52.446999689564109" lon="6.654032338410616">
-        <ele>6.39</ele>
-      </trkpt>
       <trkpt lat="52.446996923536062" lon="6.654018340632319">
         <ele>6.39</ele>
-      </trkpt>
-      <trkpt lat="52.446974124759436" lon="6.653992440551519">
-        <ele>6.39</ele>
-      </trkpt>
-      <trkpt lat="52.446942524984479" lon="6.653985232114792">
-        <ele>6.39</ele>
-      </trkpt>
-      <trkpt lat="52.44698409922421" lon="6.654005264863372">
-        <ele>6.87</ele>
       </trkpt>
       <trkpt lat="52.447064062580466" lon="6.654368033632636">
         <ele>6.39</ele>
@@ -37700,44 +37906,20 @@ Assen, Drenthe, NLD
       <trkpt lat="51.980513837188482" lon="6.410586666315794">
         <ele>22.73</ele>
       </trkpt>
-      <trkpt lat="51.98154472745955" lon="6.408357582986355">
+      <trkpt lat="51.978620281443" lon="6.408291617408395">
         <ele>22.73</ele>
       </trkpt>
-      <trkpt lat="51.982306558638811" lon="6.404769206419587">
+      <trkpt lat="51.976995281875134" lon="6.40444440767169">
         <ele>22.25</ele>
       </trkpt>
-      <trkpt lat="51.981621421873569" lon="6.401293817907572">
+      <trkpt lat="51.975514031946659" lon="6.400690069422126">
         <ele>22.73</ele>
       </trkpt>
-      <trkpt lat="51.981089673936367" lon="6.399783734232187">
+      <trkpt lat="51.975197279825807" lon="6.40007802285254">
         <ele>22.25</ele>
       </trkpt>
-      <trkpt lat="51.981039382517338" lon="6.399233965203166">
-        <ele>21.289999999999999</ele>
-      </trkpt>
-      <trkpt lat="51.980821536853909" lon="6.398905059322715">
-        <ele>21.77</ele>
-      </trkpt>
-      <trkpt lat="51.979984436184168" lon="6.39829209074378">
-        <ele>21.77</ele>
-      </trkpt>
-      <trkpt lat="51.978691359981894" lon="6.398416897282004">
-        <ele>21.77</ele>
-      </trkpt>
-      <trkpt lat="51.978045869618654" lon="6.397952707484365">
-        <ele>22.25</ele>
-      </trkpt>
-      <trkpt lat="51.976939374580979" lon="6.396377077326179">
-        <ele>20.809999999999999</ele>
-      </trkpt>
-      <trkpt lat="51.97607109323144" lon="6.395130688324571">
-        <ele>21.289999999999999</ele>
-      </trkpt>
-      <trkpt lat="51.975548565387726" lon="6.394403222948313">
-        <ele>22.25</ele>
-      </trkpt>
-      <trkpt lat="51.973737236112356" lon="6.391914216801524">
-        <ele>25.609999999999999</ele>
+      <trkpt lat="51.972826542332768" lon="6.392239183187485">
+        <ele>17.03125</ele>
       </trkpt>
       <trkpt lat="51.972710536792874" lon="6.39053899794817">
         <ele>21.77</ele>
@@ -38639,7 +38821,7 @@ Assen, Drenthe, NLD
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-ride only when its not busy with walkers and cyclists-20210908</name>
+    <name>TET_NL-7_20221102</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -39048,7 +39230,8 @@ Assen, Drenthe, NLD
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-shortcut through Germany (only tarmac)-20210908</name>
+    <name>TET_NL-8_20221102</name>
+    <desc>Only Tarmac</desc>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -39916,7 +40099,7 @@ Assen, Drenthe, NLD
     </trkseg>
   </trk>
   <trk>
-    <name>TET-NL-South-20210908</name>
+    <name>TET_NL-9_20221102</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -40138,19 +40321,6 @@ Assen, Drenthe, NLD
       <trkpt lat="51.888368725776672" lon="6.098672747612"/>
       <trkpt lat="51.888309717178345" lon="6.098484992980957"/>
       <trkpt lat="51.888256072998047" lon="6.098302602767944"/>
-      <trkpt lat="51.888293623924255" lon="6.098270416259766"/>
-      <trkpt lat="51.888320446014404" lon="6.098232865333557"/>
-      <trkpt lat="51.888336539268494" lon="6.098189949989319"/>
-      <trkpt lat="51.888347268104553" lon="6.098141670227051"/>
-      <trkpt lat="51.888347268104553" lon="6.098082661628723"/>
-      <trkpt lat="51.888331174850464" lon="6.097991466522217"/>
-      <trkpt lat="51.888315081596375" lon="6.097948551177979"/>
-      <trkpt lat="51.888293623924255" lon="6.09791100025177"/>
-      <trkpt lat="51.888266801834106" lon="6.097884178161621"/>
-      <trkpt lat="51.888234615325928" lon="6.097873449325562"/>
-      <trkpt lat="51.888202428817749" lon="6.097868084907532"/>
-      <trkpt lat="51.8881756067276" lon="6.097873449325562"/>
-      <trkpt lat="51.888143420219421" lon="6.097894906997681"/>
       <trkpt lat="51.888121962547302" lon="6.09792172908783"/>
       <trkpt lat="51.888041496276855" lon="6.097750067710876"/>
       <trkpt lat="51.88792884349823" lon="6.097508668899536"/>
@@ -40269,10 +40439,6 @@ Assen, Drenthe, NLD
       <trkpt lat="51.889548897743225" lon="6.031896471977234"/>
       <trkpt lat="51.889768838882446" lon="6.0317462682724"/>
       <trkpt lat="51.891780495643616" lon="6.030769944190979"/>
-      <trkpt lat="51.891769431531429" lon="6.030813613906503">
-        <ele>25.129999999999999</ele>
-        <time>2019-06-21T10:58:59Z</time>
-      </trkpt>
       <trkpt lat="51.891324520111084" lon="6.028811931610107">
         <ele>23.210000000000001</ele>
         <time>2019-06-21T10:58:52Z</time>
@@ -40381,113 +40547,9 @@ Assen, Drenthe, NLD
         <ele>8.789999999999999</ele>
         <time>2019-06-21T10:57:44Z</time>
       </trkpt>
-      <trkpt lat="51.893420582637191" lon="6.024473877623677">
-        <ele>7.83</ele>
-        <time>2019-06-21T10:57:13Z</time>
-      </trkpt>
-      <trkpt lat="51.893353192135692" lon="6.024077832698822">
-        <ele>8.31</ele>
-        <time>2019-06-21T10:56:49Z</time>
-      </trkpt>
-      <trkpt lat="51.893280353397131" lon="6.023745825514197">
-        <ele>8.789999999999999</ele>
-        <time>2019-06-21T10:56:25Z</time>
-      </trkpt>
-      <trkpt lat="51.893255040049553" lon="6.023612637072802">
-        <ele>8.789999999999999</ele>
-        <time>2019-06-21T10:56:00Z</time>
-      </trkpt>
-      <trkpt lat="51.893250178545713" lon="6.023600315675139">
-        <ele>8.31</ele>
-        <time>2019-06-21T10:55:35Z</time>
-      </trkpt>
-      <trkpt lat="51.893266104161739" lon="6.023605093359947">
-        <ele>8.31</ele>
-        <time>2019-06-21T10:55:04Z</time>
-      </trkpt>
-      <trkpt lat="51.893272725865245" lon="6.023603165522218">
-        <ele>8.31</ele>
-        <time>2019-06-21T10:54:42Z</time>
-      </trkpt>
-      <trkpt lat="51.893247747793794" lon="6.023594783619046">
-        <ele>9.27</ele>
-        <time>2019-06-21T10:54:10Z</time>
-      </trkpt>
-      <trkpt lat="51.893245987594128" lon="6.023594029247761">
-        <ele>8.789999999999999</ele>
-        <time>2019-06-21T10:53:47Z</time>
-      </trkpt>
-      <trkpt lat="51.893235174939036" lon="6.023607105016708">
-        <ele>9.75</ele>
-        <time>2019-06-21T10:53:24Z</time>
-      </trkpt>
-      <trkpt lat="51.893231486901641" lon="6.023614229634404">
-        <ele>9.75</ele>
-        <time>2019-06-21T10:53:01Z</time>
-      </trkpt>
-      <trkpt lat="51.893209610134363" lon="6.023553377017379">
-        <ele>10.23</ele>
-        <time>2019-06-21T10:52:47Z</time>
-      </trkpt>
-      <trkpt lat="51.893205251544714" lon="6.02353485301137">
-        <ele>10.23</ele>
-        <time>2019-06-21T10:52:46Z</time>
-      </trkpt>
-      <trkpt lat="51.893200390040874" lon="6.023516831919551">
-        <ele>9.75</ele>
-        <time>2019-06-21T10:52:45Z</time>
-      </trkpt>
-      <trkpt lat="51.893196366727352" lon="6.023497134447098">
-        <ele>10.23</ele>
-        <time>2019-06-21T10:52:44Z</time>
-      </trkpt>
-      <trkpt lat="51.893193768337369" lon="6.023473497480154">
-        <ele>9.75</ele>
-        <time>2019-06-21T10:52:43Z</time>
-      </trkpt>
-      <trkpt lat="51.893190499395132" lon="6.023446591570973">
-        <ele>9.75</ele>
-        <time>2019-06-21T10:52:42Z</time>
-      </trkpt>
-      <trkpt lat="51.89318404532969" lon="6.023422032594681">
-        <ele>10.23</ele>
-        <time>2019-06-21T10:52:41Z</time>
-      </trkpt>
       <trkpt lat="51.893170215189457" lon="6.023335279896855">
         <ele>10.23</ele>
         <time>2019-06-21T10:52:37Z</time>
-      </trkpt>
-      <trkpt lat="51.893038535490632" lon="6.022887686267495">
-        <ele>10.710000000000001</ele>
-        <time>2019-06-21T10:52:21Z</time>
-      </trkpt>
-      <trkpt lat="51.893033590167761" lon="6.022856505587697">
-        <ele>10.710000000000001</ele>
-        <time>2019-06-21T10:52:14Z</time>
-      </trkpt>
-      <trkpt lat="51.893028309568763" lon="6.022832533344626">
-        <ele>8.789999999999999</ele>
-        <time>2019-06-21T10:46:22Z</time>
-      </trkpt>
-      <trkpt lat="51.893025375902653" lon="6.022842088714242">
-        <ele>8.789999999999999</ele>
-        <time>2019-06-21T10:46:05Z</time>
-      </trkpt>
-      <trkpt lat="51.893021268770099" lon="6.022846782580018">
-        <ele>9.27</ele>
-        <time>2019-06-21T10:45:33Z</time>
-      </trkpt>
-      <trkpt lat="51.893012635409832" lon="6.022847034037113">
-        <ele>8.789999999999999</ele>
-        <time>2019-06-21T10:45:08Z</time>
-      </trkpt>
-      <trkpt lat="51.893016155809164" lon="6.022836724296212">
-        <ele>8.31</ele>
-        <time>2019-06-21T10:44:54Z</time>
-      </trkpt>
-      <trkpt lat="51.893007019534707" lon="6.022810153663158">
-        <ele>8.789999999999999</ele>
-        <time>2019-06-21T10:44:53Z</time>
       </trkpt>
       <trkpt lat="51.892988327890635" lon="6.02276380173862">
         <ele>9.27</ele>
@@ -41572,286 +41634,6 @@ Assen, Drenthe, NLD
       <trkpt lat="51.886416915804148" lon="5.901221092790365">
         <ele>18.399999999999999</ele>
         <time>2019-06-21T10:36:38Z</time>
-      </trkpt>
-      <trkpt lat="51.886341059580445" lon="5.90084021911025">
-        <ele>15.52</ele>
-        <time>2019-06-21T10:36:32Z</time>
-      </trkpt>
-      <trkpt lat="51.886350614950061" lon="5.900837201625109">
-        <ele>15.039999999999999</ele>
-        <time>2019-06-21T10:35:58Z</time>
-      </trkpt>
-      <trkpt lat="51.886348100379109" lon="5.900832256302238">
-        <ele>15.039999999999999</ele>
-        <time>2019-06-21T10:35:36Z</time>
-      </trkpt>
-      <trkpt lat="51.8863520398736" lon="5.900816414505243">
-        <ele>15.52</ele>
-        <time>2019-06-21T10:35:14Z</time>
-      </trkpt>
-      <trkpt lat="51.886349776759744" lon="5.900830496102571">
-        <ele>15.039999999999999</ele>
-        <time>2019-06-21T10:34:53Z</time>
-      </trkpt>
-      <trkpt lat="51.886353129521012" lon="5.90083041228354">
-        <ele>16</ele>
-        <time>2019-06-21T10:34:29Z</time>
-      </trkpt>
-      <trkpt lat="51.886359583586454" lon="5.900838375091553">
-        <ele>15.039999999999999</ele>
-        <time>2019-06-21T10:33:56Z</time>
-      </trkpt>
-      <trkpt lat="51.886367462575436" lon="5.900832759216428">
-        <ele>15.52</ele>
-        <time>2019-06-21T10:33:22Z</time>
-      </trkpt>
-      <trkpt lat="51.886371737346053" lon="5.900827897712588">
-        <ele>15.039999999999999</ele>
-        <time>2019-06-21T10:32:35Z</time>
-      </trkpt>
-      <trkpt lat="51.886378191411495" lon="5.900802500545979">
-        <ele>15.039999999999999</ele>
-        <time>2019-06-21T10:32:06Z</time>
-      </trkpt>
-      <trkpt lat="51.886371402069926" lon="5.900820102542639">
-        <ele>15.039999999999999</ele>
-        <time>2019-06-21T10:31:33Z</time>
-      </trkpt>
-      <trkpt lat="51.886369558051229" lon="5.900819599628448">
-        <ele>15.039999999999999</ele>
-        <time>2019-06-21T10:31:02Z</time>
-      </trkpt>
-      <trkpt lat="51.886364025995135" lon="5.900821527466178">
-        <ele>14.56</ele>
-        <time>2019-06-21T10:30:25Z</time>
-      </trkpt>
-      <trkpt lat="51.886360673233867" lon="5.900836195796728">
-        <ele>14.56</ele>
-        <time>2019-06-21T10:29:38Z</time>
-      </trkpt>
-      <trkpt lat="51.886342149227858" lon="5.900835441425443">
-        <ele>14.56</ele>
-        <time>2019-06-21T10:29:03Z</time>
-      </trkpt>
-      <trkpt lat="51.886346759274602" lon="5.900823371484876">
-        <ele>14.56</ele>
-        <time>2019-06-21T10:28:27Z</time>
-      </trkpt>
-      <trkpt lat="51.886344999074936" lon="5.900839129462838">
-        <ele>14.08</ele>
-        <time>2019-06-21T10:27:57Z</time>
-      </trkpt>
-      <trkpt lat="51.886338209733367" lon="5.900846924632788">
-        <ele>14.56</ele>
-        <time>2019-06-21T10:27:20Z</time>
-      </trkpt>
-      <trkpt lat="51.886343490332365" lon="5.900861006230116">
-        <ele>14.08</ele>
-        <time>2019-06-21T10:26:48Z</time>
-      </trkpt>
-      <trkpt lat="51.886350112035871" lon="5.900838626548648">
-        <ele>14.56</ele>
-        <time>2019-06-21T10:26:14Z</time>
-      </trkpt>
-      <trkpt lat="51.88635983504355" lon="5.900829657912254">
-        <ele>14.08</ele>
-        <time>2019-06-21T10:25:36Z</time>
-      </trkpt>
-      <trkpt lat="51.886343993246555" lon="5.900845751166344">
-        <ele>14.08</ele>
-        <time>2019-06-21T10:24:57Z</time>
-      </trkpt>
-      <trkpt lat="51.886342903599143" lon="5.900831837207079">
-        <ele>14.08</ele>
-        <time>2019-06-21T10:24:23Z</time>
-      </trkpt>
-      <trkpt lat="51.886344496160746" lon="5.900834519416094">
-        <ele>13.6</ele>
-        <time>2019-06-21T10:23:49Z</time>
-      </trkpt>
-      <trkpt lat="51.886347932741046" lon="5.900827143341303">
-        <ele>14.08</ele>
-        <time>2019-06-21T10:23:17Z</time>
-      </trkpt>
-      <trkpt lat="51.886339886114001" lon="5.900837872177362">
-        <ele>13.6</ele>
-        <time>2019-06-21T10:22:42Z</time>
-      </trkpt>
-      <trkpt lat="51.886345753446221" lon="5.900835525244474">
-        <ele>13.6</ele>
-        <time>2019-06-21T10:22:17Z</time>
-      </trkpt>
-      <trkpt lat="51.88635447062552" lon="5.900821192190051">
-        <ele>13.119999999999999</ele>
-        <time>2019-06-21T10:21:48Z</time>
-      </trkpt>
-      <trkpt lat="51.886357320472598" lon="5.900818761438131">
-        <ele>13.119999999999999</ele>
-        <time>2019-06-21T10:21:06Z</time>
-      </trkpt>
-      <trkpt lat="51.886351620778441" lon="5.900822030380368">
-        <ele>13.6</ele>
-        <time>2019-06-21T10:20:39Z</time>
-      </trkpt>
-      <trkpt lat="51.886333432048559" lon="5.900846505537629">
-        <ele>13.6</ele>
-        <time>2019-06-21T10:19:41Z</time>
-      </trkpt>
-      <trkpt lat="51.886339969933033" lon="5.900825299322605">
-        <ele>13.6</ele>
-        <time>2019-06-21T10:19:06Z</time>
-      </trkpt>
-      <trkpt lat="51.886341730132699" lon="5.900831921026111">
-        <ele>13.119999999999999</ele>
-        <time>2019-06-21T10:18:27Z</time>
-      </trkpt>
-      <trkpt lat="51.886342065408826" lon="5.900823539122939">
-        <ele>13.119999999999999</ele>
-        <time>2019-06-21T10:17:50Z</time>
-      </trkpt>
-      <trkpt lat="51.88634030520916" lon="5.900808703154325">
-        <ele>13.119999999999999</ele>
-        <time>2019-06-21T10:17:11Z</time>
-      </trkpt>
-      <trkpt lat="51.88634323887527" lon="5.900808954611421">
-        <ele>13.119999999999999</ele>
-        <time>2019-06-21T10:16:33Z</time>
-      </trkpt>
-      <trkpt lat="51.886350698769093" lon="5.900805350393057">
-        <ele>12.630000000000001</ele>
-        <time>2019-06-21T10:16:00Z</time>
-      </trkpt>
-      <trkpt lat="51.886361511424184" lon="5.900809625163674">
-        <ele>13.119999999999999</ele>
-        <time>2019-06-21T10:15:32Z</time>
-      </trkpt>
-      <trkpt lat="51.88635447062552" lon="5.90081281028688">
-        <ele>12.630000000000001</ele>
-        <time>2019-06-21T10:15:08Z</time>
-      </trkpt>
-      <trkpt lat="51.886348184198141" lon="5.900827646255493">
-        <ele>13.119999999999999</ele>
-        <time>2019-06-21T10:14:40Z</time>
-      </trkpt>
-      <trkpt lat="51.886345585808158" lon="5.900819767266512">
-        <ele>13.119999999999999</ele>
-        <time>2019-06-21T10:14:06Z</time>
-      </trkpt>
-      <trkpt lat="51.886332426220179" lon="5.900826891884208">
-        <ele>13.119999999999999</ele>
-        <time>2019-06-21T10:13:32Z</time>
-      </trkpt>
-      <trkpt lat="51.886339383199811" lon="5.900816414505243">
-        <ele>13.119999999999999</ele>
-        <time>2019-06-21T10:12:57Z</time>
-      </trkpt>
-      <trkpt lat="51.886333180591464" lon="5.900843990966678">
-        <ele>12.630000000000001</ele>
-        <time>2019-06-21T10:12:22Z</time>
-      </trkpt>
-      <trkpt lat="51.886344328522682" lon="5.900846086442471">
-        <ele>12.630000000000001</ele>
-        <time>2019-06-21T10:11:46Z</time>
-      </trkpt>
-      <trkpt lat="51.886349190026522" lon="5.900840135291219">
-        <ele>12.630000000000001</ele>
-        <time>2019-06-21T10:11:14Z</time>
-      </trkpt>
-      <trkpt lat="51.886340891942382" lon="5.900812391191721">
-        <ele>12.630000000000001</ele>
-        <time>2019-06-21T10:10:41Z</time>
-      </trkpt>
-      <trkpt lat="51.886339886114001" lon="5.90082261711359">
-        <ele>12.630000000000001</ele>
-        <time>2019-06-21T10:10:00Z</time>
-      </trkpt>
-      <trkpt lat="51.886323122307658" lon="5.900826472789049">
-        <ele>12.630000000000001</ele>
-        <time>2019-06-21T10:09:15Z</time>
-      </trkpt>
-      <trkpt lat="51.886330163106322" lon="5.900821527466178">
-        <ele>12.630000000000001</ele>
-        <time>2019-06-21T10:08:41Z</time>
-      </trkpt>
-      <trkpt lat="51.886343993246555" lon="5.900806356221437">
-        <ele>13.119999999999999</ele>
-        <time>2019-06-21T10:08:08Z</time>
-      </trkpt>
-      <trkpt lat="51.886339299380779" lon="5.900804931297898">
-        <ele>11.67</ele>
-        <time>2019-06-21T10:07:37Z</time>
-      </trkpt>
-      <trkpt lat="51.886342568323016" lon="5.900816498324275">
-        <ele>12.630000000000001</ele>
-        <time>2019-06-21T10:06:50Z</time>
-      </trkpt>
-      <trkpt lat="51.886341981589794" lon="5.900829071179032">
-        <ele>12.15</ele>
-        <time>2019-06-21T10:05:58Z</time>
-      </trkpt>
-      <trkpt lat="51.886349776759744" lon="5.900810714811087">
-        <ele>12.15</ele>
-        <time>2019-06-21T10:05:29Z</time>
-      </trkpt>
-      <trkpt lat="51.886349190026522" lon="5.900801494717598">
-        <ele>11.67</ele>
-        <time>2019-06-21T10:05:03Z</time>
-      </trkpt>
-      <trkpt lat="51.886357320472598" lon="5.900819851085544">
-        <ele>12.15</ele>
-        <time>2019-06-21T10:04:51Z</time>
-      </trkpt>
-      <trkpt lat="51.886357739567757" lon="5.900844745337963">
-        <ele>12.15</ele>
-        <time>2019-06-21T10:04:50Z</time>
-      </trkpt>
-      <trkpt lat="51.88636134378612" lon="5.900879362598062">
-        <ele>12.630000000000001</ele>
-        <time>2019-06-21T10:04:49Z</time>
-      </trkpt>
-      <trkpt lat="51.886370647698641" lon="5.90091984719038">
-        <ele>13.119999999999999</ele>
-        <time>2019-06-21T10:04:48Z</time>
-      </trkpt>
-      <trkpt lat="51.886387076228857" lon="5.900968881323934">
-        <ele>13.6</ele>
-        <time>2019-06-21T10:04:47Z</time>
-      </trkpt>
-      <trkpt lat="51.886404007673264" lon="5.90101707726717">
-        <ele>14.08</ele>
-        <time>2019-06-21T10:04:46Z</time>
-      </trkpt>
-      <trkpt lat="51.88641557469964" lon="5.901057897135615">
-        <ele>14.08</ele>
-        <time>2019-06-21T10:04:45Z</time>
-      </trkpt>
-      <trkpt lat="51.886421106755733" lon="5.901088658720255">
-        <ele>14.08</ele>
-        <time>2019-06-21T10:04:44Z</time>
-      </trkpt>
-      <trkpt lat="51.886425213888288" lon="5.901112882420421">
-        <ele>14.08</ele>
-        <time>2019-06-21T10:04:43Z</time>
-      </trkpt>
-      <trkpt lat="51.886444240808487" lon="5.901131238788366">
-        <ele>14.08</ele>
-        <time>2019-06-21T10:04:37Z</time>
-      </trkpt>
-      <trkpt lat="51.886458657681942" lon="5.90111824683845">
-        <ele>13.6</ele>
-        <time>2019-06-21T10:04:36Z</time>
-      </trkpt>
-      <trkpt lat="51.88646930269897" lon="5.901093855500221">
-        <ele>13.6</ele>
-        <time>2019-06-21T10:04:35Z</time>
-      </trkpt>
-      <trkpt lat="51.886470224708319" lon="5.901070972904563">
-        <ele>13.6</ele>
-        <time>2019-06-21T10:04:34Z</time>
-      </trkpt>
-      <trkpt lat="51.886461591348052" lon="5.901050018146634">
-        <ele>13.6</ele>
-        <time>2019-06-21T10:04:33Z</time>
       </trkpt>
       <trkpt lat="51.886479360982776" lon="5.90087684802711">
         <ele>15.52</ele>
@@ -53148,24 +52930,38 @@ Assen, Drenthe, NLD
       <trkpt lat="51.275806082412601" lon="5.346988616511226"/>
       <trkpt lat="51.275826534256339" lon="5.34638537093997"/>
       <trkpt lat="51.276006158441305" lon="5.346033917739987"/>
-      <trkpt lat="51.276832697913051" lon="5.341289341449738"/>
-      <trkpt lat="51.277227904647589" lon="5.337891988456249"/>
-      <trkpt lat="51.278287963941693" lon="5.335139036178589"/>
-      <trkpt lat="51.275238040834665" lon="5.329931024461985"/>
-      <trkpt lat="51.275345832109451" lon="5.328920586034656"/>
-      <trkpt lat="51.275750091299415" lon="5.328129837289453"/>
-      <trkpt lat="51.277205441147089" lon="5.326680103316903"/>
-      <trkpt lat="51.279819505289197" lon="5.320310108363628"/>
-      <trkpt lat="51.277690501883626" lon="5.317542403936386"/>
-      <trkpt lat="51.278111441060901" lon="5.316788535565138">
-        <ele>36.34765625</ele>
+      <trkpt lat="51.276634046807885" lon="5.341976573690772"/>
+      <trkpt lat="51.273318501189351" lon="5.341529231518507">
+        <ele>34.890625</ele>
       </trkpt>
-      <trkpt lat="51.278145806863904" lon="5.316455941647291">
-        <ele>36.26953125</ele>
+      <trkpt lat="51.268504941835999" lon="5.339359156787395">
+        <ele>35.984375</ele>
       </trkpt>
-      <trkpt lat="51.27761791460216" lon="5.316375810652971"/>
-      <trkpt lat="51.27748154103756" lon="5.314041366800666"/>
-      <trkpt lat="51.277315327897668" lon="5.313382465392351"/>
+      <trkpt lat="51.264529069885612" lon="5.340194581076503">
+        <ele>37.625</ele>
+      </trkpt>
+      <trkpt lat="51.263136919587851" lon="5.33659522421658">
+        <ele>36.4609375</ele>
+      </trkpt>
+      <trkpt lat="51.263141864910722" lon="5.33382223919034">
+        <ele>38.05078125</ele>
+      </trkpt>
+      <trkpt lat="51.26045823097229" lon="5.32787075266242">
+        <ele>42.3359375</ele>
+      </trkpt>
+      <trkpt lat="51.263325680047274" lon="5.327866394072771">
+        <ele>43.21484375</ele>
+      </trkpt>
+      <trkpt lat="51.263553081080317" lon="5.31579670496285">
+        <ele>40.0078125</ele>
+      </trkpt>
+      <trkpt lat="51.268450040370226" lon="5.315813971683383">
+        <ele>39.9140625</ele>
+      </trkpt>
+      <trkpt lat="51.268086349591613" lon="5.312958844006062">
+        <ele>40.86328125</ele>
+      </trkpt>
+      <trkpt lat="51.277260845527053" lon="5.313554629683495"/>
       <trkpt lat="51.27544398419559" lon="5.309788808226585">
         <ele>40.11328125</ele>
       </trkpt>
