@@ -4,7 +4,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2021-10-27T21:40:36Z</time>
+    <time>2022-03-29T22:22:56Z</time>
     <bounds maxlat="43.456630110740662" maxlon="2.813445562496781" minlat="36.023236177861691" minlon="-9.29766733199358"/>
   </metadata>
   <wpt lat="42.424005288630724" lon="1.522628283128142">
@@ -129,7 +129,7 @@
     <cmt>Sam Cuevas Andalucia</cmt>
     <desc>Sam Cuevas Andalucia</desc>
     <link href="http://www.cuevasandalucia.es/es/"/>
-    <sym>Contact, Smiley</sym>
+    <sym>Lodging</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -604,7 +604,7 @@
     <name>els cuatrepins</name>
     <cmt>Els Cuatrepins</cmt>
     <desc>Els Cuatrepins</desc>
-    <sym>Waypoint</sym>
+    <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -642,7 +642,7 @@
     <name>flood risk1</name>
     <cmt>flood risk</cmt>
     <desc>flood risk</desc>
-    <sym>Water Source</sym>
+    <sym>Square, Blue</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -661,7 +661,7 @@
     <name>flood risk2</name>
     <cmt>flood risk</cmt>
     <desc>flood risk</desc>
-    <sym>Water Source</sym>
+    <sym>Square, Blue</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -678,7 +678,7 @@
   <wpt lat="42.72786570712924" lon="-6.277580112218857">
     <time>2021-10-13T15:59:06Z</time>
     <name>free river swiming pool , nice menu on the bar behind</name>
-    <sym>Picnic Area</sym>
+    <sym>Restaurant</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -697,7 +697,7 @@
     <name>Mas Gas moto club</name>
     <cmt>TET Contact :)</cmt>
     <desc>TET Contact :)</desc>
-    <sym>Contact, Smiley</sym>
+    <sym>Restaurant</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -809,7 +809,7 @@
     <name>Shortcut GNR01:1a</name>
     <cmt>shortcut:GNR01:1A</cmt>
     <desc>shortcut:GNR01:1A</desc>
-    <sym>Navaid, Green/Red</sym>
+    <sym>Information</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -828,7 +828,7 @@
     <name>Shortcut GNR01:1b</name>
     <cmt>shortcut:GNR01:1B</cmt>
     <desc>shortcut:GNR01:1B</desc>
-    <sym>Navaid, Green/Red</sym>
+    <sym>Information</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -847,7 +847,7 @@
     <name>shortcut GNR02:1A</name>
     <cmt>Shortcut GNR02:1A</cmt>
     <desc>Shortcut GNR02:1A</desc>
-    <sym>Navaid, Green/Red</sym>
+    <sym>Information</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -866,7 +866,7 @@
     <name>Shortcut GNR09:1A</name>
     <cmt>Shortcut GNR09:1A</cmt>
     <desc>Shortcut GNR09:1A</desc>
-    <sym>Navaid, Green/Red</sym>
+    <sym>Information</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -885,7 +885,7 @@
     <name>Shortcut GNR09:1B</name>
     <cmt>Shortcut GNR09:1B</cmt>
     <desc>Shortcut GNR09:1B</desc>
-    <sym>Navaid, Green/Red</sym>
+    <sym>Information</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -904,7 +904,7 @@
     <name>shortcut GRN02:1B</name>
     <cmt>Shortcut GNR02:1B</cmt>
     <desc>Shortcut GNR02:1B</desc>
-    <sym>Navaid, Green/Red</sym>
+    <sym>Information</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -923,7 +923,7 @@
     <name>shortcut:ANR04:1A</name>
     <cmt>Shortcut ANR04:1A</cmt>
     <desc>Shortcut ANR04:1A</desc>
-    <sym>Navaid, Green/Red</sym>
+    <sym>Information</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -942,7 +942,7 @@
     <name>shortcut:ANR04:1B</name>
     <cmt>Shortcut ANR04:1B</cmt>
     <desc>Shortcut ANR04:1B</desc>
-    <sym>Navaid, Green/Red</sym>
+    <sym>Information</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -961,7 +961,7 @@
     <name>shortcut:GER01:1A</name>
     <cmt>shortcut:GER01:1A</cmt>
     <desc>shortcut:GER01:1A</desc>
-    <sym>Navaid, Green/Red</sym>
+    <sym>Information</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -980,7 +980,7 @@
     <name>shortcut:GER01:1B</name>
     <cmt>shortcut:GER01:1B</cmt>
     <desc>shortcut:GER01:1B</desc>
-    <sym>Navaid, Green/Red</sym>
+    <sym>Information</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -999,7 +999,7 @@
     <name>shortcut:GER03:1A</name>
     <cmt>shortcut:GER03:1A</cmt>
     <desc>shortcut:GER03:1A</desc>
-    <sym>Navaid, Green/Red</sym>
+    <sym>Information</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -1018,7 +1018,7 @@
     <name>shortcut:GER03:1B</name>
     <cmt>shortcut:GER03:1B</cmt>
     <desc>shortcut:GER03:1B</desc>
-    <sym>Navaid, Green/Red</sym>
+    <sym>Information</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -1037,7 +1037,7 @@
     <name>shortcut:GNR04:1A</name>
     <cmt>shortcut:GNR04:1A</cmt>
     <desc>shortcut:GNR04:1A</desc>
-    <sym>Navaid, Green/Red</sym>
+    <sym>Information</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -1056,7 +1056,7 @@
     <name>shortcut:GNR04:1B</name>
     <cmt>shortcut:GNR04:1B</cmt>
     <desc>shortcut:GNR04:1B</desc>
-    <sym>Navaid, Green/Red</sym>
+    <sym>Information</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -1075,7 +1075,7 @@
     <name>shortcut:GNR04:2A</name>
     <cmt>shortcut:GNR04:2A</cmt>
     <desc>shortcut:GNR04:2A</desc>
-    <sym>Navaid, Green/Red</sym>
+    <sym>Information</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -1094,7 +1094,7 @@
     <name>shortcut:GNR04:2B</name>
     <cmt>shortcut:GNR04:2B</cmt>
     <desc>shortcut:GNR04:2B</desc>
-    <sym>Navaid, Green/Red</sym>
+    <sym>Information</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -1130,7 +1130,7 @@
     </extensions>
   </wpt>
   <trk>
-    <name>TET_ES_ANR02</name>
+    <name>TET_E-01-ANR02_20211027</name>
     <desc>Cantabria region East.</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -2047,7 +2047,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_ANR03</name>
+    <name>TET_E-02-ANR03_20211027</name>
     <desc>Cantabria region West.</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -3357,7 +3357,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_ANR04</name>
+    <name>TET_E-03-ANR04_20211027</name>
     <desc>Principado de Asturias East.</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -5098,7 +5098,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_ANR05</name>
+    <name>TET_E-04-ANR05_20211027</name>
     <desc>Principado de Asturias West.</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -6394,7 +6394,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_FL01</name>
+    <name>TET_E-05-FL01_20211027</name>
     <desc>From Ferry at Santander to the ANR route.</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -6571,7 +6571,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_FL02</name>
+    <name>TET_E-06-FL02_20211027</name>
     <desc>From Bilbao ferry to join Ancient North Route</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -6795,7 +6795,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_FL03</name>
+    <name>TET_E-07-FL03-20211027</name>
     <desc>From Ancient North Route to Great Northern Route.</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -7392,7 +7392,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_FL04</name>
+    <name>TET_E-08-FL04_20211027</name>
     <desc>From Barcelona Ferry to join Great Northern Route.</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -9114,7 +9114,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_FL05</name>
+    <name>TET_E-09-FL05_20211027</name>
     <desc>From Barcelona Ferry to join Great Eastern Route.</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -10125,7 +10125,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_GER01</name>
+    <name>TET_E-10-GER01_20211027</name>
     <desc>From France South crossing all Catalonia region.</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -13836,7 +13836,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_GER02</name>
+    <name>TET_E-11-GER02_20211027</name>
     <desc>West Aragona heading south to Comunitat Valenciana.</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -17536,7 +17536,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_GER04</name>
+    <name>TET_E-12-GER04_20211027</name>
     <desc>Region de Murcia, forest and water.</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -18630,7 +18630,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_GNR01</name>
+    <name>TET_E-13-GNR01_20211027</name>
     <desc>Catalonia East to Andorra Pic negre high Pyrenees.</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -21171,7 +21171,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_GNR02</name>
+    <name>TET_E-14-GNR02_20211027</name>
     <desc>Catalonia from Andorra to Aragona Region conection.</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -22273,7 +22273,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_GNR03</name>
+    <name>TET_E-15-GNR03_20211027</name>
     <desc>Aragona Pyrenees from East (Catalonia border) to West (Navarre border).</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -25312,7 +25312,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_GNR04</name>
+    <name>TET_E-16-GNR04_20211027</name>
     <desc>Navarre low Pyrenees area.</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -26599,7 +26599,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_GNR05</name>
+    <name>TET_E-17-GNR05_20211027</name>
     <desc>La Rioja Region.</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -27110,7 +27110,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_GNR06</name>
+    <name>TET_E-18-GNR06_20211027</name>
     <desc>Castilla y Leon forest.</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -30628,7 +30628,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_GNR08</name>
+    <name>TET_E-19-GNR08_20211027</name>
     <desc>Galicia Central area head to Santiago</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -36146,7 +36146,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_GSR01</name>
+    <name>TET_E-20-GSR01_20211027</name>
     <desc>Andalucia East Desert and montains. Forbiden from 01 July till 15 Oct. forest fire risk</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -38401,7 +38401,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_GSR02</name>
+    <name>TET_E-21-GSR02_20211027</name>
     <desc>Andalucia donw to Tarifa. Forbiden from 01 July till 15 Oct. forest fire risk</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -41666,7 +41666,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_GSR03</name>
+    <name>TET_E-22-GSR03_20211027</name>
     <desc>Andalucia West from Tarifa to Portugal. Forbiden from 01 July till 15 Oct. forest fire risk</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -42898,7 +42898,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_GSR04</name>
+    <name>TET_E-23-GSR04_20211027</name>
     <desc>Andalucia from East to Granada , Summer legal option.</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -45197,7 +45197,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_GSR05</name>
+    <name>TET_E-24-GSR05_20211027</name>
     <desc>Andalucia West heading Portugal . Summer legal option.</desc>
     <extensions>
       <gpxx:TrackExtension>
@@ -46641,7 +46641,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_ES_SS01</name>
+    <name>TET_E-25-SS01_20211027</name>
     <desc>Special Section Las Bardenas Reales. desert dust besides Ebro riber.</desc>
     <extensions>
       <gpxx:TrackExtension>
