@@ -4,24 +4,32 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2020-09-29T06:46:04Z</time>
+    <time>2022-05-28T17:47:15Z</time>
     <bounds maxlat="46.309763481840491" maxlon="15.063339471817017" minlat="45.464303707703948" minlon="13.417117176577449"/>
   </metadata>
   <wpt lat="45.502570867538452" lon="15.060399770736694">
-    <ele>364.0625</ele>
+    <ele>364</ele>
     <time>2020-07-07T20:55:12Z</time>
     <name>Bs Maxen Predgrad</name>
     <cmt>Bs Maxen Predgrad
 
+
+
 PAKA PRI PREDGRADU
+
+
 
 Paka Pri Predgradu, Slo, 8342, Slovenija</cmt>
     <desc>Bs Maxen Predgrad
 
+
+
 PAKA PRI PREDGRADU
 
+
+
 Paka Pri Predgradu, Slo, 8342, Slovenija</desc>
-    <sym>Waypoint</sym>
+    <sym>Gas Station</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -52,7 +60,7 @@ Paka Pri Predgradu, Slo, 8342, Slovenija</desc>
   <wpt lat="46.10918328166008" lon="13.917130222544074">
     <time>2020-06-24T10:17:27Z</time>
     <name>Cave - Neandertal flute</name>
-    <sym>Flag, Blue</sym>
+    <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -69,7 +77,7 @@ Paka Pri Predgradu, Slo, 8342, Slovenija</desc>
   <wpt lat="45.578789608553052" lon="14.720976110547781">
     <time>2020-06-24T10:03:03Z</time>
     <name>Cave, rest spot, views</name>
-    <sym>Flag, Blue</sym>
+    <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -87,7 +95,7 @@ Paka Pri Predgradu, Slo, 8342, Slovenija</desc>
     <ele>662.8203125</ele>
     <time>2020-07-07T20:55:30Z</time>
     <name>Dont miss the view point close by</name>
-    <sym>Flag, Blue</sym>
+    <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -106,27 +114,7 @@ Paka Pri Predgradu, Slo, 8342, Slovenija</desc>
     <name>Enjoy the ride!</name>
     <cmt>Cesta</cmt>
     <desc>Cesta</desc>
-    <sym>Flag, Blue</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2020-07-01T04:11:51Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="45.772890010848641" lon="14.505986999720335">
-    <ele>718.950000000000045</ele>
-    <time>2020-07-01T04:11:51Z</time>
-    <name>Gas Station 2</name>
-    <cmt>Nova Vas</cmt>
-    <desc>Nova Vas</desc>
-    <sym>Flag, Blue</sym>
+    <sym>Information</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -145,28 +133,14 @@ Paka Pri Predgradu, Slo, 8342, Slovenija</desc>
     <name>Gas station 3</name>
     <cmt>Nova Ljubljanska Banka</cmt>
     <desc>Nova Ljubljanska Banka</desc>
-    <sym>Flag, Blue</sym>
+    <sym>Gas Station</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-        <gpxx:Address>
-          <gpxx:StreetAddress>GORISKA CESTA 41</gpxx:StreetAddress>
-          <gpxx:City>Vipava</gpxx:City>
-          <gpxx:State>Ajdovscina</gpxx:State>
-          <gpxx:Country>SVN</gpxx:Country>
-          <gpxx:PostalCode>5271</gpxx:PostalCode>
-        </gpxx:Address>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-        <wptx1:Address>
-          <wptx1:StreetAddress>GORISKA CESTA 41</wptx1:StreetAddress>
-          <wptx1:City>Vipava</wptx1:City>
-          <wptx1:State>Ajdovscina</wptx1:State>
-          <wptx1:Country>SVN</wptx1:Country>
-          <wptx1:PostalCode>5271</wptx1:PostalCode>
-        </wptx1:Address>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2020-07-01T04:11:51Z</ctx:CreationTime>
@@ -178,7 +152,7 @@ Paka Pri Predgradu, Slo, 8342, Slovenija</desc>
     <name>Gas station 4</name>
     <cmt>Vipavska Cesta 1</cmt>
     <desc>Vipavska Cesta 1</desc>
-    <sym>Flag, Blue</sym>
+    <sym>Gas Station</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -197,30 +171,36 @@ Paka Pri Predgradu, Slo, 8342, Slovenija</desc>
     <name>Gas Station 5</name>
     <cmt>Petrol</cmt>
     <desc>Petrol</desc>
-    <sym>Flag, Blue</sym>
+    <sym>Gas Station</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-        <gpxx:Address>
-          <gpxx:StreetAddress>MOST NA SOCI 51</gpxx:StreetAddress>
-          <gpxx:City>Most Na Soci</gpxx:City>
-          <gpxx:State>Tolmin</gpxx:State>
-          <gpxx:Country>SVN</gpxx:Country>
-          <gpxx:PostalCode>5216</gpxx:PostalCode>
-        </gpxx:Address>
         <gpxx:PhoneNumber>05 381 30 20</gpxx:PhoneNumber>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-        <wptx1:Address>
-          <wptx1:StreetAddress>MOST NA SOCI 51</wptx1:StreetAddress>
-          <wptx1:City>Most Na Soci</wptx1:City>
-          <wptx1:State>Tolmin</wptx1:State>
-          <wptx1:Country>SVN</wptx1:Country>
-          <wptx1:PostalCode>5216</wptx1:PostalCode>
-        </wptx1:Address>
         <wptx1:PhoneNumber>05 381 30 20</wptx1:PhoneNumber>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-07-01T04:11:51Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="45.772890010848641" lon="14.505986999720335">
+    <ele>718.950000000000045</ele>
+    <time>2020-07-01T04:11:51Z</time>
+    <name>Gas Station Bloke</name>
+    <cmt>Nova Vas</cmt>
+    <desc>Nova Vas</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2020-07-01T04:11:51Z</ctx:CreationTime>
@@ -233,7 +213,7 @@ Paka Pri Predgradu, Slo, 8342, Slovenija</desc>
     <name>Gas Station1</name>
     <cmt>Kolesarska Pot</cmt>
     <desc>Kolesarska Pot</desc>
-    <sym>Flag, Blue</sym>
+    <sym>Gas Station</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -248,24 +228,36 @@ Paka Pri Predgradu, Slo, 8342, Slovenija</desc>
     </extensions>
   </wpt>
   <wpt lat="45.490597486495972" lon="15.063339471817017">
-    <ele>212.578125</ele>
+    <ele>213</ele>
     <time>2020-07-07T20:54:42Z</time>
     <name>Glamping Kaps</name>
     <cmt>Glamping Hiske Kaps
 
+
+
 PRELESJE 12
 
+
+
 Prelesje, Slo, 8342, Slovenija
+
+
 
 386 1 8943731</cmt>
     <desc>Glamping Hiske Kaps
 
+
+
 PRELESJE 12
+
+
 
 Prelesje, Slo, 8342, Slovenija
 
+
+
 386 1 8943731</desc>
-    <sym>Flag, Red</sym>
+    <sym>Campground</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -298,7 +290,7 @@ Prelesje, Slo, 8342, Slovenija
   <wpt lat="45.779318008571863" lon="14.036597991362214">
     <time>2020-07-01T04:11:51Z</time>
     <name>Great view1</name>
-    <sym>Flag, Blue</sym>
+    <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -318,19 +310,31 @@ Prelesje, Slo, 8342, Slovenija
     <name>Kamp Konda</name>
     <cmt>Kamp Konda
 
+
+
 DOL 6
 
+
+
 Dol, Slo, 8342, Slovenija
+
+
 
 386 1 8943671</cmt>
     <desc>Kamp Konda
 
+
+
 DOL 6
+
+
 
 Dol, Slo, 8342, Slovenija
 
+
+
 386 1 8943671</desc>
-    <sym>Waypoint</sym>
+    <sym>Campground</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -366,15 +370,23 @@ Dol, Slo, 8342, Slovenija
     <name>Kamp Madronic Prelesje</name>
     <cmt>Kamp Madronic Prelesje
 
+
+
 PRELESJE 10
+
+
 
 Prelesje, Slo, 8342, Slovenija</cmt>
     <desc>Kamp Madronic Prelesje
 
+
+
 PRELESJE 10
 
+
+
 Prelesje, Slo, 8342, Slovenija</desc>
-    <sym>Waypoint</sym>
+    <sym>Campground</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -408,19 +420,31 @@ Prelesje, Slo, 8342, Slovenija</desc>
     <name>Kamp Muhvic</name>
     <cmt>Kamp Muhvic
 
+
+
 DOL 9
 
+
+
 Dol, Slo, 8342, Slovenija
+
+
 
 386 31 365172</cmt>
     <desc>Kamp Muhvic
 
+
+
 DOL 9
+
+
 
 Dol, Slo, 8342, Slovenija
 
+
+
 386 31 365172</desc>
-    <sym>Waypoint</sym>
+    <sym>Campground</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -454,7 +478,7 @@ Dol, Slo, 8342, Slovenija
     <ele>742</ele>
     <time>2017-08-11T08:07:45Z</time>
     <name>Lake, food, drink...</name>
-    <sym>Flag, Green</sym>
+    <sym>Swimming Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -474,7 +498,7 @@ Dol, Slo, 8342, Slovenija
     <name>Loop to the seaside offers nice trails and views1</name>
     <cmt>Ulica in Neasfaltirana cesta</cmt>
     <desc>Ulica in Neasfaltirana cesta</desc>
-    <sym>Civil</sym>
+    <sym>Information</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -491,7 +515,7 @@ Dol, Slo, 8342, Slovenija
   <wpt lat="46.204543774947524" lon="13.610505200922489">
     <time>2017-07-31T08:29:48Z</time>
     <name>Nebesa (Heaven) www.nebesa.si/en/</name>
-    <sym>Custom 4</sym>
+    <sym>Lodging</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -511,7 +535,7 @@ Dol, Slo, 8342, Slovenija
     <name>Nice place to rest (rooms, food,bar)</name>
     <cmt>900 m višina</cmt>
     <desc>900 m višina</desc>
-    <sym>Flag, Green</sym>
+    <sym>Lodging</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -530,7 +554,7 @@ Dol, Slo, 8342, Slovenija
     <name>Nice view to the sea</name>
     <cmt> A1</cmt>
     <desc> A1</desc>
-    <sym>Flag, Blue</sym>
+    <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -547,7 +571,7 @@ Dol, Slo, 8342, Slovenija
   <wpt lat="45.60848300345242" lon="13.869597958400846">
     <time>2020-07-01T04:11:51Z</time>
     <name>Nice view, rest spot</name>
-    <sym>Flag, Blue</sym>
+    <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -566,7 +590,7 @@ Dol, Slo, 8342, Slovenija
     <name>Official Camp</name>
     <cmt>Kamp Tura</cmt>
     <desc>Kamp Tura</desc>
-    <sym>Flag, Blue</sym>
+    <sym>Campground</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -599,7 +623,7 @@ Dol, Slo, 8342, Slovenija
   <wpt lat="45.589620787650347" lon="13.8609279692173">
     <time>2017-08-11T08:01:36Z</time>
     <name>Old castle, nice view to Trieste, rest spot</name>
-    <sym>Flag, Green</sym>
+    <sym>Museum</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -618,7 +642,7 @@ Dol, Slo, 8342, Slovenija
     <name>Rest spot</name>
     <cmt>Glazuta</cmt>
     <desc>Glazuta</desc>
-    <sym>Flag, Blue</sym>
+    <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -636,7 +660,7 @@ Dol, Slo, 8342, Slovenija
     <ele>860.019999999999982</ele>
     <time>2020-07-01T04:11:51Z</time>
     <name>Rest spot, nice view!</name>
-    <sym>Flag, Blue</sym>
+    <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -651,10 +675,10 @@ Dol, Slo, 8342, Slovenija
     </extensions>
   </wpt>
   <wpt lat="45.489864489063621" lon="15.059201326221228">
-    <ele>189.7109375</ele>
+    <ele>190</ele>
     <time>2020-07-07T20:34:49Z</time>
     <name>Restaurant, great food, trouts here are fantastic, spend local</name>
-    <sym>Flag, Blue</sym>
+    <sym>Restaurant</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -669,12 +693,12 @@ Dol, Slo, 8342, Slovenija
     </extensions>
   </wpt>
   <wpt lat="45.828750031068921" lon="14.264270011335611">
-    <ele>453.26171875</ele>
+    <ele>453</ele>
     <time>2020-07-07T21:09:04Z</time>
     <name>River, swimming, rest spot in a shade</name>
     <cmt>N45° 49.725' E14° 15.856'</cmt>
     <desc>N45° 49.725' E14° 15.856'</desc>
-    <sym>Flag, Blue</sym>
+    <sym>Swimming Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -689,16 +713,20 @@ Dol, Slo, 8342, Slovenija
     </extensions>
   </wpt>
   <wpt lat="45.49601923674345" lon="15.052209729328752">
-    <ele>189.515625</ele>
+    <ele>190</ele>
     <time>2020-07-07T20:36:09Z</time>
     <name>Spend local, buy cheese</name>
     <cmt>Dol 12
 
+
+
 Dol, Slo, Slovenija</cmt>
     <desc>Dol 12
 
+
+
 Dol, Slo, Slovenija</desc>
-    <sym>Flag, Blue</sym>
+    <sym>Shopping Center</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -729,7 +757,7 @@ Dol, Slo, Slovenija</desc>
     <name>Stop here, if you love horses (www.lipica.org)</name>
     <cmt>Lipica</cmt>
     <desc>Lipica</desc>
-    <sym>Custom 4</sym>
+    <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -747,7 +775,7 @@ Dol, Slo, Slovenija</desc>
     <ele>411.59375</ele>
     <time>2020-06-24T10:15:09Z</time>
     <name>Swim, rest, nice place - Idrijska Bela</name>
-    <sym>Flag, Blue</sym>
+    <sym>Swimming Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -764,7 +792,7 @@ Dol, Slo, Slovenija</desc>
   <wpt lat="45.874459482729435" lon="13.760766321793199">
     <time>2017-08-11T22:28:11Z</time>
     <name>Technical bits.</name>
-    <sym>Flag, Green</sym>
+    <sym>Information</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -782,7 +810,7 @@ Dol, Slo, Slovenija</desc>
     <ele>717.73828125</ele>
     <time>2020-07-07T20:49:57Z</time>
     <name>View point. Walk for 200m down the trail until you find bench and a perfect view</name>
-    <sym>Flag, Blue</sym>
+    <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -801,7 +829,7 @@ Dol, Slo, Slovenija</desc>
     <name>Visit Postojna caves! (google it)</name>
     <cmt>Pivka</cmt>
     <desc>Pivka</desc>
-    <sym>Flag, Green</sym>
+    <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -820,7 +848,7 @@ Dol, Slo, Slovenija</desc>
     <name>World War Museum</name>
     <cmt>Gregorciceva Ulica 2</cmt>
     <desc>Gregorciceva Ulica 2</desc>
-    <sym>Flag, Blue</sym>
+    <sym>Museum</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -837,7 +865,7 @@ Dol, Slo, Slovenija</desc>
   <wpt lat="46.109214965254068" lon="13.917219992727041">
     <time>2020-06-24T10:17:09Z</time>
     <name>Šebrelje Plateau</name>
-    <sym>Flag, Blue</sym>
+    <sym>Scenic Area</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -852,7 +880,7 @@ Dol, Slo, Slovenija</desc>
     </extensions>
   </wpt>
   <trk>
-    <name>TET- SLOVENIA-20200913</name>
+    <name>TET_SLO-01_20210712</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -5027,75 +5055,48 @@ Dol, Slo, Slovenija</desc>
         <ele>410.139999999999986</ele>
         <time>2016-09-27T11:55:53Z</time>
       </trkpt>
-      <trkpt lat="45.849973680451512" lon="13.710140213370323">
-        <ele>408.699999999999989</ele>
-        <time>2016-09-27T11:55:56Z</time>
+      <trkpt lat="45.849970579147339" lon="13.710347414016724">
+        <ele>400.7421875</ele>
       </trkpt>
-      <trkpt lat="45.850054062902927" lon="13.709976179525256">
-        <ele>408.699999999999989</ele>
-        <time>2016-09-27T11:55:58Z</time>
+      <trkpt lat="45.849798917770386" lon="13.710111379623413">
+        <ele>400.16015625</ele>
       </trkpt>
-      <trkpt lat="45.85023402236402" lon="13.709514420479536">
-        <ele>406.769999999999982</ele>
-        <time>2016-09-27T11:56:06Z</time>
+      <trkpt lat="45.849605798721313" lon="13.709725141525269">
+        <ele>398.19921875</ele>
       </trkpt>
-      <trkpt lat="45.850296886637807" lon="13.709079064428806">
-        <ele>406.769999999999982</ele>
-        <time>2016-09-27T11:56:10Z</time>
+      <trkpt lat="45.849455595016479" lon="13.709285259246826">
+        <ele>395.7265625</ele>
       </trkpt>
-      <trkpt lat="45.850296886637807" lon="13.708807323127985">
-        <ele>406.29000000000002</ele>
-        <time>2016-09-27T11:56:12Z</time>
+      <trkpt lat="45.849305391311646" lon="13.708920478820801">
+        <ele>394.1875</ele>
       </trkpt>
-      <trkpt lat="45.850258497521281" lon="13.707897551357746">
-        <ele>404.370000000000005</ele>
-        <time>2016-09-27T11:56:17Z</time>
+      <trkpt lat="45.84919810295105" lon="13.708555698394775">
+        <ele>391.66796875</ele>
       </trkpt>
-      <trkpt lat="45.850254474207759" lon="13.706997167319059">
-        <ele>404.850000000000023</ele>
-        <time>2016-09-27T11:56:22Z</time>
+      <trkpt lat="45.849004983901978" lon="13.708223104476929">
+        <ele>388.3984375</ele>
       </trkpt>
-      <trkpt lat="45.850151628255844" lon="13.70633558370173">
-        <ele>403.410000000000025</ele>
-        <time>2016-09-27T11:56:26Z</time>
+      <trkpt lat="45.848811864852905" lon="13.708094358444214">
+        <ele>386.33203125</ele>
       </trkpt>
-      <trkpt lat="45.849909139797091" lon="13.705455400049686">
-        <ele>401.009999999999991</ele>
-        <time>2016-09-27T11:56:32Z</time>
+      <trkpt lat="45.848650932312012" lon="13.707954883575439">
+        <ele>384.5703125</ele>
       </trkpt>
-      <trkpt lat="45.849760361015797" lon="13.705052314326167">
-        <ele>398.120000000000005</ele>
-        <time>2016-09-27T11:56:36Z</time>
+      <trkpt lat="45.848479270935059" lon="13.707793951034546">
+        <ele>382.796875</ele>
       </trkpt>
-      <trkpt lat="45.849708141759038" lon="13.704353850334883">
-        <ele>397.639999999999986</ele>
-        <time>2016-09-27T11:56:42Z</time>
+      <trkpt lat="45.848414897918701" lon="13.707493543624878">
+        <ele>382.0859375</ele>
       </trkpt>
-      <trkpt lat="45.849579563364387" lon="13.70395990088582">
-        <ele>396.199999999999989</ele>
-        <time>2016-09-27T11:56:46Z</time>
+      <trkpt lat="45.848318338394165" lon="13.707236051559448">
+        <ele>381.52734375</ele>
       </trkpt>
-      <trkpt lat="45.849526170641184" lon="13.703599981963634">
-        <ele>395.720000000000027</ele>
-        <time>2016-09-27T11:56:49Z</time>
+      <trkpt lat="45.848146677017212" lon="13.706871271133423">
+        <ele>380.8828125</ele>
       </trkpt>
-      <trkpt lat="45.849570846185088" lon="13.703329917043447"/>
-      <trkpt lat="45.849474286660552" lon="13.70302950963378"/>
-      <trkpt lat="45.849259709939361" lon="13.702482338994741"/>
-      <trkpt lat="45.849002217873931" lon="13.702171202749014"/>
-      <trkpt lat="45.848798369988799" lon="13.702321406453848"/>
-      <trkpt lat="45.84903440438211" lon="13.703190442174673"/>
-      <trkpt lat="45.849088048562407" lon="13.703405018895864"/>
-      <trkpt lat="45.849130963906646" lon="13.703662510961294"/>
-      <trkpt lat="45.849055862054229" lon="13.703866358846426"/>
-      <trkpt lat="45.848905658349395" lon="13.704102393239737"/>
-      <trkpt lat="45.84876618348062" lon="13.704445715993643"/>
-      <trkpt lat="45.848562335595489" lon="13.704831954091787"/>
-      <trkpt lat="45.848551606759429" lon="13.704992886632681"/>
-      <trkpt lat="45.84853014908731" lon="13.705454226583242"/>
-      <trkpt lat="45.848433589562774" lon="13.705743905156851"/>
-      <trkpt lat="45.848197555169463" lon="13.706151600927114"/>
-      <trkpt lat="45.848100995644927" lon="13.70626961812377"/>
+      <trkpt lat="45.848007202148438" lon="13.706495761871338">
+        <ele>380.00390625</ele>
+      </trkpt>
       <trkpt lat="45.848004436120391" lon="13.706494923681021"/>
       <trkpt lat="45.847822045907378" lon="13.706816788762808"/>
       <trkpt lat="45.847628926858306" lon="13.707138653844595"/>
@@ -33401,7 +33402,7 @@ Dol, Slo, Slovenija</desc>
     </trkseg>
   </trk>
   <trk>
-    <name>TET-SLOVENIA-Idrijska Bela loop-20200913</name>
+    <name>TET_SLO-02-Šebrelje-IdrijskaBelaloop_20210712</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Green</gpxx:DisplayColor>
