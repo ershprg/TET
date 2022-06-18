@@ -4,59 +4,9 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2022-05-28T17:47:15Z</time>
+    <time>2022-06-17T20:05:19Z</time>
     <bounds maxlat="46.309763481840491" maxlon="15.063339471817017" minlat="45.464303707703948" minlon="13.417117176577449"/>
   </metadata>
-  <wpt lat="45.502570867538452" lon="15.060399770736694">
-    <ele>364</ele>
-    <time>2020-07-07T20:55:12Z</time>
-    <name>Bs Maxen Predgrad</name>
-    <cmt>Bs Maxen Predgrad
-
-
-
-PAKA PRI PREDGRADU
-
-
-
-Paka Pri Predgradu, Slo, 8342, Slovenija</cmt>
-    <desc>Bs Maxen Predgrad
-
-
-
-PAKA PRI PREDGRADU
-
-
-
-Paka Pri Predgradu, Slo, 8342, Slovenija</desc>
-    <sym>Gas Station</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-        <gpxx:Address>
-          <gpxx:StreetAddress>PAKA PRI PREDGRADU</gpxx:StreetAddress>
-          <gpxx:City>Paka Pri Predgradu</gpxx:City>
-          <gpxx:State>Slo</gpxx:State>
-          <gpxx:Country>Slovenija</gpxx:Country>
-          <gpxx:PostalCode>8342</gpxx:PostalCode>
-        </gpxx:Address>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-        <wptx1:Address>
-          <wptx1:StreetAddress>PAKA PRI PREDGRADU</wptx1:StreetAddress>
-          <wptx1:City>Paka Pri Predgradu</wptx1:City>
-          <wptx1:State>Slo</wptx1:State>
-          <wptx1:Country>Slovenija</wptx1:Country>
-          <wptx1:PostalCode>8342</wptx1:PostalCode>
-        </wptx1:Address>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2020-07-07T20:55:12Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
   <wpt lat="46.10918328166008" lon="13.917130222544074">
     <time>2020-06-24T10:17:27Z</time>
     <name>Cave - Neandertal flute</name>
@@ -115,105 +65,6 @@ Paka Pri Predgradu, Slo, 8342, Slovenija</desc>
     <cmt>Cesta</cmt>
     <desc>Cesta</desc>
     <sym>Information</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2020-07-01T04:11:51Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="45.848737014457583" lon="13.954053008928895">
-    <time>2020-07-01T04:11:51Z</time>
-    <name>Gas station 3</name>
-    <cmt>Nova Ljubljanska Banka</cmt>
-    <desc>Nova Ljubljanska Banka</desc>
-    <sym>Gas Station</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2020-07-01T04:11:51Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="45.886710975319147" lon="13.909960007295012">
-    <time>2020-07-01T04:11:51Z</time>
-    <name>Gas station 4</name>
-    <cmt>Vipavska Cesta 1</cmt>
-    <desc>Vipavska Cesta 1</desc>
-    <sym>Gas Station</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2020-07-01T04:11:51Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="46.152534987777472" lon="13.741664970293641">
-    <time>2020-07-01T04:11:51Z</time>
-    <name>Gas Station 5</name>
-    <cmt>Petrol</cmt>
-    <desc>Petrol</desc>
-    <sym>Gas Station</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-        <gpxx:PhoneNumber>05 381 30 20</gpxx:PhoneNumber>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-        <wptx1:PhoneNumber>05 381 30 20</wptx1:PhoneNumber>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2020-07-01T04:11:51Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="45.772890010848641" lon="14.505986999720335">
-    <ele>718.950000000000045</ele>
-    <time>2020-07-01T04:11:51Z</time>
-    <name>Gas Station Bloke</name>
-    <cmt>Nova Vas</cmt>
-    <desc>Nova Vas</desc>
-    <sym>Gas Station</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2020-07-01T04:11:51Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="45.465409029275179" lon="14.855146994814277">
-    <ele>226.030000000000001</ele>
-    <time>2020-07-01T04:11:51Z</time>
-    <name>Gas Station1</name>
-    <cmt>Kolesarska Pot</cmt>
-    <desc>Kolesarska Pot</desc>
-    <sym>Gas Station</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -880,7 +731,7 @@ Dol, Slo, Slovenija</desc>
     </extensions>
   </wpt>
   <trk>
-    <name>TET_SLO-01_20210712</name>
+    <name>TET_SLO-01_20220617</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -17614,258 +17465,44 @@ Dol, Slo, Slovenija</desc>
         <ele>679.309999999999945</ele>
         <time>2016-09-27T08:45:09Z</time>
       </trkpt>
-      <trkpt lat="45.800809627398849" lon="14.099226649850607">
-        <ele>676.419999999999959</ele>
-        <time>2016-09-27T08:45:07Z</time>
-      </trkpt>
       <trkpt lat="45.800826475024223" lon="14.099490344524384">
         <ele>671.139999999999986</ele>
         <time>2016-09-27T08:45:04Z</time>
       </trkpt>
-      <trkpt lat="45.80081507563591" lon="14.099873816594481">
-        <ele>665.370000000000005</ele>
-        <time>2016-09-27T08:44:59Z</time>
-      </trkpt>
-      <trkpt lat="45.800706194713712" lon="14.100047321990132">
-        <ele>661.519999999999982</ele>
-        <time>2016-09-27T08:44:56Z</time>
-      </trkpt>
-      <trkpt lat="45.800614664331079" lon="14.100166093558073">
-        <ele>660.080000000000041</ele>
-        <time>2016-09-27T08:44:51Z</time>
-      </trkpt>
-      <trkpt lat="45.800358932465315" lon="14.100257037207484">
-        <ele>655.759999999999991</ele>
-        <time>2016-09-27T08:44:37Z</time>
-      </trkpt>
-      <trkpt lat="45.80018081702292" lon="14.100424172356725">
-        <ele>651.42999999999995</ele>
-        <time>2016-09-27T08:44:19Z</time>
-      </trkpt>
-      <trkpt lat="45.800053998827934" lon="14.100450072437525">
-        <ele>649.509999999999991</ele>
-        <time>2016-09-27T08:41:52Z</time>
-      </trkpt>
-      <trkpt lat="45.799792567268014" lon="14.10046499222517">
-        <ele>646.139999999999986</ele>
-        <time>2016-09-27T08:41:45Z</time>
-      </trkpt>
-      <trkpt lat="45.799548989161849" lon="14.100443618372083">
-        <ele>642.779999999999973</ele>
-        <time>2016-09-27T08:41:41Z</time>
-      </trkpt>
-      <trkpt lat="45.799017660319805" lon="14.100266341120005">
-        <ele>640.860000000000014</ele>
-        <time>2016-09-27T08:41:33Z</time>
-      </trkpt>
-      <trkpt lat="45.798708368092775" lon="14.099953360855579">
-        <ele>638.92999999999995</ele>
-        <time>2016-09-27T08:41:26Z</time>
-      </trkpt>
-      <trkpt lat="45.798414414748549" lon="14.10005402751267">
-        <ele>635.57000000000005</ele>
-        <time>2016-09-27T08:41:20Z</time>
-      </trkpt>
-      <trkpt lat="45.798244178295135" lon="14.100247900933027">
-        <ele>632.200000000000045</ele>
-        <time>2016-09-27T08:41:16Z</time>
-      </trkpt>
-      <trkpt lat="45.798097075894475" lon="14.100540010258555">
-        <ele>627.879999999999995</ele>
-        <time>2016-09-27T08:41:12Z</time>
-      </trkpt>
-      <trkpt lat="45.797994984313846" lon="14.100812505930662">
-        <ele>624.509999999999991</ele>
-        <time>2016-09-27T08:41:08Z</time>
-      </trkpt>
-      <trkpt lat="45.797867830842733" lon="14.101139064878225">
-        <ele>617.299999999999955</ele>
-        <time>2016-09-27T08:41:02Z</time>
-      </trkpt>
-      <trkpt lat="45.79787059687078" lon="14.101431928575039">
-        <ele>613.460000000000036</ele>
-        <time>2016-09-27T08:40:56Z</time>
-      </trkpt>
-      <trkpt lat="45.79753004014492" lon="14.101255992427468">
-        <ele>614.419999999999959</ele>
-        <time>2016-09-27T08:40:40Z</time>
-      </trkpt>
-      <trkpt lat="45.797571279108524" lon="14.100764729082584">
-        <ele>619.710000000000036</ele>
-        <time>2016-09-27T08:40:31Z</time>
-      </trkpt>
-      <trkpt lat="45.79758083447814" lon="14.100598935037851">
-        <ele>618.259999999999991</ele>
-        <time>2016-09-27T08:40:26Z</time>
-      </trkpt>
-      <trkpt lat="45.797489304095507" lon="14.100950723513961">
-        <ele>613.460000000000036</ele>
-        <time>2016-09-27T08:40:21Z</time>
-      </trkpt>
-      <trkpt lat="45.797242540866137" lon="14.101401418447495">
-        <ele>605.769999999999982</ele>
-        <time>2016-09-27T08:40:16Z</time>
-      </trkpt>
-      <trkpt lat="45.796989742666483" lon="14.10179260186851">
-        <ele>600.480000000000018</ele>
-        <time>2016-09-27T08:40:11Z</time>
-      </trkpt>
-      <trkpt lat="45.796852195635438" lon="14.102104911580682">
-        <ele>596.149999999999977</ele>
-        <time>2016-09-27T08:40:07Z</time>
-      </trkpt>
-      <trkpt lat="45.796708613634109" lon="14.102311860769987">
-        <ele>592.309999999999945</ele>
-        <time>2016-09-27T08:40:05Z</time>
-      </trkpt>
-      <trkpt lat="45.796496802940965" lon="14.102685274556279">
-        <ele>589.42999999999995</ele>
-        <time>2016-09-27T08:40:02Z</time>
-      </trkpt>
-      <trkpt lat="45.796356908977032" lon="14.102960871532559">
-        <ele>582.700000000000045</ele>
-        <time>2016-09-27T08:39:59Z</time>
-      </trkpt>
-      <trkpt lat="45.796284908428788" lon="14.103256417438388">
-        <ele>577.409999999999968</ele>
-        <time>2016-09-27T08:39:55Z</time>
-      </trkpt>
-      <trkpt lat="45.79627032391727" lon="14.103504773229361">
-        <ele>574.529999999999973</ele>
-        <time>2016-09-27T08:39:52Z</time>
-      </trkpt>
-      <trkpt lat="45.796182062476873" lon="14.103754218667746">
-        <ele>571.159999999999968</ele>
-        <time>2016-09-27T08:39:49Z</time>
-      </trkpt>
-      <trkpt lat="45.795994978398085" lon="14.103996371850371">
-        <ele>568.279999999999973</ele>
-        <time>2016-09-27T08:39:44Z</time>
-      </trkpt>
-      <trkpt lat="45.795858269557357" lon="14.10403199493885">
-        <ele>567.32000000000005</ele>
-        <time>2016-09-27T08:39:42Z</time>
-      </trkpt>
-      <trkpt lat="45.795552413910627" lon="14.104002406820655">
-        <ele>568.759999999999991</ele>
-        <time>2016-09-27T08:39:37Z</time>
-      </trkpt>
-      <trkpt lat="45.795417632907629" lon="14.103919845074415">
-        <ele>569.720000000000027</ele>
-        <time>2016-09-27T08:39:35Z</time>
-      </trkpt>
-      <trkpt lat="45.795297436416149" lon="14.103806437924504">
-        <ele>569.720000000000027</ele>
-        <time>2016-09-27T08:39:33Z</time>
-      </trkpt>
-      <trkpt lat="45.795079842209816" lon="14.103839294984937">
-        <ele>572.600000000000023</ele>
-        <time>2016-09-27T08:39:28Z</time>
-      </trkpt>
-      <trkpt lat="45.794990994036198" lon="14.104214468970895">
-        <ele>573.559999999999945</ele>
-        <time>2016-09-27T08:39:24Z</time>
-      </trkpt>
-      <trkpt lat="45.794973643496633" lon="14.104583775624633">
-        <ele>572.120000000000005</ele>
-        <time>2016-09-27T08:39:22Z</time>
-      </trkpt>
-      <trkpt lat="45.794955622404814" lon="14.105025753378868">
-        <ele>571.159999999999968</ele>
-        <time>2016-09-27T08:39:20Z</time>
-      </trkpt>
-      <trkpt lat="45.794929973781109" lon="14.105666214600205">
-        <ele>567.799999999999955</ele>
-        <time>2016-09-27T08:39:16Z</time>
-      </trkpt>
-      <trkpt lat="45.794898374006152" lon="14.105893615633249">
-        <ele>566.830000000000041</ele>
-        <time>2016-09-27T08:39:14Z</time>
-      </trkpt>
-      <trkpt lat="45.794775662943721" lon="14.106427794322371">
-        <ele>565.870000000000005</ele>
-        <time>2016-09-27T08:39:08Z</time>
-      </trkpt>
-      <trkpt lat="45.794544406235218" lon="14.107324657961726">
-        <ele>563.470000000000027</ele>
-        <time>2016-09-27T08:38:59Z</time>
-      </trkpt>
-      <trkpt lat="45.794408367946744" lon="14.107106728479266">
-        <ele>566.830000000000041</ele>
-        <time>2016-09-27T08:38:52Z</time>
-      </trkpt>
-      <trkpt lat="45.79434173181653" lon="14.106805650517344">
-        <ele>569.240000000000009</ele>
-        <time>2016-09-27T08:38:48Z</time>
-      </trkpt>
-      <trkpt lat="45.794323962181807" lon="14.106622925028205">
-        <ele>569.240000000000009</ele>
-        <time>2016-09-27T08:38:45Z</time>
-      </trkpt>
-      <trkpt lat="45.794349024072289" lon="14.106818893924356">
-        <ele>567.799999999999955</ele>
-        <time>2016-09-27T08:37:10Z</time>
-      </trkpt>
-      <trkpt lat="45.794401075690985" lon="14.106989130377769">
-        <ele>565.870000000000005</ele>
-        <time>2016-09-27T08:37:01Z</time>
-      </trkpt>
-      <trkpt lat="45.794501239433885" lon="14.107258105650544">
-        <ele>565.389999999999986</ele>
-        <time>2016-09-27T08:36:55Z</time>
-      </trkpt>
-      <trkpt lat="45.794558236375451" lon="14.107715003192425">
-        <ele>563.950000000000045</ele>
-        <time>2016-09-27T08:36:52Z</time>
-      </trkpt>
-      <trkpt lat="45.794604923576117" lon="14.107916839420795">
-        <ele>562.029999999999973</ele>
-        <time>2016-09-27T08:36:51Z</time>
-      </trkpt>
-      <trkpt lat="45.794652532786131" lon="14.108129153028131">
-        <ele>560.590000000000032</ele>
-        <time>2016-09-27T08:36:50Z</time>
-      </trkpt>
-      <trkpt lat="45.794930225238204" lon="14.109059544280171">
-        <ele>557.700000000000045</ele>
-        <time>2016-09-27T08:36:45Z</time>
-      </trkpt>
-      <trkpt lat="45.795172126963735" lon="14.109942242503166">
-        <ele>557.220000000000027</ele>
-        <time>2016-09-27T08:36:40Z</time>
-      </trkpt>
-      <trkpt lat="45.795267093926668" lon="14.110113820061088">
-        <ele>558.659999999999968</ele>
-        <time>2016-09-27T08:36:39Z</time>
-      </trkpt>
-      <trkpt lat="45.79548611305654" lon="14.110516821965575">
-        <ele>557.700000000000045</ele>
-        <time>2016-09-27T08:36:37Z</time>
-      </trkpt>
-      <trkpt lat="45.79571234062314" lon="14.110843800008297">
-        <ele>557.220000000000027</ele>
-        <time>2016-09-27T08:36:35Z</time>
-      </trkpt>
-      <trkpt lat="45.796070834621787" lon="14.111051503568888">
-        <ele>559.620000000000005</ele>
-        <time>2016-09-27T08:36:32Z</time>
-      </trkpt>
-      <trkpt lat="45.796481883153319" lon="14.111266499385238">
-        <ele>563.470000000000027</ele>
-        <time>2016-09-27T08:36:28Z</time>
-      </trkpt>
-      <trkpt lat="45.796599565073848" lon="14.111446626484394">
-        <ele>564.42999999999995</ele>
-        <time>2016-09-27T08:36:26Z</time>
-      </trkpt>
-      <trkpt lat="45.796621693298221" lon="14.111802773550153">
-        <ele>567.32000000000005</ele>
-        <time>2016-09-27T08:36:22Z</time>
-      </trkpt>
-      <trkpt lat="45.7964828889817" lon="14.112286493182182">
-        <ele>572.120000000000005</ele>
-        <time>2016-09-27T08:36:18Z</time>
-      </trkpt>
+      <trkpt lat="45.800843993201852" lon="14.099780023097992"/>
+      <trkpt lat="45.800862014293671" lon="14.099920000880957"/>
+      <trkpt lat="45.800889004021883" lon="14.100376982241869"/>
+      <trkpt lat="45.800644000992179" lon="14.100849973037839"/>
+      <trkpt lat="45.80043101683259" lon="14.101642984896898"/>
+      <trkpt lat="45.800333032384515" lon="14.102106001228094"/>
+      <trkpt lat="45.800408972427249" lon="14.102480001747608"/>
+      <trkpt lat="45.800618017092347" lon="14.102990962564945"/>
+      <trkpt lat="45.80083996988833" lon="14.103694036602974"/>
+      <trkpt lat="45.800951030105352" lon="14.10392303019762"/>
+      <trkpt lat="45.801088996231556" lon="14.104356039315462"/>
+      <trkpt lat="45.80131103284657" lon="14.104672959074378"/>
+      <trkpt lat="45.801217993721366" lon="14.105075960978866"/>
+      <trkpt lat="45.801004003733397" lon="14.105307972058654"/>
+      <trkpt lat="45.800657998770475" lon="14.105525985360146"/>
+      <trkpt lat="45.800657998770475" lon="14.105525985360146"/>
+      <trkpt lat="45.800276035442948" lon="14.105516010895371"/>
+      <trkpt lat="45.799990966916084" lon="14.105681972578168"/>
+      <trkpt lat="45.799716040492058" lon="14.106008028611541"/>
+      <trkpt lat="45.799688966944814" lon="14.106500968337059"/>
+      <trkpt lat="45.799667006358504" lon="14.107056017965078"/>
+      <trkpt lat="45.799511019140482" lon="14.107589023187757"/>
+      <trkpt lat="45.79929300583899" lon="14.107885994017124"/>
+      <trkpt lat="45.799351008608937" lon="14.108342975378036"/>
+      <trkpt lat="45.799372969195247" lon="14.108496028929949"/>
+      <trkpt lat="45.799199966713786" lon="14.109112014994025"/>
+      <trkpt lat="45.798964016139507" lon="14.109738981351256"/>
+      <trkpt lat="45.79875597730279" lon="14.110053973272443"/>
+      <trkpt lat="45.798444002866745" lon="14.110292019322515"/>
+      <trkpt lat="45.798079976812005" lon="14.110487988218665"/>
+      <trkpt lat="45.797973023727536" lon="14.110593013465405"/>
+      <trkpt lat="45.797427026554942" lon="14.111312013119459"/>
+      <trkpt lat="45.796876000240445" lon="14.111738987267017"/>
+      <trkpt lat="45.796759994700551" lon="14.111767988651991"/>
       <trkpt lat="45.796484397724271" lon="14.112637359648943">
         <ele>572.120000000000005</ele>
         <time>2016-09-27T08:36:16Z</time>
@@ -33402,7 +33039,7 @@ Dol, Slo, Slovenija</desc>
     </trkseg>
   </trk>
   <trk>
-    <name>TET_SLO-02-Šebrelje-IdrijskaBelaloop_20210712</name>
+    <name>TET_SLO-02-Šebrelje-IdrijskaBelaloop_20220617</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Green</gpxx:DisplayColor>
