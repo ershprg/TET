@@ -1,14 +1,12 @@
 <?xml version="1.0"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1" creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd">
-
   <metadata>
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2022-07-15T17:34:23Z</time>
+    <time>2022-07-16T10:59:56Z</time>
     <bounds maxlat="70.089587643742561" maxlon="30.063482997938991" minlat="60.085687637329102" minlon="21.850851690396667"/>
   </metadata>
-
   <wpt lat="60.647139279171824" lon="23.947838908061385">
     <time>2021-07-25T18:02:05Z</time>
     <name>100 km/h speed limit</name>
@@ -26,7 +24,6 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.015097141265869" lon="24.505541324615479">
     <time>2020-11-13T07:26:05Z</time>
     <name>1918 Taisteluiden muistomerkki</name>
@@ -60,7 +57,6 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="61.798782348632812" lon="24.368555545806885">
     <time>2020-11-13T07:06:21Z</time>
     <name>Abc</name>
@@ -102,7 +98,6 @@ Osuustie 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.55040168762207" lon="24.087910652160645">
     <time>2020-11-13T07:42:08Z</time>
     <name>Abc1</name>
@@ -144,7 +139,6 @@ Oikotie 8
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.097671508789062" lon="26.330130100250244">
     <time>2020-11-13T07:54:35Z</time>
     <name>Abc2</name>
@@ -186,7 +180,6 @@ Keskustie 15
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.406147003173828" lon="27.838518619537354">
     <time>2020-11-13T07:59:18Z</time>
     <name>Abc3</name>
@@ -228,7 +221,6 @@ Puolangantie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.5708909034729" lon="28.245656490325928">
     <time>2020-11-13T08:21:02Z</time>
     <name>Abc4</name>
@@ -266,7 +258,6 @@ Ouluntie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.580332279205322" lon="28.235464096069336">
     <time>2020-11-13T08:22:35Z</time>
     <name>Asuntohotelli Ruska</name>
@@ -308,7 +299,6 @@ Kauppatie 37
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="61.022505965083838" lon="24.469835003837943">
     <time>2021-07-25T18:13:28Z</time>
     <name>Aulanko National View</name>
@@ -326,7 +316,6 @@ Kauppatie 37
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.549693584442139" lon="24.089841842651367">
     <time>2020-11-13T07:42:00Z</time>
     <name>Best Hamburger</name>
@@ -368,7 +357,6 @@ Sorvikuja 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.085687637329102" lon="23.643007278442383">
     <time>2022-05-07T04:53:33Z</time>
     <name>Billnäs Ironworks</name>
@@ -388,7 +376,6 @@ Sorvikuja 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.996566656976938" lon="24.462400004267693">
     <ele>90</ele>
     <time>2018-07-16T19:52:36Z</time>
@@ -409,7 +396,6 @@ Sorvikuja 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.697231292724609" lon="26.81239128112793">
     <time>2021-07-03T06:49:53Z</time>
     <name>Cafeteria &amp; Anjala museum</name>
@@ -439,7 +425,6 @@ Ankkapurha, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.744841676205397" lon="24.117035754024982">
     <time>2021-07-25T18:06:45Z</time>
     <name>Cafeteria, Restaurant, Airfield</name>
@@ -457,7 +442,6 @@ Ankkapurha, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.300824904814363" lon="25.272747064009309">
     <ele>158.300000000000011</ele>
     <time>2018-07-25T17:33:09Z</time>
@@ -476,7 +460,6 @@ Ankkapurha, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.725921973586082" lon="28.085300037637353">
     <time>2012-10-23T15:57:21Z</time>
     <name>Eksymä KO</name>
@@ -494,7 +477,6 @@ Ankkapurha, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.541153430938721" lon="24.190306663513184">
     <time>2020-11-13T07:40:06Z</time>
     <name>Eläinpuisto-Zoo</name>
@@ -532,7 +514,6 @@ Karhunkierros
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.353760024532676" lon="26.759170973673463">
     <time>2012-10-23T15:57:22Z</time>
     <name>Enonkylä KO</name>
@@ -550,7 +531,6 @@ Karhunkierros
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.352951038628817" lon="26.308461958542466">
     <ele>88</ele>
     <time>2019-12-09T19:12:14Z</time>
@@ -569,7 +549,6 @@ Karhunkierros
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.830166697502136" lon="29.513599975034595">
     <ele>216</ele>
     <time>2018-07-16T20:52:28Z</time>
@@ -588,7 +567,6 @@ Karhunkierros
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.387282978743315" lon="25.681715961545706">
     <ele>130.800000000000011</ele>
     <time>2018-06-28T09:34:06Z</time>
@@ -607,7 +585,6 @@ Karhunkierros
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.129890441894531" lon="23.542842864990234">
     <time>2022-05-07T04:47:11Z</time>
     <name>Fiskars Ironworks</name>
@@ -625,7 +602,6 @@ Karhunkierros
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.129718780517578" lon="23.499069213867188">
     <time>2022-05-07T04:55:51Z</time>
     <name>Flacksjö Beach</name>
@@ -643,7 +619,6 @@ Karhunkierros
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.204529015347362" lon="24.968169992789626">
     <time>2012-10-23T15:57:21Z</time>
     <name>Haarajoki KO</name>
@@ -661,7 +636,6 @@ Karhunkierros
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.581099977716804" lon="28.49018300883472">
     <time>2012-10-23T15:57:22Z</time>
     <name>Harjajärvi KO</name>
@@ -679,45 +653,6 @@ Karhunkierros
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
-  <wpt lat="65.563831329345703" lon="28.216109275817871">
-    <time>2020-11-13T08:22:38Z</time>
-    <name>Herkko</name>
-    <cmt>Herkko
-93400, Taivalkoski, North Finland, Finland
-08-7171700</cmt>
-    <desc>Herkko
-93400, Taivalkoski, North Finland, Finland
-08-7171700</desc>
-    <sym>Restaurant</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-        <gpxx:Address>
-          <gpxx:City>Taivalkoski</gpxx:City>
-          <gpxx:State>North Finland</gpxx:State>
-          <gpxx:Country>Finland</gpxx:Country>
-          <gpxx:PostalCode>93400</gpxx:PostalCode>
-        </gpxx:Address>
-        <gpxx:PhoneNumber>08-7171700</gpxx:PhoneNumber>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-        <wptx1:Address>
-          <wptx1:City>Taivalkoski</wptx1:City>
-          <wptx1:State>North Finland</wptx1:State>
-          <wptx1:Country>Finland</wptx1:Country>
-          <wptx1:PostalCode>93400</wptx1:PostalCode>
-        </wptx1:Address>
-        <wptx1:PhoneNumber>08-7171700</wptx1:PhoneNumber>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2020-11-13T08:22:38Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-
   <wpt lat="65.563831329345703" lon="28.216109275817871">
     <time>2020-11-13T08:22:38Z</time>
     <name>Herkko restaurant</name>
@@ -755,7 +690,6 @@ Karhunkierros
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.898968016728759" lon="25.823626024648547">
     <time>2013-12-12T12:05:50Z</time>
     <name>Hiihtomaja KO1</name>
@@ -773,15 +707,14 @@ Karhunkierros
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.369526863098145" lon="25.578832626342773">
     <time>2020-11-13T07:50:44Z</time>
     <name>Hotelli Pihtipudas</name>
-    <cmt>Hotelli Pihtipudas
+    <cmt>Hotelli Pihtipudas -Hotel
 Keskustie 2
 44800, Pihtipudas, West and Inner Finland, Finland
 014-562110</cmt>
-    <desc>Hotelli Pihtipudas
+    <desc>Hotelli Pihtipudas -Hotel
 Keskustie 2
 44800, Pihtipudas, West and Inner Finland, Finland
 014-562110</desc>
@@ -815,7 +748,6 @@ Keskustie 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.103100299835205" lon="26.325345039367676">
     <time>2020-11-13T07:54:47Z</time>
     <name>Hotelli-Ravintola Järvihelmi</name>
@@ -857,7 +789,6 @@ Ouluntie 9
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.485390018671751" lon="27.72139904089272">
     <time>2014-08-07T06:43:55Z</time>
     <name>Hukkala</name>
@@ -875,7 +806,6 @@ Ouluntie 9
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.483123971149325" lon="27.695570038631558">
     <time>2014-08-07T06:44:54Z</time>
     <name>Hukkalan kota</name>
@@ -893,7 +823,6 @@ Ouluntie 9
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.535759005695581" lon="24.235910000279546">
     <time>2014-08-01T15:07:02Z</time>
     <name>Hyvösaho KO</name>
@@ -911,7 +840,6 @@ Ouluntie 9
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="61.845520008355379" lon="24.284363016486168">
     <time>2015-11-15T17:45:37Z</time>
     <name>Hyytiälä</name>
@@ -929,7 +857,6 @@ Ouluntie 9
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.706200025975704" lon="27.998528983443975">
     <time>2014-02-05T12:30:08Z</time>
     <name>Ilveskota Puolanka: Lean-to (open hut)</name>
@@ -947,7 +874,6 @@ Ouluntie 9
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.523810386657715" lon="26.470227241516113">
     <time>2021-07-03T06:48:46Z</time>
     <name>Ironworks museum area</name>
@@ -977,7 +903,6 @@ Ruotsinpyhtää, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.594048006460071" lon="28.349919989705086">
     <time>2014-08-01T04:57:53Z</time>
     <name>Iso Lampolampi</name>
@@ -995,7 +920,6 @@ Ruotsinpyhtää, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.603539003059268" lon="28.420110968872905">
     <time>2014-08-01T04:58:52Z</time>
     <name>Iso Matovaara</name>
@@ -1013,7 +937,6 @@ Ruotsinpyhtää, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.378365017473698" lon="27.060124967247248">
     <time>2012-12-20T12:31:10Z</time>
     <name>Iso-Peura TP</name>
@@ -1031,7 +954,6 @@ Ruotsinpyhtää, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.32553899474442" lon="26.737128999084234">
     <time>2012-10-23T15:57:22Z</time>
     <name>Iso-Salmi laavu</name>
@@ -1049,7 +971,6 @@ Ruotsinpyhtää, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.507825342938304" lon="23.715120730921626">
     <time>2021-05-30T11:50:21Z</time>
     <name>Iso-Valkee Very nice place</name>
@@ -1073,15 +994,16 @@ Drive from the left side of the gate all the way to the Lean To</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.576598644256592" lon="28.24134349822998">
     <time>2020-11-13T08:21:36Z</time>
     <name>Jalavan Kauppa ja Pirttikahvila</name>
-    <cmt>Jalavan Kauppa ja Pirttikahvila
+    <cmt>Shop - Cafeteria
+Jalavan Kauppa ja Pirttikahvila
 Mikonkuja 2
 93400, Taivalkoski, North Finland, Finland
 050-3646703</cmt>
-    <desc>Jalavan Kauppa ja Pirttikahvila
+    <desc>Shop - Cafeteria
+Jalavan Kauppa ja Pirttikahvila
 Mikonkuja 2
 93400, Taivalkoski, North Finland, Finland
 050-3646703</desc>
@@ -1115,7 +1037,6 @@ Mikonkuja 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.845043018460274" lon="24.477553982287645">
     <time>2014-08-14T07:18:51Z</time>
     <name>Joutenjärvi: Lean-to (open hut)</name>
@@ -1133,7 +1054,6 @@ Mikonkuja 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="61.795613067224622" lon="24.370632665231824">
     <time>2020-11-13T07:15:46Z</time>
     <name>Juupajoki Gorge</name>
@@ -1151,7 +1071,6 @@ Mikonkuja 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.175307989120483" lon="28.20284097455442">
     <time>2012-10-23T15:57:22Z</time>
     <name>Juurikka-aho KO</name>
@@ -1171,7 +1090,6 @@ Mikonkuja 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.51341200247407" lon="28.323950003832579">
     <time>2016-02-26T06:23:16Z</time>
     <name>Juurikkalampi</name>
@@ -1189,7 +1107,6 @@ Mikonkuja 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.776922225952148" lon="27.80888557434082">
     <time>2022-06-20T15:57:35Z</time>
     <name>Jyrkkakoski Ironworks</name>
@@ -1207,7 +1124,6 @@ Mikonkuja 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.098336696624756" lon="26.329808235168457">
     <time>2020-11-13T07:54:39Z</time>
     <name>K-Market</name>
@@ -1249,7 +1165,6 @@ Keskustie 10
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.578272342681885" lon="28.243060111999512">
     <time>2020-11-13T08:21:55Z</time>
     <name>K-Market1</name>
@@ -1291,7 +1206,6 @@ Talonpojantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="61.790928840637207" lon="24.45481538772583">
     <time>2020-11-13T07:08:02Z</time>
     <name>K-Meronen Kopsamo</name>
@@ -1329,7 +1243,6 @@ Kopsamontie 130
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.548084259033203" lon="24.074993133544922">
     <time>2020-11-13T07:42:40Z</time>
     <name>K-Supermarket</name>
@@ -1371,7 +1284,6 @@ Ostolantie 4
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.369226455688477" lon="25.582866668701172">
     <time>2020-11-13T07:50:13Z</time>
     <name>K-Supermarket1</name>
@@ -1413,15 +1325,16 @@ Asematie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.369977474212646" lon="25.575356483459473">
     <time>2020-11-13T07:50:28Z</time>
     <name>Kahvila-Ravintola Manta</name>
-    <cmt>Kahvila-Ravintola Manta
+    <cmt>Cafe - Restaurant
+Kahvila-Ravintola Manta
 Asematie 7
 44800, Pihtipudas, West and Inner Finland, Finland
 014-561148</cmt>
-    <desc>Kahvila-Ravintola Manta
+    <desc>Cafe - Restaurant
+Kahvila-Ravintola Manta
 Asematie 7
 44800, Pihtipudas, West and Inner Finland, Finland
 014-561148</desc>
@@ -1455,7 +1368,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="67.712459033355117" lon="28.324908977374434">
     <ele>221</ele>
     <time>2019-06-23T13:05:18Z</time>
@@ -1474,7 +1386,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.516456980258226" lon="28.327310979366302">
     <time>2014-08-01T05:30:02Z</time>
     <name>Kallioinen: Lean-to (open hut)</name>
@@ -1492,7 +1403,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.424148984253407" lon="27.754533961415291">
     <time>2014-02-05T12:13:19Z</time>
     <name>Kalliojärvi Paltamo laavu: Lean-to (open hut)</name>
@@ -1510,7 +1420,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.146629007533193" lon="24.893551021814346">
     <time>2012-10-23T15:57:21Z</time>
     <name>Kalliokosken laavu</name>
@@ -1528,7 +1437,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.08744796924293" lon="24.1859230119735">
     <time>2014-02-13T06:23:40Z</time>
     <name>Kankaanlammi kota</name>
@@ -1548,7 +1456,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="61.427409974858165" lon="24.680479019880295">
     <time>2012-10-23T15:57:21Z</time>
     <name>Kankaanpäänniitty LA</name>
@@ -1566,7 +1473,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.384768994525075" lon="24.145940998569131">
     <time>2014-08-03T22:23:05Z</time>
     <name>Kankimylly KO</name>
@@ -1584,7 +1490,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.982750011608005" lon="24.497333345934749">
     <ele>85.299999999999997</ele>
     <time>2018-07-16T18:49:34Z</time>
@@ -1605,7 +1510,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.103057995438576" lon="28.063940014690161">
     <time>2012-10-23T15:57:21Z</time>
     <name>Kattilakoski P LA</name>
@@ -1623,7 +1527,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="68.434466701000929" lon="27.439883351325989">
     <ele>434.5</ele>
     <time>2018-07-16T19:25:21Z</time>
@@ -1642,7 +1545,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.976692028343678" lon="29.616489009931684">
     <time>2012-10-23T15:57:21Z</time>
     <name>Kenttäniemi LA</name>
@@ -1660,7 +1562,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.604629991576076" lon="28.473591031506658">
     <time>2014-08-01T07:09:27Z</time>
     <name>Kenttärata</name>
@@ -1678,7 +1579,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.63301170244813" lon="28.507365239784122">
     <time>2020-11-13T08:35:33Z</time>
     <name>Kenttärata Haarajoen leiri. Historical landmark</name>
@@ -1696,7 +1596,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.353045323863626" lon="28.362481193616986">
     <time>2020-11-13T08:17:59Z</time>
     <name>Kenttärata Korvuan leiri. Historical landmark</name>
@@ -1714,7 +1613,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.355972787365317" lon="28.371259393170476">
     <time>2020-11-13T08:29:18Z</time>
     <name>Kenttärata. https://www.visittaivalkoski.fi/en/services/kenttarata-2nd-ww-railway/</name>
@@ -1732,7 +1630,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.909121315926313" lon="29.199417997151613">
     <time>2020-11-13T08:31:28Z</time>
     <name>Kenttärata1; Trench railway</name>
@@ -1750,7 +1647,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.523323016241193" lon="28.270571026951075">
     <time>2014-08-01T05:28:18Z</time>
     <name>Kirstinkari: Lean-to (open hut)</name>
@@ -1768,7 +1664,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.460952999070287" lon="27.541859010234475">
     <time>2014-02-05T12:15:29Z</time>
     <name>Kivesvaara kota</name>
@@ -1786,7 +1681,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.984348010271788" lon="26.162152988836169">
     <time>2014-06-01T05:53:13Z</time>
     <name>Kivikota: Lean-to (open hut)</name>
@@ -1806,7 +1700,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.444664027541876" lon="27.810336984694004">
     <time>2013-06-26T20:42:51Z</time>
     <name>Koikerojärvi KO</name>
@@ -1826,7 +1719,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.926754025742412" lon="26.193616976961493">
     <time>2012-10-23T15:57:21Z</time>
     <name>Kokkopuro LA</name>
@@ -1844,7 +1736,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.743752041831613" lon="28.19429000839591">
     <time>2012-10-23T15:57:21Z</time>
     <name>Komulanköngäs LA</name>
@@ -1862,7 +1753,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.125030962750316" lon="26.59205099567771">
     <time>2012-10-23T15:57:21Z</time>
     <name>Kontiolampi LA</name>
@@ -1882,7 +1772,6 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.695846974849701" lon="28.780774958431721">
     <time>2014-03-05T14:54:45Z</time>
     <name>Korpuanjärvi laavu</name>
@@ -1900,15 +1789,16 @@ Asematie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.404773712158203" lon="27.839269638061523">
     <time>2020-11-13T07:59:24Z</time>
     <name>Kotipizza</name>
-    <cmt>Kotipizza
+    <cmt>Pizzeria
+Kotipizza
 Sairaalatie 1
 88300, Paltamo, North Finland, Finland
 08-6875322</cmt>
-    <desc>Kotipizza
+    <desc>Pizzeria
+Kotipizza
 Sairaalatie 1
 88300, Paltamo, North Finland, Finland
 08-6875322</desc>
@@ -1942,7 +1832,6 @@ Sairaalatie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.941650008782744" lon="25.776648977771401">
     <time>2012-10-23T15:57:21Z</time>
     <name>Kumpulaavu LA</name>
@@ -1960,7 +1849,6 @@ Sairaalatie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.383128991350532" lon="24.178378963842988">
     <time>2014-08-03T22:20:19Z</time>
     <name>Kurskangas KO</name>
@@ -1978,7 +1866,6 @@ Sairaalatie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.569931007921696" lon="28.194410037249327">
     <time>2014-08-01T05:34:16Z</time>
     <name>Kuulampi</name>
@@ -1996,7 +1883,6 @@ Sairaalatie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.632210033014417" lon="27.973430966958404">
     <time>2014-02-05T12:34:06Z</time>
     <name>Latvajoki kota</name>
@@ -2016,7 +1902,6 @@ Sairaalatie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.665076732635498" lon="28.052215576171875">
     <time>2020-11-13T08:05:27Z</time>
     <name>Latvajärven Loma-Asunnot</name>
@@ -2058,7 +1943,6 @@ Latvantie 11
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.983704028651118" lon="26.08510997146368">
     <time>2012-10-23T15:57:21Z</time>
     <name>LauttalampiK LA</name>
@@ -2078,7 +1962,6 @@ Latvantie 11
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.692566022276878" lon="27.905128011479974">
     <time>2014-02-05T12:25:59Z</time>
     <name>Lehtojoki laavu: Lean-to (open hut)</name>
@@ -2096,7 +1979,6 @@ Latvantie 11
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.341130256652832" lon="27.091426849365234">
     <time>2020-11-13T07:56:53Z</time>
     <name>Leirintäalue Kultahiekat</name>
@@ -2138,7 +2020,6 @@ Manamansalontie 3881
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.560260985046625" lon="24.229548973962665">
     <time>2014-08-01T15:00:54Z</time>
     <name>Leveäaho LA</name>
@@ -2156,7 +2037,6 @@ Manamansalontie 3881
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.48621654510498" lon="22.378613948822021">
     <time>2022-05-07T05:09:58Z</time>
     <name>Lieto Castlehill</name>
@@ -2174,7 +2054,6 @@ Manamansalontie 3881
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.688098000362515" lon="27.546868035569787">
     <ele>157.099999999999994</ele>
     <time>2018-06-28T15:13:06Z</time>
@@ -2193,15 +2072,16 @@ Manamansalontie 3881
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.021641731262207" lon="24.505434036254883">
     <time>2020-11-13T07:26:26Z</time>
     <name>Lounaskahvio Makoisa</name>
-    <cmt>Lounaskahvio Makoisa
+    <cmt>Restaurant
+Lounaskahvio Makoisa
 Virtaintie
 35700, Vilppula, West and Inner Finland, Finland
 040-0150244</cmt>
-    <desc>Lounaskahvio Makoisa
+    <desc>Restaurant
+Lounaskahvio Makoisa
 Virtaintie
 35700, Vilppula, West and Inner Finland, Finland
 040-0150244</desc>
@@ -2235,7 +2115,6 @@ Virtaintie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.299000021070242" lon="25.284409979358315">
     <time>2012-10-23T15:57:21Z</time>
     <name>Luotonen LA</name>
@@ -2253,7 +2132,6 @@ Virtaintie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.907081974670291" lon="28.176931003108621">
     <time>2014-02-06T10:51:27Z</time>
     <name>Lylykylä kota</name>
@@ -2273,7 +2151,6 @@ Virtaintie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.771991966292262" lon="24.351061005145311">
     <time>2012-10-23T15:57:22Z</time>
     <name>Löytömäennenä LA</name>
@@ -2291,7 +2168,6 @@ Virtaintie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.018058300018311" lon="24.455480575561523">
     <time>2020-11-13T07:25:13Z</time>
     <name>Maatilamatkailu Peltolan Luomutila</name>
@@ -2333,7 +2209,6 @@ Poukantie 162
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.408530984073877" lon="27.079203017055988">
     <time>2016-07-25T10:03:10Z</time>
     <name>Makkaraniemi: Lean-to (open hut)</name>
@@ -2353,7 +2228,6 @@ Poukantie 162
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.389474391937256" lon="27.025809288024902">
     <time>2020-11-13T07:55:53Z</time>
     <name>Manamansalon Leirintäalue</name>
@@ -2395,7 +2269,6 @@ Teeriniementie 156
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.415159225463867" lon="27.140028476715088">
     <time>2020-11-13T07:56:34Z</time>
     <name>Manamansalon Muistomerkkikirkko</name>
@@ -2429,7 +2302,6 @@ Teeriniementie 156
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.717100007459521" lon="24.212283343076706">
     <ele>114.700000000000003</ele>
     <time>2018-07-16T18:56:55Z</time>
@@ -2450,7 +2322,6 @@ Teeriniementie 156
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.405267238616943" lon="27.83435583114624">
     <time>2020-11-13T07:59:09Z</time>
     <name>Matkakoti Keidas</name>
@@ -2492,7 +2363,6 @@ Harjutie 6
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.258289033547044" lon="25.062500014901161">
     <time>2014-08-12T12:29:48Z</time>
     <name>Mekkopuro</name>
@@ -2510,7 +2380,6 @@ Harjutie 6
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.400016982108355" lon="27.656669961288571">
     <time>2012-10-23T15:57:21Z</time>
     <name>Melalahti KO</name>
@@ -2528,11 +2397,10 @@ Harjutie 6
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.461412062868476" lon="22.118268348276615">
     <time>2022-07-10T03:57:40Z</time>
     <name>Meyer Shipyard view</name>
-    <sym>Scenic Area</sym>
+    <sym>Civil</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -2546,7 +2414,6 @@ Harjutie 6
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.520046038553119" lon="24.209223026409745">
     <time>2014-08-14T06:10:33Z</time>
     <name>Moksunniemi: Lean-to (open hut)</name>
@@ -2564,7 +2431,6 @@ Harjutie 6
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.882500031962991" lon="29.023216646164656">
     <ele>231.599999999999994</ele>
     <time>2018-07-16T20:50:31Z</time>
@@ -2583,7 +2449,6 @@ Harjutie 6
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.936576994135976" lon="29.480749033391476">
     <time>2014-07-31T08:00:16Z</time>
     <name>Muovaara: Lean-to (open hut)</name>
@@ -2601,7 +2466,6 @@ Harjutie 6
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.014217376708984" lon="24.508523941040039">
     <time>2020-11-13T07:26:12Z</time>
     <name>Mänttä-Vilppulan Kaupunki Koivuniemen Retkeilymaja</name>
@@ -2643,7 +2507,6 @@ Koivuniementie 5
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.469844341278076" lon="22.0166015625">
     <time>2022-07-10T04:01:24Z</time>
     <name>Naantali old town</name>
@@ -2661,7 +2524,6 @@ Koivuniementie 5
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.657480716705322" lon="27.981126308441162">
     <time>2020-11-13T08:05:24Z</time>
     <name>Nature Point Paljakka</name>
@@ -2703,7 +2565,6 @@ Soikantie 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="61.786036491394043" lon="24.390056133270264">
     <time>2020-11-13T07:07:45Z</time>
     <name>Neste Oil</name>
@@ -2745,7 +2606,6 @@ Koskitie 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.369569778442383" lon="25.582630634307861">
     <time>2020-11-13T07:50:21Z</time>
     <name>Neste Oil1</name>
@@ -2787,7 +2647,6 @@ Savelantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.404773712158203" lon="27.839269638061523">
     <time>2020-11-13T07:59:27Z</time>
     <name>Neste Oil2</name>
@@ -2829,7 +2688,6 @@ Sairaalatie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.663907025009394" lon="27.140569780021906">
     <time>2021-07-03T06:16:45Z</time>
     <name>Nice camping and swimming</name>
@@ -2847,7 +2705,6 @@ Sairaalatie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.185463298112154" lon="24.264311324805021">
     <time>2021-07-25T18:21:19Z</time>
     <name>Nice swimming place</name>
@@ -2865,7 +2722,6 @@ Sairaalatie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="67.799595035612583" lon="28.665209971368313">
     <ele>440.600000000000023</ele>
     <time>2019-06-23T13:05:18Z</time>
@@ -2884,7 +2740,6 @@ Sairaalatie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.820049991831183" lon="29.617349999025464">
     <ele>220</ele>
     <time>2018-07-16T20:55:15Z</time>
@@ -2909,7 +2764,6 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="61.573071023449302" lon="24.453883990645409">
     <time>2012-10-23T15:57:21Z</time>
     <name>Nunna LA</name>
@@ -2927,7 +2781,6 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.55369896069169" lon="24.216240020468831">
     <time>2012-10-23T15:57:22Z</time>
     <name>Ohrakoski KO</name>
@@ -2945,7 +2798,6 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.554999999701977" lon="24.219061033800244">
     <time>2012-10-23T15:57:22Z</time>
     <name>Ohrakoski LA</name>
@@ -2963,7 +2815,6 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.845581041648984" lon="29.020570982247591">
     <time>2012-10-23T15:57:21Z</time>
     <name>Oijusluoma KO</name>
@@ -2981,7 +2832,6 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.407218964770436" lon="27.691878983750939">
     <time>2014-08-07T07:12:33Z</time>
     <name>Oikarinen: Lean-to (open hut)</name>
@@ -2999,7 +2849,6 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="61.063463212922215" lon="24.388576308265328">
     <time>2021-07-25T18:12:18Z</time>
     <name>Old bridge &amp; Restaurant</name>
@@ -3017,7 +2866,6 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.249983297660947" lon="25.183816663920879">
     <ele>116.599999999999994</ele>
     <time>2018-07-16T19:15:32Z</time>
@@ -3038,7 +2886,6 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.10247097350657" lon="24.335731929168105">
     <time>2021-05-30T11:43:38Z</time>
     <name>Old Railroad Track (built by Russians)</name>
@@ -3056,7 +2903,6 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.29994391836226" lon="24.12645298987627">
     <time>2021-05-30T11:46:47Z</time>
     <name>Old Sanatorium (burnt down in 2019)</name>
@@ -3074,7 +2920,6 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.464887619018555" lon="22.734940052032471">
     <time>2022-05-07T05:06:04Z</time>
     <name>Paimio Sanatorium, design by Alvar Aalto</name>
@@ -3092,7 +2937,6 @@ In January 1940 Soviet forces were repelled by an outnumbered Finnish army under
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.673187732696533" lon="27.939927577972412">
     <time>2020-11-13T08:04:54Z</time>
     <name>Paljakan Loma-Asunnot</name>
@@ -3134,7 +2978,6 @@ Lehtotie 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.679861068725586" lon="27.941644191741943">
     <time>2020-11-13T08:04:40Z</time>
     <name>Paljakka Caravan</name>
@@ -3176,7 +3019,6 @@ Rinnetie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.577713018283248" lon="28.309089979156852">
     <time>2014-08-01T04:52:48Z</time>
     <name>Petäjävaara</name>
@@ -3194,7 +3036,6 @@ Rinnetie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.19699102640152" lon="26.714252019301057">
     <time>2014-09-07T15:47:47Z</time>
     <name>Piipari</name>
@@ -3212,7 +3053,6 @@ Rinnetie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.082024028524756" lon="27.978260032832623">
     <time>2012-10-23T15:57:21Z</time>
     <name>Pikku-Ruokonen KO</name>
@@ -3230,7 +3070,6 @@ Rinnetie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.065559012815356" lon="26.453689998015761">
     <time>2012-10-23T15:57:21Z</time>
     <name>Pitkäkangas LA</name>
@@ -3248,7 +3087,6 @@ Rinnetie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.153659999370575" lon="24.898187974467874">
     <time>2015-06-17T09:03:47Z</time>
     <name>Pitkäkosken laavu: Lean-to (open hut)</name>
@@ -3266,7 +3104,6 @@ Rinnetie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.579353021457791" lon="28.304198971018195">
     <time>2014-08-01T04:51:20Z</time>
     <name>Pitkälampi kota</name>
@@ -3284,7 +3121,6 @@ Rinnetie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.583008034154773" lon="28.31712001003325">
     <time>2014-08-01T04:52:06Z</time>
     <name>Pitkälampi laavu: Lean-to (open hut)</name>
@@ -3302,7 +3138,6 @@ Rinnetie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.577242374420166" lon="28.245248794555664">
     <time>2020-11-13T08:21:43Z</time>
     <name>Pizzeria Dalal</name>
@@ -3344,25 +3179,6 @@ Talonpojantie 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
-  <wpt lat="60.175762418657541" lon="23.203606959432364">
-    <time>2022-05-07T04:58:44Z</time>
-    <name>Private yard, ride slow</name>
-    <sym>Information</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2022-05-07T04:58:44Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-
   <wpt lat="61.649436950683594" lon="24.519960880279541">
     <time>2020-11-13T06:56:12Z</time>
     <name>Purnun Taidekeskus</name>
@@ -3402,7 +3218,6 @@ Mustasaari 63
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.950790019705892" lon="29.300980009138584">
     <time>2013-01-08T07:30:11Z</time>
     <name>Puutteenkylä KO</name>
@@ -3420,7 +3235,6 @@ Mustasaari 63
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.685683976858854" lon="27.938824016600847">
     <time>2013-01-08T10:56:46Z</time>
     <name>Rakennusjärvi KO</name>
@@ -3438,15 +3252,16 @@ Mustasaari 63
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.015955448150635" lon="24.496185779571533">
     <time>2020-11-13T07:25:40Z</time>
     <name>Rantaravintola Isabella</name>
-    <cmt>Rantaravintola Isabella
+    <cmt>Restaurant
+Rantaravintola Isabella
 Kirkkotie
 35700, Vilppula, West and Inner Finland, Finland
 03-4716900</cmt>
-    <desc>Rantaravintola Isabella
+    <desc>Restaurant
+Rantaravintola Isabella
 Kirkkotie
 35700, Vilppula, West and Inner Finland, Finland
 03-4716900</desc>
@@ -3480,7 +3295,6 @@ Kirkkotie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.349117012694478" lon="25.568977016955614">
     <time>2012-10-23T15:57:21Z</time>
     <name>Rapeikko LA</name>
@@ -3498,15 +3312,16 @@ Kirkkotie
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.677157402038574" lon="27.94273853302002">
     <time>2020-11-13T08:05:06Z</time>
     <name>Ravintola Paljakka</name>
-    <cmt>Ravintola Paljakka
+    <cmt>Restaurant
+Ravintola Paljakka
 Jyrkänparras
 89140, Puolanka, North Finland, Finland
 020-1552400</cmt>
-    <desc>Ravintola Paljakka
+    <desc>Restaurant
+Ravintola Paljakka
 Jyrkänparras
 89140, Puolanka, North Finland, Finland
 020-1552400</desc>
@@ -3540,7 +3355,6 @@ Jyrkänparras
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.302089985460043" lon="24.125469038262963">
     <time>2012-10-23T15:57:21Z</time>
     <name>Reinikankoski LA</name>
@@ -3558,7 +3372,6 @@ Jyrkänparras
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.575298035517335" lon="24.111178983002901">
     <time>2012-10-23T15:57:22Z</time>
     <name>Riihimäki KO</name>
@@ -3576,49 +3389,6 @@ Jyrkänparras
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
-  <wpt lat="62.55664587020874" lon="24.111320972442627">
-    <time>2020-11-13T07:41:36Z</time>
-    <name>Rolls Express</name>
-    <cmt>Rolls Express
-Myllymäentie 37
-63700, Ähtäri, West and Inner Finland, Finland
-06-5337777</cmt>
-    <desc>Rolls Express
-Myllymäentie 37
-63700, Ähtäri, West and Inner Finland, Finland
-06-5337777</desc>
-    <sym>Restaurant</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-        <gpxx:Address>
-          <gpxx:StreetAddress>Myllymäentie 37</gpxx:StreetAddress>
-          <gpxx:City>Ähtäri</gpxx:City>
-          <gpxx:State>West and Inner Finland</gpxx:State>
-          <gpxx:Country>Finland</gpxx:Country>
-          <gpxx:PostalCode>63700</gpxx:PostalCode>
-        </gpxx:Address>
-        <gpxx:PhoneNumber>06-5337777</gpxx:PhoneNumber>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-        <wptx1:Address>
-          <wptx1:StreetAddress>Myllymäentie 37</wptx1:StreetAddress>
-          <wptx1:City>Ähtäri</wptx1:City>
-          <wptx1:State>West and Inner Finland</wptx1:State>
-          <wptx1:Country>Finland</wptx1:Country>
-          <wptx1:PostalCode>63700</wptx1:PostalCode>
-        </wptx1:Address>
-        <wptx1:PhoneNumber>06-5337777</wptx1:PhoneNumber>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2020-11-13T07:41:36Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-
   <wpt lat="65.577201973646879" lon="28.349871039390564">
     <time>2014-08-01T04:54:32Z</time>
     <name>Romevaaran kota</name>
@@ -3636,7 +3406,6 @@ Myllymäentie 37
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.571716018021107" lon="28.347900034859776">
     <time>2014-08-01T04:53:55Z</time>
     <name>Romevaaran laavu</name>
@@ -3654,7 +3423,6 @@ Myllymäentie 37
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.545685023069382" lon="24.162789965048432">
     <time>2014-08-14T06:05:23Z</time>
     <name>Roomunniemi: Lean-to (open hut)</name>
@@ -3672,7 +3440,6 @@ Myllymäentie 37
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="66.159499995410442" lon="29.153883308172226">
     <ele>464.199999999999989</ele>
     <time>2018-07-16T19:19:58Z</time>
@@ -3691,7 +3458,6 @@ Myllymäentie 37
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.578377246856689" lon="27.83660888671875">
     <time>2021-07-03T06:52:40Z</time>
     <name>Russian border can be seen</name>
@@ -3709,7 +3475,6 @@ Myllymäentie 37
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.845383372157812" lon="29.346050005406141">
     <ele>210.599999999999994</ele>
     <time>2018-07-16T20:42:21Z</time>
@@ -3730,7 +3495,6 @@ Myllymäentie 37
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.550187110900879" lon="24.084842205047607">
     <time>2020-11-13T07:42:22Z</time>
     <name>S-Market</name>
@@ -3772,7 +3536,6 @@ Alatie 22
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.370921611785889" lon="25.572888851165771">
     <time>2020-11-13T07:51:05Z</time>
     <name>S-Market1</name>
@@ -3814,7 +3577,6 @@ Asematie 18
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.575590133666992" lon="28.242673873901367">
     <time>2020-11-13T08:21:19Z</time>
     <name>S-Market2</name>
@@ -3856,7 +3618,6 @@ Kauppatie 11
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="61.798782348632812" lon="24.368319511413574">
     <time>2020-11-13T07:06:33Z</time>
     <name>Sale</name>
@@ -3898,15 +3659,16 @@ Osuustie 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.404773712158203" lon="27.839269638061523">
     <time>2020-11-13T07:59:30Z</time>
     <name>Scanburger</name>
-    <cmt>Scanburger
+    <cmt>Burger restaurant
+Scanburger
 Sairaalatie 1
 88300, Paltamo, North Finland, Finland
 08-6875322</cmt>
-    <desc>Scanburger
+    <desc>Burger restaurant
+Scanburger
 Sairaalatie 1
 88300, Paltamo, North Finland, Finland
 08-6875322</desc>
@@ -3940,7 +3702,6 @@ Sairaalatie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.913918003439903" lon="28.187820017337799">
     <time>2012-10-23T15:57:21Z</time>
     <name>Seipivaara KO</name>
@@ -3960,7 +3721,6 @@ Sairaalatie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.361995220184326" lon="25.592737197875977">
     <time>2020-11-13T07:51:20Z</time>
     <name>Seo</name>
@@ -4002,7 +3762,6 @@ Viitasaarentie 93
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.095461368560791" lon="26.333348751068115">
     <time>2020-11-13T07:54:24Z</time>
     <name>Seo1</name>
@@ -4044,7 +3803,6 @@ Huoltotie 9
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.366308212280273" lon="25.589518547058105">
     <time>2020-11-13T07:51:11Z</time>
     <name>Shell11</name>
@@ -4086,7 +3844,6 @@ Putaanportintie 11
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.318116638809443" lon="23.823366640135646">
     <time>2021-05-30T11:49:18Z</time>
     <name>Shop and Petrol</name>
@@ -4104,7 +3861,6 @@ Putaanportintie 11
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.181096158921719" lon="23.265936719253659">
     <time>2022-05-07T06:08:34Z</time>
     <name>Short part of the railroad between 2 tunnels</name>
@@ -4122,7 +3878,6 @@ Putaanportintie 11
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.559809068217874" lon="27.708667684346437">
     <time>2021-07-03T06:27:18Z</time>
     <name>Siipioravanvuori air surveillance tower</name>
@@ -4140,7 +3895,6 @@ Putaanportintie 11
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.407498836517334" lon="27.837145328521729">
     <time>2020-11-13T07:58:56Z</time>
     <name>Siwa-Lepikontie</name>
@@ -4178,7 +3932,6 @@ Lepikontie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.141519829630852" lon="24.264140501618385">
     <time>2021-05-30T11:44:48Z</time>
     <name>Sjundby Castle &amp; Nice Rapids</name>
@@ -4198,13 +3951,12 @@ Lepikontie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.141220092773438" lon="24.264507293701172">
     <time>2022-05-07T04:52:06Z</time>
     <name>Sjundby Mansion (Private)</name>
     <cmt>Sjundby</cmt>
     <desc>Sjundby</desc>
-    <sym>Information</sym>
+    <sym>Residence</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -4218,7 +3970,6 @@ Lepikontie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.462971767410636" lon="22.717824708670378">
     <time>2022-05-07T05:07:13Z</time>
     <name>SkiJumping hill</name>
@@ -4236,7 +3987,6 @@ Lepikontie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.104999542236328" lon="23.617258071899414">
     <time>2022-05-07T04:49:25Z</time>
     <name>Skogängsgölen Beach</name>
@@ -4254,7 +4004,6 @@ Lepikontie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.7382448669523" lon="24.133064886555076">
     <time>2021-07-25T18:09:09Z</time>
     <name>Small local shop &amp; Cafeteria</name>
@@ -4272,7 +4021,6 @@ Lepikontie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.095634022727609" lon="24.311708640307188">
     <time>2021-07-25T18:17:58Z</time>
     <name>Soviet Triumphal Arch</name>
@@ -4290,7 +4038,6 @@ Lepikontie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.02157735824585" lon="24.50376033782959">
     <time>2020-11-13T07:26:21Z</time>
     <name>st1</name>
@@ -4332,7 +4079,6 @@ Virtaintie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.140137020498514" lon="28.063600966706872">
     <time>2012-10-23T15:57:21Z</time>
     <name>Suolijärvi KO</name>
@@ -4352,7 +4098,6 @@ Virtaintie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.58831000700593" lon="28.367120996117592">
     <time>2014-08-01T04:56:10Z</time>
     <name>Susijärvi: Lean-to (open hut)</name>
@@ -4370,7 +4115,6 @@ Virtaintie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.940544111654162" lon="24.130058297887444">
     <ele>130.699999999999989</ele>
     <time>2018-07-24T13:37:15Z</time>
@@ -4389,7 +4133,6 @@ Virtaintie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.077380297705531" lon="25.162001922726631">
     <ele>103.299999999999997</ele>
     <time>2018-07-25T14:37:09Z</time>
@@ -4408,7 +4151,6 @@ Virtaintie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.387176996096969" lon="27.050090990960598">
     <time>2012-10-23T15:57:22Z</time>
     <name>Särkinen KO</name>
@@ -4428,7 +4170,6 @@ Virtaintie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.388306038454175" lon="27.041885023936629">
     <time>2014-02-05T11:09:22Z</time>
     <name>Särkinen laavu</name>
@@ -4448,7 +4189,6 @@ Virtaintie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.939193991944194" lon="29.111866001039743">
     <time>2013-01-08T07:24:29Z</time>
     <name>Säynäjävaara KO</name>
@@ -4466,7 +4206,6 @@ Virtaintie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.296963470056653" lon="28.013574164360762">
     <ele>255.699999999999989</ele>
     <time>2018-07-16T18:41:31Z</time>
@@ -4485,7 +4224,6 @@ Virtaintie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.564560890197754" lon="28.22263240814209">
     <time>2020-11-13T08:22:29Z</time>
     <name>Taivalmajat</name>
@@ -4527,7 +4265,6 @@ Hetemäentie 7
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.393186569213867" lon="27.982778549194336">
     <time>2020-11-13T07:59:49Z</time>
     <name>Talvisotaan Lähteneiden Muistokivi</name>
@@ -4563,7 +4300,6 @@ Tahvintie 4
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.154207229614258" lon="24.131577014923096">
     <time>2020-11-13T07:28:19Z</time>
     <name>Tarmo Lähikauppias</name>
@@ -4605,14 +4341,15 @@ Linnaksentie 20
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="61.409926414489746" lon="24.718444347381592">
     <time>2020-11-13T06:50:00Z</time>
     <name>Tarmo Rautajärven Kyläkauppa</name>
-    <cmt>Tarmo Rautajärven Kyläkauppa
+    <cmt>Local shop
+Tarmo Rautajärven Kyläkauppa
 Rautajärventie 5
 36910, Rautajärvi, West and Inner Finland, Finland</cmt>
-    <desc>Tarmo Rautajärven Kyläkauppa
+    <desc>Local shop
+Tarmo Rautajärven Kyläkauppa
 Rautajärventie 5
 36910, Rautajärvi, West and Inner Finland, Finland</desc>
     <sym>Restaurant</sym>
@@ -4643,7 +4380,6 @@ Rautajärventie 5
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.007672786712646" lon="24.480865001678467">
     <time>2020-11-13T07:24:58Z</time>
     <name>Teboil</name>
@@ -4681,7 +4417,6 @@ Höylääjäntie 2
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.345730304718018" lon="25.602478981018066">
     <time>2020-11-13T07:51:28Z</time>
     <name>Teboil1</name>
@@ -4723,7 +4458,6 @@ Rupontie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.40509557723999" lon="27.855920791625977">
     <time>2020-11-13T07:59:39Z</time>
     <name>Teboil2</name>
@@ -4761,7 +4495,6 @@ Uurantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.925819024443626" lon="25.750500038266182">
     <time>2012-10-23T15:57:21Z</time>
     <name>Teerilaavu LA</name>
@@ -4779,7 +4512,6 @@ Uurantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.255374908447266" lon="22.955782413482666">
     <time>2022-05-07T05:01:36Z</time>
     <name>Teijo Ironworks &amp; church</name>
@@ -4797,7 +4529,6 @@ Uurantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.160880973562598" lon="28.089919975027442">
     <time>2012-10-23T15:57:21Z</time>
     <name>Tenämäjärvi LA</name>
@@ -4815,7 +4546,6 @@ Uurantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.164779983460903" lon="28.052489999681711">
     <time>2012-10-23T15:57:21Z</time>
     <name>Tenämänkoski LA</name>
@@ -4835,7 +4565,6 @@ Uurantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.432510040700436" lon="28.367780987173319">
     <time>2014-08-01T06:27:04Z</time>
     <name>Tervajärven laavu: Lean-to (open hut)</name>
@@ -4853,7 +4582,6 @@ Uurantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.294880148023367" lon="27.92735212482512">
     <ele>121.5</ele>
     <time>2018-07-15T19:25:45Z</time>
@@ -4874,7 +4602,6 @@ Uurantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.119841007515788" lon="25.160504998639226">
     <ele>106.200000000000003</ele>
     <time>2018-06-28T06:36:50Z</time>
@@ -4895,7 +4622,6 @@ Uurantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.20222245901823" lon="25.187841570004821">
     <ele>113.200000000000003</ele>
     <time>2018-07-15T19:17:05Z</time>
@@ -4916,7 +4642,6 @@ Uurantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.20238515175879" lon="25.188130745664239">
     <ele>113.599999999999994</ele>
     <time>2018-07-15T19:17:42Z</time>
@@ -4937,7 +4662,6 @@ Uurantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.294968409463763" lon="27.928259046748281">
     <ele>124</ele>
     <time>2018-07-15T19:23:23Z</time>
@@ -4958,7 +4682,6 @@ Uurantie 1
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="67.769922930747271" lon="29.209012174978852">
     <time>2021-08-10T15:20:24Z</time>
     <name>Tulppion Majat</name>
@@ -4984,7 +4707,6 @@ http://www.tulppionmajat.fi/
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.435340404510498" lon="22.22817144356668">
     <time>2022-05-07T05:11:58Z</time>
     <name>Turku Castle</name>
@@ -5002,7 +4724,6 @@ http://www.tulppionmajat.fi/
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.452227592468262" lon="22.278041839599609">
     <time>2022-05-07T05:10:34Z</time>
     <name>Turku Cathedral1</name>
@@ -5020,7 +4741,6 @@ http://www.tulppionmajat.fi/
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.574946403503418" lon="28.222675323486328">
     <time>2020-11-13T08:22:32Z</time>
     <name>Tykkytaival</name>
@@ -5062,7 +4782,6 @@ Mutkatie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.852566663175821" lon="29.223800031468272">
     <ele>224.199999999999989</ele>
     <time>2018-07-16T20:47:10Z</time>
@@ -5083,7 +4802,6 @@ Mutkatie 12
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="60.581274032592773" lon="27.769510746002197">
     <time>2021-07-03T06:51:51Z</time>
     <name>Vaalimaa Camping2</name>
@@ -5113,7 +4831,6 @@ Värrinpää, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.452437991276383" lon="27.70064502954483">
     <time>2014-02-05T12:10:38Z</time>
     <name>Vaarankylä kota</name>
@@ -5131,7 +4848,6 @@ Värrinpää, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.398375973105431" lon="27.65561300329864">
     <time>2014-02-05T11:50:51Z</time>
     <name>Varissaari laavu: Lean-to (open hut)</name>
@@ -5149,7 +4865,6 @@ Värrinpää, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.150260969996452" lon="24.846505997702479">
     <time>2015-06-15T16:09:07Z</time>
     <name>Veitjoki, laavu: Lean-to (open hut)</name>
@@ -5169,25 +4884,6 @@ Värrinpää, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
-  <wpt lat="60.507916705682874" lon="23.71493331156671">
-    <time>2021-05-30T11:50:21Z</time>
-    <name>Very nice place for grilling</name>
-    <sym>Information</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2021-05-30T11:50:21Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-
   <wpt lat="62.235741019248962" lon="24.106831038370728">
     <time>2012-10-23T15:57:22Z</time>
     <name>Vesikorvenneva KO</name>
@@ -5205,7 +4901,6 @@ Värrinpää, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.015461921691895" lon="24.495820999145508">
     <time>2020-11-13T07:25:29Z</time>
     <name>Vierasvenesataman Caravanalue</name>
@@ -5239,7 +4934,6 @@ Värrinpää, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.571269968524575" lon="25.471059959381819">
     <time>2012-10-23T15:57:21Z</time>
     <name>Viikatehauta KO</name>
@@ -5259,7 +4953,6 @@ Värrinpää, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.886761032044888" lon="25.845693983137608">
     <time>2013-12-12T12:13:45Z</time>
     <name>Viitainkangas LA</name>
@@ -5277,7 +4970,6 @@ Värrinpää, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="63.276618998497725" lon="25.337979979813099">
     <time>2014-08-12T12:32:30Z</time>
     <name>Viitasaaren Kangasjärvi: Lean-to (open hut)</name>
@@ -5295,7 +4987,6 @@ Värrinpää, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.014049990102649" lon="24.506488982588053">
     <time>2015-11-15T17:46:53Z</time>
     <name>Vilppula</name>
@@ -5313,7 +5004,6 @@ Värrinpää, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.012500762939453" lon="24.500241279602051">
     <time>2020-11-13T07:25:49Z</time>
     <name>Vuoden 1918 Punaisten muistomerkki</name>
@@ -5347,7 +5037,6 @@ Värrinpää, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="61.89019002020359" lon="24.43665498867631">
     <time>2013-07-20T08:26:13Z</time>
     <name>Vähä-Karvian laavu: Lean-to (open hut)</name>
@@ -5367,7 +5056,6 @@ Värrinpää, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.763954021036625" lon="27.981671970337629">
     <time>2013-01-08T10:58:34Z</time>
     <name>Väärälampi LA</name>
@@ -5385,7 +5073,6 @@ Värrinpää, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.848116626963019" lon="29.327283343300223">
     <ele>205</ele>
     <time>2018-07-16T20:37:03Z</time>
@@ -5406,7 +5093,6 @@ Värrinpää, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.117266638204455" lon="29.589066691696644">
     <ele>164.199999999999989</ele>
     <time>2018-07-16T20:28:13Z</time>
@@ -5425,7 +5111,6 @@ Värrinpää, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="65.575684010982513" lon="28.399240029975772">
     <time>2014-08-01T05:26:50Z</time>
     <name>Ylä-Juurikkavaara</name>
@@ -5443,7 +5128,6 @@ Värrinpää, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="64.754753038287163" lon="28.087060991674662">
     <time>2012-10-23T15:57:21Z</time>
     <name>Ypykkälampi LA</name>
@@ -5461,7 +5145,6 @@ Värrinpää, FIN</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.540788650512695" lon="24.172561168670654">
     <time>2020-11-13T07:39:56Z</time>
     <name>Ähtärin Eläinpuiston Leirintäalue</name>
@@ -5503,7 +5186,6 @@ Karhunkierros 229
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <wpt lat="62.593867974355817" lon="24.135468984022737">
     <time>2012-10-23T15:57:22Z</time>
     <name>Ähtärinsalmi LA</name>
@@ -5521,9 +5203,8 @@ Karhunkierros 229
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-
   <trk>
-    <name>TET_FIN-01_20220709</name>
+    <name>TET_FIN-01_20220716</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -5987,16 +5668,19 @@ Karhunkierros 229
       <trkpt lat="60.512049989774823" lon="23.721150001510978"/>
       <trkpt lat="60.512270014733076" lon="23.71760998852551"/>
       <trkpt lat="60.513220019638538" lon="23.714480018243194"/>
-      <trkpt lat="60.514359958469868" lon="23.715059962123632"/>
+      <trkpt lat="60.513840615749359" lon="23.714366024360061"/>
+      <trkpt lat="60.514500942081213" lon="23.714996594935656"/>
       <trkpt lat="60.515859983861446" lon="23.71690004132688"/>
       <trkpt lat="60.516979973763227" lon="23.715979959815741"/>
       <trkpt lat="60.520240031182766" lon="23.715700004249811"/>
-      <trkpt lat="60.521690016612411" lon="23.711300007998943"/>
-      <trkpt lat="60.523449964821339" lon="23.708979981020093"/>
-      <trkpt lat="60.527720041573048" lon="23.710359977558255"/>
-      <trkpt lat="60.528520010411739" lon="23.712029987946153"/>
-      <trkpt lat="60.528009971603751" lon="23.715130034834146"/>
-      <trkpt lat="60.528529984876513" lon="23.718220023438334"/>
+      <trkpt lat="60.52100932225585" lon="23.716383883729577"/>
+      <trkpt lat="60.522828698158264" lon="23.719158042222261"/>
+      <trkpt lat="60.523502435535192" lon="23.720545331016183"/>
+      <trkpt lat="60.524553442373872" lon="23.720482299104333"/>
+      <trkpt lat="60.526278186589479" lon="23.721869504079223"/>
+      <trkpt lat="60.527436984702945" lon="23.721302049234509"/>
+      <trkpt lat="60.528164617717266" lon="23.719410253688693"/>
+      <trkpt lat="60.528636267408729" lon="23.718716567382216"/>
       <trkpt lat="60.531919961795211" lon="23.728790022432804"/>
       <trkpt lat="60.534039996564388" lon="23.729719994589686"/>
       <trkpt lat="60.534620024263859" lon="23.733880016952753"/>
@@ -6093,16 +5777,19 @@ Karhunkierros 229
       <trkpt lat="60.646161027252674" lon="23.939336976036429">
         <ele>118.304000000000002</ele>
       </trkpt>
+      <trkpt lat="60.646092547103763" lon="23.94223703071475"/>
+      <trkpt lat="60.64741755835712" lon="23.948216931894422"/>
       <trkpt lat="60.647569019347429" lon="23.95014300942421">
         <ele>123.625</ele>
       </trkpt>
+      <trkpt lat="60.649309270083904" lon="23.958592051640153"/>
       <trkpt lat="60.652565974742174" lon="23.963538967072964">
         <ele>121.436000000000007</ele>
       </trkpt>
       <trkpt lat="60.655285734683275" lon="23.967714244499803">
         <ele>118.950999999999993</ele>
       </trkpt>
-      <trkpt lat="60.651485966518521" lon="23.988824989646673">
+      <trkpt lat="60.65013388171792" lon="23.9937106333673">
         <ele>116.236999999999995</ele>
       </trkpt>
       <trkpt lat="60.652024000883102" lon="24.011375997215509">
@@ -6572,10 +6259,11 @@ Karhunkierros 229
         <ele>108.427000000000007</ele>
       </trkpt>
       <trkpt lat="61.506231129169464" lon="24.920681733638048"/>
-      <trkpt lat="61.508852653205395" lon="24.954470526427031">
+      <trkpt lat="61.516287149861455" lon="24.908716902136803">
         <ele>111.751999999999995</ele>
       </trkpt>
-      <trkpt lat="61.511035552248359" lon="24.960145661607385">
+      <trkpt lat="61.511418269947171" lon="24.934822507202625"/>
+      <trkpt lat="61.510807396844029" lon="24.946635207161307">
         <ele>112.891000000000005</ele>
       </trkpt>
       <trkpt lat="61.511735608801246" lon="24.959956398233771">
@@ -31702,31 +31390,20 @@ Karhunkierros 229
       </trkpt>
     </trkseg>
   </trk>
-
   <trk>
-    <name>TET_FIN-02_20220709</name>
+    <name>TET_FIN-02_20220716</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
       </gpxx:TrackExtension>
     </extensions>
     <trkseg>
-      <trkpt lat="67.938809981569648" lon="23.670176966115832">
+      <trkpt lat="67.939775492995977" lon="23.663702281191945">
         <ele>237</ele>
       </trkpt>
-      <trkpt lat="67.938960017636418" lon="23.670151988044381">
-        <ele>237.139999999999986</ele>
-      </trkpt>
-      <trkpt lat="67.939300993457437" lon="23.668952034786344">
-        <ele>237</ele>
-      </trkpt>
-      <trkpt lat="67.939363019540906" lon="23.668165979906917">
-        <ele>235.397999999999996</ele>
-      </trkpt>
-      <trkpt lat="67.939046015962958" lon="23.669893993064761">
-        <ele>237</ele>
-      </trkpt>
-      <trkpt lat="67.943202015012503" lon="23.670667978003621">
+      <trkpt lat="67.938980469480157" lon="23.667548820376396"/>
+      <trkpt lat="67.942505897954106" lon="23.670848524197936"/>
+      <trkpt lat="67.94293706305325" lon="23.670133883133531">
         <ele>238.212999999999994</ele>
       </trkpt>
       <trkpt lat="67.947017038241029" lon="23.67109302431345">
@@ -31747,25 +31424,30 @@ Karhunkierros 229
       <trkpt lat="67.954473998397589" lon="23.669707998633385">
         <ele>235.894000000000005</ele>
       </trkpt>
-      <trkpt lat="67.954850010573864" lon="23.677555974572897">
+      <trkpt lat="67.954987809062004" lon="23.676200034096837"/>
+      <trkpt lat="67.95510096475482" lon="23.677377104759216">
         <ele>238.188999999999993</ele>
       </trkpt>
-      <trkpt lat="67.955284025520086" lon="23.679541982710361">
+      <trkpt lat="67.95539022423327" lon="23.678774870932102"/>
+      <trkpt lat="67.955704629421234" lon="23.681011330336332">
         <ele>238.283999999999992</ele>
       </trkpt>
-      <trkpt lat="67.955435989424586" lon="23.679541982710361">
+      <trkpt lat="67.955966144800186" lon="23.680595085024834">
         <ele>236.641999999999996</ele>
       </trkpt>
-      <trkpt lat="67.95793698169291" lon="23.680066019296646">
+      <trkpt lat="67.957094181329012" lon="23.678745534271002">
         <ele>236</ele>
       </trkpt>
-      <trkpt lat="67.95821400359273" lon="23.679802995175123">
+      <trkpt lat="67.957525346428156" lon="23.677988816052675"/>
+      <trkpt lat="67.958221714943647" lon="23.677116427570581"/>
+      <trkpt lat="67.958837114274502" lon="23.676580488681793">
         <ele>236.569999999999993</ele>
       </trkpt>
-      <trkpt lat="67.960155000910163" lon="23.676310004666448">
+      <trkpt lat="67.959708413109183" lon="23.675676668062806">
         <ele>241</ele>
       </trkpt>
-      <trkpt lat="67.960436968132854" lon="23.676059972494841">
+      <trkpt lat="67.960045281797647" lon="23.675361340865493"/>
+      <trkpt lat="67.960503352805972" lon="23.674867646768689">
         <ele>240.920999999999992</ele>
       </trkpt>
       <trkpt lat="67.963192015886307" lon="23.672042023390532">
@@ -31966,37 +31648,38 @@ Karhunkierros 229
       <trkpt lat="68.193894010037184" lon="23.208837015554309">
         <ele>283</ele>
       </trkpt>
-      <trkpt lat="68.196648973971605" lon="23.206914039328694">
+      <trkpt lat="68.196480832993984" lon="23.205703692510724">
         <ele>281.89100000000002</ele>
       </trkpt>
-      <trkpt lat="68.198081022128463" lon="23.214423973113298">
+      <trkpt lat="68.197304606437683" lon="23.210308961570263"/>
+      <trkpt lat="68.197870552539825" lon="23.211191743612289">
         <ele>291.925999999999988</ele>
       </trkpt>
-      <trkpt lat="68.198260981589556" lon="23.214423973113298">
-        <ele>291.925999999999988</ele>
-      </trkpt>
-      <trkpt lat="68.202759968116879" lon="23.218419961631298">
+      <trkpt lat="68.198254108428955" lon="23.211691975593567"/>
+      <trkpt lat="68.19952430203557" lon="23.213722659274936">
         <ele>300</ele>
       </trkpt>
-      <trkpt lat="68.202940011397004" lon="23.218942992389202">
+      <trkpt lat="68.20111527107656" lon="23.216356337070465">
         <ele>300.081000000000017</ele>
       </trkpt>
-      <trkpt lat="68.20531896315515" lon="23.229551967233419">
+      <trkpt lat="68.204064024612308" lon="23.226170120760798">
         <ele>300</ele>
       </trkpt>
       <trkpt lat="68.20531896315515" lon="23.230053959414363">
         <ele>300.028999999999996</ele>
       </trkpt>
-      <trkpt lat="68.210320025682449" lon="23.246796978637576">
+      <trkpt lat="68.208459075540304" lon="23.24085395783186"/>
+      <trkpt lat="68.210200918838382" lon="23.244988415390253">
         <ele>300</ele>
       </trkpt>
-      <trkpt lat="68.210320025682449" lon="23.247297964990139">
+      <trkpt lat="68.210597047582269" lon="23.246945254504681">
         <ele>299.151999999999987</ele>
       </trkpt>
-      <trkpt lat="68.21206396445632" lon="23.255660003051162">
+      <trkpt lat="68.211320992559195" lon="23.251886805519462"/>
+      <trkpt lat="68.212183406576514" lon="23.254251508042216">
         <ele>300.569999999999993</ele>
       </trkpt>
-      <trkpt lat="68.21206396445632" lon="23.256184961646795">
+      <trkpt lat="68.212695373222232" lon="23.255890924483538">
         <ele>300</ele>
       </trkpt>
       <trkpt lat="68.21356700733304" lon="23.260680008679628">
@@ -32005,70 +31688,72 @@ Karhunkierros 229
       <trkpt lat="68.213746966794133" lon="23.262227978557348">
         <ele>280</ele>
       </trkpt>
-      <trkpt lat="68.215249003842473" lon="23.27061197720468">
+      <trkpt lat="68.215009532868862" lon="23.268880946561694">
         <ele>279.713999999999999</ele>
       </trkpt>
-      <trkpt lat="68.211055034771562" lon="23.298011999577284">
+      <trkpt lat="68.211520230397582" lon="23.297233656048775">
         <ele>268</ele>
       </trkpt>
-      <trkpt lat="68.212361019104719" lon="23.306699004024267">
+      <trkpt lat="68.212633263319731" lon="23.303060168400407">
         <ele>273.057999999999993</ele>
       </trkpt>
-      <trkpt lat="68.212361019104719" lon="23.307571979239583">
+      <trkpt lat="68.212463445961475" lon="23.304884573444724">
         <ele>274</ele>
       </trkpt>
-      <trkpt lat="68.209997992962599" lon="23.313638968393207">
+      <trkpt lat="68.210111651569605" lon="23.31366847269237">
         <ele>280</ele>
       </trkpt>
       <trkpt lat="68.209997992962599" lon="23.314338019117713">
         <ele>280</ele>
       </trkpt>
-      <trkpt lat="68.209685012698174" lon="23.318880004808307">
+      <trkpt lat="68.209615191444755" lon="23.318229485303164">
         <ele>279.838000000000022</ele>
       </trkpt>
-      <trkpt lat="68.209505975246429" lon="23.318880004808307">
+      <trkpt lat="68.209420228376985" lon="23.318862151354551">
         <ele>279.213999999999999</ele>
       </trkpt>
-      <trkpt lat="68.208003016188741" lon="23.323419978842139">
+      <trkpt lat="68.208483550697565" lon="23.322349525988102"/>
+      <trkpt lat="68.208389254286885" lon="23.323717201128602">
         <ele>280.377999999999986</ele>
       </trkpt>
-      <trkpt lat="68.208003016188741" lon="23.323921971023083">
+      <trkpt lat="68.20845840498805" lon="23.326248619705439">
         <ele>280.377999999999986</ele>
       </trkpt>
-      <trkpt lat="68.208628976717591" lon="23.349992036819458">
+      <trkpt lat="68.208911027759314" lon="23.347361544147134">
         <ele>281.971000000000004</ele>
       </trkpt>
-      <trkpt lat="68.208628976717591" lon="23.350493023172021">
+      <trkpt lat="68.2088961917907" lon="23.348505087196827">
         <ele>282.774999999999977</ele>
       </trkpt>
       <trkpt lat="68.203762024641037" lon="23.363395035266876">
         <ele>286.086999999999989</ele>
       </trkpt>
-      <trkpt lat="68.203574018552899" lon="23.367563020437956">
+      <trkpt lat="68.203200940042734" lon="23.366833711043">
         <ele>281.865999999999985</ele>
       </trkpt>
-      <trkpt lat="68.202643040567636" lon="23.37088200263679">
+      <trkpt lat="68.203164981678128" lon="23.370028641074896">
         <ele>277.514999999999986</ele>
       </trkpt>
-      <trkpt lat="68.202462997287512" lon="23.371382988989353">
+      <trkpt lat="68.203039253130555" lon="23.371121641248465">
         <ele>277</ele>
       </trkpt>
+      <trkpt lat="68.202051110565662" lon="23.372172564268112"/>
       <trkpt lat="68.198660966008902" lon="23.372432989999652">
         <ele>271</ele>
       </trkpt>
-      <trkpt lat="68.198293000459671" lon="23.373479973524809">
+      <trkpt lat="68.198188310489058" lon="23.372761057689786">
         <ele>269.923000000000002</ele>
       </trkpt>
-      <trkpt lat="68.197541981935501" lon="23.377672014757991">
+      <trkpt lat="68.197721187025309" lon="23.373854057863355">
         <ele>266.15100000000001</ele>
       </trkpt>
-      <trkpt lat="68.197541981935501" lon="23.378544989973307">
+      <trkpt lat="68.197236126288772" lon="23.378099910914898">
         <ele>266.15100000000001</ele>
       </trkpt>
-      <trkpt lat="68.197353975847363" lon="23.381689041852951">
+      <trkpt lat="68.197038481011987" lon="23.380327988415956">
         <ele>267</ele>
       </trkpt>
-      <trkpt lat="68.198401965200901" lon="23.384636035189033">
+      <trkpt lat="68.198457872495055" lon="23.383648982271552">
         <ele>270</ele>
       </trkpt>
       <trkpt lat="68.198401965200901" lon="23.386731008067727">
@@ -32086,45 +31771,53 @@ Karhunkierros 229
       <trkpt lat="68.200640017166734" lon="23.406726038083434">
         <ele>280.786000000000001</ele>
       </trkpt>
-      <trkpt lat="68.21910903789103" lon="23.415459981188178">
+      <trkpt lat="68.216998390853405" lon="23.414032123982906">
         <ele>285.793000000000006</ele>
       </trkpt>
-      <trkpt lat="68.219288997352123" lon="23.415459981188178">
+      <trkpt lat="68.21766315959394" lon="23.414284335449338">
         <ele>286.151999999999987</ele>
       </trkpt>
-      <trkpt lat="68.219970026984811" lon="23.420501025393605">
+      <trkpt lat="68.219450768083334" lon="23.419370977208018">
         <ele>282.891999999999996</ele>
       </trkpt>
-      <trkpt lat="68.219970026984811" lon="23.421002011746168">
+      <trkpt lat="68.219702308997512" lon="23.421262688934803">
         <ele>282.350000000000023</ele>
       </trkpt>
-      <trkpt lat="68.220148980617523" lon="23.425172008574009">
+      <trkpt lat="68.21983709000051" lon="23.422691971063614">
         <ele>282.536000000000001</ele>
       </trkpt>
-      <trkpt lat="68.222304973751307" lon="23.426802037283778">
+      <trkpt lat="68.220142526552081" lon="23.42456272803247"/>
+      <trkpt lat="68.22166065685451" lon="23.42576083727181">
         <ele>288.298000000000002</ele>
       </trkpt>
-      <trkpt lat="68.226601034402847" lon="23.437018990516663">
+      <trkpt lat="68.225873652845621" lon="23.438413990661502">
         <ele>301</ele>
       </trkpt>
-      <trkpt lat="68.227351969107985" lon="23.446872001513839">
+      <trkpt lat="68.226314038038254" lon="23.440810460597277"/>
+      <trkpt lat="68.226789962500334" lon="23.445392344146967"/>
+      <trkpt lat="68.227329086512327" lon="23.446275377646089"/>
+      <trkpt lat="68.227463867515326" lon="23.44644351862371">
         <ele>289.466999999999985</ele>
       </trkpt>
+      <trkpt lat="68.227634355425835" lon="23.446485260501504"/>
       <trkpt lat="68.231953969225287" lon="23.451485987752676">
         <ele>297</ele>
       </trkpt>
-      <trkpt lat="68.234546994790435" lon="23.460554033517838">
+      <trkpt lat="68.234084062278271" lon="23.461303794756532">
         <ele>292</ele>
       </trkpt>
-      <trkpt lat="68.23481597006321" lon="23.460554033517838">
+      <trkpt lat="68.235108163207769" lon="23.461682070046663">
         <ele>292.336999999999989</ele>
       </trkpt>
-      <trkpt lat="68.246343014761806" lon="23.463629018515348">
+      <trkpt lat="68.244881965219975" lon="23.461724063381553">
         <ele>299.935999999999979</ele>
       </trkpt>
-      <trkpt lat="68.246812988072634" lon="23.463629018515348">
+      <trkpt lat="68.245394015684724" lon="23.460925268009305"/>
+      <trkpt lat="68.246337231248617" lon="23.460841281339526"/>
+      <trkpt lat="68.246768480166793" lon="23.460673056542873">
         <ele>299.442999999999984</ele>
       </trkpt>
+      <trkpt lat="68.247199645265937" lon="23.460252704098821"/>
       <trkpt lat="68.254583012312651" lon="23.457796974107623">
         <ele>315</ele>
       </trkpt>
@@ -32137,95 +31830,118 @@ Karhunkierros 229
       <trkpt lat="68.267482006922364" lon="23.460644977167249">
         <ele>341.935000000000002</ele>
       </trkpt>
-      <trkpt lat="68.27396197244525" lon="23.474198011681437">
+      <trkpt lat="68.271786952391267" lon="23.474555164575577"/>
+      <trkpt lat="68.271975629031658" lon="23.47484945319593">
         <ele>357.497000000000014</ele>
       </trkpt>
-      <trkpt lat="68.283553970977664" lon="23.451702995225787">
+      <trkpt lat="68.278407650068402" lon="23.461838643997908"/>
+      <trkpt lat="68.28235125169158" lon="23.454166688024998">
         <ele>367.663999999999987</ele>
       </trkpt>
-      <trkpt lat="68.309322958812118" lon="23.450163993984461">
+      <trkpt lat="68.308285614475608" lon="23.450613180175424">
         <ele>316.437000000000012</ele>
       </trkpt>
-      <trkpt lat="68.310156036168337" lon="23.450163993984461">
+      <trkpt lat="68.309309715405107" lon="23.450697250664234">
         <ele>314.437999999999988</ele>
       </trkpt>
-      <trkpt lat="68.313806019723415" lon="23.458547992631793">
+      <trkpt lat="68.313230937346816" lon="23.458716217428446">
         <ele>310.298000000000002</ele>
       </trkpt>
-      <trkpt lat="68.313994025811553" lon="23.458547992631793">
+      <trkpt lat="68.31356780603528" lon="23.458821326494217">
         <ele>310</ele>
       </trkpt>
-      <trkpt lat="68.324512979015708" lon="23.446495989337564">
+      <trkpt lat="68.316280692815781" lon="23.454512441530824"/>
+      <trkpt lat="68.320138799026608" lon="23.449993338435888"/>
+      <trkpt lat="68.3236154448241" lon="23.447828041389585"/>
+      <trkpt lat="68.324208296835423" lon="23.446272611618042">
         <ele>300</ele>
       </trkpt>
-      <trkpt lat="68.322177026420832" lon="23.430585041642189">
+      <trkpt lat="68.324352046474814" lon="23.444591118022799"/>
+      <trkpt lat="68.323256112635136" lon="23.437717873603106"/>
+      <trkpt lat="68.322151210159063" lon="23.434523027390242"/>
+      <trkpt lat="68.322061356157064" lon="23.432400058954954">
         <ele>299</ele>
       </trkpt>
+      <trkpt lat="68.323858017101884" lon="23.430949738249183"/>
       <trkpt lat="68.3254390116781" lon="23.427475020289421">
         <ele>299.579999999999984</ele>
       </trkpt>
       <trkpt lat="68.325708992779255" lon="23.427475020289421">
         <ele>300</ele>
       </trkpt>
-      <trkpt lat="68.341955970972776" lon="23.424329962581396">
+      <trkpt lat="68.341873995959759" lon="23.423877088353038">
         <ele>291</ele>
       </trkpt>
-      <trkpt lat="68.352179965004325" lon="23.443524017930031">
+      <trkpt lat="68.342781253159046" lon="23.425285331904888"/>
+      <trkpt lat="68.343886323273182" lon="23.430204000324011"/>
+      <trkpt lat="68.346212971955538" lon="23.434449853375554"/>
+      <trkpt lat="68.347542425617576" lon="23.438296308740973"/>
+      <trkpt lat="68.350093625485897" lon="23.441785695031285">
         <ele>290</ele>
       </trkpt>
-      <trkpt lat="68.351992964744568" lon="23.443524017930031">
+      <trkpt lat="68.351135663688183" lon="23.446115618571639">
         <ele>290</ele>
       </trkpt>
-      <trkpt lat="68.352450029924512" lon="23.458422012627125">
+      <trkpt lat="68.352348357439041" lon="23.45731895416975">
         <ele>290</ele>
       </trkpt>
-      <trkpt lat="68.352166973054409" lon="23.465234991163015">
+      <trkpt lat="68.352231597527862" lon="23.458264851942658"/>
+      <trkpt lat="68.35189925506711" lon="23.46251062117517">
         <ele>290.199000000000012</ele>
       </trkpt>
-      <trkpt lat="68.354234034195542" lon="23.469687039032578">
+      <trkpt lat="68.352878428995609" lon="23.465411262586713"/>
+      <trkpt lat="68.354261610656977" lon="23.467092923820019">
         <ele>289</ele>
       </trkpt>
-      <trkpt lat="68.360815001651645" lon="23.466054992750287">
+      <trkpt lat="68.358771158382297" lon="23.467996744439006"/>
+      <trkpt lat="68.359795259311795" lon="23.467009020969272"/>
+      <trkpt lat="68.3599210716784" lon="23.463961193338037"/>
+      <trkpt lat="68.360253414139152" lon="23.462195629253983">
         <ele>299.934000000000026</ele>
       </trkpt>
-      <trkpt lat="68.364560035988688" lon="23.474404038861394">
+      <trkpt lat="68.364367671310902" lon="23.472305797040462">
         <ele>303</ele>
       </trkpt>
       <trkpt lat="68.364829011261463" lon="23.474404038861394">
         <ele>303</ele>
       </trkpt>
+      <trkpt lat="68.365643313154578" lon="23.477812791243196"/>
       <trkpt lat="68.370063006877899" lon="23.507051970809698">
         <ele>293</ele>
       </trkpt>
       <trkpt lat="68.370332987979054" lon="23.507802989333868">
         <ele>292.927000000000021</ele>
       </trkpt>
-      <trkpt lat="68.375661028549075" lon="23.521949965506792">
+      <trkpt lat="68.374787885695696" lon="23.521028375253081">
         <ele>291</ele>
       </trkpt>
-      <trkpt lat="68.37593100965023" lon="23.5227370262146">
+      <trkpt lat="68.375488612800837" lon="23.523424593731761">
         <ele>291</ele>
       </trkpt>
-      <trkpt lat="68.380189016461372" lon="23.547329027205706">
+      <trkpt lat="68.376162350177765" lon="23.526997799053788"/>
+      <trkpt lat="68.378039812669158" lon="23.540429044514894"/>
+      <trkpt lat="68.379953233525157" lon="23.547596493735909">
         <ele>292</ele>
       </trkpt>
-      <trkpt lat="68.381610000506043" lon="23.567924033850431">
+      <trkpt lat="68.382235039025545" lon="23.564958348870277">
         <ele>293</ele>
       </trkpt>
-      <trkpt lat="68.381879981607199" lon="23.570246994495392">
+      <trkpt lat="68.382630329579115" lon="23.568909913301468">
         <ele>293</ele>
       </trkpt>
-      <trkpt lat="68.386576026678085" lon="23.583744037896395">
+      <trkpt lat="68.383079431951046" lon="23.571411157026887"/>
+      <trkpt lat="68.385558798909187" lon="23.579188138246536"/>
+      <trkpt lat="68.386358264833689" lon="23.583812350407243">
         <ele>294.673999999999978</ele>
       </trkpt>
-      <trkpt lat="68.389098979532719" lon="23.604375002905726">
+      <trkpt lat="68.386528920382261" lon="23.59232509508729"/>
+      <trkpt lat="68.385945037007332" lon="23.604747327044606">
         <ele>295</ele>
       </trkpt>
     </trkseg>
   </trk>
-
   <trk>
-    <name>TET_FIN-03_20220709</name>
+    <name>TET_FIN-03_20220716</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -45483,9 +45199,8 @@ Karhunkierros 229
       </trkpt>
     </trkseg>
   </trk>
-
   <trk>
-    <name>TET_FIN-04_20220709</name>
+    <name>TET_FIN-04_20220716</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -46822,76 +46537,39 @@ Karhunkierros 229
       <trkpt lat="60.690300464630127" lon="26.837925910949707"/>
       <trkpt lat="60.69096565246582" lon="26.838548183441162"/>
       <trkpt lat="60.691115856170654" lon="26.838698387145996"/>
-      <trkpt lat="60.691330432891846" lon="26.838870048522949"/>
-      <trkpt lat="60.691523551940918" lon="26.839020252227783"/>
-      <trkpt lat="60.691995620727539" lon="26.839449405670166"/>
-      <trkpt lat="60.692059993743896" lon="26.839470863342285"/>
-      <trkpt lat="60.692145824432373" lon="26.839492321014404"/>
-      <trkpt lat="60.69223165512085" lon="26.839535236358643"/>
-      <trkpt lat="60.69223165512085" lon="26.839749813079834"/>
-      <trkpt lat="60.692296028137207" lon="26.839878559112549"/>
-      <trkpt lat="60.692360401153564" lon="26.839900016784668"/>
-      <trkpt lat="60.692403316497803" lon="26.839878559112549"/>
-      <trkpt lat="60.69246768951416" lon="26.839728355407715"/>
-      <trkpt lat="60.692532062530518" lon="26.83985710144043"/>
-      <trkpt lat="60.692682266235352" lon="26.840071678161621"/>
-      <trkpt lat="60.693111419677734" lon="26.840436458587646"/>
-      <trkpt lat="60.693197250366211" lon="26.840522289276123"/>
-      <trkpt lat="60.693240165710449" lon="26.840565204620361"/>
-      <trkpt lat="60.693261623382568" lon="26.8406081199646"/>
-      <trkpt lat="60.693540573120117" lon="26.84084415435791"/>
-      <trkpt lat="60.693604946136475" lon="26.840929985046387"/>
-      <trkpt lat="60.693755149841309" lon="26.841058731079102"/>
-      <trkpt lat="60.694098472595215" lon="26.841380596160889"/>
-      <trkpt lat="60.694184303283691" lon="26.841444969177246"/>
-      <trkpt lat="60.694377422332764" lon="26.841638088226318"/>
-      <trkpt lat="60.694613456726074" lon="26.84185266494751"/>
-      <trkpt lat="60.694870948791504" lon="26.842110157012939"/>
-      <trkpt lat="60.695021152496338" lon="26.842238903045654"/>
-      <trkpt lat="60.695106983184814" lon="26.84234619140625"/>
-      <trkpt lat="60.695192813873291" lon="26.842432022094727"/>
-      <trkpt lat="60.695385932922363" lon="26.842710971832275"/>
-      <trkpt lat="60.695536136627197" lon="26.843032836914062"/>
-      <trkpt lat="60.695815086364746" lon="26.843912601470947"/>
-      <trkpt lat="60.696008205413818" lon="26.844406127929688"/>
-      <trkpt lat="60.696115493774414" lon="26.844620704650879"/>
-      <trkpt lat="60.696394443511963" lon="26.8450927734375"/>
-      <trkpt lat="60.69671630859375" lon="26.845457553863525"/>
-      <trkpt lat="60.697059631347656" lon="26.845757961273193"/>
-      <trkpt lat="60.697360038757324" lon="26.846058368682861"/>
-      <trkpt lat="60.697295665740967" lon="26.846530437469482"/>
-      <trkpt lat="60.696394443511963" lon="26.8505859375"/>
-      <trkpt lat="60.69572925567627" lon="26.853418350219727"/>
-      <trkpt lat="60.695579051971436" lon="26.854019165039062"/>
-      <trkpt lat="60.695493221282959" lon="26.854448318481445"/>
-      <trkpt lat="60.695343017578125" lon="26.85509204864502"/>
-      <trkpt lat="60.695257186889648" lon="26.855413913726807"/>
-      <trkpt lat="60.694999694824219" lon="26.856658458709717"/>
-      <trkpt lat="60.694828033447266" lon="26.85781717300415"/>
-      <trkpt lat="60.694742202758789" lon="26.85856819152832"/>
-      <trkpt lat="60.694656372070312" lon="26.859469413757324"/>
-      <trkpt lat="60.694634914398193" lon="26.860177516937256"/>
-      <trkpt lat="60.694634914398193" lon="26.861636638641357"/>
-      <trkpt lat="60.694656372070312" lon="26.862387657165527"/>
-      <trkpt lat="60.694742202758789" lon="26.863439083099365"/>
-      <trkpt lat="60.694935321807861" lon="26.865670680999756"/>
-      <trkpt lat="60.69521427154541" lon="26.869125366210938"/>
-      <trkpt lat="60.695300102233887" lon="26.870112419128418"/>
-      <trkpt lat="60.695514678955078" lon="26.872773170471191"/>
-      <trkpt lat="60.695772171020508" lon="26.875820159912109"/>
-      <trkpt lat="60.695858001708984" lon="26.876742839813232"/>
-      <trkpt lat="60.696008205413818" lon="26.878030300140381"/>
-      <trkpt lat="60.696136951446533" lon="26.879103183746338"/>
-      <trkpt lat="60.69622278213501" lon="26.879661083221436"/>
-      <trkpt lat="60.696330070495605" lon="26.880519390106201"/>
-      <trkpt lat="60.696008205413818" lon="26.880862712860107"/>
-      <trkpt lat="60.696072578430176" lon="26.881892681121826"/>
-      <trkpt lat="60.696136951446533" lon="26.883072853088379"/>
-      <trkpt lat="60.696147680282593" lon="26.883652880787849"/>
-      <trkpt lat="60.696158409118652" lon="26.884231567382812"/>
-      <trkpt lat="60.696136951446533" lon="26.885433197021484"/>
-      <trkpt lat="60.695986747741699" lon="26.887621879577637"/>
-      <trkpt lat="60.695557594299316" lon="26.892321109771729"/>
+      <trkpt lat="60.690761972218752" lon="26.840156000107527"/>
+      <trkpt lat="60.684985751286149" lon="26.846692794933915"/>
+      <trkpt lat="60.685237292200327" lon="26.848437404260039"/>
+      <trkpt lat="60.684886928647757" lon="26.850728429853916"/>
+      <trkpt lat="60.684940908104181" lon="26.851821430027485"/>
+      <trkpt lat="60.685129500925541" lon="26.852052686735988"/>
+      <trkpt lat="60.685938019305468" lon="26.851863507181406"/>
+      <trkpt lat="60.68664763122797" lon="26.851022718474269"/>
+      <trkpt lat="60.68668819963932" lon="26.850696997717023"/>
+      <trkpt lat="60.687995105981827" lon="26.848710654303432"/>
+      <trkpt lat="60.688583767041564" lon="26.848290469497442"/>
+      <trkpt lat="60.689392201602459" lon="26.848206399008632"/>
+      <trkpt lat="60.689729070290923" lon="26.849099826067686"/>
+      <trkpt lat="60.689715575426817" lon="26.849394030869007"/>
+      <trkpt lat="60.689446097239852" lon="26.850402960553765"/>
+      <trkpt lat="60.689962590113282" lon="26.85283069498837"/>
+      <trkpt lat="60.689760586246848" lon="26.853881785646081"/>
+      <trkpt lat="60.689890841022134" lon="26.858085645362735"/>
+      <trkpt lat="60.690007600933313" lon="26.859546275809407"/>
+      <trkpt lat="60.692284796386957" lon="26.859861603006721"/>
+      <trkpt lat="60.69383435882628" lon="26.86105971224606"/>
+      <trkpt lat="60.693093314766884" lon="26.863077487796545"/>
+      <trkpt lat="60.692055718973279" lon="26.86437014490366"/>
+      <trkpt lat="60.691772745922208" lon="26.865599770098925"/>
+      <trkpt lat="60.691462866961956" lon="26.867333902046084"/>
+      <trkpt lat="60.691368486732244" lon="26.874806117266417"/>
+      <trkpt lat="60.691314674913883" lon="26.881868625059724"/>
+      <trkpt lat="60.690654516220093" lon="26.883602673187852"/>
+      <trkpt lat="60.691947843879461" lon="26.886597778648138"/>
+      <trkpt lat="60.692446483299136" lon="26.886408599093556"/>
+      <trkpt lat="60.693901749327779" lon="26.889592967927456"/>
+      <trkpt lat="60.694049941375852" lon="26.892588073387742"/>
+      <trkpt lat="60.6955860927701" lon="26.892430409789085"/>
       <trkpt lat="60.695278644561768" lon="26.895668506622314"/>
       <trkpt lat="60.695064067840576" lon="26.897921562194824"/>
       <trkpt lat="60.694892406463623" lon="26.899745464324951"/>
@@ -49009,16 +48687,101 @@ Karhunkierros 229
       <trkpt lat="60.600070953369141" lon="27.808198928833008"/>
     </trkseg>
   </trk>
-
   <trk>
-    <name>TET_FIN-05_20220709</name>
+    <name>TET_FIN-05_20220716</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
       </gpxx:TrackExtension>
     </extensions>
     <trkseg>
-      <trkpt lat="60.119665190577507" lon="23.864932833239436"/>
+      <trkpt lat="60.14098422601819" lon="24.264002703130245"/>
+      <trkpt lat="60.137893985956907" lon="24.263750491663814"/>
+      <trkpt lat="60.137067530304193" lon="24.260009061545134"/>
+      <trkpt lat="60.137714277952909" lon="24.252021862193942"/>
+      <trkpt lat="60.137965902686119" lon="24.235332570970058"/>
+      <trkpt lat="60.139169627800584" lon="24.23033008351922"/>
+      <trkpt lat="60.138648608699441" lon="24.227345371618867"/>
+      <trkpt lat="60.135594243183732" lon="24.228354133665562"/>
+      <trkpt lat="60.132378274574876" lon="24.225369421765208"/>
+      <trkpt lat="60.132234608754516" lon="24.219021303579211"/>
+      <trkpt lat="60.130312135443091" lon="24.214187292382121"/>
+      <trkpt lat="60.127509478479624" lon="24.204434109851718"/>
+      <trkpt lat="60.123502928763628" lon="24.200987052172422"/>
+      <trkpt lat="60.121257165446877" lon="24.201869834214449"/>
+      <trkpt lat="60.119657982140779" lon="24.204308046028018"/>
+      <trkpt lat="60.114106396213174" lon="24.205274898558855"/>
+      <trkpt lat="60.113980583846569" lon="24.21099211089313"/>
+      <trkpt lat="60.111860549077392" lon="24.206367898732424"/>
+      <trkpt lat="60.111160073429346" lon="24.194891648367047"/>
+      <trkpt lat="60.10977647267282" lon="24.188753915950656"/>
+      <trkpt lat="60.108087686821818" lon="24.187997281551361"/>
+      <trkpt lat="60.092349573969841" lon="24.184087794274092"/>
+      <trkpt lat="60.089169563725591" lon="24.182069934904575"/>
+      <trkpt lat="60.093499403446913" lon="24.171644523739815"/>
+      <trkpt lat="60.098188575357199" lon="24.165633022785187"/>
+      <trkpt lat="60.099895382300019" lon="24.156510829925537"/>
+      <trkpt lat="60.104386992752552" lon="24.146715989336371"/>
+      <trkpt lat="60.10735142044723" lon="24.123048512265086"/>
+      <trkpt lat="60.111914779990911" lon="24.116910947486758"/>
+      <trkpt lat="60.110872741788626" lon="24.107032036408782"/>
+      <trkpt lat="60.107225608080626" lon="24.102702112868428"/>
+      <trkpt lat="60.107279755175114" lon="24.099801387637854"/>
+      <trkpt lat="60.109184123575687" lon="24.096144028007984"/>
+      <trkpt lat="60.114250648766756" lon="24.090637033805251"/>
+      <trkpt lat="60.116280829533935" lon="24.086769539862871"/>
+      <trkpt lat="60.118041532114148" lon="24.082271475344896"/>
+      <trkpt lat="60.122209601104259" lon="24.071551021188498"/>
+      <trkpt lat="60.120278242975473" lon="24.065350340679288"/>
+      <trkpt lat="60.124271549284458" lon="24.05035343952477"/>
+      <trkpt lat="60.122115639969707" lon="24.044993631541729"/>
+      <trkpt lat="60.119043421000242" lon="24.043101919814944"/>
+      <trkpt lat="60.118558276444674" lon="24.036102527752519"/>
+      <trkpt lat="60.119474586099386" lon="24.029986001551151"/>
+      <trkpt lat="60.119043253362179" lon="24.026707084849477"/>
+      <trkpt lat="60.113599458709359" lon="24.02456316165626"/>
+      <trkpt lat="60.110608041286469" lon="24.020023019984365"/>
+      <trkpt lat="60.109745459631085" lon="24.017101172357798"/>
+      <trkpt lat="60.109997000545263" lon="24.010879537090659"/>
+      <trkpt lat="60.106816990301013" lon="24.010543255135417"/>
+      <trkpt lat="60.108577692881227" lon="24.006843902170658"/>
+      <trkpt lat="60.10863158851862" lon="24.006087183952332"/>
+      <trkpt lat="60.108056673780084" lon="24.004783965647221"/>
+      <trkpt lat="60.108489599078894" lon="24.003878133371472"/>
+      <trkpt lat="60.108615411445498" lon="24.002495035529137"/>
+      <trkpt lat="60.107747633010149" lon="24.001479819417"/>
+      <trkpt lat="60.106118945404887" lon="23.994800029322505"/>
+      <trkpt lat="60.113886706531048" lon="23.981202738359571"/>
+      <trkpt lat="60.116536812856793" lon="23.975063245743513"/>
+      <trkpt lat="60.116339335218072" lon="23.970743799582124"/>
+      <trkpt lat="60.122196273878217" lon="23.972257319837809"/>
+      <trkpt lat="60.123530337586999" lon="23.967685662209988"/>
+      <trkpt lat="60.123705435544252" lon="23.963776091113687"/>
+      <trkpt lat="60.126804728060961" lon="23.958910144865513"/>
+      <trkpt lat="60.127029363065958" lon="23.955862401053309"/>
+      <trkpt lat="60.126130990684032" lon="23.952709548175335"/>
+      <trkpt lat="60.127343768253922" lon="23.944617239758372"/>
+      <trkpt lat="60.125187775120139" lon="23.940098136663437"/>
+      <trkpt lat="60.12550201267004" lon="23.930882988497615"/>
+      <trkpt lat="60.122753167524934" lon="23.92832919023931"/>
+      <trkpt lat="60.120961032807827" lon="23.928140010684729"/>
+      <trkpt lat="60.120246894657612" lon="23.925207853317261"/>
+      <trkpt lat="60.120597258210182" lon="23.922937866300344"/>
+      <trkpt lat="60.117174675688148" lon="23.916411548852921"/>
+      <trkpt lat="60.117120780050755" lon="23.912470377981663"/>
+      <trkpt lat="60.116217797622085" lon="23.910137275233865"/>
+      <trkpt lat="60.115678757429123" lon="23.90632233582437"/>
+      <trkpt lat="60.11535513214767" lon="23.901404002681375"/>
+      <trkpt lat="60.116069689393044" lon="23.894593790173531"/>
+      <trkpt lat="60.117120696231723" lon="23.893206585198641"/>
+      <trkpt lat="60.117619251832366" lon="23.890305859968066"/>
+      <trkpt lat="60.117713296785951" lon="23.889296846464276"/>
+      <trkpt lat="60.117484470829368" lon="23.888792423531413"/>
+      <trkpt lat="60.118400696665049" lon="23.882549917325377"/>
+      <trkpt lat="60.118494993075728" lon="23.881225744262338"/>
+      <trkpt lat="60.117673063650727" lon="23.877316256985068"/>
+      <trkpt lat="60.120758777484298" lon="23.871546490117908"/>
+      <trkpt lat="60.119640380144119" lon="23.865082953125238"/>
       <trkpt lat="60.12039240449667" lon="23.860266795381904"/>
       <trkpt lat="60.119180046021938" lon="23.849672991782427"/>
       <trkpt lat="60.118775451555848" lon="23.842106312513351"/>
@@ -57418,9 +57181,8 @@ Karhunkierros 229
       </trkpt>
     </trkseg>
   </trk>
-
   <trk>
-    <name>TET_FIN-06_20220709</name>
+    <name>TET_FIN-06_20220716</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -57522,9 +57284,8 @@ Karhunkierros 229
       </trkpt>
     </trkseg>
   </trk>
-
   <trk>
-    <name>TET_FIN-07_20220709</name>
+    <name>TET_FIN-07_20220716</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -57932,9 +57693,8 @@ Karhunkierros 229
       <trkpt lat="70.085410522297025" lon="27.970046354457736"/>
     </trkseg>
   </trk>
-
   <trk>
-    <name>TET_FIN-08_20220709</name>
+    <name>TET_FIN-08_20220716</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -58853,9 +58613,8 @@ Karhunkierros 229
       <trkpt lat="64.338880218565464" lon="26.883765449747443"/>
     </trkseg>
   </trk>
-
   <trk>
-    <name>TET_FIN-09_20220709</name>
+    <name>TET_FIN-09_20220716</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -59149,5 +58908,4 @@ Karhunkierros 229
       <trkpt lat="64.115646667778492" lon="26.957389237359166"/>
     </trkseg>
   </trk>
-
 </gpx>
