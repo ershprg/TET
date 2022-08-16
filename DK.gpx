@@ -4,7 +4,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2022-06-02T20:58:58Z</time>
+    <time>2022-08-15T15:53:47Z</time>
     <bounds maxlat="56.426082076504827" maxlon="12.894630152732134" minlat="54.654313204810023" minlon="8.480577534064651"/>
   </metadata>
   <wpt lat="55.704757869243622" lon="9.580440893769264">
@@ -774,6 +774,53 @@ Vejle Municipality, Region of Southern Denmark, DNK</desc>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
+  <wpt lat="54.853320121765137" lon="9.39979076385498">
+    <ele>34.62109375</ele>
+    <time>2022-08-15T12:19:27Z</time>
+    <name>Kruså Camping og Hytter (Campsite)</name>
+    <cmt>Kruså Camping og Hytter (Campsite)
+
+Kruså Camping Denmark have a piece of forest that they will use for Off Road Bikers and other good people on the run.
+Good for hammocks.
+It's located near the German border and not far from the start of the Danish TET.
+
+Questions to Heidi and Jesper on: 0045 74671206
+Facebook:https://www.facebook.com/Krusaacampingoghytter https://krusaacamping.dk/
+info@krusaacamping.dk</cmt>
+    <desc>Kruså Camping og Hytter (Campsite)
+
+Kruså Camping Denmark have a piece of forest that they will use for Off Road Bikers and other good people on the run.
+Good for hammocks.
+It's located near the German border and not far from the start of the Danish TET.
+
+Questions to Heidi and Jesper on: 0045 74671206
+Facebook:https://www.facebook.com/Krusaacampingoghytter https://krusaacamping.dk/
+info@krusaacamping.dk</desc>
+    <link href="https://krusaacamping.dk/"/>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:City>Aabenraa Kommune</gpxx:City>
+          <gpxx:State>Region Syddanmark</gpxx:State>
+          <gpxx:Country>DNK</gpxx:Country>
+        </gpxx:Address>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Address>
+          <wptx1:City>Aabenraa Kommune</wptx1:City>
+          <wptx1:State>Region Syddanmark</wptx1:State>
+          <wptx1:Country>DNK</wptx1:Country>
+        </wptx1:Address>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-08-15T12:19:27Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="55.145479571074247" lon="8.480577534064651">
     <time>2020-06-04T15:11:57Z</time>
     <name>Lakolk strand</name>
@@ -936,6 +983,34 @@ https://www.marskcamp.dk/tower</desc>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2022-06-01T21:10:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="56.348363980650902" lon="10.628221035003662">
+    <time>2020-06-04T14:22:16Z</time>
+    <name>MC Touring Camp</name>
+    <cmt>MC Touring Club is the biggest association for motorcyclists in Denmark, with more than 38.000 members.
+
+MC Touring Camp is a campsite for motorcyclists only. It is owned and run by MC Touring Club Denmark.
+
+MC Touring Camp has excellent toilet and bathing facilities, swimming pool, cooking facilities, washing machine and tumble dryer. At the camp you will also find a bar where you can buy breakfast, hot meals, snacks, ice cream, beer, soft drinks and wine at reasonable prices.</cmt>
+    <desc>MC Touring Club is the biggest association for motorcyclists in Denmark, with more than 38.000 members.
+
+MC Touring Camp is a campsite for motorcyclists only. It is owned and run by MC Touring Club Denmark.
+
+MC Touring Camp has excellent toilet and bathing facilities, swimming pool, cooking facilities, washing machine and tumble dryer. At the camp you will also find a bar where you can buy breakfast, hot meals, snacks, ice cream, beer, soft drinks and wine at reasonable prices.</desc>
+    <link href="https://www.touringcamp.dk/om-touring-camp/english/"/>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-06-04T14:22:16Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -2297,7 +2372,7 @@ The Zeppelin- and Garrison Museum in Tønder opened for the first time on May 8,
     </extensions>
   </wpt>
   <trk>
-    <name>TET_DK-01-East_20220601</name>
+    <name>TET_DK-01-East_20220814</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -6404,7 +6479,7 @@ The Zeppelin- and Garrison Museum in Tønder opened for the first time on May 8,
     </trkseg>
   </trk>
   <trk>
-    <name>TET_DK-02-West_20220601</name>
+    <name>TET_DK-02-West_20220814</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -27784,217 +27859,124 @@ The Zeppelin- and Garrison Museum in Tønder opened for the first time on May 8,
       <trkpt lat="56.355721279978752" lon="10.678097466006875">
         <ele>6.42578125</ele>
       </trkpt>
-      <trkpt lat="56.35569772683084" lon="10.679103378206491"/>
-      <trkpt lat="56.357551803812385" lon="10.679793460294604">
-        <ele>5.07421875</ele>
+      <trkpt lat="56.355570321902633" lon="10.680535342544317">
+        <ele>5.94921875</ele>
       </trkpt>
-      <trkpt lat="56.358595853671432" lon="10.680200066417456">
-        <ele>3.43359375</ele>
+      <trkpt lat="56.355443922802806" lon="10.684167975559831">
+        <ele>5.26171875</ele>
       </trkpt>
-      <trkpt lat="56.35905752889812" lon="10.680021867156029"/>
-      <trkpt lat="56.35960872285068" lon="10.678144404664636">
-        <ele>9.765625</ele>
+      <trkpt lat="56.355628408491611" lon="10.685993386432528">
+        <ele>5.08203125</ele>
       </trkpt>
-      <trkpt lat="56.360252285376191" lon="10.678379684686661">
-        <ele>16.01953125</ele>
+      <trkpt lat="56.355839716270566" lon="10.68830762989819">
+        <ele>5.57421875</ele>
       </trkpt>
-      <trkpt lat="56.360254129394889" lon="10.678379684686661">
-        <ele>37.063000000000002</ele>
+      <trkpt lat="56.356277083978057" lon="10.691465260460973">
+        <ele>5.25</ele>
       </trkpt>
-      <trkpt lat="56.360329650342464" lon="10.678444895893335">
-        <ele>1.859375</ele>
+      <trkpt lat="56.356399711221457" lon="10.693691158667207">
+        <ele>6.48046875</ele>
       </trkpt>
-      <trkpt lat="56.360299224033952" lon="10.67863273434341">
-        <ele>37.921999999999997</ele>
+      <trkpt lat="56.356674050912261" lon="10.695132929831743">
+        <ele>6.5703125</ele>
       </trkpt>
-      <trkpt lat="56.360056987032294" lon="10.680261002853513">
-        <ele>36.174999999999997</ele>
+      <trkpt lat="56.357311327010393" lon="10.697508361190557">
+        <ele>8.99609375</ele>
       </trkpt>
-      <trkpt lat="56.360063692554832" lon="10.681037670001388"/>
-      <trkpt lat="56.360508017241955" lon="10.682244999334216">
-        <ele>38.475000000000001</ele>
+      <trkpt lat="56.357533866539598" lon="10.698104482144117">
+        <ele>6.91796875</ele>
       </trkpt>
-      <trkpt lat="56.360953263938427" lon="10.68276853300631"/>
-      <trkpt lat="56.361537985503674" lon="10.68306801840663">
-        <ele>38.317999999999998</ele>
+      <trkpt lat="56.357852127403021" lon="10.698523828759789">
+        <ele>4.484375</ele>
       </trkpt>
-      <trkpt lat="56.361959595233202" lon="10.682996101677418"/>
-      <trkpt lat="56.362621011212468" lon="10.682137962430716">
-        <ele>36.840000000000003</ele>
+      <trkpt lat="56.358496444299817" lon="10.698935715481639">
+        <ele>3</ele>
       </trkpt>
-      <trkpt lat="56.363431960344315" lon="10.68083600141108">
-        <ele>38.088000000000001</ele>
+      <trkpt lat="56.358656706288457" lon="10.699111483991146">
+        <ele>3</ele>
       </trkpt>
-      <trkpt lat="56.36427903547883" lon="10.679606962949038">
-        <ele>38.677999999999997</ele>
+      <trkpt lat="56.35895099490881" lon="10.699560502544045">
+        <ele>3.28125</ele>
       </trkpt>
-      <trkpt lat="56.365257035940886" lon="10.67935299128294">
-        <ele>37.43</ele>
+      <trkpt lat="56.35917822830379" lon="10.699681285768747">
+        <ele>3.85546875</ele>
       </trkpt>
-      <trkpt lat="56.36619002558291" lon="10.679553989320993">
-        <ele>38.616999999999997</ele>
+      <trkpt lat="56.360031003132463" lon="10.699826627969742">
+        <ele>6.27734375</ele>
       </trkpt>
-      <trkpt lat="56.366743147373199" lon="10.679647950455546"/>
-      <trkpt lat="56.367170959711075" lon="10.679372018203139">
-        <ele>38.469000000000001</ele>
+      <trkpt lat="56.360182883217931" lon="10.699949255213141">
+        <ele>6.91796875</ele>
       </trkpt>
-      <trkpt lat="56.368095064535737" lon="10.678664585575461">
-        <ele>38.328000000000003</ele>
+      <trkpt lat="56.360384300351143" lon="10.70023549720645">
+        <ele>7.6328125</ele>
       </trkpt>
-      <trkpt lat="56.368220876902342" lon="10.679290378466249"/>
-      <trkpt lat="56.368277035653591" lon="10.68008498288691">
-        <ele>44.168999999999997</ele>
+      <trkpt lat="56.360544394701719" lon="10.70038209669292">
+        <ele>7.8203125</ele>
       </trkpt>
-      <trkpt lat="56.368302013725042" lon="10.680392012000084">
-        <ele>39.758000000000003</ele>
+      <trkpt lat="56.360955527052283" lon="10.700586028397083">
+        <ele>10.296875</ele>
       </trkpt>
-      <trkpt lat="56.368399998173118" lon="10.681260041892529">
-        <ele>38.191000000000003</ele>
+      <trkpt lat="56.361042782664299" lon="10.700744111090899">
+        <ele>10.890625</ele>
       </trkpt>
-      <trkpt lat="56.368530839681625" lon="10.682687228545547"/>
-      <trkpt lat="56.368986982852221" lon="10.68257600069046">
-        <ele>41.414999999999999</ele>
+      <trkpt lat="56.361167589202523" lon="10.701618762686849">
+        <ele>11.48828125</ele>
       </trkpt>
-      <trkpt lat="56.369689805433154" lon="10.682232091203332"/>
-      <trkpt lat="56.36997202411294" lon="10.682654958218336">
-        <ele>41.936999999999998</ele>
+      <trkpt lat="56.361176809296012" lon="10.703286426141858">
+        <ele>11.86328125</ele>
       </trkpt>
-      <trkpt lat="56.370821027085185" lon="10.684011988341808">
-        <ele>44.609999999999999</ele>
+      <trkpt lat="56.361233303323388" lon="10.704434160143137">
+        <ele>13.69140625</ele>
       </trkpt>
-      <trkpt lat="56.371120009571314" lon="10.684511968865991">
-        <ele>44.654000000000003</ele>
+      <trkpt lat="56.361269345507026" lon="10.704947300255299">
+        <ele>14.98046875</ele>
       </trkpt>
-      <trkpt lat="56.372054005041718" lon="10.685973018407822">
-        <ele>45.972999999999999</ele>
+      <trkpt lat="56.361388536170125" lon="10.706544555723667">
+        <ele>12.09765625</ele>
       </trkpt>
-      <trkpt lat="56.372899990528822" lon="10.6873660068959">
-        <ele>45.851999999999997</ele>
+      <trkpt lat="56.361667821183801" lon="10.708695687353611">
+        <ele>10.62890625</ele>
       </trkpt>
-      <trkpt lat="56.373709011822939" lon="10.688636032864451">
-        <ele>46.392000000000003</ele>
+      <trkpt lat="56.361857755109668" lon="10.710000414401293">
+        <ele>10.484375</ele>
       </trkpt>
-      <trkpt lat="56.374583998695016" lon="10.690084006637335">
-        <ele>42.063000000000002</ele>
+      <trkpt lat="56.362091274932027" lon="10.711774444207549">
+        <ele>10.875</ele>
       </trkpt>
-      <trkpt lat="56.375404000282288" lon="10.691455034539104">
-        <ele>44.310000000000002</ele>
+      <trkpt lat="56.362406518310308" lon="10.714036216959357">
+        <ele>13.06640625</ele>
       </trkpt>
-      <trkpt lat="56.375942034646869" lon="10.692244023084641"/>
-      <trkpt lat="56.376230036839843" lon="10.692396992817521">
-        <ele>46.603000000000002</ele>
+      <trkpt lat="56.362670548260212" lon="10.715935556218028">
+        <ele>15.6328125</ele>
       </trkpt>
-      <trkpt lat="56.376665057614446" lon="10.692496066913009"/>
-      <trkpt lat="56.377159086987376" lon="10.693365521728992"/>
-      <trkpt lat="56.377639705315232" lon="10.693739354610443"/>
-      <trkpt lat="56.378172961995006" lon="10.694647030904889">
-        <ele>48.799999999999997</ele>
-        <time>2021-05-09T11:33:45Z</time>
+      <trkpt lat="56.362724024802446" lon="10.716249374672771">
+        <ele>15.578125</ele>
       </trkpt>
-      <trkpt lat="56.378211015835404" lon="10.69480000063777">
-        <ele>45</ele>
-        <time>2021-05-09T11:33:48Z</time>
+      <trkpt lat="56.362910689786077" lon="10.717127546668053">
+        <ele>15.1484375</ele>
       </trkpt>
-      <trkpt lat="56.378464987501502" lon="10.695464015007019">
-        <ele>50.399999999999999</ele>
-        <time>2021-05-09T11:33:55Z</time>
+      <trkpt lat="56.363080339506269" lon="10.717870267108083">
+        <ele>14.4375</ele>
       </trkpt>
-      <trkpt lat="56.378301959484816" lon="10.695796022191644">
-        <ele>45.700000000000003</ele>
-        <time>2021-05-09T11:33:59Z</time>
+      <trkpt lat="56.36429077014327" lon="10.722501771524549">
+        <ele>11.33984375</ele>
       </trkpt>
-      <trkpt lat="56.377873308956623" lon="10.695990398526192"/>
-      <trkpt lat="56.377787981182337" lon="10.696903020143509">
-        <ele>46.799999999999997</ele>
-        <time>2021-05-09T11:34:09Z</time>
+      <trkpt lat="56.364928381517529" lon="10.725008379667997">
+        <ele>10.50390625</ele>
       </trkpt>
-      <trkpt lat="56.377710029482841" lon="10.698592979460955">
-        <ele>53.299999999999997</ele>
-        <time>2021-05-09T11:34:17Z</time>
+      <trkpt lat="56.365479826927185" lon="10.727133778855205">
+        <ele>12.36328125</ele>
       </trkpt>
-      <trkpt lat="56.377702988684177" lon="10.699165966361761">
-        <ele>57</ele>
-        <time>2021-05-09T11:34:20Z</time>
+      <trkpt lat="56.366408206522465" lon="10.730356033891439">
+        <ele>13.4609375</ele>
       </trkpt>
-      <trkpt lat="56.377590335905552" lon="10.699704336002469"/>
-      <trkpt lat="56.376759437844157" lon="10.699753034859896"/>
-      <trkpt lat="56.37654704041779" lon="10.699896030128002">
-        <ele>60</ele>
-        <time>2021-05-09T11:34:35Z</time>
+      <trkpt lat="56.367187052965164" lon="10.733029190450907">
+        <ele>14.109375</ele>
       </trkpt>
-      <trkpt lat="56.3764136005193" lon="10.700240693986416"/>
-      <trkpt lat="56.376283010467887" lon="10.701342998072505">
-        <ele>63.200000000000003</ele>
-        <time>2021-05-09T11:34:43Z</time>
+      <trkpt lat="56.367706228047609" lon="10.734791904687881">
+        <ele>14.78515625</ele>
       </trkpt>
-      <trkpt lat="56.376055022701621" lon="10.703104035928845">
-        <ele>66.299999999999997</ele>
-        <time>2021-05-09T11:34:50Z</time>
-      </trkpt>
-      <trkpt lat="56.375916972756386" lon="10.704129980877042">
-        <ele>70.400000000000006</ele>
-        <time>2021-05-09T11:34:54Z</time>
-      </trkpt>
-      <trkpt lat="56.375643974170089" lon="10.706055974587798">
-        <ele>74.599999999999994</ele>
-        <time>2021-05-09T11:35:01Z</time>
-      </trkpt>
-      <trkpt lat="56.375342980027199" lon="10.707980040460825">
-        <ele>71.200000000000003</ele>
-        <time>2021-05-09T11:35:08Z</time>
-      </trkpt>
-      <trkpt lat="56.374865965917706" lon="10.711265997961164">
-        <ele>64.5</ele>
-        <time>2021-05-09T11:35:19Z</time>
-      </trkpt>
-      <trkpt lat="56.374724982306361" lon="10.712207034230232">
-        <ele>64.5</ele>
-        <time>2021-05-09T11:35:22Z</time>
-      </trkpt>
-      <trkpt lat="56.374180996790528" lon="10.716010993346572">
-        <ele>58.799999999999997</ele>
-        <time>2021-05-09T11:35:36Z</time>
-      </trkpt>
-      <trkpt lat="56.373988967388868" lon="10.716581968590617">
-        <ele>54.100000000000001</ele>
-        <time>2021-05-09T11:35:40Z</time>
-      </trkpt>
-      <trkpt lat="56.373629970476031" lon="10.716697974130511">
-        <ele>54.600000000000001</ele>
-        <time>2021-05-09T11:35:43Z</time>
-      </trkpt>
-      <trkpt lat="56.373073998838663" lon="10.716839041560888">
-        <ele>49.700000000000003</ele>
-        <time>2021-05-09T11:35:47Z</time>
-      </trkpt>
-      <trkpt lat="56.372500006109476" lon="10.716987987980247">
-        <ele>48.399999999999999</ele>
-        <time>2021-05-09T11:35:51Z</time>
-      </trkpt>
-      <trkpt lat="56.371643459424376" lon="10.717639597132802"/>
-      <trkpt lat="56.370637295767665" lon="10.719581935554743"/>
-      <trkpt lat="56.370266983285546" lon="10.719990972429514">
-        <ele>53.600000000000001</ele>
-        <time>2021-05-09T11:36:11Z</time>
-      </trkpt>
-      <trkpt lat="56.369375986978412" lon="10.720853973180056">
-        <ele>53.600000000000001</ele>
-        <time>2021-05-09T11:36:19Z</time>
-      </trkpt>
-      <trkpt lat="56.367825670167804" lon="10.722783990204334"/>
-      <trkpt lat="56.367726847529411" lon="10.723385391756892"/>
-      <trkpt lat="56.367760961875319" lon="10.723927030339837">
-        <ele>57.700000000000003</ele>
-        <time>2021-05-09T11:36:41Z</time>
-      </trkpt>
-      <trkpt lat="56.367838997393847" lon="10.724981976673007">
-        <ele>57.200000000000003</ele>
-        <time>2021-05-09T11:36:45Z</time>
-      </trkpt>
-      <trkpt lat="56.368439979851246" lon="10.735456002876163">
-        <ele>57.799999999999997</ele>
-        <time>2021-05-09T11:37:21Z</time>
-      </trkpt>
+      <trkpt lat="56.368012335151434" lon="10.736156981438398"/>
       <trkpt lat="56.368072517216206" lon="10.736469458788633"/>
       <trkpt lat="56.368369990959764" lon="10.737946014851332">
         <ele>57.799999999999997</ele>
