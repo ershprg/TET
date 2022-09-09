@@ -4,7 +4,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2022-09-07T19:01:17Z</time>
+    <time>2022-09-08T16:20:48Z</time>
     <bounds maxlat="70.089587643742561" maxlon="30.063482997938991" minlat="60.030970573425293" minlon="21.205796096473932"/>
   </metadata>
   <wpt lat="60.647139279171824" lon="23.947838908061385">
@@ -411,6 +411,43 @@ Kauppatie 37
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2021-07-25T18:13:28Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="66.288241166621447" lon="27.202427806332707">
+    <ele>124.968000000000004</ele>
+    <time>2022-09-08T12:46:42Z</time>
+    <name>Auttiköngäs</name>
+    <cmt>https://www.nationalparks.fi/auttikongas</cmt>
+    <desc>https://www.nationalparks.fi/auttikongas</desc>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-09-08T12:46:42Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="66.329598817974329" lon="27.104228027164936">
+    <time>2022-09-08T12:44:42Z</time>
+    <name>Beauty Dam</name>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-09-08T12:44:42Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -6828,7 +6865,7 @@ Karhunkierros 229
     </extensions>
   </wpt>
   <trk>
-    <name>TET_FIN-01_20220907</name>
+    <name>TET_FIN-01_20220908</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -32285,7 +32322,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-02_20220907</name>
+    <name>TET_FIN-02_20220908</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -45185,7 +45222,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-03_20220907</name>
+    <name>TET_FIN-03_20220908</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -60032,9 +60069,12 @@ Karhunkierros 229
         <ele>42.439999999999998</ele>
         <time>2021-09-04T14:35:52Z</time>
       </trkpt>
-      <trkpt lat="62.935491716489196" lon="22.290409756824374"/>
-      <trkpt lat="62.939803618937731" lon="22.296715462580323"/>
-      <trkpt lat="62.943396857008338" lon="22.280951198190451"/>
+      <trkpt lat="62.920457683503628" lon="22.252343008294702"/>
+      <trkpt lat="62.927868794649839" lon="22.236158391460776"/>
+      <trkpt lat="62.930518817156553" lon="22.245196597650647"/>
+      <trkpt lat="62.93707656674087" lon="22.257072329521179"/>
+      <trkpt lat="62.939187549054623" lon="22.260855752974749"/>
+      <trkpt lat="62.942870641127229" lon="22.263167817145586"/>
       <trkpt lat="62.94447485357523" lon="22.268970273435116"/>
       <trkpt lat="62.95377247966826" lon="22.27464540861547"/>
       <trkpt lat="62.959880959242582" lon="22.291040243580937"/>
@@ -80273,7 +80313,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-04_20220907</name>
+    <name>TET_FIN-04_20220908</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -83752,7 +83792,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-05_20220907</name>
+    <name>TET_FIN-05_20220908</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -92304,7 +92344,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-07_20220907</name>
+    <name>TET_FIN-07_20220908</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -92716,7 +92756,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-08_20220907</name>
+    <name>TET_FIN-08_20220908</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -93657,7 +93697,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-09_20220907</name>
+    <name>TET_FIN-09_20220908</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -93952,7 +93992,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-11_20220907</name>
+    <name>TET_FIN-11_20220908</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -94502,7 +94542,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-12_20220907</name>
+    <name>TET_FIN-12_20220908</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -94605,7 +94645,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-31_20220907</name>
+    <name>TET_FIN-31_20220908</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -95042,7 +95082,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-32_20220907</name>
+    <name>TET_FIN-32_20220908</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -95489,7 +95529,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-51_20220907</name>
+    <name>TET_FIN-51_20220908</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
