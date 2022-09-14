@@ -4,7 +4,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2022-09-08T16:20:48Z</time>
+    <time>2022-09-13T21:44:31Z</time>
     <bounds maxlat="70.089587643742561" maxlon="30.063482997938991" minlat="60.030970573425293" minlon="21.205796096473932"/>
   </metadata>
   <wpt lat="60.647139279171824" lon="23.947838908061385">
@@ -6865,7 +6865,7 @@ Karhunkierros 229
     </extensions>
   </wpt>
   <trk>
-    <name>TET_FIN-01_20220908</name>
+    <name>TET_FIN-01_20220913</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -28138,9 +28138,6 @@ Karhunkierros 229
       <trkpt lat="66.834377814084291" lon="28.668825924396515">
         <ele>214.459000000000003</ele>
       </trkpt>
-      <trkpt lat="66.83476815931499" lon="28.669582726433873">
-        <ele>213.300000000000011</ele>
-      </trkpt>
       <trkpt lat="66.835542982444167" lon="28.671509977430105">
         <ele>211</ele>
       </trkpt>
@@ -28162,9 +28159,6 @@ Karhunkierros 229
       <trkpt lat="66.84210198931396" lon="28.692281004041433">
         <ele>211.312999999999988</ele>
       </trkpt>
-      <trkpt lat="66.842772038653493" lon="28.692948035895824">
-        <ele>210.986999999999995</ele>
-      </trkpt>
       <trkpt lat="66.84379898943007" lon="28.693379033356905">
         <ele>212.947000000000003</ele>
       </trkpt>
@@ -28175,9 +28169,6 @@ Karhunkierros 229
         <ele>211.334000000000003</ele>
       </trkpt>
       <trkpt lat="66.847431035712361" lon="28.695532009005547">
-        <ele>210</ele>
-      </trkpt>
-      <trkpt lat="66.848012991249561" lon="28.696415964514017">
         <ele>210</ele>
       </trkpt>
       <trkpt lat="66.857148008421063" lon="28.716051997616887">
@@ -28225,12 +28216,6 @@ Karhunkierros 229
       <trkpt lat="66.88041097484529" lon="28.7506939843297">
         <ele>225.258999999999986</ele>
       </trkpt>
-      <trkpt lat="66.881189988926053" lon="28.750807978212833">
-        <ele>220.25800000000001</ele>
-      </trkpt>
-      <trkpt lat="66.884594969451427" lon="28.750389972701669">
-        <ele>219</ele>
-      </trkpt>
       <trkpt lat="66.885723005980253" lon="28.750651990994811">
         <ele>221.741000000000014</ele>
       </trkpt>
@@ -28260,9 +28245,6 @@ Karhunkierros 229
       </trkpt>
       <trkpt lat="66.897055003792048" lon="28.773856032639742">
         <ele>213</ele>
-      </trkpt>
-      <trkpt lat="66.897665038704872" lon="28.775052968412638">
-        <ele>213.593999999999994</ele>
       </trkpt>
       <trkpt lat="66.899318033829331" lon="28.777381964027882">
         <ele>226.858000000000004</ele>
@@ -28300,9 +28282,6 @@ Karhunkierros 229
       <trkpt lat="66.921854959800839" lon="28.823270034044981">
         <ele>203.751000000000005</ele>
       </trkpt>
-      <trkpt lat="66.922809993848205" lon="28.826618017628789">
-        <ele>203.116000000000014</ele>
-      </trkpt>
       <trkpt lat="66.924159983173013" lon="28.836637996137142">
         <ele>208.975999999999999</ele>
       </trkpt>
@@ -28332,9 +28311,6 @@ Karhunkierros 229
       </trkpt>
       <trkpt lat="66.933087967336178" lon="28.888446036726236">
         <ele>213.766999999999996</ele>
-      </trkpt>
-      <trkpt lat="66.932128993794322" lon="28.899414008483291">
-        <ele>194.407999999999987</ele>
       </trkpt>
       <trkpt lat="66.932320017367601" lon="28.909218991175294">
         <ele>189.066000000000003</ele>
@@ -28384,9 +28360,6 @@ Karhunkierros 229
       <trkpt lat="66.942235976457596" lon="28.962860992178321">
         <ele>196</ele>
       </trkpt>
-      <trkpt lat="66.942733023315668" lon="28.96290197968483">
-        <ele>196</ele>
-      </trkpt>
       <trkpt lat="66.94320903159678" lon="28.963154023513198">
         <ele>196</ele>
       </trkpt>
@@ -28407,9 +28380,6 @@ Karhunkierros 229
       </trkpt>
       <trkpt lat="66.950392993167043" lon="28.962516998872161">
         <ele>192.061000000000007</ele>
-      </trkpt>
-      <trkpt lat="66.950761964544654" lon="28.962377021089196">
-        <ele>192</ele>
       </trkpt>
       <trkpt lat="66.952150007709861" lon="28.961113030090928">
         <ele>196.740000000000009</ele>
@@ -28548,9 +28518,6 @@ Karhunkierros 229
       </trkpt>
       <trkpt lat="67.057115994393826" lon="29.066308010369539">
         <ele>195</ele>
-      </trkpt>
-      <trkpt lat="67.060653995722532" lon="29.065861003473401">
-        <ele>195.318999999999988</ele>
       </trkpt>
       <trkpt lat="67.061393028125167" lon="29.066082034260035">
         <ele>198.030000000000001</ele>
@@ -30199,12 +30166,17 @@ Karhunkierros 229
       <trkpt lat="67.824429022148252" lon="27.779801040887833">
         <ele>250</ele>
       </trkpt>
+      <trkpt lat="67.821557130664587" lon="27.736938586458564"/>
+      <trkpt lat="67.819711016491055" lon="27.729813130572438"/>
+      <trkpt lat="67.820977689698339" lon="27.72681794129312"/>
+      <trkpt lat="67.821381948888302" lon="27.712125638499856"/>
       <trkpt lat="67.81211600638926" lon="27.657611416652799">
         <ele>265</ele>
       </trkpt>
       <trkpt lat="67.809180663898587" lon="27.629075143486261">
         <ele>266</ele>
       </trkpt>
+      <trkpt lat="67.823816305026412" lon="27.542953686788678"/>
       <trkpt lat="67.847594255581498" lon="27.463955841958523">
         <ele>253.74199999999999</ele>
       </trkpt>
@@ -30214,7 +30186,8 @@ Karhunkierros 229
       <trkpt lat="67.87383665330708" lon="27.361981105059385">
         <ele>269.269000000000005</ele>
       </trkpt>
-      <trkpt lat="67.879545064643025" lon="27.22852511331439">
+      <trkpt lat="67.882170779630542" lon="27.304009264335036"/>
+      <trkpt lat="67.880176976323128" lon="27.227468071505427">
         <ele>270.637999999999977</ele>
       </trkpt>
       <trkpt lat="67.892162762582302" lon="27.216678382828832">
@@ -30235,10 +30208,10 @@ Karhunkierros 229
       <trkpt lat="67.930222721770406" lon="26.924584312364459">
         <ele>250.801999999999992</ele>
       </trkpt>
-      <trkpt lat="67.966159712523222" lon="26.811456950381398">
+      <trkpt lat="67.966551063582301" lon="26.809966564178467">
         <ele>254</ele>
       </trkpt>
-      <trkpt lat="67.950233928859234" lon="26.77699844352901">
+      <trkpt lat="67.951890444383025" lon="26.775852469727397">
         <ele>245.157999999999987</ele>
       </trkpt>
       <trkpt lat="67.92929895222187" lon="26.762416530400515">
@@ -32322,7 +32295,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-02_20220908</name>
+    <name>TET_FIN-02_20220913</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -45222,7 +45195,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-03_20220908</name>
+    <name>TET_FIN-03_20220913</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -80313,7 +80286,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-04_20220908</name>
+    <name>TET_FIN-04_20220913</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -83792,7 +83765,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-05_20220908</name>
+    <name>TET_FIN-05_20220913</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -83824,18 +83797,10 @@ Karhunkierros 229
       <trkpt lat="60.089169563725591" lon="24.182069934904575"/>
       <trkpt lat="60.093499403446913" lon="24.171644523739815"/>
       <trkpt lat="60.098719820380211" lon="24.164178846403956"/>
-      <trkpt lat="60.101387780159712" lon="24.165313839912415"/>
-      <trkpt lat="60.102142402902246" lon="24.162728525698185"/>
-      <trkpt lat="60.108259851112962" lon="24.154720287770033"/>
-      <trkpt lat="60.110523635521531" lon="24.149171216413379"/>
-      <trkpt lat="60.111439945176244" lon="24.143874440342188"/>
-      <trkpt lat="60.113488230854273" lon="24.141226094216108"/>
-      <trkpt lat="60.11346124112606" lon="24.135992350056767"/>
-      <trkpt lat="60.116695147007704" lon="24.134478997439146"/>
-      <trkpt lat="60.118339089676738" lon="24.128236323595047"/>
-      <trkpt lat="60.118716359138489" lon="24.121552258729935"/>
-      <trkpt lat="60.112410150468349" lon="24.114300739020109"/>
-      <trkpt lat="60.112032881006598" lon="24.114584550261497"/>
+      <trkpt lat="60.099827405065298" lon="24.156568329781294"/>
+      <trkpt lat="60.104327984154224" lon="24.146794443950057"/>
+      <trkpt lat="60.107103735208511" lon="24.123778576031327"/>
+      <trkpt lat="60.112156765535474" lon="24.115991117432714"/>
       <trkpt lat="60.111251352354884" lon="24.111967636272311"/>
       <trkpt lat="60.110872741788626" lon="24.107032036408782"/>
       <trkpt lat="60.107225608080626" lon="24.102702112868428"/>
@@ -92344,7 +92309,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-07_20220908</name>
+    <name>TET_FIN-07_20220913</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -92756,7 +92721,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-08_20220908</name>
+    <name>TET_FIN-08_20220913</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -93697,7 +93662,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-09_20220908</name>
+    <name>TET_FIN-09_20220913</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -93992,7 +93957,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-11_20220908</name>
+    <name>TET_FIN-11_20220913</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -94542,7 +94507,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-12_20220908</name>
+    <name>TET_FIN-12_20220913</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -94645,7 +94610,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-31_20220908</name>
+    <name>TET_FIN-31_20220913</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -95082,7 +95047,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-32_20220908</name>
+    <name>TET_FIN-32_20220913</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -95529,7 +95494,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-51_20220908</name>
+    <name>TET_FIN-51_20220913</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
