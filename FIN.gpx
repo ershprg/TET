@@ -4,7 +4,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2022-09-13T21:44:31Z</time>
+    <time>2022-09-20T21:15:31Z</time>
     <bounds maxlat="70.089587643742561" maxlon="30.063482997938991" minlat="60.030970573425293" minlon="21.205796096473932"/>
   </metadata>
   <wpt lat="60.647139279171824" lon="23.947838908061385">
@@ -6865,7 +6865,7 @@ Karhunkierros 229
     </extensions>
   </wpt>
   <trk>
-    <name>TET_FIN-01_20220913</name>
+    <name>TET_FIN-01_20220922</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -31214,31 +31214,15 @@ Karhunkierros 229
       <trkpt lat="67.981217550113797" lon="24.378155255690217"/>
       <trkpt lat="67.982439296320081" lon="24.367025513201952"/>
       <trkpt lat="67.982214745134115" lon="24.351681601256132"/>
-      <trkpt lat="67.984918914735317" lon="24.333080649375916"/>
-      <trkpt lat="67.983140191063285" lon="24.330348148941994"/>
-      <trkpt lat="67.980642886832356" lon="24.331735437735915"/>
-      <trkpt lat="67.977804187685251" lon="24.329465366899967"/>
-      <trkpt lat="67.973007224500179" lon="24.329507444053888"/>
-      <trkpt lat="67.967707179486752" lon="24.311641249805689"/>
-      <trkpt lat="67.96779703348875" lon="24.303443832322955"/>
-      <trkpt lat="67.967635011300445" lon="24.299786305055022"/>
-      <trkpt lat="67.969252048060298" lon="24.29957608692348"/>
-      <trkpt lat="67.972126621752977" lon="24.292850028723478"/>
-      <trkpt lat="67.969207121059299" lon="24.26100617274642"/>
-      <trkpt lat="67.964850291609764" lon="24.253859678283334"/>
-      <trkpt lat="67.957663731649518" lon="24.247553972527385"/>
-      <trkpt lat="67.95734915882349" lon="24.233155623078346"/>
-      <trkpt lat="67.956585651263595" lon="24.227795731276274"/>
-      <trkpt lat="67.956990078091621" lon="24.22453785315156"/>
-      <trkpt lat="67.95910089276731" lon="24.222856275737286"/>
-      <trkpt lat="67.961032502353191" lon="24.223486930131912"/>
-      <trkpt lat="67.96341304667294" lon="24.218021929264069"/>
-      <trkpt lat="67.964491043239832" lon="24.21812703832984"/>
-      <trkpt lat="67.966152923181653" lon="24.224117500707507"/>
-      <trkpt lat="67.970689376816154" lon="24.229792635887861"/>
-      <trkpt lat="67.980750342831016" lon="24.222750747576356"/>
-      <trkpt lat="67.983310595154762" lon="24.22716474160552"/>
-      <trkpt lat="67.994449725374579" lon="24.224221855401993"/>
+      <trkpt lat="67.985392995178699" lon="24.328466914594173"/>
+      <trkpt lat="67.988546099513769" lon="24.327331921085715"/>
+      <trkpt lat="67.990728998556733" lon="24.32020646519959"/>
+      <trkpt lat="67.997277695685625" lon="24.323296286165714"/>
+      <trkpt lat="68.001077631488442" lon="24.318251637741923"/>
+      <trkpt lat="68.007141267880797" lon="24.295425033196807"/>
+      <trkpt lat="68.000457789748907" lon="24.267238453030586"/>
+      <trkpt lat="68.00522793084383" lon="24.236088199540973"/>
+      <trkpt lat="68.005120139569044" lon="24.230412980541587"/>
       <trkpt lat="68.000648142769933" lon="24.219177206978202"/>
       <trkpt lat="68.000288810580969" lon="24.205619981512427"/>
       <trkpt lat="68.000962547957897" lon="24.197632698342204"/>
@@ -32295,7 +32279,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-02_20220913</name>
+    <name>TET_FIN-02_20220922</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -45195,10 +45179,10 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-03_20220913</name>
+    <name>TET_FIN-03_20220922</name>
     <extensions>
       <gpxx:TrackExtension>
-        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+        <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
       </gpxx:TrackExtension>
     </extensions>
     <trkseg>
@@ -80286,7 +80270,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-04_20220913</name>
+    <name>TET_FIN-04_20220922</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -83765,10 +83749,10 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-05_20220913</name>
+    <name>TET_FIN-05_20220922</name>
     <extensions>
       <gpxx:TrackExtension>
-        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+        <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
       </gpxx:TrackExtension>
     </extensions>
     <trkseg>
@@ -92309,7 +92293,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-07_20220913</name>
+    <name>TET_FIN-07_20220922</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -92721,7 +92705,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-08_20220913</name>
+    <name>TET_FIN-08_20220922</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -93662,10 +93646,10 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-09_20220913</name>
+    <name>TET_FIN-09_20220922</name>
     <extensions>
       <gpxx:TrackExtension>
-        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+        <gpxx:DisplayColor>Green</gpxx:DisplayColor>
       </gpxx:TrackExtension>
     </extensions>
     <trkseg>
@@ -93957,7 +93941,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-11_20220913</name>
+    <name>TET_FIN-11_20220922</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -94507,7 +94491,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-12_20220913</name>
+    <name>TET_FIN-12_20220922</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -94610,10 +94594,10 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-31_20220913</name>
+    <name>TET_FIN-31_20220922</name>
     <extensions>
       <gpxx:TrackExtension>
-        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+        <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
       </gpxx:TrackExtension>
     </extensions>
     <trkseg>
@@ -95047,10 +95031,10 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-32_20220913</name>
+    <name>TET_FIN-32_20220922</name>
     <extensions>
       <gpxx:TrackExtension>
-        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+        <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
       </gpxx:TrackExtension>
     </extensions>
     <trkseg>
@@ -95494,7 +95478,7 @@ Karhunkierros 229
     </trkseg>
   </trk>
   <trk>
-    <name>TET_FIN-51_20220913</name>
+    <name>TET_FIN-51_20220922</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
