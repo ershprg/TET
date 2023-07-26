@@ -4,7 +4,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2022-10-31T18:55:18Z</time>
+    <time>2023-07-25T19:29:59Z</time>
     <bounds maxlat="46.309763481840491" maxlon="15.063339471817017" minlat="45.464303707703948" minlon="13.417117176577449"/>
   </metadata>
   <wpt lat="45.795199871063232" lon="14.287848472595215">
@@ -24,6 +24,26 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2022-10-17T20:36:25Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="45.675500007346272" lon="14.490527752786875">
+    <ele>654.5546875</ele>
+    <time>2023-07-25T05:46:50Z</time>
+    <name>Camp Beli Gaber (kampbeligaber.com)</name>
+    <cmt>N45° 40' 31.8" E14° 29' 25.9"</cmt>
+    <desc>N45° 40' 31.8" E14° 29' 25.9"</desc>
+    <sym>Civil</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-07-25T05:46:50Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -104,100 +124,16 @@
     <name>Glamping Kaps</name>
     <cmt>Glamping Hiske Kaps
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 PRELESJE 12
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Prelesje, Slo, 8342, Slovenija
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 386 1 8943731</cmt>
     <desc>Glamping Hiske Kaps
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 PRELESJE 12
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Prelesje, Slo, 8342, Slovenija
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 386 1 8943731</desc>
     <sym>Campground</sym>
@@ -279,6 +215,14 @@ Prelesje, Slo, 8342, Slovenija
 
 
 
+
+
+
+
+
+
+
+
 DOL 6
 
 
@@ -287,7 +231,23 @@ DOL 6
 
 
 
+
+
+
+
+
+
+
+
 Dol, Slo, 8342, Slovenija
+
+
+
+
+
+
+
+
 
 
 
@@ -304,6 +264,14 @@ Dol, Slo, 8342, Slovenija
 
 
 
+
+
+
+
+
+
+
+
 DOL 6
 
 
@@ -312,7 +280,23 @@ DOL 6
 
 
 
+
+
+
+
+
+
+
+
 Dol, Slo, 8342, Slovenija
+
+
+
+
+
+
+
+
 
 
 
@@ -349,7 +333,23 @@ Dol, Slo, 8342, Slovenija
 
 
 
+
+
+
+
+
+
+
+
 PRELESJE 10
+
+
+
+
+
+
+
+
 
 
 
@@ -366,7 +366,23 @@ Prelesje, Sl</cmt>
 
 
 
+
+
+
+
+
+
+
+
 PRELESJE 10
+
+
+
+
+
+
+
+
 
 
 
@@ -401,6 +417,14 @@ Prelesje, Sl</desc>
 
 
 
+
+
+
+
+
+
+
+
 DOL 9
 
 
@@ -409,7 +433,23 @@ DOL 9
 
 
 
+
+
+
+
+
+
+
+
 Dol, Slo, 8342, Slovenija
+
+
+
+
+
+
+
+
 
 
 
@@ -426,6 +466,14 @@ Dol, Slo, 8342, Slovenija
 
 
 
+
+
+
+
+
+
+
+
 DOL 9
 
 
@@ -434,7 +482,23 @@ DOL 9
 
 
 
+
+
+
+
+
+
+
+
 Dol, Slo, 8342, Slovenija
+
+
+
+
+
+
+
+
 
 
 
@@ -749,36 +813,8 @@ Dol, Slo, 8342, Slovenija
     <name>Spend local, buy cheese</name>
     <cmt>Dol 12
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Dol, Slo, Slovenija</cmt>
     <desc>Dol 12
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Dol, Slo, Slovenija</desc>
     <sym>Shopping Center</sym>
@@ -882,7 +918,7 @@ Dol, Slo, Slovenija</desc>
     </extensions>
   </wpt>
   <wpt lat="45.498448982834816" lon="15.036800019443035">
-    <ele>717.740000000000009</ele>
+    <ele>718</ele>
     <time>2022-08-14T20:15:41Z</time>
     <name>View point. Walk for 200m down the trail until you find bench and a perfect view</name>
     <sym>Scenic Area</sym>
@@ -955,7 +991,7 @@ Dol, Slo, Slovenija</desc>
     </extensions>
   </wpt>
   <trk>
-    <name>TET_SLO-01_20221031</name>
+    <name>TET_SLO-01_20230725</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -20513,269 +20549,50 @@ Dol, Slo, Slovenija</desc>
         <ele>696.610000000000014</ele>
         <time>2022-10-19T14:24:29Z</time>
       </trkpt>
-      <trkpt lat="45.885205585509539" lon="14.161665542051196">
-        <ele>694.690000000000055</ele>
-        <time>2022-10-19T14:24:30Z</time>
+      <trkpt lat="45.884890845045447" lon="14.161529084667563">
+        <ele>675.2421875</ele>
       </trkpt>
-      <trkpt lat="45.885305665433407" lon="14.161688173189759">
-        <ele>693.25</ele>
-        <time>2022-10-19T14:24:31Z</time>
+      <trkpt lat="45.884684231132269" lon="14.161344012245536">
+        <ele>679.3203125</ele>
       </trkpt>
-      <trkpt lat="45.885422425344586" lon="14.16166914626956">
-        <ele>691.809999999999945</ele>
-        <time>2022-10-19T14:24:32Z</time>
+      <trkpt lat="45.884522460401058" lon="14.16136865504086">
+        <ele>679.671875</ele>
       </trkpt>
-      <trkpt lat="45.885552763938904" lon="14.161614077165723">
-        <ele>689.879999999999995</ele>
-        <time>2022-10-19T14:24:33Z</time>
+      <trkpt lat="45.884279971942306" lon="14.161442667245865">
+        <ele>680.01953125</ele>
       </trkpt>
-      <trkpt lat="45.885695675387979" lon="14.161540903151035">
-        <ele>688.440000000000055</ele>
-        <time>2022-10-19T14:24:34Z</time>
+      <trkpt lat="45.884208055213094" lon="14.16156604886055">
+        <ele>679.41015625</ele>
       </trkpt>
-      <trkpt lat="45.887034013867378" lon="14.161044443026185">
-        <ele>677.389999999999986</ele>
-        <time>2022-10-19T14:24:42Z</time>
+      <trkpt lat="45.884181149303913" lon="14.162047170102596">
+        <ele>675.046875</ele>
       </trkpt>
-      <trkpt lat="45.887313801795244" lon="14.160984428599477">
-        <ele>677.389999999999986</ele>
-        <time>2022-10-19T14:24:44Z</time>
+      <trkpt lat="45.884235044941306" lon="14.162478838115931">
+        <ele>673.33203125</ele>
       </trkpt>
-      <trkpt lat="45.887431399896741" lon="14.160998007282615">
-        <ele>677.389999999999986</ele>
-        <time>2022-10-19T14:24:45Z</time>
+      <trkpt lat="45.884181149303913" lon="14.162885947152972">
+        <ele>676.59765625</ele>
       </trkpt>
-      <trkpt lat="45.887545896694064" lon="14.161056764423847">
-        <ele>676.909999999999968</ele>
-        <time>2022-10-19T14:24:46Z</time>
+      <trkpt lat="45.883956598117948" lon="14.163169674575329">
+        <ele>680.15234375</ele>
       </trkpt>
-      <trkpt lat="45.887661315500736" lon="14.161162376403809">
-        <ele>676.909999999999968</ele>
-        <time>2022-10-19T14:24:47Z</time>
+      <trkpt lat="45.883821817114949" lon="14.163404032588005">
+        <ele>682.44140625</ele>
       </trkpt>
-      <trkpt lat="45.887771788984537" lon="14.161315932869911">
-        <ele>675.940000000000055</ele>
-        <time>2022-10-19T14:24:48Z</time>
+      <trkpt lat="45.883794827386737" lon="14.163959082216024">
+        <ele>686.5390625</ele>
       </trkpt>
-      <trkpt lat="45.887869102880359" lon="14.161480721086264">
-        <ele>674.980000000000018</ele>
-        <time>2022-10-19T14:24:49Z</time>
+      <trkpt lat="45.883821817114949" lon="14.164464846253395">
+        <ele>689.71484375</ele>
       </trkpt>
-      <trkpt lat="45.887949150055647" lon="14.161644503474236">
-        <ele>674.019999999999982</ele>
-        <time>2022-10-19T14:24:50Z</time>
+      <trkpt lat="45.883839754387736" lon="14.164834907278419">
+        <ele>691.18359375</ele>
       </trkpt>
-      <trkpt lat="45.888010589405894" lon="14.161809459328651">
-        <ele>673.539999999999964</ele>
-        <time>2022-10-19T14:24:51Z</time>
+      <trkpt lat="45.883615203201771" lon="14.165143277496099">
+        <ele>691.89453125</ele>
       </trkpt>
-      <trkpt lat="45.888178730383515" lon="14.162212125957012">
-        <ele>670.659999999999968</ele>
-        <time>2022-10-19T14:24:54Z</time>
-      </trkpt>
-      <trkpt lat="45.888231117278337" lon="14.162306925281882">
-        <ele>669.700000000000045</ele>
-        <time>2022-10-19T14:24:55Z</time>
-      </trkpt>
-      <trkpt lat="45.888364808633924" lon="14.162617055699229">
-        <ele>664.409999999999968</ele>
-        <time>2022-10-19T14:25:01Z</time>
-      </trkpt>
-      <trkpt lat="45.88836514391005" lon="14.162680003792048">
-        <ele>663.450000000000045</ele>
-        <time>2022-10-19T14:25:02Z</time>
-      </trkpt>
-      <trkpt lat="45.888353157788515" lon="14.162735994905233">
-        <ele>662.490000000000009</ele>
-        <time>2022-10-19T14:25:03Z</time>
-      </trkpt>
-      <trkpt lat="45.888329856097698" lon="14.162786537781358">
-        <ele>661.039999999999964</ele>
-        <time>2022-10-19T14:25:04Z</time>
-      </trkpt>
-      <trkpt lat="45.888303285464644" lon="14.162838170304894">
-        <ele>660.080000000000041</ele>
-        <time>2022-10-19T14:25:05Z</time>
-      </trkpt>
-      <trkpt lat="45.888278894126415" lon="14.162897681817412">
-        <ele>659.600000000000023</ele>
-        <time>2022-10-19T14:25:06Z</time>
-      </trkpt>
-      <trkpt lat="45.888260873034596" lon="14.162967335432768">
-        <ele>658.639999999999986</ele>
-        <time>2022-10-19T14:25:07Z</time>
-      </trkpt>
-      <trkpt lat="45.888252574950457" lon="14.163045538589358">
-        <ele>658.159999999999968</ele>
-        <time>2022-10-19T14:25:08Z</time>
-      </trkpt>
-      <trkpt lat="45.888255508616567" lon="14.163131201639771">
-        <ele>657.67999999999995</ele>
-        <time>2022-10-19T14:25:09Z</time>
-      </trkpt>
-      <trkpt lat="45.888262633234262" lon="14.163221223279834">
-        <ele>657.200000000000045</ele>
-        <time>2022-10-19T14:25:10Z</time>
-      </trkpt>
-      <trkpt lat="45.888268249109387" lon="14.163422053679824">
-        <ele>655.759999999999991</ele>
-        <time>2022-10-19T14:25:12Z</time>
-      </trkpt>
-      <trkpt lat="45.888249557465315" lon="14.163763951510191">
-        <ele>653.830000000000041</ele>
-        <time>2022-10-19T14:25:16Z</time>
-      </trkpt>
-      <trkpt lat="45.888227764517069" lon="14.163824133574963">
-        <ele>653.830000000000041</ele>
-        <time>2022-10-19T14:25:17Z</time>
-      </trkpt>
-      <trkpt lat="45.888182250782847" lon="14.1638826392591">
-        <ele>653.350000000000023</ele>
-        <time>2022-10-19T14:25:18Z</time>
-      </trkpt>
-      <trkpt lat="45.888120224699378" lon="14.163942318409681">
-        <ele>652.870000000000005</ele>
-        <time>2022-10-19T14:25:19Z</time>
-      </trkpt>
-      <trkpt lat="45.888055181130767" lon="14.164006439968944">
-        <ele>652.389999999999986</ele>
-        <time>2022-10-19T14:25:20Z</time>
-      </trkpt>
-      <trkpt lat="45.88798837736249" lon="14.164083804935217">
-        <ele>652.389999999999986</ele>
-        <time>2022-10-19T14:25:21Z</time>
-      </trkpt>
-      <trkpt lat="45.887820990756154" lon="14.16423887014389">
-        <ele>646.620000000000005</ele>
-        <time>2022-10-19T14:25:50Z</time>
-      </trkpt>
-      <trkpt lat="45.887789390981197" lon="14.164311541244388">
-        <ele>646.620000000000005</ele>
-        <time>2022-10-19T14:25:54Z</time>
-      </trkpt>
-      <trkpt lat="45.887762736529112" lon="14.164348840713501">
-        <ele>646.620000000000005</ele>
-        <time>2022-10-19T14:25:55Z</time>
-      </trkpt>
-      <trkpt lat="45.887729460373521" lon="14.164408771321177">
-        <ele>646.620000000000005</ele>
-        <time>2022-10-19T14:25:56Z</time>
-      </trkpt>
-      <trkpt lat="45.88769325055182" lon="14.164484879001975">
-        <ele>646.620000000000005</ele>
-        <time>2022-10-19T14:25:57Z</time>
-      </trkpt>
-      <trkpt lat="45.887655531987548" lon="14.16456576436758">
-        <ele>646.620000000000005</ele>
-        <time>2022-10-19T14:25:58Z</time>
-      </trkpt>
-      <trkpt lat="45.887621752917767" lon="14.16462292894721">
-        <ele>646.620000000000005</ele>
-        <time>2022-10-19T14:25:59Z</time>
-      </trkpt>
-      <trkpt lat="45.88759015314281" lon="14.164666933938861">
-        <ele>646.139999999999986</ele>
-        <time>2022-10-19T14:26:00Z</time>
-      </trkpt>
-      <trkpt lat="45.887566767632961" lon="14.164698366075754">
-        <ele>646.139999999999986</ele>
-        <time>2022-10-19T14:26:01Z</time>
-      </trkpt>
-      <trkpt lat="45.887547992169857" lon="14.164727032184601">
-        <ele>645.659999999999968</ele>
-        <time>2022-10-19T14:26:02Z</time>
-      </trkpt>
-      <trkpt lat="45.887525696307421" lon="14.164767432957888">
-        <ele>645.659999999999968</ele>
-        <time>2022-10-19T14:26:03Z</time>
-      </trkpt>
-      <trkpt lat="45.887500550597906" lon="14.164815042167902">
-        <ele>645.659999999999968</ele>
-        <time>2022-10-19T14:26:04Z</time>
-      </trkpt>
-      <trkpt lat="45.88743575848639" lon="14.164884695783257">
-        <ele>639.889999999999986</ele>
-        <time>2022-10-19T14:26:33Z</time>
-      </trkpt>
-      <trkpt lat="45.887181954458356" lon="14.164949404075742">
-        <ele>641.82000000000005</ele>
-        <time>2022-10-19T14:26:40Z</time>
-      </trkpt>
-      <trkpt lat="45.887085227295756" lon="14.164965748786926">
-        <ele>642.779999999999973</ele>
-        <time>2022-10-19T14:26:42Z</time>
-      </trkpt>
-      <trkpt lat="45.886903088539839" lon="14.164956444874406">
-        <ele>646.139999999999986</ele>
-        <time>2022-10-19T14:26:46Z</time>
-      </trkpt>
-      <trkpt lat="45.886543923988938" lon="14.164867764338851">
-        <ele>652.389999999999986</ele>
-        <time>2022-10-19T14:26:54Z</time>
-      </trkpt>
-      <trkpt lat="45.886301100254059" lon="14.164892407134175">
-        <ele>655.279999999999973</ele>
-        <time>2022-10-19T14:26:58Z</time>
-      </trkpt>
-      <trkpt lat="45.886003207415342" lon="14.164944626390934">
-        <ele>658.639999999999986</ele>
-        <time>2022-10-19T14:27:03Z</time>
-      </trkpt>
-      <trkpt lat="45.885879574343562" lon="14.164938926696777">
-        <ele>660.080000000000041</ele>
-        <time>2022-10-19T14:27:05Z</time>
-      </trkpt>
-      <trkpt lat="45.885697351768613" lon="14.164940100163221">
-        <ele>661.039999999999964</ele>
-        <time>2022-10-19T14:27:09Z</time>
-      </trkpt>
-      <trkpt lat="45.885533569380641" lon="14.16513011790812">
-        <ele>662.490000000000009</ele>
-        <time>2022-10-19T14:27:13Z</time>
-      </trkpt>
-      <trkpt lat="45.885317651554942" lon="14.165254505351186">
-        <ele>663.92999999999995</ele>
-        <time>2022-10-19T14:27:18Z</time>
-      </trkpt>
-      <trkpt lat="45.884992014616728" lon="14.165287697687745">
-        <ele>665.850000000000023</ele>
-        <time>2022-10-19T14:27:24Z</time>
-      </trkpt>
-      <trkpt lat="45.884825717657804" lon="14.165388783439994">
-        <ele>668.25</ele>
-        <time>2022-10-19T14:27:28Z</time>
-      </trkpt>
-      <trkpt lat="45.884392037987709" lon="14.165568491443992">
-        <ele>670.659999999999968</ele>
-        <time>2022-10-19T14:27:35Z</time>
-      </trkpt>
-      <trkpt lat="45.88387755677104" lon="14.165847022086382">
-        <ele>675.940000000000055</ele>
-        <time>2022-10-19T14:27:44Z</time>
-      </trkpt>
-      <trkpt lat="45.883691478520632" lon="14.165884489193559">
-        <ele>677.389999999999986</ele>
-        <time>2022-10-19T14:27:47Z</time>
-      </trkpt>
-      <trkpt lat="45.883459551259875" lon="14.165648706257343">
-        <ele>680.269999999999982</ele>
-        <time>2022-10-19T14:27:55Z</time>
-      </trkpt>
-      <trkpt lat="45.883425185456872" lon="14.165629679337144">
-        <ele>680.75</ele>
-        <time>2022-10-19T14:27:56Z</time>
-      </trkpt>
-      <trkpt lat="45.883379001170397" lon="14.165611658245325">
-        <ele>681.230000000000018</ele>
-        <time>2022-10-19T14:27:57Z</time>
-      </trkpt>
-      <trkpt lat="45.883328290656209" lon="14.1656026057899">
-        <ele>681.710000000000036</ele>
-        <time>2022-10-19T14:27:58Z</time>
-      </trkpt>
-      <trkpt lat="45.88328143581748" lon="14.165601348504424">
-        <ele>682.190000000000055</ele>
-        <time>2022-10-19T14:27:59Z</time>
+      <trkpt lat="45.883390652015805" lon="14.165414683520794">
+        <ele>693.10546875</ele>
       </trkpt>
       <trkpt lat="45.883246567100286" lon="14.165614005178213">
         <ele>682.669999999999959</ele>
@@ -48301,7 +48118,7 @@ Dol, Slo, Slovenija</desc>
     </trkseg>
   </trk>
   <trk>
-    <name>TET_SLO-02-scenic loop_20220919</name>
+    <name>TET_SLO-02-scenic loop_20230725</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Green</gpxx:DisplayColor>
