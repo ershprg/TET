@@ -4,7 +4,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2023-09-18T19:35:04Z</time>
+    <time>2023-10-09T20:45:27Z</time>
     <bounds maxlat="46.309763481840491" maxlon="15.063339471817017" minlat="45.464303707703948" minlon="13.417117176577449"/>
   </metadata>
   <wpt lat="45.795199871063232" lon="14.287848472595215">
@@ -346,6 +346,26 @@ Dol, Slo, 8342, Slovenija
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2019-07-10T10:14:05Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="45.537305558100343" lon="14.960222197696567">
+    <ele>511.95703125</ele>
+    <time>2023-08-11T12:42:28Z</time>
+    <name>N45° 32' 14.3" E14° 57' 36.8"1</name>
+    <cmt>N45° 32' 14.3" E14° 57' 36.8"</cmt>
+    <desc>N45° 32' 14.3" E14° 57' 36.8"</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-08-11T12:42:28Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -783,7 +803,7 @@ Dol, Slo, Slovenija</desc>
     </extensions>
   </wpt>
   <trk>
-    <name>TET_SLO-01_20230914</name>
+    <name>TET_SLO-01_20231009</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -49693,7 +49713,7 @@ Dol, Slo, Slovenija</desc>
     </trkseg>
   </trk>
   <trk>
-    <name>TET_SLO-02-scenic loop_20220914</name>
+    <name>TET_SLO-02-scenic loop_20221009</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Green</gpxx:DisplayColor>
