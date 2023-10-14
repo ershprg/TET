@@ -4,7 +4,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2023-09-12T09:01:16Z</time>
+    <time>2023-10-13T12:28:35Z</time>
     <bounds maxlat="56.426082076504827" maxlon="12.894630152732134" minlat="54.654313204810023" minlon="8.409576695412397" />
   </metadata>
 
@@ -1479,6 +1479,52 @@ The 13.000m2 industrial buildings also house meeting and workshop facilities, ex
     </extensions>
   </wpt>
 
+  <wpt lat="55.677573680877686" lon="9.17705082334578">
+    <ele>68.09765625</ele>
+    <time>2023-09-14T15:21:58Z</time>
+    <name>Syvårssøer</name>
+    <link href="https://naturstyrelsen.dk/naturoplevelser/vores-natur/syvaarssoeerne/" />
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-09-14T15:21:58Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="55.671177702024579" lon="9.17391574010253">
+    <ele>73</ele>
+    <time>2023-09-14T15:22:40Z</time>
+    <name>Syvårssøer parking</name>
+    <cmt>The mystical Syvårssøer ("Seven Year Lakes") have their name for the simple reason that they're not always there. From ancient times, people have noticed that the lakes appeared approximately every seven years, or they simply used the magic number 7 for the unexplainable.
+
+The fact is that lakes appear and disappear with the height of the groundwater. And even if large amounts of precipitation cause the groundwater level to rise, it doesn't mean that lakes will rise. The groundwater bed has its own "hills and valleys", which is why the Seven Year Lakes are quite unpredictable.</cmt>
+    <desc>The mystical Syvårssøer ("Seven Year Lakes") have their name for the simple reason that they're not always there. From ancient times, people have noticed that the lakes appeared approximately every seven years, or they simply used the magic number 7 for the unexplainable.
+
+The fact is that lakes appear and disappear with the height of the groundwater. And even if large amounts of precipitation cause the groundwater level to rise, it doesn't mean that lakes will rise. The groundwater bed has its own "hills and valleys", which is why the Seven Year Lakes are quite unpredictable.</desc>
+    <link href="https://naturstyrelsen.dk/naturoplevelser/vores-natur/syvaarssoeerne/" />
+    <sym>Trail Head</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-09-14T15:22:40Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
   <wpt lat="55.707764625549316" lon="9.565722942352295">
     <time>2020-06-04T14:47:53Z</time>
     <name>The Freedom Fighter</name>
@@ -2253,7 +2299,7 @@ The Zeppelin- and Garrison Museum in Tønder opened for the first time on May 8,
   </wpt>
 
   <trk>
-    <name>TET_DK-01-East_20230912</name>
+    <name>TET_DK-01-East_20231013</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -6361,7 +6407,7 @@ The Zeppelin- and Garrison Museum in Tønder opened for the first time on May 8,
   </trk>
 
   <trk>
-    <name>TET_DK-02-West_20230912</name>
+    <name>TET_DK-02-West_20231013</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -15446,62 +15492,89 @@ The Zeppelin- and Garrison Museum in Tønder opened for the first time on May 8,
       <trkpt lat="56.239464031532407" lon="10.574560007080436" />
       <trkpt lat="56.239611469209194" lon="10.575091419741511" />
       <trkpt lat="56.239629993215203" lon="10.576002951711416" />
-      <trkpt lat="56.239716997370124" lon="10.576210990548134" />
-      <trkpt lat="56.240172972902656" lon="10.577787961810827" />
-      <trkpt lat="56.24039601534605" lon="10.579373985528946" />
-      <trkpt lat="56.240492407232523" lon="10.57980615645647" />
-      <trkpt lat="56.24052400700748" lon="10.579973040148616" />
-      <trkpt lat="56.240571029484272" lon="10.580084016546607" />
-      <trkpt lat="56.240682005882263" lon="10.580309992656112" />
-      <trkpt lat="56.241244180127978" lon="10.581376170739532" />
-      <trkpt lat="56.241334034129977" lon="10.581652019172907" />
-      <trkpt lat="56.24159898608923" lon="10.582269011065364" />
-      <trkpt lat="56.241914983838797" lon="10.582890026271343" />
-      <trkpt lat="56.242506997659802" lon="10.584119986742735" />
-      <trkpt lat="56.242707492783666" lon="10.584482168778777" />
-      <trkpt lat="56.242865994572639" lon="10.584886008873582" />
-      <trkpt lat="56.243030866608024" lon="10.585072170943022" />
-      <trkpt lat="56.243181992322206" lon="10.585279958322644" />
-      <trkpt lat="56.243778029456735" lon="10.587017023935914" />
-      <trkpt lat="56.243811976164579" lon="10.587250040844083" />
-      <trkpt lat="56.244029989466071" lon="10.588418981060386" />
-      <trkpt lat="56.244006017223001" lon="10.589210987091064" />
-      <trkpt lat="56.244001993909478" lon="10.589829990640283" />
-      <trkpt lat="56.244100732728839" lon="10.590845374390483" />
-      <trkpt lat="56.244275998324156" lon="10.59150000102818" />
-      <trkpt lat="56.244596019387245" lon="10.592593001201749" />
-      <trkpt lat="56.24475703574717" lon="10.593394981697202" />
-      <trkpt lat="56.244774973019958" lon="10.593491038307548" />
-      <trkpt lat="56.244977982714772" lon="10.594469960778952" />
-      <trkpt lat="56.245202030986547" lon="10.595386018976569" />
-      <trkpt lat="56.245609978213906" lon="10.596511038020253" />
-      <trkpt lat="56.245674015954137" lon="10.59665503911674" />
-      <trkpt lat="56.246227975934744" lon="10.597888017073274" />
-      <trkpt lat="56.246480438858271" lon="10.598549516871572" />
-      <trkpt lat="56.246394189074636" lon="10.598856713622808" />
-      <trkpt lat="56.246221689507365" lon="10.598959140479565" />
-      <trkpt lat="56.246175924316049" lon="10.599110266193748" />
-      <trkpt lat="56.246202830225229" lon="10.599339427426457" />
-      <trkpt lat="56.24604650773108" lon="10.599539335817099" />
-      <trkpt lat="56.245750123634934" lon="10.600309800356627" />
-      <trkpt lat="56.245758170261979" lon="10.600558491423726" />
-      <trkpt lat="56.245839055627584" lon="10.601026536896825" />
-      <trkpt lat="56.245926981791854" lon="10.601610001176596" />
-      <trkpt lat="56.24583100900054" lon="10.602576015517116" />
-      <trkpt lat="56.245579971000552" lon="10.602998966351151" />
-      <trkpt lat="56.24544401653111" lon="10.603092005476356" />
-      <trkpt lat="56.245364807546139" lon="10.603128047659993" />
-      <trkpt lat="56.245141178369522" lon="10.603425521403551" />
-      <trkpt lat="56.24493196606636" lon="10.603598020970821" />
-      <trkpt lat="56.244809003546834" lon="10.603679995983839" />
-      <trkpt lat="56.244657039642334" lon="10.603813016787171" />
-      <trkpt lat="56.243973998352885" lon="10.604720022529364" />
-      <trkpt lat="56.243875008076429" lon="10.604741983115673" />
-      <trkpt lat="56.243398999795318" lon="10.604711975902319" />
-      <trkpt lat="56.243119966238737" lon="10.604758998379111" />
-      <trkpt lat="56.243004966527224" lon="10.604750029742718" />
-      <trkpt lat="56.242668014019728" lon="10.604761010035872" />
-      <trkpt lat="56.242370959371328" lon="10.604849020019174" />
+      <trkpt lat="56.239633597433567" lon="10.576399248093367" />
+      <trkpt lat="56.239640722051263" lon="10.577034847810864">
+        <ele>29.73828125</ele>
+      </trkpt>
+      <trkpt lat="56.239621778950095" lon="10.577639937400818">
+        <ele>28.99609375</ele>
+      </trkpt>
+      <trkpt lat="56.239470904693007" lon="10.578357595950365">
+        <ele>28.90625</ele>
+      </trkpt>
+      <trkpt lat="56.239209473133087" lon="10.578969726338983">
+        <ele>26.0390625</ele>
+      </trkpt>
+      <trkpt lat="56.238813512027264" lon="10.579764833673835">
+        <ele>19.7265625</ele>
+      </trkpt>
+      <trkpt lat="56.237999629229307" lon="10.58146744966507">
+        <ele>25.71875</ele>
+      </trkpt>
+      <trkpt lat="56.237595370039344" lon="10.582269513979554">
+        <ele>22.29296875</ele>
+      </trkpt>
+      <trkpt lat="56.237412141636014" lon="10.582558019086719">
+        <ele>20.71484375</ele>
+      </trkpt>
+      <trkpt lat="56.237156158313155" lon="10.582811320200562">
+        <ele>21.0234375</ele>
+      </trkpt>
+      <trkpt lat="56.236590212211013" lon="10.583247514441609">
+        <ele>20.265625</ele>
+      </trkpt>
+      <trkpt lat="56.236264072358608" lon="10.583500815555453">
+        <ele>18.45703125</ele>
+      </trkpt>
+      <trkpt lat="56.236320650205016" lon="10.583634506911039">
+        <ele>19.77734375</ele>
+      </trkpt>
+      <trkpt lat="56.23656858690083" lon="10.583740035071969">
+        <ele>21.6796875</ele>
+      </trkpt>
+      <trkpt lat="56.236829096451402" lon="10.583836175501347">
+        <ele>22.98828125</ele>
+      </trkpt>
+      <trkpt lat="56.237369896844029" lon="10.584164494648576">
+        <ele>25.83203125</ele>
+      </trkpt>
+      <trkpt lat="56.237621353939176" lon="10.584574956446886">
+        <ele>29.4375</ele>
+      </trkpt>
+      <trkpt lat="56.237778598442674" lon="10.586364325135946">
+        <ele>32.19921875</ele>
+      </trkpt>
+      <trkpt lat="56.238627517595887" lon="10.58928650803864">
+        <ele>32.7578125</ele>
+      </trkpt>
+      <trkpt lat="56.239438550546765" lon="10.591010078787804">
+        <ele>39.48046875</ele>
+      </trkpt>
+      <trkpt lat="56.239929059520364" lon="10.593029363080859">
+        <ele>50.484375</ele>
+      </trkpt>
+      <trkpt lat="56.240947712212801" lon="10.597034990787506">
+        <ele>59.4921875</ele>
+      </trkpt>
+      <trkpt lat="56.241394216194749" lon="10.598118519410491">
+        <ele>58.9296875</ele>
+      </trkpt>
+      <trkpt lat="56.241652043536305" lon="10.599563224241138">
+        <ele>57.56640625</ele>
+      </trkpt>
+      <trkpt lat="56.241740053519607" lon="10.601270534098148">
+        <ele>45.546875</ele>
+      </trkpt>
+      <trkpt lat="56.24220541678369" lon="10.603240532800555" />
+      <trkpt lat="56.242290074005723" lon="10.603611012920737">
+        <ele>42.5703125</ele>
+      </trkpt>
+      <trkpt lat="56.242354782298207" lon="10.604272345080972">
+        <ele>42.62890625</ele>
+      </trkpt>
+      <trkpt lat="56.242338605225086" lon="10.604816414415836">
+        <ele>42.80078125</ele>
+      </trkpt>
       <trkpt lat="56.242324020713568" lon="10.604936024174094" />
       <trkpt lat="56.242188988253474" lon="10.606118040159345" />
       <trkpt lat="56.24215797521174" lon="10.606506038457155" />
