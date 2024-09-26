@@ -4,7 +4,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2024-07-08T20:23:47Z</time>
+    <time>2024-09-25T19:13:45Z</time>
     <bounds maxlat="56.426082076504827" maxlon="12.894630152732134" minlat="54.654313204810023" minlon="8.409576695412397" />
   </metadata>
 
@@ -107,92 +107,6 @@ The table shows a prognosis of the depth of the water at the highest/lowest time
     </extensions>
   </wpt>
 
-  <wpt lat="56.134019186720252" lon="9.828251106664538">
-    <ele>101.75390625</ele>
-    <time>2024-07-06T19:39:15Z</time>
-    <name>Bed4Bikers</name>
-    <cmt>The purpose of the place is to create a setting where motorcyclists can come, socialise and meet other motorcyclists.
-It is possible to book accommodation.
-We are located in the beautiful Lake Highlands, close to Silkeborg, Skanderborg and Aarhus. 
-We are surrounded by fun roads and beautiful nature.
-
------------------------
-
-Formålet med stedet er at skabe en ramme, hvor motorcyklister kan komme, hygge og møde andre motorcyklister.
-Der er mulighed for at booke overnatning.
-Vi er placeret i det smukke søhøjland, tæt på Silkeborg, Skanderborg og Aarhus. 
-Vi er omgivet af sjove veje og smuk natur.</cmt>
-    <desc>The purpose of the place is to create a setting where motorcyclists can come, socialise and meet other motorcyclists.
-It is possible to book accommodation.
-We are located in the beautiful Lake Highlands, close to Silkeborg, Skanderborg and Aarhus. 
-We are surrounded by fun roads and beautiful nature.
-
------------------------
-
-Formålet med stedet er at skabe en ramme, hvor motorcyklister kan komme, hygge og møde andre motorcyklister.
-Der er mulighed for at booke overnatning.
-Vi er placeret i det smukke søhøjland, tæt på Silkeborg, Skanderborg og Aarhus. 
-Vi er omgivet af sjove veje og smuk natur.</desc>
-    <link href="https://bed4bikers.dk/" />
-    <sym>Campground</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-        <gpxx:Address>
-          <gpxx:StreetAddress>173</gpxx:StreetAddress>
-          <gpxx:City>Skanderborg Municipality</gpxx:City>
-          <gpxx:State>Central Denmark Region</gpxx:State>
-          <gpxx:Country>DNK</gpxx:Country>
-        </gpxx:Address>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-        <wptx1:Address>
-          <wptx1:StreetAddress>173</wptx1:StreetAddress>
-          <wptx1:City>Skanderborg Municipality</wptx1:City>
-          <wptx1:State>Central Denmark Region</wptx1:State>
-          <wptx1:Country>DNK</wptx1:Country>
-        </wptx1:Address>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2024-07-06T19:39:15Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-
-  <wpt lat="56.284558083862066" lon="9.677677592262626">
-    <ele>26</ele>
-    <time>2024-07-06T19:31:41Z</time>
-    <name>Bikers Shack</name>
-    <cmt>Bikers Shack is a backyard that has been transformed into a mini-camp where the primary users are motorcyclists. Trust, respect and community are key. The place runs primarily on self-service.
-
----------------------
-
-Bikers Shack er en baghave, der er forvandlet til en mini-camp, hvor de primære brugere er mc'ister. Tillid, respekt og fælleskab er nøgleord. Stedet kører primært på selvbetjening.
-</cmt>
-    <desc>Bikers Shack is a backyard that has been transformed into a mini-camp where the primary users are motorcyclists. Trust, respect and community are key. The place runs primarily on self-service.
-
----------------------
-
-Bikers Shack er en baghave, der er forvandlet til en mini-camp, hvor de primære brugere er mc'ister. Tillid, respekt og fælleskab er nøgleord. Stedet kører primært på selvbetjening.
-</desc>
-    <link href="https://www.facebook.com/p/Bikers-Shack-100076395324926/" />
-    <sym>Campground</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2024-07-06T19:31:41Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-
   <wpt lat="54.899636004120111" lon="8.96288825199008">
     <time>2020-06-04T17:41:59Z</time>
     <name>Border to Germany</name>
@@ -248,47 +162,6 @@ Probably the most characteristic sight of the town.</desc>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2020-06-04T14:22:16Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-
-  <wpt lat="55.058948993682861" lon="8.824832439422607">
-    <ele>5.015625</ele>
-    <time>2024-07-06T19:25:19Z</time>
-    <name>Café Sko</name>
-    <cmt>Café Sko is a cosy café on Toosbuys Torv - and one of the friendliest places to eat in Bredebro - offering delicious café dishes in relaxed surroundings all year round. In the summer, you can enjoy food and drinks outdoors on the beautiful square.
-
-----
-
-Café Sko er en hyggelig café på Toosbuys Torv - og en af de hyggeligste spisesteder i hele Bredebro - som året rundt byder på lækre caféretter i afslappede omgivelser. Om sommeren har I mulighed for at nyde mad og drikke udendørs på det flotte torv.</cmt>
-    <desc>Café Sko is a cosy café on Toosbuys Torv - and one of the friendliest places to eat in Bredebro - offering delicious café dishes in relaxed surroundings all year round. In the summer, you can enjoy food and drinks outdoors on the beautiful square.
-
-----
-
-Café Sko er en hyggelig café på Toosbuys Torv - og en af de hyggeligste spisesteder i hele Bredebro - som året rundt byder på lækre caféretter i afslappede omgivelser. Om sommeren har I mulighed for at nyde mad og drikke udendørs på det flotte torv.</desc>
-    <sym>Restaurant</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-        <gpxx:Address>
-          <gpxx:City>Tønder Municipality</gpxx:City>
-          <gpxx:State>Region of Southern Denmark</gpxx:State>
-          <gpxx:Country>DNK</gpxx:Country>
-        </gpxx:Address>
-        <gpxx:PhoneNumber>+45 60510361</gpxx:PhoneNumber>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-        <wptx1:Address>
-          <wptx1:City>Tønder Municipality</wptx1:City>
-          <wptx1:State>Region of Southern Denmark</wptx1:State>
-          <wptx1:Country>DNK</wptx1:Country>
-        </wptx1:Address>
-        <wptx1:PhoneNumber>+45 60510361</wptx1:PhoneNumber>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2024-07-06T19:25:19Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -640,58 +513,6 @@ In 2019, GIVSKUD ZOO celebrates its 50th anniversary by expanding with Europe’
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2020-09-17T07:52:10Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-
-  <wpt lat="55.993216037750244" lon="9.564950466156006">
-    <ele>106.87890625</ele>
-    <time>2023-06-29T15:55:13Z</time>
-    <name>Holmely</name>
-    <cmt>Here at Holmely you have the opportunity to experience nature up close. We offer accommodation in small wooden cabins, glamping, treetop shelters and in the new themed rooms. On the large natural site there is a mud toilet, a wilderness bath, a fire pit and a gear cabin.
-
-Holmely's electric bike mini vacation takes you around the beautiful lake highlands and offers gourmet and nature experiences.
-
-Or join us on a Gin walk where we taste Gin while enjoying the scenery and the company.
-
-Holmely is the start of a dream to create a small oasis for nature and people. Nature and outdoor life should be at the center, and it should be easy and convenient for everyone to go on adventures in nature.
-
-Here, construction, renovation and expansion are always built, renovated and expanded with nature and sustainability in mind.</cmt>
-    <desc>Here at Holmely you have the opportunity to experience nature up close. We offer accommodation in small wooden cabins, glamping, treetop shelters and in the new themed rooms. On the large natural site there is a mud toilet, a wilderness bath, a fire pit and a gear cabin.
-
-Holmely's electric bike mini vacation takes you around the beautiful lake highlands and offers gourmet and nature experiences.
-
-Or join us on a Gin walk where we taste Gin while enjoying the scenery and the company.
-
-Holmely is the start of a dream to create a small oasis for nature and people. Nature and outdoor life should be at the center, and it should be easy and convenient for everyone to go on adventures in nature.
-
-Here, construction, renovation and expansion are always built, renovated and expanded with nature and sustainability in mind.</desc>
-    <link href="https://hosholmely.dk/" />
-    <sym>Campground</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-        <gpxx:Address>
-          <gpxx:StreetAddress>Birkeholmvej 9</gpxx:StreetAddress>
-          <gpxx:City>Brædstrup</gpxx:City>
-          <gpxx:Country>DNK</gpxx:Country>
-          <gpxx:PostalCode>8740</gpxx:PostalCode>
-        </gpxx:Address>
-        <gpxx:PhoneNumber>+45 51946709</gpxx:PhoneNumber>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-        <wptx1:Address>
-          <wptx1:StreetAddress>Birkeholmvej 9</wptx1:StreetAddress>
-          <wptx1:City>Brædstrup</wptx1:City>
-          <wptx1:Country>DNK</wptx1:Country>
-          <wptx1:PostalCode>8740</wptx1:PostalCode>
-        </wptx1:Address>
-        <wptx1:PhoneNumber>+45 51946709</wptx1:PhoneNumber>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2023-06-29T15:55:13Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -1225,115 +1046,6 @@ https://www.marskcamp.dk/tower</desc>
     </extensions>
   </wpt>
 
-  <wpt lat="56.348363980650902" lon="10.628221035003662">
-    <time>2020-06-04T14:22:16Z</time>
-    <name>MC Touring Camp</name>
-    <cmt>MC Touring Club is the biggest association for motorcyclists in Denmark, with more than 38.000 members.
-
-MC Touring Camp is a campsite for motorcyclists only. It is owned and run by MC Touring Club Denmark.
-
-MC Touring Camp has excellent toilet and bathing facilities, swimming pool, cooking facilities, washing machine and tumble dryer. At the camp you will also find a bar where you can buy breakfast, hot meals, snacks, ice cream, beer, soft drinks and wine at reasonable prices.</cmt>
-    <desc>MC Touring Club is the biggest association for motorcyclists in Denmark, with more than 38.000 members.
-
-MC Touring Camp is a campsite for motorcyclists only. It is owned and run by MC Touring Club Denmark.
-
-MC Touring Camp has excellent toilet and bathing facilities, swimming pool, cooking facilities, washing machine and tumble dryer. At the camp you will also find a bar where you can buy breakfast, hot meals, snacks, ice cream, beer, soft drinks and wine at reasonable prices.</desc>
-    <link href="https://www.touringcamp.dk/om-touring-camp/english/" />
-    <sym>Campground</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2020-06-04T14:22:16Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-
-  <wpt lat="55.77557765878737" lon="8.409576695412397">
-    <ele>16.5859375</ele>
-    <time>2023-06-29T15:45:24Z</time>
-    <name>Mini Primi Camp</name>
-    <cmt>From the website: 
-
-"Mini Primi Camp is a little paradise in the countryside, with high ceilings, birdsong ad libitum, different scents according to the season, peace and quiet and the opportunity for contemplation. 
-It's a bit primitive, hence the name. 
-We don't have wifi and there's a poor connection to the phone network.
- But we do have clean water, a toilet (not in winter) and a high sky.
-
-
-There's plenty of space for a tent or more. 
-If you want to sleep in your tarp or tie your hammock between a few trees, this is also possible.
-
-We have a couple of shelters in the southwest corner that can accommodate 6-8 people, each with their own sleeping mat, at the same time.
-
-
-To the north is a toilet with a sink, with both hot and cold tap water. This is also where you'll find a shower room, with hot and cold water, of course.
- Neither the shower nor the toilet is open during the winter!
-
-
-Behind the toilet building there are several electrical sockets (220 volts)
-
-Behind the toilet building there is also a water point with drinking water.
-
-The campsite has firewood, several fire pits and a barbecue tripod.
-
-
-
-The camp is primarily a meeting place for motorcyclists, but everyone - with and without a motorcycle, with and without knobs are very welcome ;-)
-
-
-Around the fence is a small enduro trail, which you are welcome to use during your stay, as long as you as long as you show due consideration for other guests."</cmt>
-    <desc>From the website: 
-
-"Mini Primi Camp is a little paradise in the countryside, with high ceilings, birdsong ad libitum, different scents according to the season, peace and quiet and the opportunity for contemplation. 
-It's a bit primitive, hence the name. 
-We don't have wifi and there's a poor connection to the phone network.
- But we do have clean water, a toilet (not in winter) and a high sky.
-
-
-There's plenty of space for a tent or more. 
-If you want to sleep in your tarp or tie your hammock between a few trees, this is also possible.
-
-We have a couple of shelters in the southwest corner that can accommodate 6-8 people, each with their own sleeping mat, at the same time.
-
-
-To the north is a toilet with a sink, with both hot and cold tap water. This is also where you'll find a shower room, with hot and cold water, of course.
- Neither the shower nor the toilet is open during the winter!
-
-
-Behind the toilet building there are several electrical sockets (220 volts)
-
-Behind the toilet building there is also a water point with drinking water.
-
-The campsite has firewood, several fire pits and a barbecue tripod.
-
-
-
-The camp is primarily a meeting place for motorcyclists, but everyone - with and without a motorcycle, with and without knobs are very welcome ;-)
-
-
-Around the fence is a small enduro trail, which you are welcome to use during your stay, as long as you as long as you show due consideration for other guests."</desc>
-    <link href="https://miniprimicamp.dk/" />
-    <sym>Campground</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2023-06-29T15:45:24Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-
   <wpt lat="56.250595869496465" lon="10.580742750316858">
     <time>2020-06-04T14:29:34Z</time>
     <name>Mols Bjerge National Park</name>
@@ -1641,6 +1353,44 @@ time=2024-07-08T15:29:00Z</desc>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2024-04-13T20:51:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="55.285820960998535" lon="8.683297634124756">
+    <ele>4.2421875</ele>
+    <time>2024-09-25T19:02:36Z</time>
+    <name>RAF Mindestenen: Lancaster III ED 614 nedstyrtningssted</name>
+    <cmt>On the night of German leader Adolf Hitler's birthday, 21 April 1943, the Allies bombed German targets in Stettin and Rostock. On the way there, the planes passed through Danish airspace, and in addition to guns and anti-aircraft guns, the Germans had their Messerschmidt fighters in the air. The Germans managed to shoot down at least 17 of the Allied aircraft and 40 airmen were killed.
+
+A Canadian Halifax HR 714 crashed near Mandø, killing three of the seven crew members, and a Lancaster III ED 614 crashed near Vester Vedsted, killing all seven crew members.
+
+The Lancaster first lost the tail section and then plummeted towards Råhede, where the aircraft exploded. Six crew members were killed on the spot, while P. J. Cramer died a few hours later at Ribe Hospital. They had tried to parachute out, but did not make it.
+
+On 30 April 1943, 37 of the 40 dead were buried in the cemetery in Fovrfeld Prufrock. A German chaplain attended the funeral, and both the German Wehrmacht and Esbjerg City Council laid wreaths.
+
+At Sprækvej, in 2012, residents unveiled a memorial stone for the seven Lancaster fatalities. They were: Pilot P/O George M. Pettigrew; Flight Engineer Sergeant James Cooper, Flight Sergeant Patrick J. Cramer, Air Gunner Sergeant Arthur Daley, Air Gunner Sergeant Raymond G. Elkins, Bomb Aimer Sergeant Archibald I. Mackay and Observer Sergeant Walter D. Ramsay. On 4 May each year, a memorial service is held at the stone.</cmt>
+    <desc>On the night of German leader Adolf Hitler's birthday, 21 April 1943, the Allies bombed German targets in Stettin and Rostock. On the way there, the planes passed through Danish airspace, and in addition to guns and anti-aircraft guns, the Germans had their Messerschmidt fighters in the air. The Germans managed to shoot down at least 17 of the Allied aircraft and 40 airmen were killed.
+
+A Canadian Halifax HR 714 crashed near Mandø, killing three of the seven crew members, and a Lancaster III ED 614 crashed near Vester Vedsted, killing all seven crew members.
+
+The Lancaster first lost the tail section and then plummeted towards Råhede, where the aircraft exploded. Six crew members were killed on the spot, while P. J. Cramer died a few hours later at Ribe Hospital. They had tried to parachute out, but did not make it.
+
+On 30 April 1943, 37 of the 40 dead were buried in the cemetery in Fovrfeld Prufrock. A German chaplain attended the funeral, and both the German Wehrmacht and Esbjerg City Council laid wreaths.
+
+At Sprækvej, in 2012, residents unveiled a memorial stone for the seven Lancaster fatalities. They were: Pilot P/O George M. Pettigrew; Flight Engineer Sergeant James Cooper, Flight Sergeant Patrick J. Cramer, Air Gunner Sergeant Arthur Daley, Air Gunner Sergeant Raymond G. Elkins, Bomb Aimer Sergeant Archibald I. Mackay and Observer Sergeant Walter D. Ramsay. On 4 May each year, a memorial service is held at the stone.</desc>
+    <link href="https://xn--grnsesti-k0a.dk/foelg-stien/vester-vedsted-til-hoem-21-km/bunkers-og-bombefly-i-vester-vedsted" />
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-09-25T19:02:36Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -2040,6 +1790,362 @@ The fact is that lakes appear and disappear with the height of the groundwater. 
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2023-09-14T15:22:40Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="56.134019186720252" lon="9.828251106664538">
+    <ele>101.75390625</ele>
+    <time>2024-07-06T19:39:15Z</time>
+    <name>TET Riders Welcome: Bed4Bikers</name>
+    <cmt>The purpose of the place is to create a setting where motorcyclists can come, socialise and meet other motorcyclists.
+It is possible to book accommodation.
+We are located in the beautiful Lake Highlands, close to Silkeborg, Skanderborg and Aarhus. 
+We are surrounded by fun roads and beautiful nature.
+
+-----------------------
+
+Formålet med stedet er at skabe en ramme, hvor motorcyklister kan komme, hygge og møde andre motorcyklister.
+Der er mulighed for at booke overnatning.
+Vi er placeret i det smukke søhøjland, tæt på Silkeborg, Skanderborg og Aarhus. 
+Vi er omgivet af sjove veje og smuk natur.</cmt>
+    <desc>The purpose of the place is to create a setting where motorcyclists can come, socialise and meet other motorcyclists.
+It is possible to book accommodation.
+We are located in the beautiful Lake Highlands, close to Silkeborg, Skanderborg and Aarhus. 
+We are surrounded by fun roads and beautiful nature.
+
+-----------------------
+
+Formålet med stedet er at skabe en ramme, hvor motorcyklister kan komme, hygge og møde andre motorcyklister.
+Der er mulighed for at booke overnatning.
+Vi er placeret i det smukke søhøjland, tæt på Silkeborg, Skanderborg og Aarhus. 
+Vi er omgivet af sjove veje og smuk natur.</desc>
+    <link href="https://bed4bikers.dk/" />
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>173</gpxx:StreetAddress>
+          <gpxx:City>Skanderborg Municipality</gpxx:City>
+          <gpxx:State>Central Denmark Region</gpxx:State>
+          <gpxx:Country>DNK</gpxx:Country>
+        </gpxx:Address>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Address>
+          <wptx1:StreetAddress>173</wptx1:StreetAddress>
+          <wptx1:City>Skanderborg Municipality</wptx1:City>
+          <wptx1:State>Central Denmark Region</wptx1:State>
+          <wptx1:Country>DNK</wptx1:Country>
+        </wptx1:Address>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-07-06T19:39:15Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="56.284558083862066" lon="9.677677592262626">
+    <ele>26</ele>
+    <time>2024-07-06T19:31:41Z</time>
+    <name>TET Riders Welcome: Bikers Shack</name>
+    <cmt>Bikers Shack is a backyard that has been transformed into a mini-camp where the primary users are motorcyclists. Trust, respect and community are key. The place runs primarily on self-service.
+
+---------------------
+
+Bikers Shack er en baghave, der er forvandlet til en mini-camp, hvor de primære brugere er mc'ister. Tillid, respekt og fælleskab er nøgleord. Stedet kører primært på selvbetjening.
+</cmt>
+    <desc>Bikers Shack is a backyard that has been transformed into a mini-camp where the primary users are motorcyclists. Trust, respect and community are key. The place runs primarily on self-service.
+
+---------------------
+
+Bikers Shack er en baghave, der er forvandlet til en mini-camp, hvor de primære brugere er mc'ister. Tillid, respekt og fælleskab er nøgleord. Stedet kører primært på selvbetjening.
+</desc>
+    <link href="https://www.facebook.com/p/Bikers-Shack-100076395324926/" />
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-07-06T19:31:41Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="55.058948993682861" lon="8.824832439422607">
+    <ele>5.015625</ele>
+    <time>2024-07-06T19:25:19Z</time>
+    <name>TET Riders Welcome: Café Sko</name>
+    <cmt>Café Sko is a cosy café on Toosbuys Torv - and one of the friendliest places to eat in Bredebro - offering delicious café dishes in relaxed surroundings all year round. In the summer, you can enjoy food and drinks outdoors on the beautiful square.
+
+----
+
+Café Sko er en hyggelig café på Toosbuys Torv - og en af de hyggeligste spisesteder i hele Bredebro - som året rundt byder på lækre caféretter i afslappede omgivelser. Om sommeren har I mulighed for at nyde mad og drikke udendørs på det flotte torv.</cmt>
+    <desc>Café Sko is a cosy café on Toosbuys Torv - and one of the friendliest places to eat in Bredebro - offering delicious café dishes in relaxed surroundings all year round. In the summer, you can enjoy food and drinks outdoors on the beautiful square.
+
+----
+
+Café Sko er en hyggelig café på Toosbuys Torv - og en af de hyggeligste spisesteder i hele Bredebro - som året rundt byder på lækre caféretter i afslappede omgivelser. Om sommeren har I mulighed for at nyde mad og drikke udendørs på det flotte torv.</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:City>Tønder Municipality</gpxx:City>
+          <gpxx:State>Region of Southern Denmark</gpxx:State>
+          <gpxx:Country>DNK</gpxx:Country>
+        </gpxx:Address>
+        <gpxx:PhoneNumber>+45 60510361</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Address>
+          <wptx1:City>Tønder Municipality</wptx1:City>
+          <wptx1:State>Region of Southern Denmark</wptx1:State>
+          <wptx1:Country>DNK</wptx1:Country>
+        </wptx1:Address>
+        <wptx1:PhoneNumber>+45 60510361</wptx1:PhoneNumber>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-07-06T19:25:19Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="55.441818237304688" lon="8.999905586242676">
+    <ele>19.33984375</ele>
+    <time>2024-09-25T18:52:41Z</time>
+    <name>TET Riders Welcome: Foldingbro Camping</name>
+    <cmt>From the website:
+
+"In southern Jutland between Vejen and Ribe, Esbjerg and Kolding - right next to the river Kongeåen - you'll find Foldingbro Camping and Fishing Lake in the middle of beautiful nature. A small campsite with room for everyone.
+
+The campsite is attractive for family holidays, both those who want to be active and those who want to relax and is ideal for anglers. We sell fishing permits for the river Kongeåen, which can be fished in Kongeåen from 16 April to 31 October.
+We have our own fishing lake, Put and Take, with a fish cleaning station, a small fire pit, fishing licences and some fishing tackle sold in the kiosk, as well as hot and cold drinks. Fish are released all year round. You don't have to live on site to fish in our lake.
+
+There is no requirement to book a certain number of nights during the high season, these are your holiday days and we think you should decide for yourself.
+
+If you're into hiking, the Kongeåstien trail is ideal. It's also popular with cyclists and canoeists.
+For those who enjoy canoeing, canoes can be hired from mid-May through to week 42. You can sail from 2 hours to 3 days.
+
+There are holiday cabins, a kiosk, new bouncy castle, new playground, small communal kitchen, cosy get-togethers on the terrace or under the canopy.
+If you just need peace and quiet, that's of course also possible. You can bring your dog for free.
+
+Whether you come with a tent, caravan, camper van or motorhome, or if you want to rent a cabin (there are three types), you are welcome.
+
+We are open all year round - also in the kiosk."</cmt>
+    <desc>From the website:
+
+"In southern Jutland between Vejen and Ribe, Esbjerg and Kolding - right next to the river Kongeåen - you'll find Foldingbro Camping and Fishing Lake in the middle of beautiful nature. A small campsite with room for everyone.
+
+The campsite is attractive for family holidays, both those who want to be active and those who want to relax and is ideal for anglers. We sell fishing permits for the river Kongeåen, which can be fished in Kongeåen from 16 April to 31 October.
+We have our own fishing lake, Put and Take, with a fish cleaning station, a small fire pit, fishing licences and some fishing tackle sold in the kiosk, as well as hot and cold drinks. Fish are released all year round. You don't have to live on site to fish in our lake.
+
+There is no requirement to book a certain number of nights during the high season, these are your holiday days and we think you should decide for yourself.
+
+If you're into hiking, the Kongeåstien trail is ideal. It's also popular with cyclists and canoeists.
+For those who enjoy canoeing, canoes can be hired from mid-May through to week 42. You can sail from 2 hours to 3 days.
+
+There are holiday cabins, a kiosk, new bouncy castle, new playground, small communal kitchen, cosy get-togethers on the terrace or under the canopy.
+If you just need peace and quiet, that's of course also possible. You can bring your dog for free.
+
+Whether you come with a tent, caravan, camper van or motorhome, or if you want to rent a cabin (there are three types), you are welcome.
+
+We are open all year round - also in the kiosk."</desc>
+    <link href="https://foldingbro-camping.dk/" />
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:City>Vejen Kommune</gpxx:City>
+          <gpxx:State>Region Syddanmark</gpxx:State>
+          <gpxx:Country>DNK</gpxx:Country>
+        </gpxx:Address>
+        <gpxx:PhoneNumber>+45 75381078</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Address>
+          <wptx1:City>Vejen Kommune</wptx1:City>
+          <wptx1:State>Region Syddanmark</wptx1:State>
+          <wptx1:Country>DNK</wptx1:Country>
+        </wptx1:Address>
+        <wptx1:PhoneNumber>+45 75381078</wptx1:PhoneNumber>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-09-25T18:52:41Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="55.993216037750244" lon="9.564950466156006">
+    <ele>106.87890625</ele>
+    <time>2023-06-29T15:55:13Z</time>
+    <name>TET Riders Welcome: Holmely</name>
+    <cmt>Here at Holmely you have the opportunity to experience nature up close. We offer accommodation in small wooden cabins, glamping, treetop shelters and in the new themed rooms. On the large natural site there is a mud toilet, a wilderness bath, a fire pit and a gear cabin.
+
+Holmely's electric bike mini vacation takes you around the beautiful lake highlands and offers gourmet and nature experiences.
+
+Or join us on a Gin walk where we taste Gin while enjoying the scenery and the company.
+
+Holmely is the start of a dream to create a small oasis for nature and people. Nature and outdoor life should be at the center, and it should be easy and convenient for everyone to go on adventures in nature.
+
+Here, construction, renovation and expansion are always built, renovated and expanded with nature and sustainability in mind.</cmt>
+    <desc>Here at Holmely you have the opportunity to experience nature up close. We offer accommodation in small wooden cabins, glamping, treetop shelters and in the new themed rooms. On the large natural site there is a mud toilet, a wilderness bath, a fire pit and a gear cabin.
+
+Holmely's electric bike mini vacation takes you around the beautiful lake highlands and offers gourmet and nature experiences.
+
+Or join us on a Gin walk where we taste Gin while enjoying the scenery and the company.
+
+Holmely is the start of a dream to create a small oasis for nature and people. Nature and outdoor life should be at the center, and it should be easy and convenient for everyone to go on adventures in nature.
+
+Here, construction, renovation and expansion are always built, renovated and expanded with nature and sustainability in mind.</desc>
+    <link href="https://hosholmely.dk/" />
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>Birkeholmvej 9</gpxx:StreetAddress>
+          <gpxx:City>Brædstrup</gpxx:City>
+          <gpxx:Country>DNK</gpxx:Country>
+          <gpxx:PostalCode>8740</gpxx:PostalCode>
+        </gpxx:Address>
+        <gpxx:PhoneNumber>+45 51946709</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Address>
+          <wptx1:StreetAddress>Birkeholmvej 9</wptx1:StreetAddress>
+          <wptx1:City>Brædstrup</wptx1:City>
+          <wptx1:Country>DNK</wptx1:Country>
+          <wptx1:PostalCode>8740</wptx1:PostalCode>
+        </wptx1:Address>
+        <wptx1:PhoneNumber>+45 51946709</wptx1:PhoneNumber>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-06-29T15:55:13Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="56.348363980650902" lon="10.628221035003662">
+    <time>2020-06-04T14:22:16Z</time>
+    <name>TET Riders Welcome: MC Touring Camp</name>
+    <cmt>MC Touring Club is the biggest association for motorcyclists in Denmark, with more than 38.000 members.
+
+MC Touring Camp is a campsite for motorcyclists only. It is owned and run by MC Touring Club Denmark.
+
+MC Touring Camp has excellent toilet and bathing facilities, swimming pool, cooking facilities, washing machine and tumble dryer. At the camp you will also find a bar where you can buy breakfast, hot meals, snacks, ice cream, beer, soft drinks and wine at reasonable prices.</cmt>
+    <desc>MC Touring Club is the biggest association for motorcyclists in Denmark, with more than 38.000 members.
+
+MC Touring Camp is a campsite for motorcyclists only. It is owned and run by MC Touring Club Denmark.
+
+MC Touring Camp has excellent toilet and bathing facilities, swimming pool, cooking facilities, washing machine and tumble dryer. At the camp you will also find a bar where you can buy breakfast, hot meals, snacks, ice cream, beer, soft drinks and wine at reasonable prices.</desc>
+    <link href="https://www.touringcamp.dk/om-touring-camp/english/" />
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-06-04T14:22:16Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="55.77557765878737" lon="8.409576695412397">
+    <ele>16.5859375</ele>
+    <time>2023-06-29T15:45:24Z</time>
+    <name>TET Riders Welcome: Mini Primi Camp</name>
+    <cmt>From the website: 
+
+"Mini Primi Camp is a little paradise in the countryside, with high ceilings, birdsong ad libitum, different scents according to the season, peace and quiet and the opportunity for contemplation. 
+It's a bit primitive, hence the name. 
+We don't have wifi and there's a poor connection to the phone network.
+ But we do have clean water, a toilet (not in winter) and a high sky.
+
+
+There's plenty of space for a tent or more. 
+If you want to sleep in your tarp or tie your hammock between a few trees, this is also possible.
+
+We have a couple of shelters in the southwest corner that can accommodate 6-8 people, each with their own sleeping mat, at the same time.
+
+
+To the north is a toilet with a sink, with both hot and cold tap water. This is also where you'll find a shower room, with hot and cold water, of course.
+ Neither the shower nor the toilet is open during the winter!
+
+
+Behind the toilet building there are several electrical sockets (220 volts)
+
+Behind the toilet building there is also a water point with drinking water.
+
+The campsite has firewood, several fire pits and a barbecue tripod.
+
+
+
+The camp is primarily a meeting place for motorcyclists, but everyone - with and without a motorcycle, with and without knobs are very welcome ;-)
+
+
+Around the fence is a small enduro trail, which you are welcome to use during your stay, as long as you as long as you show due consideration for other guests."</cmt>
+    <desc>From the website: 
+
+"Mini Primi Camp is a little paradise in the countryside, with high ceilings, birdsong ad libitum, different scents according to the season, peace and quiet and the opportunity for contemplation. 
+It's a bit primitive, hence the name. 
+We don't have wifi and there's a poor connection to the phone network.
+ But we do have clean water, a toilet (not in winter) and a high sky.
+
+
+There's plenty of space for a tent or more. 
+If you want to sleep in your tarp or tie your hammock between a few trees, this is also possible.
+
+We have a couple of shelters in the southwest corner that can accommodate 6-8 people, each with their own sleeping mat, at the same time.
+
+
+To the north is a toilet with a sink, with both hot and cold tap water. This is also where you'll find a shower room, with hot and cold water, of course.
+ Neither the shower nor the toilet is open during the winter!
+
+
+Behind the toilet building there are several electrical sockets (220 volts)
+
+Behind the toilet building there is also a water point with drinking water.
+
+The campsite has firewood, several fire pits and a barbecue tripod.
+
+
+
+The camp is primarily a meeting place for motorcyclists, but everyone - with and without a motorcycle, with and without knobs are very welcome ;-)
+
+
+Around the fence is a small enduro trail, which you are welcome to use during your stay, as long as you as long as you show due consideration for other guests."</desc>
+    <link href="https://miniprimicamp.dk/" />
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-06-29T15:45:24Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -2623,6 +2729,37 @@ The repair shop can handle any brand of motorcycles.</desc>
     </extensions>
   </wpt>
 
+  <wpt lat="55.351846218109131" lon="8.780136108398438">
+    <ele>4.05859375</ele>
+    <time>2024-09-25T18:45:22Z</time>
+    <name>Wash World (High pressure washer)</name>
+    <cmt>The sea water in Romø/Mandø has high salinity. If you rode on the beach, you can find high pressure washers here to give your bike a rinse.</cmt>
+    <desc>The sea water in Romø/Mandø has high salinity. If you rode on the beach, you can find high pressure washers here to give your bike a rinse.</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:City>Esbjerg Kommune</gpxx:City>
+          <gpxx:State>Region Syddanmark</gpxx:State>
+          <gpxx:Country>DNK</gpxx:Country>
+        </gpxx:Address>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Address>
+          <wptx1:City>Esbjerg Kommune</wptx1:City>
+          <wptx1:State>Region Syddanmark</wptx1:State>
+          <wptx1:Country>DNK</wptx1:Country>
+        </wptx1:Address>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-09-25T18:45:22Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
   <wpt lat="55.627706302329898" lon="12.064893990755081">
     <time>2022-04-21T14:07:31Z</time>
     <name>Yamaha Store Roskilde</name>
@@ -2737,7 +2874,7 @@ The Zeppelin- and Garrison Museum in Tønder opened for the first time on May 8,
   </wpt>
 
   <trk>
-    <name>TET_DK-01-East_20240706</name>
+    <name>TET_DK-01-East_20240925</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -8759,16 +8896,16 @@ The Zeppelin- and Garrison Museum in Tønder opened for the first time on May 8,
       <trkpt lat="55.271272659301758" lon="11.94389820098877">
         <ele>74.81640625</ele>
       </trkpt>
-      <trkpt lat="55.272088050842285" lon="11.945228576660156">
+      <trkpt lat="55.272153932601213" lon="11.945158755406737">
         <ele>76.72265625</ele>
       </trkpt>
-      <trkpt lat="55.272946357727051" lon="11.94638729095459">
+      <trkpt lat="55.272557269781828" lon="11.94544474594295">
         <ele>72.3125</ele>
       </trkpt>
-      <trkpt lat="55.273246765136719" lon="11.946344375610352">
+      <trkpt lat="55.273085497319698" lon="11.9456338416785">
         <ele>71.94140625</ele>
       </trkpt>
-      <trkpt lat="55.273418426513672" lon="11.946001052856445">
+      <trkpt lat="55.273422366008162" lon="11.945808352902532">
         <ele>71.92578125</ele>
       </trkpt>
       <trkpt lat="55.273633003234863" lon="11.94587230682373">
@@ -8777,10 +8914,10 @@ The Zeppelin- and Garrison Museum in Tønder opened for the first time on May 8,
       <trkpt lat="55.273847579956055" lon="11.945915222167969">
         <ele>72.45703125</ele>
       </trkpt>
-      <trkpt lat="55.274062156677246" lon="11.945829391479492">
+      <trkpt lat="55.274189561605453" lon="11.946128290146589">
         <ele>72.6484375</ele>
       </trkpt>
-      <trkpt lat="55.274577140808105" lon="11.945958137512207">
+      <trkpt lat="55.274683590978384" lon="11.946386871859431">
         <ele>67.30859375</ele>
       </trkpt>
       <trkpt lat="55.275564193725586" lon="11.946945190429688">
@@ -14979,7 +15116,7 @@ The Zeppelin- and Garrison Museum in Tønder opened for the first time on May 8,
   </trk>
 
   <trk>
-    <name>TET_DK-02-West_20240706</name>
+    <name>TET_DK-02-West_20240925</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
