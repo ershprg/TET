@@ -4,9 +4,46 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2025-06-28T10:30:02Z</time>
+    <time>2025-08-05T12:10:14Z</time>
     <bounds maxlat="43.352451017126441" maxlon="19.631260028108954" minlat="42.308529987931252" minlon="18.848629994317889"/>
   </metadata>
+  <wpt lat="42.334813037887216" lon="19.217331977561116">
+    <time>2025-08-05T12:04:27Z</time>
+    <name>Base Camp Montenegro</name>
+    <cmt>Base Camp Montenegro is a place designed for bikers, primarily off-road riders.
+The space has a kitchen, 3 rooms with 2 beds each, two bathrooms and a large living room in a motorcycle spirit.
+A garage, a workbench with tools, an air compressor, a motorcycle washing compressor, a washing machine, provide full support for the biker to repair his motorcycle and equipment for the next adventure.
+
+Contact:
++38269060122
+
+It near the route, and the owner is a enduro rider also.
+</cmt>
+    <desc>Base Camp Montenegro is a place designed for bikers, primarily off-road riders.
+The space has a kitchen, 3 rooms with 2 beds each, two bathrooms and a large living room in a motorcycle spirit.
+A garage, a workbench with tools, an air compressor, a motorcycle washing compressor, a washing machine, provide full support for the biker to repair his motorcycle and equipment for the next adventure.
+
+Contact:
++38269060122
+
+It near the route, and the owner is a enduro rider also.
+</desc>
+    <sym>Lodging</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:PhoneNumber>+38269060122</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:PhoneNumber>+38269060122</wptx1:PhoneNumber>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-08-05T12:04:27Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <trk>
     <name>TET_MNE-01_20250629</name>
     <extensions>
@@ -26829,7 +26866,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>TET_MNE-02-Asphalt-only_20280629</name>
+    <name>TET_MNE-02-Asphalt-only_20250629</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
