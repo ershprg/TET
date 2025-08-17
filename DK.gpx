@@ -4,7 +4,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2025-04-16T16:41:38Z</time>
+    <time>2025-08-16T19:54:37Z</time>
     <bounds maxlat="56.426082076504827" maxlon="12.894630152732134" minlat="54.654313204810023" minlon="8.409576695412397" />
   </metadata>
 
@@ -403,6 +403,56 @@ Frederikshåb Plantation contains a peculiar natural phenomenon, called the Seve
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2020-06-04T14:22:16Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="55.434817001223564" lon="9.109342563897371">
+    <ele>24.76953125</ele>
+    <time>2025-08-16T19:29:36Z</time>
+    <name>Frihedsbroen, Kongeåstien - shelters</name>
+    <cmt>Along the Kongeåstien trail there are a number of shelter sites where you are welcome to spend the night on your trip along the Kongeåen river and the historic border.
+
+Here there are two shelters with room for 4-5 people in each, water, toilet facilities and a campfire site, as well as tables and benches. The site is located next to a car parking, and there is also a tent site at the same location.
+
+Use of the shelter sites along the Kongeåstien trail is free of charge, and the site must be left tidy. The shelters cannot be booked in advance. 
+
+---------------------
+
+Langs med Kongeåstien ligger en række shelterspladser, hvor du er velkommen til at overnatte på din tur langs Kongeåen og den historiske grænse.
+
+Hvor Kongeåen krydses af Hærvejens vandre- og cykelrute og lige syd for Frihedsbroen ligge der en shelterplads. 
+
+Her er der to shelters med plads til 4-5 personer i hver, vand, toiletbygning og bålplads samt borde/bænkesæt. Pladsen ligger ved en parkeringsplads og samme sted er der også teltplads
+
+Det er gratis at benytte shelterpladserne langs Kongeåstien, og pladsen forlades opryddet. Shelterne kan ikke bookes i forvejen.</cmt>
+    <desc>Along the Kongeåstien trail there are a number of shelter sites where you are welcome to spend the night on your trip along the Kongeåen river and the historic border.
+
+Here there are two shelters with room for 4-5 people in each, water, toilet facilities and a campfire site, as well as tables and benches. The site is located next to a car parking, and there is also a tent site at the same location.
+
+Use of the shelter sites along the Kongeåstien trail is free of charge, and the site must be left tidy. The shelters cannot be booked in advance. 
+
+---------------------
+
+Langs med Kongeåstien ligger en række shelterspladser, hvor du er velkommen til at overnatte på din tur langs Kongeåen og den historiske grænse.
+
+Hvor Kongeåen krydses af Hærvejens vandre- og cykelrute og lige syd for Frihedsbroen ligge der en shelterplads. 
+
+Her er der to shelters med plads til 4-5 personer i hver, vand, toiletbygning og bålplads samt borde/bænkesæt. Pladsen ligger ved en parkeringsplads og samme sted er der også teltplads
+
+Det er gratis at benytte shelterpladserne langs Kongeåstien, og pladsen forlades opryddet. Shelterne kan ikke bookes i forvejen.</desc>
+    <link href="https://www.visitvejen.dk/visitvejen/planlaeg-din-tur/shelterplads-frihedsbroen-kongeaastien-gdk1077424" />
+    <sym>Lodge</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-08-16T19:29:36Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -3082,7 +3132,7 @@ The Zeppelin- and Garrison Museum in Tønder opened for the first time on May 8,
   </wpt>
 
   <trk>
-    <name>TET_DK-01-East_20250416</name>
+    <name>TET_DK-01-East_20250816</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -15324,7 +15374,7 @@ The Zeppelin- and Garrison Museum in Tønder opened for the first time on May 8,
   </trk>
 
   <trk>
-    <name>TET_DK-02-West_20250416</name>
+    <name>TET_DK-02-West_20250816</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -23632,54 +23682,183 @@ The Zeppelin- and Garrison Museum in Tønder opened for the first time on May 8,
       <trkpt lat="55.695321019738913" lon="9.435646031051874" />
       <trkpt lat="55.69611101411283" lon="9.43692896515131" />
       <trkpt lat="55.696464227512479" lon="9.437330793589354" />
-      <trkpt lat="55.6964320410043" lon="9.437433974817395" />
-      <trkpt lat="55.696336990222335" lon="9.437612006440759" />
-      <trkpt lat="55.69598101079464" lon="9.438115004450083" />
-      <trkpt lat="55.695815971121192" lon="9.438336035236716" />
-      <trkpt lat="55.695607010275126" lon="9.438550025224686" />
-      <trkpt lat="55.695399725809693" lon="9.438652200624347" />
-      <trkpt lat="55.69514106027782" lon="9.438379118219018" />
-      <trkpt lat="55.694890106096864" lon="9.438164792954922" />
-      <trkpt lat="55.69462800398469" lon="9.437772016972303" />
-      <trkpt lat="55.693857036530972" lon="9.437032984569669" />
-      <trkpt lat="55.693310871720314" lon="9.436624031513929" />
-      <trkpt lat="55.693069975823164" lon="9.437271030619741" />
-      <trkpt lat="55.692816004157066" lon="9.43800201639533" />
-      <trkpt lat="55.692422976717353" lon="9.439072972163558" />
-      <trkpt lat="55.691683022305369" lon="9.440121967345476" />
-      <trkpt lat="55.690833013504744" lon="9.440164966508746" />
-      <trkpt lat="55.690070008859038" lon="9.440266974270344" />
-      <trkpt lat="55.689832968637347" lon="9.440297987312079" />
-      <trkpt lat="55.689664576202631" lon="9.440300585702062" />
-      <trkpt lat="55.68963767029345" lon="9.440710125491023" />
-      <trkpt lat="55.689590983092785" lon="9.440954038873315" />
-      <trkpt lat="55.689400965347886" lon="9.441641019657254" />
-      <trkpt lat="55.688979020342231" lon="9.443111959844828" />
-      <trkpt lat="55.688431011512876" lon="9.444972993806005" />
-      <trkpt lat="55.688212998211384" lon="9.445439027622342" />
-      <trkpt lat="55.687985764816403" lon="9.445961555466056" />
-      <trkpt lat="55.687811002135277" lon="9.447106020525098" />
-      <trkpt lat="55.687718968838453" lon="9.447998022660613" />
-      <trkpt lat="55.687626013532281" lon="9.448560029268265" />
-      <trkpt lat="55.687527023255825" lon="9.449154976755381" />
-      <trkpt lat="55.687442030757666" lon="9.449733998626471" />
-      <trkpt lat="55.68717984482646" lon="9.450374208390713" />
-      <trkpt lat="55.687402971088886" lon="9.451363021507859" />
-      <trkpt lat="55.687540015205741" lon="9.45224798284471" />
-      <trkpt lat="55.687490981072187" lon="9.453237969428301" />
-      <trkpt lat="55.68736701272428" lon="9.454151010140777" />
-      <trkpt lat="55.687185293063521" lon="9.454865148290992" />
-      <trkpt lat="55.687334993854165" lon="9.456095024943352" />
-      <trkpt lat="55.687488969415426" lon="9.456753004342318" />
-      <trkpt lat="55.687670269981027" lon="9.457483571022749" />
-      <trkpt lat="55.687889959663153" lon="9.457890009507537" />
-      <trkpt lat="55.688534025102854" lon="9.459017040207982" />
-      <trkpt lat="55.689007015898824" lon="9.459798987954855" />
-      <trkpt lat="55.689012380316854" lon="9.460628712549806" />
-      <trkpt lat="55.689502889290452" lon="9.461530772969127" />
-      <trkpt lat="55.68965376354754" lon="9.461828162893653" />
-      <trkpt lat="55.689753508195281" lon="9.462003763765097" />
-      <trkpt lat="55.689855935052037" lon="9.462169473990798" />
+      <trkpt lat="55.697592599317431" lon="9.438323210924864">
+        <ele>4</ele>
+      </trkpt>
+      <trkpt lat="55.698340935632586" lon="9.438900137320161">
+        <ele>6.2890625</ele>
+      </trkpt>
+      <trkpt lat="55.699403677135706" lon="9.439363991841674">
+        <ele>5.8046875</ele>
+      </trkpt>
+      <trkpt lat="55.699799805879593" lon="9.439465748146176">
+        <ele>6.015625</ele>
+      </trkpt>
+      <trkpt lat="55.700246226042509" lon="9.43926215171814">
+        <ele>4.3046875</ele>
+      </trkpt>
+      <trkpt lat="55.700861625373363" lon="9.438934000208974">
+        <ele>4.66015625</ele>
+      </trkpt>
+      <trkpt lat="55.700948797166348" lon="9.438973143696785">
+        <ele>4.41015625</ele>
+      </trkpt>
+      <trkpt lat="55.700785266235471" lon="9.439357705414295">
+        <ele>5.9921875</ele>
+      </trkpt>
+      <trkpt lat="55.700376564636827" lon="9.4402174372226">
+        <ele>11.67578125</ele>
+      </trkpt>
+      <trkpt lat="55.700162742286921" lon="9.44060199894011">
+        <ele>14.41796875</ele>
+      </trkpt>
+      <trkpt lat="55.700150169432163" lon="9.441031906753779">
+        <ele>15.890625</ele>
+      </trkpt>
+      <trkpt lat="55.700263408944011" lon="9.441348658874631">
+        <ele>18.16796875</ele>
+      </trkpt>
+      <trkpt lat="55.700483433902264" lon="9.441654095426202">
+        <ele>21.05859375</ele>
+      </trkpt>
+      <trkpt lat="55.700628105551004" lon="9.441993394866586">
+        <ele>22.86328125</ele>
+      </trkpt>
+      <trkpt lat="55.700571527704597" lon="9.442264884710312">
+        <ele>25.3203125</ele>
+      </trkpt>
+      <trkpt lat="55.700338846072555" lon="9.442332778126001">
+        <ele>27.6015625</ele>
+      </trkpt>
+      <trkpt lat="55.700125023722649" lon="9.442332778126001">
+        <ele>28.51953125</ele>
+      </trkpt>
+      <trkpt lat="55.699823191389441" lon="9.442332778126001">
+        <ele>30.3515625</ele>
+      </trkpt>
+      <trkpt lat="55.699464697390795" lon="9.442355493083596">
+        <ele>33.7578125</ele>
+      </trkpt>
+      <trkpt lat="55.69924458861351" lon="9.442491279914975">
+        <ele>34.8984375</ele>
+      </trkpt>
+      <trkpt lat="55.699087427929044" lon="9.44268356077373">
+        <ele>35.63671875</ele>
+      </trkpt>
+      <trkpt lat="55.698842173442245" lon="9.443294433876872">
+        <ele>39.74609375</ele>
+      </trkpt>
+      <trkpt lat="55.698515195399523" lon="9.444041009992361">
+        <ele>43.43359375</ele>
+      </trkpt>
+      <trkpt lat="55.69814421236515" lon="9.444889426231384">
+        <ele>44.953125</ele>
+      </trkpt>
+      <trkpt lat="55.697779431939125" lon="9.445669949054718">
+        <ele>45.875</ele>
+      </trkpt>
+      <trkpt lat="55.697490256279707" lon="9.446529597043991">
+        <ele>49.0234375</ele>
+      </trkpt>
+      <trkpt lat="55.697289006784558" lon="9.447434591129422">
+        <ele>50.25</ele>
+      </trkpt>
+      <trkpt lat="55.697289006784558" lon="9.448192482814193">
+        <ele>53.45703125</ele>
+      </trkpt>
+      <trkpt lat="55.697238631546497" lon="9.449504669755697">
+        <ele>54.85546875</ele>
+      </trkpt>
+      <trkpt lat="55.697112986817956" lon="9.450341854244471">
+        <ele>56.3046875</ele>
+      </trkpt>
+      <trkpt lat="55.696892961859703" lon="9.45108843035996">
+        <ele>54.60546875</ele>
+      </trkpt>
+      <trkpt lat="55.69634310901165" lon="9.452643105760217">
+        <ele>50</ele>
+      </trkpt>
+      <trkpt lat="55.695992829278111" lon="9.453787235543132">
+        <ele>48.2578125</ele>
+      </trkpt>
+      <trkpt lat="55.695704491809011" lon="9.454858526587486">
+        <ele>48.6796875</ele>
+      </trkpt>
+      <trkpt lat="55.695540122687817" lon="9.455464538186789">
+        <ele>48.82421875</ele>
+      </trkpt>
+      <trkpt lat="55.695337951183319" lon="9.456220837309957">
+        <ele>49.2890625</ele>
+      </trkpt>
+      <trkpt lat="55.695100910961628" lon="9.457088783383369">
+        <ele>51.20703125</ele>
+      </trkpt>
+      <trkpt lat="55.694915000349283" lon="9.45777241140604">
+        <ele>53.8046875</ele>
+      </trkpt>
+      <trkpt lat="55.694699417799711" lon="9.458237774670124">
+        <ele>56.75390625</ele>
+      </trkpt>
+      <trkpt lat="55.694437902420759" lon="9.4585239328444">
+        <ele>59.20703125</ele>
+      </trkpt>
+      <trkpt lat="55.69410371594131" lon="9.458872955292463">
+        <ele>62.375</ele>
+      </trkpt>
+      <trkpt lat="55.693712951615453" lon="9.459420796483755">
+        <ele>61.30078125</ele>
+      </trkpt>
+      <trkpt lat="55.693322019651532" lon="9.459963859990239">
+        <ele>62.87890625</ele>
+      </trkpt>
+      <trkpt lat="55.693055223673582" lon="9.460458308458328">
+        <ele>65.0234375</ele>
+      </trkpt>
+      <trkpt lat="55.692818099632859" lon="9.460923755541444">
+        <ele>66.96875</ele>
+      </trkpt>
+      <trkpt lat="55.692675188183784" lon="9.461398925632238">
+        <ele>68.203125</ele>
+      </trkpt>
+      <trkpt lat="55.692341001704335" lon="9.462261842563748">
+        <ele>67.265625</ele>
+      </trkpt>
+      <trkpt lat="55.69216581992805" lon="9.462756374850869">
+        <ele>64.3203125</ele>
+      </trkpt>
+      <trkpt lat="55.691974461078644" lon="9.463246045634151">
+        <ele>63.3828125</ele>
+      </trkpt>
+      <trkpt lat="55.691861305385828" lon="9.463978037238121">
+        <ele>61.765625</ele>
+      </trkpt>
+      <trkpt lat="55.691828951239586" lon="9.464671304449439">
+        <ele>58.90625</ele>
+      </trkpt>
+      <trkpt lat="55.691763320937753" lon="9.465159382671118">
+        <ele>56.00390625</ele>
+      </trkpt>
+      <trkpt lat="55.691625019535422" lon="9.465623237192631">
+        <ele>52.015625</ele>
+      </trkpt>
+      <trkpt lat="55.691417483612895" lon="9.465917274355888">
+        <ele>49.859375</ele>
+      </trkpt>
+      <trkpt lat="55.691121937707067" lon="9.466120954602957">
+        <ele>47.70703125</ele>
+      </trkpt>
+      <trkpt lat="55.690908115357161" lon="9.466256657615304">
+        <ele>45.84765625</ele>
+      </trkpt>
+      <trkpt lat="55.690719522535801" lon="9.465215960517526">
+        <ele>47.1171875</ele>
+      </trkpt>
+      <trkpt lat="55.690511986613274" lon="9.464175263419747">
+        <ele>49.20703125</ele>
+      </trkpt>
+      <trkpt lat="55.690334122627974" lon="9.463160466402769">
+        <ele>51.9375</ele>
+      </trkpt>
       <trkpt lat="55.689939418807626" lon="9.46235965937376" />
       <trkpt lat="55.689725009724498" lon="9.462556969374418" />
       <trkpt lat="55.68940800614655" lon="9.462770037353039" />
@@ -24225,12 +24404,14 @@ The Zeppelin- and Garrison Museum in Tønder opened for the first time on May 8,
       <trkpt lat="55.70968802087009" lon="9.540703967213631" />
       <trkpt lat="55.709096007049084" lon="9.542160993441939" />
       <trkpt lat="55.708800042048097" lon="9.542980911210179" />
-      <trkpt lat="55.709552988409996" lon="9.543891018256545" />
-      <trkpt lat="55.709984991699457" lon="9.544422011822462" />
-      <trkpt lat="55.710082976147532" lon="9.544585039839149" />
-      <trkpt lat="55.709760021418333" lon="9.545529009774327" />
-      <trkpt lat="55.709667820483446" lon="9.545789519324899" />
-      <trkpt lat="55.708836000412703" lon="9.544841023162007" />
+      <trkpt lat="55.709200445562601" lon="9.543495560064912" />
+      <trkpt lat="55.709027945995331" lon="9.543926976621151">
+        <ele>2</ele>
+      </trkpt>
+      <trkpt lat="55.709343273192644" lon="9.544305168092251">
+        <ele>2</ele>
+      </trkpt>
+      <trkpt lat="55.709076477214694" lon="9.545027520507574" />
       <trkpt lat="55.708366194739938" lon="9.544165777042508" />
       <trkpt lat="55.708159999921918" lon="9.544781008735299" />
       <trkpt lat="55.707982974126935" lon="9.54527797177434" />
@@ -24238,13 +24419,6 @@ The Zeppelin- and Garrison Museum in Tønder opened for the first time on May 8,
       <trkpt lat="55.707816006615758" lon="9.546360997483134" />
       <trkpt lat="55.707563040778041" lon="9.548013992607594" />
       <trkpt lat="55.70732700638473" lon="9.549513012170792" />
-      <trkpt lat="55.707055013626814" lon="9.55112099647522" />
-      <trkpt lat="55.706769023090601" lon="9.553191997110844" />
-      <trkpt lat="55.706669026985765" lon="9.553487962111831" />
-      <trkpt lat="55.706513710319996" lon="9.554198998957872" />
-      <trkpt lat="55.706628710031509" lon="9.553474048152566" />
-      <trkpt lat="55.706776063889265" lon="9.553044978529215" />
-      <trkpt lat="55.706984018906951" lon="9.551712004467845" />
       <trkpt lat="55.707083260640502" lon="9.551060479134321" />
       <trkpt lat="55.707453992217779" lon="9.55123096704483" />
       <trkpt lat="55.708257732912898" lon="9.551653414964676" />
@@ -24752,45 +24926,85 @@ The Zeppelin- and Garrison Museum in Tønder opened for the first time on May 8,
       <trkpt lat="55.815280973911285" lon="9.342446979135275" />
       <trkpt lat="55.81543997861445" lon="9.344490990042687" />
       <trkpt lat="55.81445200368762" lon="9.344136016443372" />
-      <trkpt lat="55.813540974631906" lon="9.343599993735552" />
-      <trkpt lat="55.812465995550156" lon="9.342938996851444" />
-      <trkpt lat="55.811607018113136" lon="9.342437004670501" />
-      <trkpt lat="55.810982985422015" lon="9.342181021347642" />
-      <trkpt lat="55.809636013582349" lon="9.34183401055634" />
-      <trkpt lat="55.808433964848518" lon="9.341263035312295" />
-      <trkpt lat="55.807892996817827" lon="9.340980984270573" />
-      <trkpt lat="55.806526998057961" lon="9.340349994599819" />
-      <trkpt lat="55.805384963750839" lon="9.340475974604487" />
-      <trkpt lat="55.804276959970593" lon="9.34095298871398" />
-      <trkpt lat="55.803208015859127" lon="9.341412987560034" />
-      <trkpt lat="55.801873030140996" lon="9.341988991945982" />
-      <trkpt lat="55.800398988649249" lon="9.342639008536935" />
-      <trkpt lat="55.799794150516391" lon="9.342960035428405" />
-      <trkpt lat="55.799788031727076" lon="9.343576021492481" />
-      <trkpt lat="55.799754001200199" lon="9.345639981329441" />
-      <trkpt lat="55.79969197511673" lon="9.34780603274703" />
-      <trkpt lat="55.799523750320077" lon="9.348887633532286" />
-      <trkpt lat="55.799260977655649" lon="9.349069017916918" />
-      <trkpt lat="55.798112992197275" lon="9.34928996488452" />
-      <trkpt lat="55.79706902615726" lon="9.34959095902741" />
-      <trkpt lat="55.796719249337912" lon="9.349684081971645" />
-      <trkpt lat="55.79668496735394" lon="9.350840030238032" />
-      <trkpt lat="55.796669041737914" lon="9.352652030065656" />
-      <trkpt lat="55.796764008700848" lon="9.354249034076929" />
-      <trkpt lat="55.796807007864118" lon="9.35605701059103" />
-      <trkpt lat="55.796885965391994" lon="9.358406038954854" />
-      <trkpt lat="55.797010017558932" lon="9.360019974410534" />
-      <trkpt lat="55.797990029677749" lon="9.360103039070964" />
-      <trkpt lat="55.798528986051679" lon="9.360580975189805" />
-      <trkpt lat="55.79878999851644" lon="9.361503990367055" />
-      <trkpt lat="55.799790965393186" lon="9.361532991752029" />
-      <trkpt lat="55.800542151555419" lon="9.361778078600764" />
-      <trkpt lat="55.800655977800488" lon="9.362361039966345" />
-      <trkpt lat="55.800844989717007" lon="9.364405972883105" />
-      <trkpt lat="55.800921013578773" lon="9.365753028541803" />
-      <trkpt lat="55.801042970269918" lon="9.367688996717334" />
-      <trkpt lat="55.801101727411151" lon="9.368581753224134" />
-      <trkpt lat="55.801673959940672" lon="9.369309889152646" />
+      <trkpt lat="55.814222674816847" lon="9.34403476305306">
+        <ele>83.61328125</ele>
+      </trkpt>
+      <trkpt lat="55.814034081995487" lon="9.345199847593904">
+        <ele>85.01171875</ele>
+      </trkpt>
+      <trkpt lat="55.813619010150433" lon="9.34652335010469">
+        <ele>89.44140625</ele>
+      </trkpt>
+      <trkpt lat="55.813216511160135" lon="9.347688350826502">
+        <ele>90.1796875</ele>
+      </trkpt>
+      <trkpt lat="55.813046777620912" lon="9.348333086818457">
+        <ele>91.19921875</ele>
+      </trkpt>
+      <trkpt lat="55.812870673835278" lon="9.349373783916235">
+        <ele>90.56640625</ele>
+      </trkpt>
+      <trkpt lat="55.812770090997219" lon="9.350448427721858">
+        <ele>90</ele>
+      </trkpt>
+      <trkpt lat="55.812675710767508" lon="9.351387368515134">
+        <ele>90</ele>
+      </trkpt>
+      <trkpt lat="55.812644278630614" lon="9.351771930232644">
+        <ele>90.05859375</ele>
+      </trkpt>
+      <trkpt lat="55.812688283622265" lon="9.352280963212252">
+        <ele>90.7265625</ele>
+      </trkpt>
+      <trkpt lat="55.813046777620912" lon="9.353061486035585">
+        <ele>91</ele>
+      </trkpt>
+      <trkpt lat="55.812480831518769" lon="9.353977795690298">
+        <ele>89.62109375</ele>
+      </trkpt>
+      <trkpt lat="55.811707265675068" lon="9.355052523314953">
+        <ele>87.1640625</ele>
+      </trkpt>
+      <trkpt lat="55.81083320081234" lon="9.355912255123258">
+        <ele>85.41796875</ele>
+      </trkpt>
+      <trkpt lat="55.809896271675825" lon="9.356896374374628">
+        <ele>85.95703125</ele>
+      </trkpt>
+      <trkpt lat="55.808877535164356" lon="9.357948554679751">
+        <ele>84</ele>
+      </trkpt>
+      <trkpt lat="55.808273870497942" lon="9.358514081686735">
+        <ele>83</ele>
+      </trkpt>
+      <trkpt lat="55.807550679892302" lon="9.359272057190538">
+        <ele>83</ele>
+      </trkpt>
+      <trkpt lat="55.807066541165113" lon="9.35982626862824">
+        <ele>83</ele>
+      </trkpt>
+      <trkpt lat="55.806764708831906" lon="9.360222229734063">
+        <ele>82.74609375</ele>
+      </trkpt>
+      <trkpt lat="55.805815123021603" lon="9.361715465784073">
+        <ele>82</ele>
+      </trkpt>
+      <trkpt lat="55.804966203868389" lon="9.363072915002704">
+        <ele>82.6015625</ele>
+      </trkpt>
+      <trkpt lat="55.804274529218674" lon="9.364158874377608">
+        <ele>83.8984375</ele>
+      </trkpt>
+      <trkpt lat="55.803916119039059" lon="9.364803610369563">
+        <ele>83.58203125</ele>
+      </trkpt>
+      <trkpt lat="55.803375318646431" lon="9.365595448762178">
+        <ele>84.92578125</ele>
+      </trkpt>
+      <trkpt lat="55.802652211859822" lon="9.366907635703683">
+        <ele>88.1015625</ele>
+      </trkpt>
+      <trkpt lat="55.801740428432822" lon="9.36929446645081" />
       <trkpt lat="55.801082868129015" lon="9.371278127655387" />
       <trkpt lat="55.801803041249514" lon="9.372220002114773" />
       <trkpt lat="55.80304398201406" lon="9.371966030448675" />
